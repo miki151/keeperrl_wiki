@@ -15,7 +15,7 @@ items
 Example from workshops\_menus.txt
 =================================
 
-`{{Potion `**`Heal`**`} 4 GOLD 10 `“`advanced`` ``alchemy`”`}`
+`\{\{Potion `**`Heal`**`\} 4 GOLD 10 `“`advanced`` ``alchemy`”`\}`
 
 Valid values
 ============

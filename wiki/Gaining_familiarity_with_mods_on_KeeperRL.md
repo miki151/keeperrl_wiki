@@ -83,7 +83,7 @@ Change the line containing:
 
 and delete this:
 
-`{`“`advanced`` ``sorcery`”`}`
+`\{`“`advanced`` ``sorcery`”`\}`
 
 Suggestions for simple changes to player\_creatures.txt
 -------------------------------------------------------
@@ -119,11 +119,11 @@ Find the
 
 section. Look at the block where:
 
-`ids = { GOBLIN }`
+`ids = \{ GOBLIN \}`
 
 Change it to:
 
-`ids = { GOBLIN GNOME }`
+`ids = \{ GOBLIN GNOME \}`
 
 ### Recruiting all goblins without any insanity
 

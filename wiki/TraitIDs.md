@@ -14,7 +14,7 @@ Used to specify what traits immigrants have
 Example from immigration.txt
 ============================
 
-`traits = { `**`FIGHTER`` ``NO_AUTO_EQUIPMENT`**` }`
+`traits = \{ `**`FIGHTER`` ``NO_AUTO_EQUIPMENT`**` \}`
 
 Valid Values
 ============

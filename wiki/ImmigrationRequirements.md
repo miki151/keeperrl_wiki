@@ -15,10 +15,10 @@ to settle in your dungeon
 Example from immigration.txt
 ============================
 
-`requirements = {`  
-`  { 0.1 `**`AttractionInfo`**` 1 {`**`FurnitureType`**` BOOKCASE_WOOD `**`FurnitureType`**` LABORATORY}}`  
-`  { 0.0 `**`MinTurnRequirement`**` 500 }`  
-`}`
+`requirements = \{`  
+`  \{ 0.1 `**`AttractionInfo`**` 1 \{`**`FurnitureType`**` BOOKCASE_WOOD `**`FurnitureType`**` LABORATORY\}\}`  
+`  \{ 0.0 `**`MinTurnRequirement`**` 500 \}`  
+`\}`
 
 Valid values
 ============

@@ -15,7 +15,7 @@ jewellers and laboratories
 Example from workshops\_menu.txt
 ================================
 
-`{{`**`Sword`**`} 10 IRON 20}`
+`\{\{`**`Sword`**`\} 10 IRON 20\}`
 
 Valid values
 ============

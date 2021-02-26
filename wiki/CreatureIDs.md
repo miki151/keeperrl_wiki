@@ -15,12 +15,12 @@ what immigrants appear in games.
 Example from player\_creatures.txt
 ==================================
 
-`creatureId = { `**`KEEPER_MAGE`` ``KEEPER_MAGE_F`**` }`
+`creatureId = \{ `**`KEEPER_MAGE`` ``KEEPER_MAGE_F`**` \}`
 
 Example from immigration.txt
 ============================
 
-`ids = { `**`IMP`**` }`
+`ids = \{ `**`IMP`**` \}`
 
 Valid values
 ============

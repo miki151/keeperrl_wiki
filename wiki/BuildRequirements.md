@@ -16,8 +16,8 @@ menu
 Example from build\_menu.txt
 ============================
 
-`{ Furniture {{ JEWELLER } WOOD 12 } `“`Jeweller`”` `“`Crafting`”  
-`    `“`Produces`` ``magical`` ``rings`` ``and`` ``amulets.`”` 0 { `**`TechId`**` `“`jewellery`”` }}`
+`\{ Furniture \{\{ JEWELLER \} WOOD 12 \} `“`Jeweller`”` `“`Crafting`”  
+`    `“`Produces`` ``magical`` ``rings`` ``and`` ``amulets.`”` 0 \{ `**`TechId`**` `“`jewellery`”` \}\}`
 
 Valid values
 ============

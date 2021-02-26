@@ -15,7 +15,7 @@ immigration requirements.
 Example from build\_menu.txt
 ============================
 
-`{ Furniture {{ `**`MOUNTAIN`**` } STONE 5 } `“`Soft`` ``rock`”` `“`Structure`”` }`
+`\{ Furniture \{\{ `**`MOUNTAIN`**` \} STONE 5 \} `“`Soft`` ``rock`”` `“`Structure`”` \}`
 
 Valid values
 ============

@@ -16,8 +16,8 @@ Usage
 Example from workshops\_menu.txt
 ================================
 
-`{{Potion Lasting `**`SLOWED`**`}               2        GOLD 2}`  
-`{{Potion Lasting `**`SLEEP`**`}                2        GOLD 2}`  
+`\{\{Potion Lasting `**`SLOWED`**`\}               2        GOLD 2\}`  
+`\{\{Potion Lasting `**`SLEEP`**`\}                2        GOLD 2\}`  
 
 Valid values
 ============

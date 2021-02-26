@@ -21,31 +21,31 @@ technology.txt
 
 The file always begins like this:
 
-`{`  
-`{`
+`\{`  
+`\{`
 
 ### The table of technologies in the game
 
 -   Each entry adds a new technology to the game.
 -   The entry has two possible formats
 
-1) “**TechId**” {**Description**} Example:
+1) “**TechId**” \{**Description**\} Example:
 
-“`alchemy`”` { `“`Build`` ``a`` ``laboratory`` ``and`` ``produce`` ``basic`` ``potions.`”` }`
+“`alchemy`”` \{ `“`Build`` ``a`` ``laboratory`` ``and`` ``produce`` ``basic`` ``potions.`”` \}`
 
-2) “**TechId1**” { “**Description**” {“**TechId2**”} }
+2) “**TechId1**” \{ “**Description**” \{“**TechId2**”\} \}
 
 Where TechID1 is the new technology and TechId2 must be researched first
 to unlock it. Example:
 
-“`alchemical`` ``conversion`”` { `“`Convert`` ``resources`` ``to`` ``and`` ``from`` ``gold.`”` {`“`alchemy`”`} }`
+“`alchemical`` ``conversion`”` \{ `“`Convert`` ``resources`` ``to`` ``and`` ``from`` ``gold.`”` \{`“`alchemy`”`\} \}`
 
 ### End the file
 
 The file always begins like this:
 
-`}`  
-`}`
+`\}`  
+`\}`
 
 workshops\_menu.txt
 ===================
@@ -54,7 +54,7 @@ workshops\_menu.txt
 
 The file always begins like this:
 
-`{`  
+`\{`  
 
 -   The format is constructed of sections, sub-sections and entries
 
@@ -78,21 +78,21 @@ entries:
 
 “`DwarvenCrafting`”  
 `# Workshop`  
-`{`  
-`}`  
+`\{`  
+`\}`  
   
 `# Forge`  
-`{`  
-`}`  
+`\{`  
+`\}`  
   
 `# Lab`  
-`{`  
-`}`  
+`\{`  
+`\}`  
   
 `# Jeweller`  
   
-`{`  
-`}`
+`\{`  
+`\}`
 
 ### Entries
 
@@ -100,27 +100,27 @@ entries:
     jewellers or lab.
 -   The entry has two possible formats
 
-1) {{[ItemType](/wiki/ItemTypes "wikilink")} **Speed**
-[ResourceID](/wiki/ResourceIDs "wikilink") **Amount**}
+1) \{\{[ItemType](/wiki/ItemTypes "wikilink")\} **Speed**
+[ResourceID](/wiki/ResourceIDs "wikilink") **Amount**\}
 
 Example:
 
   
-` { 0.03 { SkillId FORGE LastingEffect INSANITY }}}`
+` \{ 0.03 \{ SkillId FORGE LastingEffect INSANITY \}\}\}`
 
 -   Each entry ends with
 
-`}`
+`\}`
 
 -   Each section ends with
 
-`}`
+`\}`
 
 ### End the file
 
 The file always ends like this:
 
-`}`
+`\}`
 
 player\_creatures.txt
 =====================
@@ -129,17 +129,17 @@ player\_creatures.txt
 
 The file always begins like this:
 
-`{`
+`\{`
 
 -   The format is constructed of 2 sections (keepers and adventures) and
     entries in both sections.
 -   Each section begins with
 
-`{`
+`\{`
 
 -   Each section ends with
 
-`}`
+`\}`
 
 ### Keeper Entries
 
@@ -152,58 +152,58 @@ The file always begins like this:
     specified.
 -   The format for an entry is as follows:
 
-`{`  
-`  creatureId = { `[`CreatureIDMale`](/wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` }`  
+`\{`  
+`  creatureId = \{ `[`CreatureIDMale`](/wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` \}`  
 `  tribeAlignment = `[`TribeAlignment`](/wiki/TribeAlignments "wikilink")  
-`  immigrantGroups = {`“**`ImmigrantSection1`**”` `“**`ImmigrantSection2`**”`...}`  
-`  technology = {`  
+`  immigrantGroups = \{`“**`ImmigrantSection1`**”` `“**`ImmigrantSection2`**”`...\}`  
+`  technology = \{`  
 `    `“**`TechID1`**”` `“**`TechID2`**”`...`  
-`    }`  
-`  intialTech = {`  
+`    \}`  
+`  intialTech = \{`  
 `    `“**`TechID1`**”` `“**`TechID2`**”`...`  
-`    }`  
-`  buildingGroups = {`  
-`    {`“**`BuildMenuSection1`**”` `“**`BuildMenuSection2`**”`...}`  
-`  }`  
-`  workshopGroups = {`  
-`    {`“**`WorkshopMenuSection1`**”` `“**`WorkshopMenuSection2`**”`...}`  
-`  }`  
+`    \}`  
+`  buildingGroups = \{`  
+`    \{`“**`BuildMenuSection1`**”` `“**`BuildMenuSection2`**”`...\}`  
+`  \}`  
+`  workshopGroups = \{`  
+`    \{`“**`WorkshopMenuSection1`**”` `“**`WorkshopMenuSection2`**”`...\}`  
+`  \}`  
 `  description = `“**`HelpText`**”  
-`}`
+`\}`
 
 Example:
 
-`{`  
-`  creatureId = { KEEPER_MAGE KEEPER_MAGE_F }`  
+`\{`  
+`  creatureId = \{ KEEPER_MAGE KEEPER_MAGE_F \}`  
 `  tribeAlignment = EVIL`  
-`  immigrantGroups = {`“`imps`”` `“`dark_keeper`”`}`  
-`  technology = {`  
+`  immigrantGroups = \{`“`imps`”` `“`dark_keeper`”`\}`  
+`  technology = \{`  
 `    `“`alchemy`”` `“`advanced`` ``alchemy`”` `“`alchemical`` ``conversion`”` `“`humanoid`` ``mutation`”` `“`beast`` ``mutation`”  
 `    `“`pig`` ``breeding`”` `“`iron`` ``working`”` `“`jewellery`”` `“`two-handed`` ``weapons`”` `“`traps`”` `“`archery`”` `“`sorcery`”  
 `    `“`advanced`` ``sorcery`”` `“`magical`` ``weapons`”` `“`master`` ``sorcery`”` `“`demonology`”  
-`    }`  
-`  initialTech = { `“`sorcery`”` }`  
-`  buildingGroups = {`  
+`    \}`  
+`  initialTech = \{ `“`sorcery`”` \}`  
+`  buildingGroups = \{`  
 `    `“`structure`”` `“`doors`”` `“`floors`”` `“`storage`”` `“`quarters`”` `“`library`”` `“`throne`”` `“`beds`”` `“`beast_cage`”` `“`pigsty`”` `“`coffins`”  
 `    `“`training`”` `“`crafting`”` `“`demon_shrine`”` `“`prison`”` `“`orders`”` `“`installations`”` `“`magical_installations`”` `“`traps`”  
-`  }`  
-`  workshopGroups = { `“`basic`”` `“`traps`”` }`  
+`  \}`  
+`  workshopGroups = \{ `“`basic`”` `“`traps`”` \}`  
 `  description = `“`Build`` ``and`` ``manage`` ``your`` ``dream`` ``dungeon,`` ``defend`` ``against`` ``raids,`` ``and`` ``attack`` ``your`` ``enemies!`”  
-`}`
+`\}`
 
 ### Adventurers Entries
 
 -   Entries in the adventurer section enable a new type of **Adventurer
     Class**
 
-`{ `[`CreatureIDMale`](/wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` } `[`TribeAlignment`](/wiki/TribeAlignments "wikilink")` `“**`HelpText`**”
+`\{ `[`CreatureIDMale`](/wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` \} `[`TribeAlignment`](/wiki/TribeAlignments "wikilink")` `“**`HelpText`**”
 
 Example:
 
-`{ ADVENTURER ADVENTURER_F } LAWFUL `“`Roam`` ``the`` ``land`` ``in`` ``search`` ``of`` ``adventures`` ``and`` ``loot!`”
+`\{ ADVENTURER ADVENTURER_F \} LAWFUL `“`Roam`` ``the`` ``land`` ``in`` ``search`` ``of`` ``adventures`` ``and`` ``loot!`”
 
 ### End the file
 
 The file always begins like this:
 
-`}`
+`\}`

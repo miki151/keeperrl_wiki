@@ -14,7 +14,7 @@ Used to specify what special skills immigrants may have.
 Example from immigration.txt
 ============================
 
-`{ 0.03 { SkillId `**`WORKSHOP`**` LastingEffect INSANITY }}`
+`\{ 0.03 \{ SkillId `**`WORKSHOP`**` LastingEffect INSANITY \}\}`
 
 Valid values
 ============
