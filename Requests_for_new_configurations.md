@@ -1,6 +1,6 @@
 ---
 title: Requests for new configurations
-permalink: wiki/Requests_for_new_configurations/
+permalink: Requests_for_new_configurations/
 layout: wiki
 ---
 

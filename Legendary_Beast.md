@@ -1,6 +1,6 @@
 ---
 title: Legendary Beast
-permalink: wiki/Legendary_Beast/
+permalink: Legendary_Beast/
 layout: wiki
 tags:
  - Creatures

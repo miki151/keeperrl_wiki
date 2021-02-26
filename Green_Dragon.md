@@ -1,6 +1,6 @@
 ---
 title: Green Dragon
-permalink: wiki/Green_Dragon/
+permalink: Green_Dragon/
 layout: wiki
 tags:
  -  Creatures

@@ -1,6 +1,6 @@
 ---
 title: Traps
-permalink: wiki/Traps/
+permalink: Traps/
 layout: wiki
 ---
 

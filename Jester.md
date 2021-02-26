@@ -1,6 +1,6 @@
 ---
 title: Jester
-permalink: wiki/Jester/
+permalink: Jester/
 layout: wiki
 tags:
  - Creatures

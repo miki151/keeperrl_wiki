@@ -1,6 +1,6 @@
 ---
 title: Fire elemental
-permalink: wiki/Fire_elemental/
+permalink: Fire_elemental/
 layout: wiki
 tags:
  - Creatures

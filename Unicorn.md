@@ -1,6 +1,6 @@
 ---
 title: Unicorn
-permalink: wiki/Unicorn/
+permalink: Unicorn/
 layout: wiki
 tags:
  - Creatures

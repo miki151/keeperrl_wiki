@@ -1,6 +1,6 @@
 ---
 title: ZoneIds
-permalink: wiki/ZoneIds/
+permalink: ZoneIds/
 layout: wiki
 ---
 

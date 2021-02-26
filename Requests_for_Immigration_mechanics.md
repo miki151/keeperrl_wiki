@@ -1,6 +1,6 @@
 ---
 title: Requests for Immigration mechanics
-permalink: wiki/Requests_for_Immigration_mechanics/
+permalink: Requests_for_Immigration_mechanics/
 layout: wiki
 ---
 

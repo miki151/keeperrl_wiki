@@ -1,6 +1,6 @@
 ---
 title: TraitIDs
-permalink: wiki/TraitIDs/
+permalink: TraitIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

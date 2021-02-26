@@ -1,6 +1,6 @@
 ---
 title: Ghost
-permalink: wiki/Ghost/
+permalink: Ghost/
 layout: wiki
 tags:
  - Creatures

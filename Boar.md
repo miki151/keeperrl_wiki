@@ -1,6 +1,6 @@
 ---
 title: Boar
-permalink: wiki/Boar/
+permalink: Boar/
 layout: wiki
 tags:
  - Creatures

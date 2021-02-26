@@ -1,6 +1,6 @@
 ---
 title: Knight
-permalink: wiki/Knight/
+permalink: Knight/
 layout: wiki
 tags:
  -  Creatures

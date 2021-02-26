@@ -1,6 +1,6 @@
 ---
 title: Build Menu.txt
-permalink: wiki/Build_Menu.txt/
+permalink: Build_Menu.txt/
 layout: wiki
 ---
 

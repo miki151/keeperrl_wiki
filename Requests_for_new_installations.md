@@ -1,6 +1,6 @@
 ---
 title: Requests for new installations
-permalink: wiki/Requests_for_new_installations/
+permalink: Requests_for_new_installations/
 layout: wiki
 ---
 

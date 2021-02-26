@@ -1,6 +1,6 @@
 ---
 title: Illusion
-permalink: wiki/Illusion/
+permalink: Illusion/
 layout: wiki
 tags:
  - Creatures

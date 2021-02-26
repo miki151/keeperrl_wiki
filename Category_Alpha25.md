@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha25
-permalink: wiki/Category:Alpha25/
+permalink: Category:Alpha25/
 layout: tagpage
 tag: Alpha25
 ---

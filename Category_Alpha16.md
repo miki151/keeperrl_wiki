@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha16
-permalink: wiki/Category:Alpha16/
+permalink: Category:Alpha16/
 layout: tagpage
 tag: Alpha16
 ---

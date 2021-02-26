@@ -1,6 +1,6 @@
 ---
 title: Swimming
-permalink: wiki/Swimming/
+permalink: Swimming/
 layout: wiki
 tags:
  -  Skills

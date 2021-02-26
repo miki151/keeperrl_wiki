@@ -1,6 +1,6 @@
 ---
 title: Player Creatures.txt
-permalink: wiki/Player_Creatures.txt/
+permalink: Player_Creatures.txt/
 layout: wiki
 ---
 

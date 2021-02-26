@@ -1,6 +1,6 @@
 ---
 title: Category:Beasts
-permalink: wiki/Category:Beasts/
+permalink: Category:Beasts/
 layout: tagpage
 tag: Beasts
 ---

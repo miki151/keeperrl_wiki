@@ -1,6 +1,6 @@
 ---
 title: Elf Vision
-permalink: wiki/Elf_Vision/
+permalink: Elf_Vision/
 layout: wiki
 tags:
  -  Skills

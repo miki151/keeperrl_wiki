@@ -1,6 +1,6 @@
 ---
 title: Wolf
-permalink: wiki/Wolf/
+permalink: Wolf/
 layout: wiki
 tags:
  - Creatures

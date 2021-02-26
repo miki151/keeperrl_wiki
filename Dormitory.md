@@ -1,6 +1,6 @@
 ---
 title: Dormitory
-permalink: wiki/Dormitory/
+permalink: Dormitory/
 redirect_to: /wiki/Bed/
 ---
 

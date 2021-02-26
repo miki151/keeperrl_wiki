@@ -1,6 +1,6 @@
 ---
 title: Female Keeper
-permalink: wiki/Female_Keeper/
+permalink: Female_Keeper/
 redirect_to: /wiki/Keeper/
 ---
 

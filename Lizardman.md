@@ -1,6 +1,6 @@
 ---
 title: Lizardman
-permalink: wiki/Lizardman/
+permalink: Lizardman/
 layout: wiki
 tags:
  -  Creatures

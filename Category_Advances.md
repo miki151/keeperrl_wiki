@@ -1,6 +1,6 @@
 ---
 title: Category:Advances
-permalink: wiki/Category:Advances/
+permalink: Category:Advances/
 redirect_to: /wiki/:Technologies/
 ---
 

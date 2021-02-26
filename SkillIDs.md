@@ -1,6 +1,6 @@
 ---
 title: SkillIDs
-permalink: wiki/SkillIDs/
+permalink: SkillIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

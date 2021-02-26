@@ -1,6 +1,6 @@
 ---
 title: Ritual Room
-permalink: wiki/Ritual_Room/
+permalink: Ritual_Room/
 layout: wiki
 tags:
  - Rooms

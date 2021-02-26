@@ -1,6 +1,6 @@
 ---
 title: Construction
-permalink: wiki/Construction/
+permalink: Construction/
 layout: wiki
 tags:
  -  Skills

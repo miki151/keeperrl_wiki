@@ -1,6 +1,6 @@
 ---
 title: Installations
-permalink: wiki/Installations/
+permalink: Installations/
 redirect_to: /wiki/Structures_and_Installations/
 ---
 

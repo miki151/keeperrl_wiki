@@ -1,6 +1,6 @@
 ---
 title: Water Elemental
-permalink: wiki/Water_Elemental/
+permalink: Water_Elemental/
 layout: wiki
 tags:
  - Creatures

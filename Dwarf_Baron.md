@@ -1,6 +1,6 @@
 ---
 title: Dwarf Baron
-permalink: wiki/Dwarf_Baron/
+permalink: Dwarf_Baron/
 layout: wiki
 tags:
  -  Creatures

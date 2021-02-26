@@ -1,6 +1,6 @@
 ---
 title: Library
-permalink: wiki/Library/
+permalink: Library/
 layout: wiki
 tags:
  -  Rooms

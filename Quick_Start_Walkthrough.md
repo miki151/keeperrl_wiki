@@ -1,6 +1,6 @@
 ---
 title: Quick Start Walkthrough
-permalink: wiki/Quick_Start_Walkthrough/
+permalink: Quick_Start_Walkthrough/
 layout: wiki
 ---
 

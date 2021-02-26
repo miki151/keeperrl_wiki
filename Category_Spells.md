@@ -1,6 +1,6 @@
 ---
 title: Category:Spells
-permalink: wiki/Category:Spells/
+permalink: Category:Spells/
 layout: tagpage
 tag: Spells
 ---

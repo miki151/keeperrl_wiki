@@ -1,6 +1,6 @@
 ---
 title: Category:Rooms
-permalink: wiki/Category:Rooms/
+permalink: Category:Rooms/
 layout: tagpage
 tag: Rooms
 ---

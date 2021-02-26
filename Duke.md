@@ -1,6 +1,6 @@
 ---
 title: Duke
-permalink: wiki/Duke/
+permalink: Duke/
 layout: wiki
 tags:
  -  Creatures

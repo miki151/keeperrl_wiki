@@ -1,6 +1,6 @@
 ---
 title: Archery
-permalink: wiki/Archery/
+permalink: Archery/
 layout: wiki
 tags:
  -  Skills

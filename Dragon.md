@@ -1,6 +1,6 @@
 ---
 title: Dragon
-permalink: wiki/Dragon/
+permalink: Dragon/
 redirect_to: /wiki/Green_Dragon/
 ---
 

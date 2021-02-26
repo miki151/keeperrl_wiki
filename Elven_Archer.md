@@ -1,6 +1,6 @@
 ---
 title: Elven Archer
-permalink: wiki/Elven_Archer/
+permalink: Elven_Archer/
 layout: wiki
 tags:
  -  Creatures

@@ -1,6 +1,6 @@
 ---
 title: Child
-permalink: wiki/Child/
+permalink: Child/
 layout: wiki
 tags:
  - Creatures

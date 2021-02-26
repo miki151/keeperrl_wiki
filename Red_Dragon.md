@@ -1,6 +1,6 @@
 ---
 title: Red Dragon
-permalink: wiki/Red_Dragon/
+permalink: Red_Dragon/
 layout: wiki
 tags:
  -  Creatures

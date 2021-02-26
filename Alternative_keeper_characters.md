@@ -1,6 +1,6 @@
 ---
 title: Alternative keeper characters
-permalink: wiki/Alternative_keeper_characters/
+permalink: Alternative_keeper_characters/
 layout: wiki
 ---
 

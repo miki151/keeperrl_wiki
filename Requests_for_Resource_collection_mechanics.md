@@ -1,6 +1,6 @@
 ---
 title: Requests for Resource collection mechanics
-permalink: wiki/Requests_for_Resource_collection_mechanics/
+permalink: Requests_for_Resource_collection_mechanics/
 layout: wiki
 ---
 

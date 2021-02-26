@@ -1,6 +1,6 @@
 ---
 title: ViewIDs
-permalink: wiki/ViewIDs/
+permalink: ViewIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

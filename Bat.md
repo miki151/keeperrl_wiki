@@ -1,6 +1,6 @@
 ---
 title: Bat
-permalink: wiki/Bat/
+permalink: Bat/
 layout: wiki
 tags:
  - Creatures

@@ -1,6 +1,6 @@
 ---
 title: ItemTypes
-permalink: wiki/ItemTypes/
+permalink: ItemTypes/
 layout: wiki
 tags:
  -  Modding Reference Data

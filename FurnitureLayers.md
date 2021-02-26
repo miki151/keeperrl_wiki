@@ -1,6 +1,6 @@
 ---
 title: FurnitureLayers
-permalink: wiki/FurnitureLayers/
+permalink: FurnitureLayers/
 layout: wiki
 ---
 

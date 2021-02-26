@@ -1,6 +1,6 @@
 ---
 title: Vampire
-permalink: wiki/Vampire/
+permalink: Vampire/
 layout: wiki
 tags:
  - Creatures

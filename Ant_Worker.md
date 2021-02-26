@@ -1,6 +1,6 @@
 ---
 title: Ant Worker
-permalink: wiki/Ant_Worker/
+permalink: Ant_Worker/
 layout: wiki
 tags:
  - Creatures

@@ -1,6 +1,6 @@
 ---
 title: Weapons
-permalink: wiki/Weapons/
+permalink: Weapons/
 layout: wiki
 tags:
  -  Items

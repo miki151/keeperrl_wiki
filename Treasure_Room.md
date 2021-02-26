@@ -1,6 +1,6 @@
 ---
 title: Treasure Room
-permalink: wiki/Treasure_Room/
+permalink: Treasure_Room/
 redirect_to: /wiki/Storage/
 ---
 

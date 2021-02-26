@@ -1,6 +1,6 @@
 ---
 title: Requests for new villains
-permalink: wiki/Requests_for_new_villains/
+permalink: Requests_for_new_villains/
 layout: wiki
 ---
 

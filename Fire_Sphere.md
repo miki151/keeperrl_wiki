@@ -1,6 +1,6 @@
 ---
 title: Fire Sphere
-permalink: wiki/Fire_Sphere/
+permalink: Fire_Sphere/
 layout: wiki
 tags:
  - Creatures

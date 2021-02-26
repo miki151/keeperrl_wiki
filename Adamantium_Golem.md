@@ -1,6 +1,6 @@
 ---
 title: Adamantium Golem
-permalink: wiki/Adamantium_Golem/
+permalink: Adamantium_Golem/
 layout: wiki
 tags:
  - Creatures

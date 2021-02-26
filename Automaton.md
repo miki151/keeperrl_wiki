@@ -1,6 +1,6 @@
 ---
 title: Automaton
-permalink: wiki/Automaton/
+permalink: Automaton/
 layout: wiki
 tags:
  - Creatures

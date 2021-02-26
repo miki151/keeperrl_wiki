@@ -1,6 +1,6 @@
 ---
 title: The Duke
-permalink: wiki/The_Duke/
+permalink: The_Duke/
 redirect_to: /wiki/Duke/
 ---
 

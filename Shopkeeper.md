@@ -1,6 +1,6 @@
 ---
 title: Shopkeeper
-permalink: wiki/Shopkeeper/
+permalink: Shopkeeper/
 layout: wiki
 tags:
  -  Creatures

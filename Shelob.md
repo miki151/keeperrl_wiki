@@ -1,6 +1,6 @@
 ---
 title: Shelob
-permalink: wiki/Shelob/
+permalink: Shelob/
 layout: wiki
 tags:
  - Creatures

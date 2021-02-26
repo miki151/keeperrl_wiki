@@ -1,6 +1,6 @@
 ---
 title: Fly
-permalink: wiki/Fly/
+permalink: Fly/
 layout: wiki
 tags:
  - Creatures

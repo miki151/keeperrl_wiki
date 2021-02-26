@@ -1,6 +1,6 @@
 ---
 title: Consumables
-permalink: wiki/Consumables/
+permalink: Consumables/
 layout: wiki
 tags:
  -  Items

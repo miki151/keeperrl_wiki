@@ -1,6 +1,6 @@
 ---
 title: Map Editor Ideas
-permalink: wiki/Map_Editor_Ideas/
+permalink: Map_Editor_Ideas/
 layout: wiki
 ---
 

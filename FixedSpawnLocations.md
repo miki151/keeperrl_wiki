@@ -1,6 +1,6 @@
 ---
 title: FixedSpawnLocations
-permalink: wiki/FixedSpawnLocations/
+permalink: FixedSpawnLocations/
 layout: wiki
 tags:
  -  Modding Reference Data

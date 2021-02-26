@@ -1,6 +1,6 @@
 ---
 title: Download Mods
-permalink: wiki/Download_Mods/
+permalink: Download_Mods/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rat
-permalink: wiki/Rat/
+permalink: Rat/
 layout: wiki
 tags:
  -  Creatures

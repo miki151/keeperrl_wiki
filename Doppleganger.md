@@ -1,6 +1,6 @@
 ---
 title: Doppleganger
-permalink: wiki/Doppleganger/
+permalink: Doppleganger/
 layout: wiki
 tags:
  - Creatures

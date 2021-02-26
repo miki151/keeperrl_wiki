@@ -1,6 +1,6 @@
 ---
 title: Gnome
-permalink: wiki/Gnome/
+permalink: Gnome/
 layout: wiki
 tags:
  -  Creatures

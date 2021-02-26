@@ -1,6 +1,6 @@
 ---
 title: Effects
-permalink: wiki/Effects/
+permalink: Effects/
 layout: wiki
 ---
 

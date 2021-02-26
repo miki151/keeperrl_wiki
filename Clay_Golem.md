@@ -1,6 +1,6 @@
 ---
 title: Clay Golem
-permalink: wiki/Clay_Golem/
+permalink: Clay_Golem/
 layout: wiki
 tags:
  - Creatures

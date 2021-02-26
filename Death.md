@@ -1,6 +1,6 @@
 ---
 title: Death
-permalink: wiki/Death/
+permalink: Death/
 layout: wiki
 tags:
  - Creatures

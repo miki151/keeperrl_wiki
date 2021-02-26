@@ -1,6 +1,6 @@
 ---
 title: Graveyard
-permalink: wiki/Graveyard/
+permalink: Graveyard/
 layout: wiki
 tags:
  -  Alpha24

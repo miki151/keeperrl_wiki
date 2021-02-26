@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha18
-permalink: wiki/Category:Alpha18/
+permalink: Category:Alpha18/
 layout: tagpage
 tag: Alpha18
 ---

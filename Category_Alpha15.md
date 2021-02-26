@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha15
-permalink: wiki/Category:Alpha15/
+permalink: Category:Alpha15/
 layout: tagpage
 tag: Alpha15
 ---

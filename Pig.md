@@ -1,6 +1,6 @@
 ---
 title: Pig
-permalink: wiki/Pig/
+permalink: Pig/
 layout: wiki
 tags:
  -  Creatures

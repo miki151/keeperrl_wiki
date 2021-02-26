@@ -1,6 +1,6 @@
 ---
 title: YouTube Videos
-permalink: wiki/YouTube_Videos/
+permalink: YouTube_Videos/
 layout: wiki
 ---
 

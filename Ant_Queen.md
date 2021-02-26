@@ -1,6 +1,6 @@
 ---
 title: Ant Queen
-permalink: wiki/Ant_Queen/
+permalink: Ant_Queen/
 layout: wiki
 tags:
  - Creatures

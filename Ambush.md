@@ -1,6 +1,6 @@
 ---
 title: Ambush
-permalink: wiki/Ambush/
+permalink: Ambush/
 layout: wiki
 tags:
  -  Skills

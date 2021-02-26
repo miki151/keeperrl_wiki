@@ -1,6 +1,6 @@
 ---
 title: Air Elemental
-permalink: wiki/Air_Elemental/
+permalink: Air_Elemental/
 layout: wiki
 tags:
  - Creatures

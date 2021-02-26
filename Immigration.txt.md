@@ -1,6 +1,6 @@
 ---
 title: Immigration.txt
-permalink: wiki/Immigration.txt/
+permalink: Immigration.txt/
 layout: wiki
 ---
 

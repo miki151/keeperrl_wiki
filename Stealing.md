@@ -1,6 +1,6 @@
 ---
 title: Stealing
-permalink: wiki/Stealing/
+permalink: Stealing/
 layout: wiki
 tags:
  -  Skills

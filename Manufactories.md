@@ -1,6 +1,6 @@
 ---
 title: Manufactories
-permalink: wiki/Manufactories/
+permalink: Manufactories/
 layout: wiki
 tags:
  -  Rooms

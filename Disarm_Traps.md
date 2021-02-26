@@ -1,6 +1,6 @@
 ---
 title: Disarm Traps
-permalink: wiki/Disarm_Traps/
+permalink: Disarm_Traps/
 layout: wiki
 tags:
  -  Skills

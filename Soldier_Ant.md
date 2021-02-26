@@ -1,6 +1,6 @@
 ---
 title: Soldier Ant
-permalink: wiki/Soldier_Ant/
+permalink: Soldier_Ant/
 layout: wiki
 tags:
  - Creatures

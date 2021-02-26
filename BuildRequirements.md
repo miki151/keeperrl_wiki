@@ -1,6 +1,6 @@
 ---
 title: BuildRequirements
-permalink: wiki/BuildRequirements/
+permalink: BuildRequirements/
 layout: wiki
 tags:
  -  Modding Reference Data

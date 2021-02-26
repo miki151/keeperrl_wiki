@@ -1,6 +1,6 @@
 ---
 title: Modding guide
-permalink: wiki/Modding_guide/
+permalink: Modding_guide/
 layout: wiki
 ---
 

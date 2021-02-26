@@ -1,6 +1,6 @@
 ---
 title: Peseant
-permalink: wiki/Peseant/
+permalink: Peseant/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Harpy
-permalink: wiki/Harpy/
+permalink: Harpy/
 layout: wiki
 tags:
  - Creatures

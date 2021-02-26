@@ -1,6 +1,6 @@
 ---
 title: Witchman
-permalink: wiki/Witchman/
+permalink: Witchman/
 layout: wiki
 tags:
  - Creatures

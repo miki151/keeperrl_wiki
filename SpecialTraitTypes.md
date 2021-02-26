@@ -1,6 +1,6 @@
 ---
 title: SpecialTraitTypes
-permalink: wiki/SpecialTraitTypes/
+permalink: SpecialTraitTypes/
 layout: wiki
 tags:
  - Modding Reference Data

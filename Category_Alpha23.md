@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha23
-permalink: wiki/Category:Alpha23/
+permalink: Category:Alpha23/
 layout: tagpage
 tag: Alpha23
 ---

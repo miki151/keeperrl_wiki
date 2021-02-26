@@ -1,6 +1,6 @@
 ---
 title: WereWolf
-permalink: wiki/WereWolf/
+permalink: WereWolf/
 redirect_to: /wiki/Werewolf/
 ---
 

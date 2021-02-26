@@ -1,6 +1,6 @@
 ---
 title: Halloween Kid
-permalink: wiki/Halloween_Kid/
+permalink: Halloween_Kid/
 layout: wiki
 tags:
  - Creatures

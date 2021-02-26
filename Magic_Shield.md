@@ -1,6 +1,6 @@
 ---
 title: Magic Shield
-permalink: wiki/Magic_Shield/
+permalink: Magic_Shield/
 layout: wiki
 tags:
  -  Spells

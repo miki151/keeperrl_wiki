@@ -1,6 +1,6 @@
 ---
 title: Beast Cage
-permalink: wiki/Beast_Cage/
+permalink: Beast_Cage/
 layout: wiki
 tags:
  - Rooms

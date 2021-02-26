@@ -1,6 +1,6 @@
 ---
 title: Vulture
-permalink: wiki/Vulture/
+permalink: Vulture/
 layout: wiki
 tags:
  - Creatures

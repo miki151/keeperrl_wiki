@@ -1,6 +1,6 @@
 ---
 title: Ogre
-permalink: wiki/Ogre/
+permalink: Ogre/
 layout: wiki
 tags:
  - Creatures

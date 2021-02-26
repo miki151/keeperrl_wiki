@@ -1,6 +1,6 @@
 ---
 title: Jackal
-permalink: wiki/Jackal/
+permalink: Jackal/
 layout: wiki
 tags:
  - Creatures

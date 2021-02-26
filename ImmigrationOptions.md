@@ -1,6 +1,6 @@
 ---
 title: ImmigrationOptions
-permalink: wiki/ImmigrationOptions/
+permalink: ImmigrationOptions/
 layout: wiki
 tags:
  -  Modding Reference Data

@@ -1,6 +1,6 @@
 ---
 title: Bed
-permalink: wiki/Bed/
+permalink: Bed/
 layout: wiki
 tags:
  - Rooms

@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha22
-permalink: wiki/Category:Alpha22/
+permalink: Category:Alpha22/
 layout: tagpage
 tag: Alpha22
 ---

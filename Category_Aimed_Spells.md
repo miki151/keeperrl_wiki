@@ -1,6 +1,6 @@
 ---
 title: Category:Aimed Spells
-permalink: wiki/Category:Aimed_Spells/
+permalink: Category:Aimed_Spells/
 layout: tagpage
 tag: Aimed Spells
 ---

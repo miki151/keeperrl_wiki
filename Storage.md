@@ -1,6 +1,6 @@
 ---
 title: Storage
-permalink: wiki/Storage/
+permalink: Storage/
 layout: wiki
 tags:
  - Keeper Mode

@@ -1,6 +1,6 @@
 ---
 title: Keeper
-permalink: wiki/Keeper/
+permalink: Keeper/
 layout: wiki
 tags:
  - Creatures

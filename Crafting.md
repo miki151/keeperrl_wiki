@@ -1,6 +1,6 @@
 ---
 title: Crafting
-permalink: wiki/Crafting/
+permalink: Crafting/
 redirect_to: /wiki/:Technologies#Crating/
 ---
 

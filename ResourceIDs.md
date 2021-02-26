@@ -1,6 +1,6 @@
 ---
 title: ResourceIDs
-permalink: wiki/ResourceIDs/
+permalink: ResourceIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

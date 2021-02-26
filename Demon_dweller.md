@@ -1,6 +1,6 @@
 ---
 title: Demon dweller
-permalink: wiki/Demon_dweller/
+permalink: Demon_dweller/
 layout: wiki
 tags:
  - Creatures

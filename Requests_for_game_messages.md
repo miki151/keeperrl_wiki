@@ -1,6 +1,6 @@
 ---
 title: Requests for game messages
-permalink: wiki/Requests_for_game_messages/
+permalink: Requests_for_game_messages/
 layout: wiki
 ---
 

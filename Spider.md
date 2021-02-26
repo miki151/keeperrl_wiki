@@ -1,6 +1,6 @@
 ---
 title: Spider
-permalink: wiki/Spider/
+permalink: Spider/
 layout: wiki
 tags:
  - Creatures

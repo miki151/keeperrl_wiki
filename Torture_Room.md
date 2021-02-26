@@ -1,6 +1,6 @@
 ---
 title: Torture Room
-permalink: wiki/Torture_Room/
+permalink: Torture_Room/
 redirect_to: /wiki/Prison/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dark elf lord
-permalink: wiki/Dark_elf_lord/
+permalink: Dark_elf_lord/
 layout: wiki
 tags:
  - Creatures

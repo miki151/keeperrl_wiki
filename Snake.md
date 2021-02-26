@@ -1,6 +1,6 @@
 ---
 title: Snake
-permalink: wiki/Snake/
+permalink: Snake/
 layout: wiki
 tags:
  - Creatures

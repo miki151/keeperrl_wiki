@@ -1,6 +1,6 @@
 ---
 title: Spells
-permalink: wiki/Spells/
+permalink: Spells/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Dark elf child
-permalink: wiki/Dark_elf_child/
+permalink: Dark_elf_child/
 layout: wiki
 tags:
  - Creatures

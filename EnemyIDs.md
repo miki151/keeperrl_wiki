@@ -1,6 +1,6 @@
 ---
 title: EnemyIDs
-permalink: wiki/EnemyIDs/
+permalink: EnemyIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

@@ -1,6 +1,6 @@
 ---
 title: Constructions
-permalink: wiki/Constructions/
+permalink: Constructions/
 layout: wiki
 ---
 

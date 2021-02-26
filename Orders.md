@@ -1,6 +1,6 @@
 ---
 title: Orders
-permalink: wiki/Orders/
+permalink: Orders/
 layout: wiki
 ---
 

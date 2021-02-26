@@ -1,6 +1,6 @@
 ---
 title: Orc Shaman
-permalink: wiki/Orc_Shaman/
+permalink: Orc_Shaman/
 layout: wiki
 tags:
  - Creatures

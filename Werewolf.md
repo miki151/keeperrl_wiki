@@ -1,6 +1,6 @@
 ---
 title: Werewolf
-permalink: wiki/Werewolf/
+permalink: Werewolf/
 layout: wiki
 tags:
  - Creatures

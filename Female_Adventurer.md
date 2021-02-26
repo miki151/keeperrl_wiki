@@ -1,6 +1,6 @@
 ---
 title: Female Adventurer
-permalink: wiki/Female_Adventurer/
+permalink: Female_Adventurer/
 redirect_to: /wiki/Adventurer/
 ---
 

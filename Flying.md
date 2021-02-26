@@ -1,6 +1,6 @@
 ---
 title: Flying
-permalink: wiki/Flying/
+permalink: Flying/
 layout: wiki
 tags:
  -  Traits

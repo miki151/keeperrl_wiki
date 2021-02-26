@@ -1,6 +1,6 @@
 ---
 title: AttrBonuses
-permalink: wiki/AttrBonuses/
+permalink: AttrBonuses/
 layout: wiki
 tags:
  -  Modding Reference Data

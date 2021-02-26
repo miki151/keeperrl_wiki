@@ -1,6 +1,6 @@
 ---
 title: Tree Spirit
-permalink: wiki/Tree_Spirit/
+permalink: Tree_Spirit/
 layout: wiki
 tags:
  - Creatures

@@ -1,6 +1,6 @@
 ---
 title: TribeAlignments
-permalink: wiki/TribeAlignments/
+permalink: TribeAlignments/
 layout: wiki
 tags:
  -  Modding Reference Data

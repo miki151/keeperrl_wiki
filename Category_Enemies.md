@@ -1,6 +1,6 @@
 ---
 title: Category:Enemies
-permalink: wiki/Category:Enemies/
+permalink: Category:Enemies/
 layout: tagpage
 tag: Enemies
 ---

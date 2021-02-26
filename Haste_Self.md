@@ -1,6 +1,6 @@
 ---
 title: Haste Self
-permalink: wiki/Haste_Self/
+permalink: Haste_Self/
 layout: wiki
 tags:
  -  Spells

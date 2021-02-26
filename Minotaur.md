@@ -1,6 +1,6 @@
 ---
 title: Minotaur
-permalink: wiki/Minotaur/
+permalink: Minotaur/
 layout: wiki
 tags:
  - Creatures
