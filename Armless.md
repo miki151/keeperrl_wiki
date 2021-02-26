@@ -1,6 +1,6 @@
 ---
 title: Armless
-permalink: wiki/Armless/
+permalink: Armless/
 layout: wiki
 tags:
  -  Traits

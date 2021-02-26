@@ -1,6 +1,6 @@
 ---
 title: Zombie
-permalink: wiki/Zombie/
+permalink: Zombie/
 layout: wiki
 tags:
  - Creatures

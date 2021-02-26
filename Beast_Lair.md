@@ -1,6 +1,6 @@
 ---
 title: Beast Lair
-permalink: wiki/Beast_Lair/
+permalink: Beast_Lair/
 redirect_to: /wiki/Beast_Cage/
 ---
 

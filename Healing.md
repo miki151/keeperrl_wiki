@@ -1,6 +1,6 @@
 ---
 title: Healing
-permalink: wiki/Healing/
+permalink: Healing/
 layout: wiki
 tags:
  -  Skills

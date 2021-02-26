@@ -1,6 +1,6 @@
 ---
 title: Prisoner
-permalink: wiki/Prisoner/
+permalink: Prisoner/
 layout: wiki
 tags:
  - Creatures

@@ -1,6 +1,6 @@
 ---
 title: Category:Creatures
-permalink: wiki/Category:Creatures/
+permalink: Category:Creatures/
 layout: tagpage
 tag: Creatures
 ---

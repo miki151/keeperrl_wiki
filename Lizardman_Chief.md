@@ -1,6 +1,6 @@
 ---
 title: Lizardman Chief
-permalink: wiki/Lizardman_Chief/
+permalink: Lizardman_Chief/
 layout: wiki
 tags:
  -  Creatures

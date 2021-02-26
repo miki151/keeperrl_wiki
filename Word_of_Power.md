@@ -1,6 +1,6 @@
 ---
 title: Word of Power
-permalink: wiki/Word_of_Power/
+permalink: Word_of_Power/
 layout: wiki
 tags:
  -  Spells

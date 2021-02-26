@@ -1,6 +1,6 @@
 ---
 title: Cave Bear
-permalink: wiki/Cave_Bear/
+permalink: Cave_Bear/
 layout: wiki
 tags:
  - Creatures

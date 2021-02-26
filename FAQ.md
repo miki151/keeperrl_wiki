@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: wiki/FAQ/
+permalink: FAQ/
 layout: wiki
 ---
 

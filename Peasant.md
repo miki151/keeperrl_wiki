@@ -1,6 +1,6 @@
 ---
 title: Peasant
-permalink: wiki/Peasant/
+permalink: Peasant/
 redirect_to: /wiki/Peseant/
 ---
 

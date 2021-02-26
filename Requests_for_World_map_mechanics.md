@@ -1,6 +1,6 @@
 ---
 title: Requests for World map mechanics
-permalink: wiki/Requests_for_World_map_mechanics/
+permalink: Requests_for_World_map_mechanics/
 layout: wiki
 ---
 

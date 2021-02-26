@@ -1,6 +1,6 @@
 ---
 title: Dwarf
-permalink: wiki/Dwarf/
+permalink: Dwarf/
 layout: wiki
 tags:
  -  Creatures

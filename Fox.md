@@ -1,6 +1,6 @@
 ---
 title: Fox
-permalink: wiki/Fox/
+permalink: Fox/
 layout: wiki
 tags:
  - Creatures

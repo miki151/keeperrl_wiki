@@ -1,6 +1,6 @@
 ---
 title: Succubus
-permalink: wiki/Succubus/
+permalink: Succubus/
 layout: wiki
 tags:
  - Creatures

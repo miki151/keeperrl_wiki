@@ -1,6 +1,6 @@
 ---
 title: Goblin
-permalink: wiki/Goblin/
+permalink: Goblin/
 layout: wiki
 tags:
  - Creatures

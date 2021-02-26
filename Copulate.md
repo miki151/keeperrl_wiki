@@ -1,6 +1,6 @@
 ---
 title: Copulate
-permalink: wiki/Copulate/
+permalink: Copulate/
 redirect_to: /wiki/:Skills#Copulate/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Knife Throwing
-permalink: wiki/Knife_Throwing/
+permalink: Knife_Throwing/
 layout: wiki
 tags:
  -  Skills

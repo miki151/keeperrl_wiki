@@ -1,6 +1,6 @@
 ---
 title: EffectTypeIDs
-permalink: wiki/EffectTypeIDs/
+permalink: EffectTypeIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

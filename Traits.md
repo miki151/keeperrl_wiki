@@ -1,6 +1,6 @@
 ---
 title: Traits
-permalink: wiki/Traits/
+permalink: Traits/
 layout: wiki
 ---
 

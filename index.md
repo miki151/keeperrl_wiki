@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: wiki/Main_Page/
+permalink: /Main_Page/
 layout: wiki
 ---
 

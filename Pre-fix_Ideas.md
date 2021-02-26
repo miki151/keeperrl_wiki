@@ -1,6 +1,6 @@
 ---
 title: Pre-fix Ideas
-permalink: wiki/Pre-fix_Ideas/
+permalink: Pre-fix_Ideas/
 layout: wiki
 ---
 

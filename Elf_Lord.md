@@ -1,6 +1,6 @@
 ---
 title: Elf Lord
-permalink: wiki/Elf_Lord/
+permalink: Elf_Lord/
 layout: wiki
 tags:
  -  Creatures

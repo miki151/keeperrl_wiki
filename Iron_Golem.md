@@ -1,6 +1,6 @@
 ---
 title: Iron Golem
-permalink: wiki/Iron_Golem/
+permalink: Iron_Golem/
 layout: wiki
 tags:
  - Creatures

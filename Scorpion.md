@@ -1,6 +1,6 @@
 ---
 title: Scorpion
-permalink: wiki/Scorpion/
+permalink: Scorpion/
 layout: wiki
 ---
 

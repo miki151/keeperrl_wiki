@@ -1,6 +1,6 @@
 ---
 title: Legless
-permalink: wiki/Legless/
+permalink: Legless/
 layout: wiki
 tags:
  -  Traits

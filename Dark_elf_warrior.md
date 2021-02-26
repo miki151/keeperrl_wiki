@@ -1,6 +1,6 @@
 ---
 title: Dark elf warrior
-permalink: wiki/Dark_elf_warrior/
+permalink: Dark_elf_warrior/
 layout: wiki
 tags:
  - Creatures

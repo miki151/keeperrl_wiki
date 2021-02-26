@@ -1,6 +1,6 @@
 ---
 title: Soft Monster
-permalink: wiki/Soft_Monster/
+permalink: Soft_Monster/
 layout: wiki
 tags:
  - Creatures

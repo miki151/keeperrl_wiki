@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: wiki/Resources/
+permalink: Resources/
 layout: wiki
 tags:
  - Keeper Mode

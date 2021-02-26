@@ -1,6 +1,6 @@
 ---
 title: Hydra
-permalink: wiki/Hydra/
+permalink: Hydra/
 layout: wiki
 tags:
  - Creatures

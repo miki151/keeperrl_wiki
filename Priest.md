@@ -1,6 +1,6 @@
 ---
 title: Priest
-permalink: wiki/Priest/
+permalink: Priest/
 layout: wiki
 tags:
  - Creatures

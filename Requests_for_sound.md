@@ -1,6 +1,6 @@
 ---
 title: Requests for sound
-permalink: wiki/Requests_for_sound/
+permalink: Requests_for_sound/
 layout: wiki
 ---
 

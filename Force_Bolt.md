@@ -1,6 +1,6 @@
 ---
 title: Force Bolt
-permalink: wiki/Force_Bolt/
+permalink: Force_Bolt/
 layout: wiki
 tags:
  -  Aimed Spells

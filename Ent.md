@@ -1,6 +1,6 @@
 ---
 title: Ent
-permalink: wiki/Ent/
+permalink: Ent/
 redirect_to: /wiki/Tree_Spirit/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Statue
-permalink: wiki/Statue/
+permalink: Statue/
 layout: wiki
 tags:
  - Gold|Gold

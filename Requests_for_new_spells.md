@@ -1,6 +1,6 @@
 ---
 title: Requests for new spells
-permalink: wiki/Requests_for_new_spells/
+permalink: Requests_for_new_spells/
 layout: wiki
 ---
 

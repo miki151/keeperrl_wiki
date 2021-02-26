@@ -1,6 +1,6 @@
 ---
 title: Requests for new technology
-permalink: wiki/Requests_for_new_technology/
+permalink: Requests_for_new_technology/
 layout: wiki
 ---
 

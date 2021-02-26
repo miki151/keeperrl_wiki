@@ -1,6 +1,6 @@
 ---
 title: Mummy
-permalink: wiki/Mummy/
+permalink: Mummy/
 layout: wiki
 tags:
  - Creatures

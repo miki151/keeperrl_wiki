@@ -1,6 +1,6 @@
 ---
 title: Treasure chest
-permalink: wiki/Treasure_chest/
+permalink: Treasure_chest/
 layout: wiki
 ---
 

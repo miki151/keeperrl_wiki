@@ -1,6 +1,6 @@
 ---
 title: Kobold
-permalink: wiki/Kobold/
+permalink: Kobold/
 layout: wiki
 tags:
  - Creatures

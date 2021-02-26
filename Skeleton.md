@@ -1,6 +1,6 @@
 ---
 title: Skeleton
-permalink: wiki/Skeleton/
+permalink: Skeleton/
 layout: wiki
 tags:
  - Creatures

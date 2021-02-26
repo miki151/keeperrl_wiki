@@ -1,6 +1,6 @@
 ---
 title: Child (Spider food)
-permalink: wiki/Child_(Spider_food)/
+permalink: Child_(Spider_food)/
 redirect_to: /wiki/Child/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Requests for screen layout
-permalink: wiki/Requests_for_screen_layout/
+permalink: Requests_for_screen_layout/
 layout: wiki
 ---
 

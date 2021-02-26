@@ -1,6 +1,6 @@
 ---
 title: Stun Ray
-permalink: wiki/Stun_Ray/
+permalink: Stun_Ray/
 layout: wiki
 tags:
  -  Aimed Spells

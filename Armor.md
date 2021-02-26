@@ -1,6 +1,6 @@
 ---
 title: Armor
-permalink: wiki/Armor/
+permalink: Armor/
 layout: wiki
 tags:
  -  Items

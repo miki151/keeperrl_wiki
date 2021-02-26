@@ -1,6 +1,6 @@
 ---
 title: Cure Poisoning
-permalink: wiki/Cure_Poisoning/
+permalink: Cure_Poisoning/
 layout: wiki
 tags:
  -  Spells

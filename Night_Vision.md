@@ -1,6 +1,6 @@
 ---
 title: Night Vision
-permalink: wiki/Night_Vision/
+permalink: Night_Vision/
 layout: wiki
 tags:
  -  Skills

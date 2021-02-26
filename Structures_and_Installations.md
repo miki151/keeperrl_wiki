@@ -1,6 +1,6 @@
 ---
 title: Structures and Installations
-permalink: wiki/Structures_and_Installations/
+permalink: Structures_and_Installations/
 layout: wiki
 tags:
  -  Keeper Mode

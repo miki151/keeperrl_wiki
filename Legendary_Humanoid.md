@@ -1,6 +1,6 @@
 ---
 title: Legendary Humanoid
-permalink: wiki/Legendary_Humanoid/
+permalink: Legendary_Humanoid/
 layout: wiki
 tags:
  - Creatures

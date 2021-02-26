@@ -1,6 +1,6 @@
 ---
 title: Earth elemental
-permalink: wiki/Earth_elemental/
+permalink: Earth_elemental/
 layout: wiki
 tags:
  - Creatures

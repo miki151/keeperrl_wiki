@@ -1,6 +1,6 @@
 ---
 title: Shaman
-permalink: wiki/Shaman/
+permalink: Shaman/
 layout: wiki
 tags:
  -  Creatures

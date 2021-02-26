@@ -1,6 +1,6 @@
 ---
 title: Technology.txt
-permalink: wiki/Technology.txt/
+permalink: Technology.txt/
 layout: wiki
 ---
 

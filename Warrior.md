@@ -1,6 +1,6 @@
 ---
 title: Warrior
-permalink: wiki/Warrior/
+permalink: Warrior/
 layout: wiki
 tags:
  -  Creatures

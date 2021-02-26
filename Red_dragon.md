@@ -1,6 +1,6 @@
 ---
 title: Red dragon
-permalink: wiki/Red_dragon/
+permalink: Red_dragon/
 redirect_to: /wiki/Red_Dragon/
 ---
 

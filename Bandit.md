@@ -1,6 +1,6 @@
 ---
 title: Bandit
-permalink: wiki/Bandit/
+permalink: Bandit/
 layout: wiki
 tags:
  - Creatures

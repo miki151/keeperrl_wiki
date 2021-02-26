@@ -1,6 +1,6 @@
 ---
 title: Training Room
-permalink: wiki/Training_Room/
+permalink: Training_Room/
 layout: wiki
 tags:
  -  Rooms

@@ -1,6 +1,6 @@
 ---
 title: Driad
-permalink: wiki/Driad/
+permalink: Driad/
 layout: wiki
 tags:
  - Creatures

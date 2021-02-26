@@ -1,6 +1,6 @@
 ---
 title: Weapon Melee
-permalink: wiki/Weapon_Melee/
+permalink: Weapon_Melee/
 layout: wiki
 tags:
  -  Skills

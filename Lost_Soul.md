@@ -1,6 +1,6 @@
 ---
 title: Lost Soul
-permalink: wiki/Lost_Soul/
+permalink: Lost_Soul/
 layout: wiki
 tags:
  - Creatures

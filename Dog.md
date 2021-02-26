@@ -1,6 +1,6 @@
 ---
 title: Dog
-permalink: wiki/Dog/
+permalink: Dog/
 layout: wiki
 tags:
  -  Creatures

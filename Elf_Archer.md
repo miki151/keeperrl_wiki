@@ -1,6 +1,6 @@
 ---
 title: Elf Archer
-permalink: wiki/Elf_Archer/
+permalink: Elf_Archer/
 layout: wiki
 tags:
  -  Creatures

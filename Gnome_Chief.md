@@ -1,6 +1,6 @@
 ---
 title: Gnome Chief
-permalink: wiki/Gnome_Chief/
+permalink: Gnome_Chief/
 layout: wiki
 tags:
  - Creatures

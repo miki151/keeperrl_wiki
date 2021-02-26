@@ -1,6 +1,6 @@
 ---
 title: Elementalist
-permalink: wiki/Elementalist/
+permalink: Elementalist/
 layout: wiki
 tags:
  - Creatures

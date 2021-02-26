@@ -1,6 +1,6 @@
 ---
 title: Donkey
-permalink: wiki/Donkey/
+permalink: Donkey/
 layout: wiki
 tags:
  - Creatures

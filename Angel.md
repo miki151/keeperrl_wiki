@@ -1,6 +1,6 @@
 ---
 title: Angel
-permalink: wiki/Angel/
+permalink: Angel/
 layout: wiki
 tags:
  - Creatures

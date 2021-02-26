@@ -1,6 +1,6 @@
 ---
 title: Category:Minions
-permalink: wiki/Category:Minions/
+permalink: Category:Minions/
 layout: tagpage
 tag: Minions
 ---

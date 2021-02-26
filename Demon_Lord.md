@@ -1,6 +1,6 @@
 ---
 title: Demon Lord
-permalink: wiki/Demon_Lord/
+permalink: Demon_Lord/
 layout: wiki
 tags:
  - Creatures

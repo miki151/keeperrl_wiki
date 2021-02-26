@@ -1,6 +1,6 @@
 ---
 title: Shortcut Keys
-permalink: wiki/Shortcut_Keys/
+permalink: Shortcut_Keys/
 layout: wiki
 ---
 

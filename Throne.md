@@ -1,6 +1,6 @@
 ---
 title: Throne
-permalink: wiki/Throne/
+permalink: Throne/
 layout: wiki
 tags:
  -  Alpha20

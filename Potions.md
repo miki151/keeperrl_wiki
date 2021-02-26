@@ -1,6 +1,6 @@
 ---
 title: Potions
-permalink: wiki/Potions/
+permalink: Potions/
 redirect_to: /wiki/:Consumables/
 ---
 

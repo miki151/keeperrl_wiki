@@ -1,6 +1,6 @@
 ---
 title: Deer
-permalink: wiki/Deer/
+permalink: Deer/
 layout: wiki
 tags:
  - Creatures

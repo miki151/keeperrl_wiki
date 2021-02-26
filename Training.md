@@ -1,6 +1,6 @@
 ---
 title: Training
-permalink: wiki/Training/
+permalink: Training/
 layout: wiki
 tags:
  -  Orders

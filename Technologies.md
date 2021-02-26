@@ -1,6 +1,6 @@
 ---
 title: Technologies
-permalink: wiki/Technologies/
+permalink: Technologies/
 layout: wiki
 tags:
  -  Keeper Mode

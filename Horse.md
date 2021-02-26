@@ -1,6 +1,6 @@
 ---
 title: Horse
-permalink: wiki/Horse/
+permalink: Horse/
 layout: wiki
 tags:
  -  Creatures

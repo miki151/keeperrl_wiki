@@ -1,6 +1,6 @@
 ---
 title: Adventurer
-permalink: wiki/Adventurer/
+permalink: Adventurer/
 layout: wiki
 tags:
  - Creatures

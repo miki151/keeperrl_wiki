@@ -1,6 +1,6 @@
 ---
 title: Category:OfficialAlpha26GameConfigs
-permalink: wiki/Category:OfficialAlpha26GameConfigs/
+permalink: Category:OfficialAlpha26GameConfigs/
 layout: tagpage
 tag: OfficialAlpha26GameConfigs
 ---

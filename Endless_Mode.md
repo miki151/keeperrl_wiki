@@ -1,6 +1,6 @@
 ---
 title: Endless Mode
-permalink: wiki/Endless_Mode/
+permalink: Endless_Mode/
 layout: wiki
 ---
 

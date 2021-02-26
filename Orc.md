@@ -1,6 +1,6 @@
 ---
 title: Orc
-permalink: wiki/Orc/
+permalink: Orc/
 layout: wiki
 tags:
  - Creatures

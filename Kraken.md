@@ -1,6 +1,6 @@
 ---
 title: Kraken
-permalink: wiki/Kraken/
+permalink: Kraken/
 layout: wiki
 tags:
  -  Creatures

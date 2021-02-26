@@ -1,6 +1,6 @@
 ---
 title: Category:Items
-permalink: wiki/Category:Items/
+permalink: Category:Items/
 layout: tagpage
 tag: Items
 ---

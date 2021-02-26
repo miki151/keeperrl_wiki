@@ -1,6 +1,6 @@
 ---
 title: Imps
-permalink: wiki/Imps/
+permalink: Imps/
 redirect_to: /wiki/Imp/
 ---
 

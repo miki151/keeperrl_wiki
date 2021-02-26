@@ -1,6 +1,6 @@
 ---
 title: Lava Golem
-permalink: wiki/Lava_Golem/
+permalink: Lava_Golem/
 layout: wiki
 tags:
  - Creatures

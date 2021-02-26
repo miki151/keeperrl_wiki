@@ -1,6 +1,6 @@
 ---
 title: LastingEffects
-permalink: wiki/LastingEffects/
+permalink: LastingEffects/
 layout: wiki
 tags:
  -  Modding Reference Data

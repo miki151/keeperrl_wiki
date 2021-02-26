@@ -1,6 +1,6 @@
 ---
 title: Experience
-permalink: wiki/Experience/
+permalink: Experience/
 layout: wiki
 ---
 

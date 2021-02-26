@@ -1,6 +1,6 @@
 ---
 title: Cow
-permalink: wiki/Cow/
+permalink: Cow/
 layout: wiki
 tags:
  -  Creatures

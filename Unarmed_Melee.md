@@ -1,6 +1,6 @@
 ---
 title: Unarmed Melee
-permalink: wiki/Unarmed_Melee/
+permalink: Unarmed_Melee/
 layout: wiki
 tags:
  -  Skills

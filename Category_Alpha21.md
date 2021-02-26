@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha21
-permalink: wiki/Category:Alpha21/
+permalink: Category:Alpha21/
 layout: tagpage
 tag: Alpha21
 ---

@@ -1,6 +1,6 @@
 ---
 title: Laboratory
-permalink: wiki/Laboratory/
+permalink: Laboratory/
 redirect_to: /wiki/:Manufactories#Laboratory/
 ---
 

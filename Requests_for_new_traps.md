@@ -1,6 +1,6 @@
 ---
 title: Requests for new traps
-permalink: wiki/Requests_for_new_traps/
+permalink: Requests_for_new_traps/
 layout: wiki
 ---
 

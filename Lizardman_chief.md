@@ -1,6 +1,6 @@
 ---
 title: Lizardman chief
-permalink: wiki/Lizardman_chief/
+permalink: Lizardman_chief/
 redirect_to: /wiki/Lizardman_Chief/
 ---
 

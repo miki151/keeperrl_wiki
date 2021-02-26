@@ -1,6 +1,6 @@
 ---
 title: Raven
-permalink: wiki/Raven/
+permalink: Raven/
 layout: wiki
 tags:
  - Creatures

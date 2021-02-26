@@ -1,6 +1,6 @@
 ---
 title: Dwarf Female
-permalink: wiki/Dwarf_Female/
+permalink: Dwarf_Female/
 layout: wiki
 tags:
  - Creatures

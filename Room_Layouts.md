@@ -1,6 +1,6 @@
 ---
 title: Room Layouts
-permalink: wiki/Room_Layouts/
+permalink: Room_Layouts/
 redirect_to: /wiki/Category%3ARooms/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Jewelry
-permalink: wiki/Jewelry/
+permalink: Jewelry/
 layout: wiki
 tags:
  -  Items

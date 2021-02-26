@@ -1,6 +1,6 @@
 ---
 title: Prison
-permalink: wiki/Prison/
+permalink: Prison/
 layout: wiki
 tags:
  -  Rooms

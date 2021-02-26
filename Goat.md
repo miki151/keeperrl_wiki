@@ -1,6 +1,6 @@
 ---
 title: Goat
-permalink: wiki/Goat/
+permalink: Goat/
 layout: wiki
 tags:
  - Creatures

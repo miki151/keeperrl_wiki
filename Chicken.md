@@ -1,6 +1,6 @@
 ---
 title: Chicken
-permalink: wiki/Chicken/
+permalink: Chicken/
 layout: wiki
 tags:
  - Creatures

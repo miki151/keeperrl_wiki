@@ -1,6 +1,6 @@
 ---
 title: Vampire Lord
-permalink: wiki/Vampire_Lord/
+permalink: Vampire_Lord/
 layout: wiki
 tags:
  - Creatures

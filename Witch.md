@@ -1,6 +1,6 @@
 ---
 title: Witch
-permalink: wiki/Witch/
+permalink: Witch/
 layout: wiki
 ---
 

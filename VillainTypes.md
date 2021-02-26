@@ -1,6 +1,6 @@
 ---
 title: VillainTypes
-permalink: wiki/VillainTypes/
+permalink: VillainTypes/
 layout: wiki
 tags:
  -  Modding Reference Data

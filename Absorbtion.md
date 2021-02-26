@@ -1,6 +1,6 @@
 ---
 title: Absorbtion
-permalink: wiki/Absorbtion/
+permalink: Absorbtion/
 redirect_to: /wiki/Skills#Absorption/
 ---
 

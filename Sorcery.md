@@ -1,6 +1,6 @@
 ---
 title: Sorcery
-permalink: wiki/Sorcery/
+permalink: Sorcery/
 layout: wiki
 tags:
  -  Skills

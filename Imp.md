@@ -1,6 +1,6 @@
 ---
 title: Imp
-permalink: wiki/Imp/
+permalink: Imp/
 layout: wiki
 tags:
  - Creatures

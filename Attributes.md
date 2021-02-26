@@ -1,6 +1,6 @@
 ---
 title: Attributes
-permalink: wiki/Attributes/
+permalink: Attributes/
 layout: wiki
 ---
 

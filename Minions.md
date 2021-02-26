@@ -1,6 +1,6 @@
 ---
 title: Minions
-permalink: wiki/Minions/
+permalink: Minions/
 layout: wiki
 tags:
  - Minions

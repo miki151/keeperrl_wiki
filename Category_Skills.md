@@ -1,6 +1,6 @@
 ---
 title: Category:Skills
-permalink: wiki/Category:Skills/
+permalink: Category:Skills/
 layout: tagpage
 tag: Skills
 ---

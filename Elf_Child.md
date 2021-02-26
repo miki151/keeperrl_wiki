@@ -1,6 +1,6 @@
 ---
 title: Elf Child
-permalink: wiki/Elf_Child/
+permalink: Elf_Child/
 layout: wiki
 tags:
  -  Creatures

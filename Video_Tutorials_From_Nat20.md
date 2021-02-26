@@ -1,6 +1,6 @@
 ---
 title: Video Tutorials From Nat20
-permalink: wiki/Video_Tutorials_From_Nat20/
+permalink: Video_Tutorials_From_Nat20/
 layout: wiki
 ---
 

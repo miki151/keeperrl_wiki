@@ -1,6 +1,6 @@
 ---
 title: Archer
-permalink: wiki/Archer/
+permalink: Archer/
 layout: wiki
 tags:
  - Creatures

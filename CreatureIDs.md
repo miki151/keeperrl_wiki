@@ -1,6 +1,6 @@
 ---
 title: CreatureIDs
-permalink: wiki/CreatureIDs/
+permalink: CreatureIDs/
 layout: wiki
 tags:
  -  Modding Reference Data

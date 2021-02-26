@@ -1,6 +1,6 @@
 ---
 title: Category:Modding Reference Data
-permalink: wiki/Category:Modding_Reference_Data/
+permalink: Category:Modding_Reference_Data/
 layout: tagpage
 tag: Modding Reference Data
 ---

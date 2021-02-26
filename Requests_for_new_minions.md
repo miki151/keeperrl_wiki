@@ -1,6 +1,6 @@
 ---
 title: Requests for new minions
-permalink: wiki/Requests_for_new_minions/
+permalink: Requests_for_new_minions/
 layout: wiki
 ---
 

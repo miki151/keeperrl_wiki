@@ -1,6 +1,6 @@
 ---
 title: Category:Keeper Mode
-permalink: wiki/Category:Keeper_Mode/
+permalink: Category:Keeper_Mode/
 layout: tagpage
 tag: Keeper Mode
 ---

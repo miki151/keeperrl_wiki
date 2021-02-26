@@ -1,6 +1,6 @@
 ---
 title: How to win as an adventurer!!!
-permalink: wiki/How_to_win_as_an_adventurer!!!/
+permalink: How_to_win_as_an_adventurer!!!/
 layout: wiki
 ---
 

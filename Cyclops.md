@@ -1,6 +1,6 @@
 ---
 title: Cyclops
-permalink: wiki/Cyclops/
+permalink: Cyclops/
 layout: wiki
 tags:
  -  Creatures

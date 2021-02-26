@@ -1,6 +1,6 @@
 ---
 title: Alpha15 Changelog
-permalink: wiki/Alpha15_Changelog/
+permalink: Alpha15_Changelog/
 layout: wiki
 tags:
  - Alpha15

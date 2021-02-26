@@ -1,6 +1,6 @@
 ---
 title: Category:Alpha24
-permalink: wiki/Category:Alpha24/
+permalink: Category:Alpha24/
 layout: tagpage
 tag: Alpha24
 ---
