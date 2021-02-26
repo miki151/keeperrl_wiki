@@ -1,0 +1,40 @@
+---
+title: Tree Spirit
+permalink: wiki/Tree_Spirit/
+layout: wiki
+tags:
+ - Creatures
+---
+
+[:Attributes](:Attributes "wikilink")
+-------------------------------------
+
+*Base values*
+
+-   Body Size:Huge
+-   Defense:25
+-   Damage:35
+-   Elf Vision:Yes
+-   Ranged Resistance:Yes
+-   Slow:Yes
+
+Summary
+-------
+
+These are the inhabitants of many a forest in our land. When they die,
+they leave behind wood that can be plundered. Because they are slow
+creatures, a tribe of tree spirits can be killed fairly easily by a well
+equipped werewolf, which can gain up to about 6 levels for it. They can
+be rather good xp.
+
+Traits
+------
+
+-   [Brainless](/wiki/Traits#Brainless "wikilink")
+-   [not Breathing](/wiki/Traits#Not_Breathing "wikilink")
+
+Skills
+------
+
+-   [Elf Vision](:Skills#Elf_Vision "wikilink")
+
