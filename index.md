@@ -11,16 +11,18 @@ layout: wiki
 <br/>
 <h3 align="center">
 <p>
-<a href="http://keeperrl.com/" class="uri">KeeerRL Main Site</a>
-<a href="https://keeperrl.com/category/News/" class="uri">Official development news</a>
-<a href="http://steamcommunity.com/app/329970" class="uri">KeeperRL gaming community on Steam</a>
-<a href="https://discord.gg/XZfCCs5" class="uri">Live Discord chat for KeeperRL</a>
-<a href="http://keeperrl.com/Forum" class="uri">Official discussion forum</a>
-<a href="https://www.reddit.com/r/Keeperrl" class="uri">Karma points for KeeperRL on Reddit</a>
-<a href="https://www.facebook.com/keeperrl" class="uri">KeeperRL friend network on Facebook</a>
-<a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a>
-<a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home
+<a href="http://keeperrl.com/" class="uri">KeeerRL Main Site</a><br/>
+<a href="https://keeperrl.com/category/News/" class="uri">Official development news</a><br/>
+<a href="http://steamcommunity.com/app/329970" class="uri">KeeperRL gaming community on Steam</a><br/>
+<a href="https://discord.gg/XZfCCs5" class="uri">Live Discord chat for KeeperRL</a><br/>
+<a href="http://keeperrl.com/Forum" class="uri">Official discussion forum</a><br/>
+<a href="https://www.reddit.com/r/Keeperrl" class="uri">Karma points for KeeperRL on Reddit</a><br/>
+<a href="https://www.facebook.com/keeperrl" class="uri">KeeperRL friend network on Facebook</a><br/>
+<a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a><br/>
+<a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
+<br/>
 Latest popular feature: Alpha 32 is Released
+<br/>
 </h3>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
