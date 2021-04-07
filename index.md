@@ -4,6 +4,7 @@ permalink: /
 layout: wiki
 ---
 
+<hr>
 <table>
 <thead>
 <tr class="header">
