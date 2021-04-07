@@ -21,26 +21,26 @@ layout: wiki
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
 </h3>
 
+A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
+
 <br/>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
 <br/>
 
-| Gameplay                                                                      
 <hr>
-| -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")                                           
-  -   [How to win as an adventurer!\](/keeperrl_wiki/How_to_win_as_an_adventurer "wikilink")
-  -   [Campaign mode vs Single Map](/keeperrl_wiki/Campaign_mode "wikilink")                                          
-  -   [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink")                                                          
-  -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")                                                      
-  -   [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")                                                        
-  -   [Player ideas, requests and contributions](/keeperrl_wiki/Player_ideas,_requests_and_contributions "wikilink")  
-  -   [Source Code](http://github.com/miki151/keeperrl)                                                
-  -   [Modding Guide](/keeperrl_wiki/Modding_guide "wikilink") (Alpha 26 onwards)                                     
-  -   [Download Mods](/keeperrl_wiki/Download_Mods "wikilink") (Alpha 26 onwards)                                     
-  -   [FAQ](/keeperrl_wiki/FAQ "wikilink")                                                                            |
- 
-Important Concepts                                                            | Other                                                                                               |
+Gameplay Guide                                  
+<hr>
+
+[[Quick Start Walkthrough|Quick Start Walkthrough for Keepers]]
+[[How to win as an adventurer!!!]]
+[[Roguelike Realtime Strategy Concept]]
+[[Campaign mode]]
+[[Endless Waves of Invaders]]
+[[Team Strategy]]
+[[YouTube Videos]]
+[[Shortcut Keys]]
+
 <hr>
 | -   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
      -   [ Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
