@@ -4,7 +4,7 @@ permalink: /
 layout: wiki
 ---
 <title>KeeperRL | Official commnunity wiki</title>
-<img align="center" class="featurette-image img-responsive center-block" src="logo-big.png">
+<img align="center" src="logo-big.png">
 <hr>
 <br/>
 <h1 align="center">Welcome</h1>
@@ -16,6 +16,16 @@ layout: wiki
 <p><a href="https://discord.gg/XZfCCs5">Official Discord for KeeperRL</a></p>
 <p><a href="https://www.facebook.com/keeperrl">KeeperRL on Facebook</a></p>
 <p><a href="https://twitter.com/keeperRL">KeeperRL on Twitter</a></p></th>
+[http://keeperrl.com/ KeeerRL Main Site]
+[https://keeperrl.com/category/News/ Official development news.]
+[http://steamcommunity.com/app/329970 KeeperRL gaming community on Steam]
+[https://discord.gg/XZfCCs5 Live Discord chat for KeeperRL]
+[http://keeperrl.com/Forum Official discussion forum]
+[https://www.reddit.com/r/Keeperrl Karma points for KeeperRL on Reddit]
+[https://www.facebook.com/keeperrl KeeperRL friend network on Facebook]
+[https://twitter.com/keeperRL KeeperRL gossip on Twitter]
+[http://www.roguebasin.com/index.php?title=KeeperRL KeeperRL RogueBasin Home] Latest popular feature (Alpha 31) October 2020:
+[https://steamcommunity.com/games/329970/announcements/detail/2907595185824499748 Warlord Mode]
 </h3>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
