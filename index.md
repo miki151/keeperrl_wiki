@@ -4,7 +4,6 @@ permalink: /
 layout: wiki
 ---
 <hr>
-<th><p><br />
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
