@@ -1,6 +1,6 @@
 ---
 title: Main Page
-permalink: /Main_Page/
+permalink: /
 layout: wiki
 ---
 
@@ -9,8 +9,8 @@ layout: wiki
 <tr class="header">
 <th><p><br />
 <br />
-<font size=14><u>KeeperRL community</u></font><br />
-Welcome!
+<font size=14><u>Welcome to the KeeperRL community</u></font><br />
+<br />
 <a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
 <p><a href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
 <p><a href="http://keeperrl.com/Forum">Forum</a></p>

@@ -9,9 +9,7 @@ layout: wiki
 <tr class="header">
 <th><p><br />
 <br />
-<font size=14><u>Welcome to the<br />
-<br />
-KeeperRL community</u></font><br />
+<font size=14><u>Welcome to the KeeperRL community</u></font><br />
 <br />
 <a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
 <p><a href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
