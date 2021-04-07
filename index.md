@@ -3,7 +3,8 @@ title: KeeperRL Community Wiki - Main Page
 permalink: /
 layout: wiki
 ---
-<img src="logo_big.png" title="Logo" alt="logo_big.png" />
+<title>KeeperRL | Official commnunity wiki</title>
+<img align="center" class="featurette-image img-responsive center-block" src="logo-big.png">
 <hr>
 <br/>
 <h1 align="center">Welcome</h1>
