@@ -9,7 +9,7 @@ layout: wiki
 <tr class="header">
 <th><p><br />
 <br/>
-<font size=14 align="Center"><u>Welcome</u></font><br/>
+<font size=14><align="Center"><u>Welcome</u></font><br/>
 <br />
 <a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
 <p><a href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
@@ -23,8 +23,8 @@ layout: wiki
 </tbody>
 </table>
 
-<img src="_images\Keeper_east.png" title="fig:Keeper_east.png" alt="Keeper_east.png" width="100" />
-<img src="images\Keeper_knight_female_west.png" title="fig:Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
+<img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
+<img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
 
 | Gameplay                                                                      | Latest Versions                                                                                     |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
