@@ -57,5 +57,5 @@ Important Concepts                                                            | 
       -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
 
-<img src="Keeper_knight_east.png" title="fig:Keeper_knight_east.png" alt="Keeper_knight_east.png" width="100" />
-<img src="Keeper_female_west.png" title="fig:Keeper_female_west.png" alt="Keeper_female_west.png" width="100" />
+<img src="images/Keeper_knight_east.png" title="fig:\Keeper knight" alt="_images\Keeper_knight_east.png" width="100" />
+<img src="_images/Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="_images\Keeper_female_west.png" width="100" />
