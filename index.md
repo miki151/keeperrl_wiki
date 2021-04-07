@@ -15,16 +15,14 @@ layout: wiki
 <p><a href="https://www.facebook.com/keeperrl">KeeperRL on Facebook</a></p>
 <p><a href="https://twitter.com/keeperRL">KeeperRL on Twitter</a></p></th>
 </h3>
-<img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
-<img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
+<img src="images/Keeper_east.png" title="fig:\Keeper_east.png" alt="_images/Keeper_east.png" width="100" />
+<img src="_images/Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images/Keeper_knight_female_west.png" width="100" />
 <br/>
 
 | Gameplay                                                                      
------------------------------------------------------------------------------------------------------|
-| -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink") 
-                                                                                
- \* \[\[How to win as an adventurer                                             | !\]\]                                                                                               
-                                                                                                       
+<hr>
+| -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")                                           
+  -   [How to win as an adventurer!\](/keeperrl_wiki/How_to_win_as_an_adventurer "wikilink")
   -   [Campaign mode vs Single Map](/keeperrl_wiki/Campaign_mode "wikilink")                                          
   -   [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink")                                                          
   -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")                                                      
