@@ -10,7 +10,6 @@ layout: wiki
 <h1 align="center">Welcome</h1>
 <br/>
 <h3 align="center">
-<p>
 <a href="http://keeperrl.com/" class="uri">KeeerRL Main Site</a><br/>
 <a href="https://keeperrl.com/category/News/" class="uri">Official development news</a><br/>
 <a href="http://steamcommunity.com/app/329970" class="uri">KeeperRL gaming community on Steam</a><br/>
