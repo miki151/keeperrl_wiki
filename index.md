@@ -4,6 +4,7 @@ permalink: /
 layout: wiki
 ---
 <img align="center" src="logo-big.png">
+A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
 <br/>
@@ -21,7 +22,7 @@ layout: wiki
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
 </h3>
 
-A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
+
 
 <br/>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
