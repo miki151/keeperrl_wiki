@@ -31,18 +31,20 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Gameplay Guide                                  
 <hr>
-
-[[Quick Start Walkthrough|Quick Start Walkthrough for Keepers]]
-[[How to win as an adventurer!!!]]
-[[Roguelike Realtime Strategy Concept]]
-[[Campaign mode]]
-[[Endless Waves of Invaders]]
-[[Team Strategy]]
-[[YouTube Videos]]
-[[Shortcut Keys]]
+[Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
+-How to win as an adventurer
+-Roguelike Realtime Strategy Concept
+-Campaign mode
+-Endless Waves of Invaders
+-Team Strategy
+-YouTube Videos
+-Shortcut Keys
 
 <hr>
-| -   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
+Creature Guide
+<hr>
+
+ -   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
      -   [ Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
      -   [ Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
  -   [Prisoner guide](/keeperrl_wiki/Prisoner_guide "wikilink")                                
