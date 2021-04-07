@@ -32,7 +32,9 @@ layout: wiki
   -   [Modding Guide](/keeperrl_wiki/Modding_guide "wikilink") (Alpha 26 onwards)                                     
   -   [Download Mods](/keeperrl_wiki/Download_Mods "wikilink") (Alpha 26 onwards)                                     
   -   [FAQ](/keeperrl_wiki/FAQ "wikilink")                                                                            |
-| Important Concepts                                                            | Other                                                                                               |
+ 
+Important Concepts                                                            | Other                                                                                               |
+<hr>
 | -   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
      -   [ Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
      -   [ Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
