@@ -9,8 +9,7 @@ layout: wiki
 <tr class="header">
 <th><p><br />
 <br/>
-<h1 align="center"><u>Welcome</u></h1><<br/>
-<br />
+<h1 align="center"><u>Welcome</u></h1>
 <a align="center" href="http://keeperrl.com/">KeeerRL Main Site</a></p>
 <p><a align="center" href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
 <p><a align="center" href="http://keeperrl.com/Forum">Forum</a></p>
@@ -25,7 +24,6 @@ layout: wiki
 </br>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
-
 | Gameplay                                                                      | Latest Versions                                                                                     |
 |-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink") 
