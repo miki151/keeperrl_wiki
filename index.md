@@ -1,9 +1,10 @@
 ---
-title: KeeperRL Community Wiki - Main Page
+title:
 permalink: /
 layout: wiki
 ---
 <img align="center" src="logo-big.png">
+<h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
 <br/>
 <h1 align="center">Welcome</h1>
