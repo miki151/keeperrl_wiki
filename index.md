@@ -20,10 +20,9 @@ layout: wiki
 <a href="https://www.facebook.com/keeperrl" class="uri">KeeperRL friend network on Facebook</a><br/>
 <a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a><br/>
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
-<br/>
-Latest popular feature: Alpha 32 is Released
-<br/>
 </h3>
+
+<br/>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
 <br/>
