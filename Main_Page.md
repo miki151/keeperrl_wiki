@@ -1,33 +1,28 @@
 ---
-title: Main Page
+title: KeeperRL Community Wiki
 permalink: /
 layout: wiki
 ---
-
-<table>
-<thead>
-<tr class="header">
-<th><p><br />
-<br />
-<font size=14><u>Welcome to the KeeperRL community</u></font><br />
-<br />
-<a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
+<title>KeeperRL | Official commnunity wiki</title>
+<img align="center" class="featurette-image img-responsive center-block" src="logo-big.png">
+<hr>
+<br/>
+<h1 align="center">Welcome</h1>
+<br/>
+<h3 align="center">
+<p><a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
 <p><a href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
 <p><a href="http://keeperrl.com/Forum">Forum</a></p>
 <p><a href="https://discord.gg/XZfCCs5">Official Discord for KeeperRL</a></p>
 <p><a href="https://www.facebook.com/keeperrl">KeeperRL on Facebook</a></p>
 <p><a href="https://twitter.com/keeperRL">KeeperRL on Twitter</a></p></th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+</h3>
+<img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
+<img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
+<br/>
 
-<img src="Keeper_east.png" title="fig:Keeper_east.png" alt="Keeper_east.png" width="100" />
-<img src="Keeper_knight_female_west.png" title="fig:Keeper_knight_female_west.png" alt="Keeper_knight_female_west.png" width="100" />
-
-| Gameplay                                                                      | Latest Versions                                                                                     |
-|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Gameplay                                                                      
+-----------------------------------------------------------------------------------------------------|
 | -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink") 
                                                                                 
  \* \[\[How to win as an adventurer                                             | !\]\]                                                                                               
