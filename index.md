@@ -1,5 +1,5 @@
 ---
-title: KeeperRL Community Wiki
+title: KeeperRL Community Wiki - Main Page
 permalink: /
 layout: wiki
 ---
