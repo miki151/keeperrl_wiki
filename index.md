@@ -44,18 +44,22 @@ Gameplay Guide
 <hr>
 Creature Guide
 <hr>
+-[ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
+-   [ Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
+-   [ Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
+-   [Prisoner guide](/keeperrl_wiki/Prisoner_guide "wikilink")                                
+-   Creature natures                                                           
+    -   [ Skills](:Skills "wikilink")                                          
+    -   [ Traits](:Traits "wikilink")                                          
+    -   [ Characteristics](:Characteristics "wikilink")                        
+    -   [ Spells](:Spells "wikilink")                                          
+    -   [ Attributes ](:Attributes "wikilink")                                 
+    -   [ Experience ](:Experience "wikilink")
 
- -   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
-     -   [ Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
-     -   [ Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
- -   [Prisoner guide](/keeperrl_wiki/Prisoner_guide "wikilink")                                
- -   Creature natures                                                           
-     -   [ Skills](:Skills "wikilink")                                          
-     -   [ Traits](:Traits "wikilink")                                          
-     -   [ Characteristics](:Characteristics "wikilink")                        
-     -   [ Spells](:Spells "wikilink")                                          
-     -   [ Attributes ](:Attributes "wikilink")                                 
-     -   [ Experience ](:Experience "wikilink")                                 | -   [ Dungeon Technologies](:Technologies "wikilink")                                               
+<hr>
+Dungeon Guide
+<hr>
+ -   [ Dungeon Technologies](:Technologies "wikilink")                                               
   -   [ Resources](:Resources "wikilink")                                                              
   -   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
       -   [ Rooms](/keeperrl_wiki/Category%3A_Rooms "wikilink")                                                       
