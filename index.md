@@ -15,8 +15,8 @@ layout: wiki
 <p><a href="https://www.facebook.com/keeperrl">KeeperRL on Facebook</a></p>
 <p><a href="https://twitter.com/keeperRL">KeeperRL on Twitter</a></p></th>
 </h3>
-<img src="images/Keeper_east.png" title="fig:\Keeper_east.png" alt="_images/Keeper_east.png" width="100" />
-<img src="_images/Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images/Keeper_knight_female_west.png" width="100" />
+<img src="images/Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
+<img src="_images/Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
 <br/>
 
 | Gameplay                                                                      
