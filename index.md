@@ -3,22 +3,26 @@ title: KeeperRL Community Wiki - Main Page
 permalink: /
 layout: wiki
 ---
-<title>KeeperRL | Official commnunity wiki</title>
-<img align="center" class="featurette-image img-responsive center-block" src="logo-big.png">
+<img align="center" src="logo-big.png">
 <hr>
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
 <h3 align="center">
-<p><a href="http://keeperrl.com/">KeeerRL Main Site</a></p>
-<p><a href="http://steamcommunity.com/app/329970">The KeeperRL community on Steam</a></p>
-<p><a href="http://keeperrl.com/Forum">Forum</a></p>
-<p><a href="https://discord.gg/XZfCCs5">Official Discord for KeeperRL</a></p>
-<p><a href="https://www.facebook.com/keeperrl">KeeperRL on Facebook</a></p>
-<p><a href="https://twitter.com/keeperRL">KeeperRL on Twitter</a></p>
+<p>
+<a href="http://keeperrl.com/" class="uri">KeeerRL Main Site</a>
+<a href="https://keeperrl.com/category/News/" class="uri">Official development news</a>
+<a href="http://steamcommunity.com/app/329970" class="uri">KeeperRL gaming community on Steam</a>
+<a href="https://discord.gg/XZfCCs5" class="uri">Live Discord chat for KeeperRL</a>
+<a href="http://keeperrl.com/Forum" class="uri">Official discussion forum</a>
+<a href="https://www.reddit.com/r/Keeperrl" class="uri">Karma points for KeeperRL on Reddit</a>
+<a href="https://www.facebook.com/keeperrl" class="uri">KeeperRL friend network on Facebook</a>
+<a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a>
+<a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home
+Latest popular feature: Alpha 32 is Released
 </h3>
-<img src="/keeperrl_wiki/_images/Keeper_east.png" title="fig:\Keeper_east.png" alt="/keeperrl_wiki/_images/Keeper_east.png" width="100" />
-<img src="/keeperrl_wiki/_images/Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="/keeperrl_wiki/_images/Keeper_knight_female_west.png" width="100" />
+<img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
+<img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
 <br/>
 
 | Gameplay                                                                      
