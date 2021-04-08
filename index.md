@@ -22,8 +22,6 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
 </h3>
 
-
-
 <br/>
 <img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
 <img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
