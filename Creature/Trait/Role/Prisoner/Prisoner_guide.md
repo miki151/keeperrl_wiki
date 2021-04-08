@@ -15,29 +15,29 @@ Converting prisoners
 Best types of prisoners
 =======================
 
--   [Cyclops](Cyclops "wikilink") make excellent fighters when fully
+-   [/keeperrl_wiki/Cyclops](/keeperrl_wiki/Cyclops "wikilink") make excellent fighters when fully
     equipped
--   The [Vampire Lord](Vampire_Lord "wikilink") is a powerful spell
+-   The [Vampire Lord](/keeperrl_wiki/Vampire_Lord "wikilink") is a powerful spell
     caster
--   [Elven archers](Elven_Archer "wikilink") and
-    [driads](Driad "wikilink") are better archers than you can recruit,
+-   [Elven archers](/keeperrl_wiki/Elven_Archer "wikilink") and
+    [driads](/keeperrl_wiki/Driad "wikilink") are better archers than you can recruit,
     so they are often worth it
--   [Dwarves](dwarf "wikilink") make excellent diggers in your mines
--   [Knights](knight "wikilink") have melee resistance
--   [Human archers](Archer "wikilink") are the best archers.
--   Most bosses are worth it, so [Elf Lord](Elf_Lord "wikilink"), [Dwarf
-    Baron](Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
+-   [Dwarves](/keeperrl_wiki/dwarf "wikilink") make excellent diggers in your mines
+-   [Knights](/keeperrl_wiki/knight "wikilink") have melee resistance
+-   [Human archers](/keeperrl_wiki/Archer "wikilink") are the best archers.
+-   Most bosses are worth it, so [Elf Lord](/keeperrl_wiki/Elf_Lord "wikilink"), [Dwarf
+    Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
 -   Lizardmen have a speed bonus and an optional poison +8 attack
     unarmed
--   The [elementalist](elementalist "wikilink") sucks, he can't even
+-   The [/keeperrl_wiki/elementalist](/keeperrl_wiki/elementalist "wikilink") sucks, he can't even
     summon elementals, so don't bother with him
--   You aren't likely to find a [minotaur](minotaur "wikilink")
+-   You aren't likely to find a [/keeperrl_wiki/minotaur](/keeperrl_wiki/minotaur "wikilink")
     (sometimes they live below castles and they are powerful)
--   The [lizardman chief](lizardman_chief "wikilink") is a bit special
--   [Warriors](warrior "wikilink") from the Viking tribe are very good
+-   The [lizardman chief](/keeperrl_wiki/lizardman_chief "wikilink") is a bit special
+-   [Warriors](/keeperrl_wiki/warrior "wikilink") from the Viking tribe are very good
 -   When you come up against enemy keepers, some of the minions will be
     better than yours if you can get them
--   You can capture enemy [keepers](keeper "wikilink")
+-   You can capture enemy [/keeperrl_wiki/keepers](/keeperrl_wiki/keeper "wikilink")
 -   In endless mode, always take any prisoners you can get, because they
     will be buffed
 -   Basically, capture any powerful humanoid
@@ -46,6 +46,6 @@ Looking after prisoners
 =======================
 
 -   Try not to capture more prisoners than you can look after
--   [Wolves](Wolf "wikilink") are good at looking after prisoners
+-   [Wolves](/keeperrl_wiki/Wolf "wikilink") are good at looking after prisoners
     because you can get a whole pack of them for 1 population slot
 

@@ -4,7 +4,7 @@ permalink: Stealing/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Stealing](Stealing "wikilink")
+1.  REDIRECT [Skills\#/keeperrl_wiki/Stealing](/keeperrl_wiki/Stealing "wikilink")
 
 Stealing
 

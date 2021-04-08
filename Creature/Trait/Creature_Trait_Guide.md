@@ -11,7 +11,7 @@ Animal
 ------
 
 Effected by [amulet of nature
-affinity.](Amulet_of_Nature_Affinity "wikilink")
+affinity.](/keeperrl_wiki/Amulet_of_Nature_Affinity "wikilink")
 
 Blind
 -----

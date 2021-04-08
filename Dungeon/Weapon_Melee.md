@@ -4,6 +4,6 @@ permalink: Weapon_Melee/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Weapon\_Melee](Weapon_Melee "wikilink")
+1.  REDIRECT [Skills\#Weapon\_Melee](/keeperrl_wiki/Weapon_Melee "wikilink")
 
 Creature can fight with weapons.

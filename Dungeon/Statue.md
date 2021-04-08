@@ -7,7 +7,7 @@ layout: wiki
 Type
 ----
 
--   [Installation](Installation "wikilink")
+-   [/keeperrl_wiki/Installation](/keeperrl_wiki/Installation "wikilink")
 
 Description
 -----------

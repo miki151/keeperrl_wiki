@@ -7,7 +7,7 @@ layout: wiki
 <img src="doppleganger.png" title="fig:doppleganger.png" alt="doppleganger.png" width="100" />
 '' Absorber of bodies
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,15 +30,15 @@ traits as well.
 Traits
 ------
 
--   [Uncorporal](Uncorporal "wikilink")
+-   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 
 Tasks
 -----
 
--   [Absorb](Absorbtion "wikilink")
--   [Ritual](Ritual_Room "wikilink")
+-   [Absorb](/keeperrl_wiki/Absorbtion "wikilink")
+-   [Ritual](/keeperrl_wiki/Ritual_Room "wikilink")
 
-[Attraction](Immigration "wikilink")
+[Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
 -   probability : 0.2

@@ -9,7 +9,7 @@ Recommended method
 
 -   The first recommendation is to get familiar with the existing
     modding system on KeeperRL
--   Read the [Download\_Mods](Download_Mods "wikilink") wiki page
+-   Read the [Download\_Mods](/keeperrl_wiki/Download_Mods "wikilink") wiki page
 -   Install some existing mods
 -   Test them
 -   Make some simple changes to the mod files (Try some of the

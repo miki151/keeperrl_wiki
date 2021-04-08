@@ -4,7 +4,7 @@ permalink: Swimming/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Swimming](Swimming "wikilink")
+1.  REDIRECT [Skills\#/keeperrl_wiki/Swimming](/keeperrl_wiki/Swimming "wikilink")
 
 Swimming
 

@@ -4,7 +4,7 @@ permalink: Legendary_Humanoid/
 layout: wiki
 ---
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -24,50 +24,50 @@ layout: wiki
 Traits
 ------
 
--   [Humanoid](Humanoid "wikilink")
+-   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
 
--   [Archery](Archery "wikilink") : 0.0 - 1.0
--   [Sorcery](Sorcery "wikilink") : 0.0 - 1.0
--   [Unarmed Melee](Unarmed_Melee "wikilink") : 0.0 - 1.0
--   [Weapon Melee](Weapon_Melee "wikilink") : 0.0 - 1.0
+-   [/keeperrl_wiki/Archery](/keeperrl_wiki/Archery "wikilink") : 0.0 - 1.0
+-   [/keeperrl_wiki/Sorcery](/keeperrl_wiki/Sorcery "wikilink") : 0.0 - 1.0
+-   [Unarmed Melee](/keeperrl_wiki/Unarmed_Melee "wikilink") : 0.0 - 1.0
+-   [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink") : 0.0 - 1.0
 
 Tasks
 -----
 
--   [Train](Training_Room "wikilink")
--   [Workshop](Manufactories "wikilink")
--   [Study](Library "wikilink")
--   [Sleep](Dormitory "wikilink")
+-   [Train](/keeperrl_wiki/Training_Room "wikilink")
+-   [Workshop](/keeperrl_wiki/Manufactories "wikilink")
+-   [Study](/keeperrl_wiki/Library "wikilink")
+-   [Sleep](/keeperrl_wiki/Dormitory "wikilink")
 
-[Attraction](Immigration "wikilink")
+[Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Dormitory](Dormitory "wikilink")
+-   dorm : [/keeperrl_wiki/Dormitory](/keeperrl_wiki/Dormitory "wikilink")
 -   probability : 0.2
 -   space usage : 3
 -   required tiles
     -   Training Room : 16
--   [Humanoid Mutation](Humanoid_Mutation "wikilink")
+-   [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
 
 Inventory
 ---------
 
--   One [Weapon](Weapons "wikilink")
+-   One [Weapon](/keeperrl_wiki/Weapons "wikilink")
     -   Short Bow \[ 20 - 36 Arrows \]
     -   Flaming Sword
     -   Lead-filled War Hammer
     -   Great Battle Axe
 -   One Items
     -   [Potion of
-        Invisibility](Potion_of_Invisibility "wikilink") :
+        Invisibility](/keeperrl_wiki/Potion_of_Invisibility "wikilink") :
         3-5
     -   Strength, [Dexterity
-        Mushrooms](Dexterity_Mushroom "wikilink") : 3-5
+        Mushrooms](/keeperrl_wiki/Dexterity_Mushroom "wikilink") : 3-5
     -   Random Jewelry
-        -   [Amulet of Warning](Amulet_of_Warning "wikilink")
-        -   [Amulet of Healing](Amulet_of_Healing "wikilink")
-        -   [Amulet of Defense](Amulet_of_Defense "wikilink")
+        -   [Amulet of Warning](/keeperrl_wiki/Amulet_of_Warning "wikilink")
+        -   [Amulet of Healing](/keeperrl_wiki/Amulet_of_Healing "wikilink")
+        -   [Amulet of Defense](/keeperrl_wiki/Amulet_of_Defense "wikilink")
 

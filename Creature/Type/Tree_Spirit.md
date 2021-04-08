@@ -4,7 +4,7 @@ permalink: Tree_Spirit/
 layout: wiki
 ---
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -28,11 +28,11 @@ be rather good xp.
 Traits
 ------
 
--   [Brainless](Brainless "wikilink")
--   [not Breathing](Not_Breathing "wikilink")
+-   [/keeperrl_wiki/Brainless](/keeperrl_wiki/Brainless "wikilink")
+-   [not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
 
 Skills
 ------
 
--   [Elf Vision](Elf_Vision "wikilink")
+-   [Elf Vision](/keeperrl_wiki/Elf_Vision "wikilink")
 

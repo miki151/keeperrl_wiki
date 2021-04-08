@@ -23,7 +23,7 @@ Spawning Cost (gold)
 The first four imps are always free. After that they cost an increasing
 amount of gold to summon.
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -43,12 +43,12 @@ amount of gold to summon.
 Traits
 ------
 
--   [Humanoid](Humanoid "wikilink")
--   [Poison resistance](Poison_Resistance "wikilink")
--   [Courage](Courage "wikilink") : 0.1
+-   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Poison resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
+-   [/keeperrl_wiki/Courage](/keeperrl_wiki/Courage "wikilink") : 0.1
 
 Skills
 ------
 
--   [Construction](Construction "wikilink")
+-   [/keeperrl_wiki/Construction](/keeperrl_wiki/Construction "wikilink")
 

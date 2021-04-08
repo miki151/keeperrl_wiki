@@ -20,9 +20,9 @@ Construction
 
 *Mine and construct rooms.*
 
-Ability to gather [resources](Resources "wikilink"), building
-[rooms](Category%3ARooms "wikilink"), [traps](Traps "wikilink") and
-[installations](Installations "wikilink").
+Ability to gather [resources](/keeperrl_wiki/Resources "wikilink"), building
+[rooms](/keeperrl_wiki/Category%3ARooms "wikilink"), [traps](Traps "wikilink") and
+[installations](/keeperrl_wiki/Installations "wikilink").
 
 Consumption
 -----------
@@ -34,27 +34,27 @@ or more body parts. After that it has all the absorbed creatures higher
 stat values, additional skills and grows new body parts. The absorbed
 creature will die in this process.  
 When it has consumed one head, two arms and two legs it will become a
-[humanoid](Humanoid "wikilink").
+[humanoid](/keeperrl_wiki/Humanoid "wikilink").
 
 Copulation
 ----------
 
-Only copulates with male, [humanoid](Humanoid "wikilink") and
-not [uncorporal](Uncorporal "wikilink") creatures.  
+Only copulates with male, [humanoid](/keeperrl_wiki/Humanoid "wikilink") and
+not [uncorporal](/keeperrl_wiki/Uncorporal "wikilink") creatures.  
 After some time the creature will give birth to one of the following:
 
--   [Goblin](Goblin "wikilink")
--   [Orc](Orc "wikilink")
--   [Orc Shaman](Orc_Shaman "wikilink")
--   [Harpy](Harpy "wikilink")
--   [Ogre](Ogre "wikilink")
--   [Werewolf](Werewolf "wikilink")
--   if [Humanoid Mutation](Humanoid_Mutation "wikilink")
+-   [/keeperrl_wiki/Goblin](/keeperrl_wiki/Goblin "wikilink")
+-   [/keeperrl_wiki/Orc](/keeperrl_wiki/Orc "wikilink")
+-   [Orc Shaman](/keeperrl_wiki/Orc_Shaman "wikilink")
+-   [/keeperrl_wiki/Harpy](/keeperrl_wiki/Harpy "wikilink")
+-   [/keeperrl_wiki/Ogre](/keeperrl_wiki/Ogre "wikilink")
+-   [/keeperrl_wiki/Werewolf](/keeperrl_wiki/Werewolf "wikilink")
+-   if [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
     researched
-    -   [Legendary Humanoid](Legendary_Humanoid "wikilink")
--   if [Beast Mutation](Beast_Mutation "wikilink")
+    -   [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
+-   if [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
     researched
-    -   [Legendary Beast](Legendary_Beast "wikilink")
+    -   [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
 
 Crops
 -----

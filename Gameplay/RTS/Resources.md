@@ -6,12 +6,12 @@ layout: wiki
 
 In KeeperRL the amount of resources you have is *limited*: trees don't
 grow back, all ores are shown. Through the use of alchemy there is an
-exception with [gold](Gold "wikilink") being used to turn
+exception with [gold](/keeperrl_wiki/Gold "wikilink") being used to turn
 into other materials.
 
 To gather resources you have to select them the *Dig or cut tree* tool.
-Your [imps](Imp "wikilink") will then start to harvest the resource and
-carry it to your [stockpiles](Storage "wikilink").
+Your [imps](/keeperrl_wiki/Imp "wikilink") will then start to harvest the resource and
+carry it to your [stockpiles](/keeperrl_wiki/Storage "wikilink").
 
 <img src="Resources-Screenshot.png" title="fig:Resources-Screenshot.png" alt="Resources-Screenshot.png" width="500" />
 Left to right: Gold, wood, iron, adamantium, stone, mana
@@ -22,11 +22,11 @@ Gold
 *You get gold by mining gold veins.*
 
 You need to store gold pieces in a [treasure
-chest](treasure_chest "wikilink").
+chest](/keeperrl_wiki/treasure_chest "wikilink").
 
-Gold is used to build [statues](Statue "wikilink"). It is
+Gold is used to build [statues](/keeperrl_wiki/Statue "wikilink"). It is
 the only way to seriously increase your population cap. Hoarding too
-much gold will attract [bandits](Bandit "wikilink"), and the throne
+much gold will attract [bandits](/keeperrl_wiki/Bandit "wikilink"), and the throne
 itself makes your neighbors hate you more.
 
 The alternative but surefire way of getting gold is by *luring
@@ -41,13 +41,13 @@ Wood
 
 The amount of wood planks per tile is more from trees than from bushes.
 
-Wood is used to build [rooms](Category%3ARooms "wikilink") (around 2/3
-of them) and [installations](Installations "wikilink"), like
-[doors](Door "wikilink"),
-[bridges](Bridge "wikilink"), etc. It's the first
+Wood is used to build [rooms](/keeperrl_wiki/Category%3ARooms "wikilink") (around 2/3
+of them) and [installations](/keeperrl_wiki/Installations "wikilink"), like
+[doors](/keeperrl_wiki/Door "wikilink"),
+[bridges](/keeperrl_wiki/Bridge "wikilink"), etc. It's the first
 resource you are gonna need as it takes some wood per
-[library](Library "wikilink") bookcase, enabling
-[research](Technologies "wikilink").
+[library](/keeperrl_wiki/Library "wikilink") bookcase, enabling
+[research](/keeperrl_wiki/Technologies "wikilink").
 
 Iron
 ----
@@ -56,10 +56,10 @@ Iron
 
 The amount of iron ore per tile is randomized somewhat.
 
-Iron is used to build [rooms](Category%3ARooms "wikilink"), usually with
+Iron is used to build [rooms](/keeperrl_wiki/Category%3ARooms "wikilink"), usually with
 a military theme, such as the [training
-room](Training_Room "wikilink"), the
-[forge](Forge "wikilink").
+room](/keeperrl_wiki/Training_Room "wikilink"), the
+[forge](/keeperrl_wiki/Forge "wikilink").
 
 Adamantium
 ----------
@@ -75,9 +75,9 @@ Stone
 
 *You get stone by mining granite veins.*
 
-Stone is used to build 2 [rooms](Category%3ARooms "wikilink"): the
-[graveyard](Graveyard "wikilink") and the
-[laboratory](Laboratory "wikilink"). It is needed for
+Stone is used to build 2 [rooms](/keeperrl_wiki/Category%3ARooms "wikilink"): the
+[graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
+[laboratory](/keeperrl_wiki/Laboratory "wikilink"). It is needed for
 flooring.
 
 Mana
@@ -88,5 +88,5 @@ Mana
 In free-play mode, you can get mana from studying in the library, if
 this option is turned on during the game setup.
 
-Mana is used to do [research](Technologies "wikilink") and build your
-[throne](Throne "wikilink") once you can.
+Mana is used to do [research](/keeperrl_wiki/Technologies "wikilink") and build your
+[throne](/keeperrl_wiki/Throne "wikilink") once you can.

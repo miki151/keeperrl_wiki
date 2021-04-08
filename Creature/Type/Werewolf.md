@@ -7,7 +7,7 @@ layout: wiki
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />
 ''Naturally regenerates health
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -40,25 +40,25 @@ for a keeper.
 Traits
 ------
 
--   [Animal](Animal "wikilink")
--   [Humanoid](Humanoid "wikilink")
+-   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
+-   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
 
--   [Night Vision](Night_Vision "wikilink")
+-   [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
 
 Tasks
 -----
 
--   [Explore](Explore "wikilink") : Nocturnal
--   [Train](Training_Room "wikilink")
--   [Lair](Beast_Lair "wikilink")
+-   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
+-   [Train](/keeperrl_wiki/Training_Room "wikilink")
+-   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
-[Attraction](Immigration "wikilink")
+[Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](Beast_Lair "wikilink")
+-   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 -   probability : 0.1
 -   space usage : 4
 -   required tiles

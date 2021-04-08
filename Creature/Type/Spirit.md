@@ -7,9 +7,9 @@ layout: wiki
 <img src="spirit.png" title="fig:spirit.png" alt="spirit.png" width="100" />
 ''Summoned protection
 
-Summoned by [summon spirit](Summon_Spirit "wikilink") spell.''
+Summoned by [summon spirit](/keeperrl_wiki/Summon_Spirit "wikilink") spell.''
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -39,6 +39,6 @@ Body Parts
 Traits
 ------
 
--   [Uncorporal](Uncorporal "wikilink")
--   [Flying](Flying "wikilink")
+-   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
 

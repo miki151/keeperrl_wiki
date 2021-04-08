@@ -10,15 +10,15 @@ Game Mechanics
 Ideas that are not about content
 --------------------------------
 
--   [Requests for screen layout](Requests_for_screen_layout "wikilink")
+-   [Requests for screen layout](/keeperrl_wiki/Requests_for_screen_layout "wikilink")
 -   [Requests for keys, buttons,
-    menus](Requests_for_keys,_buttons,_menus "wikilink")
+    menus](/keeperrl_wiki/Requests_for_keys,_buttons,_menus "wikilink")
 -   [Requests for Resource collection
-    mechanics](Requests_for_Resource_collection_mechanics "wikilink")
+    mechanics](/keeperrl_wiki/Requests_for_Resource_collection_mechanics "wikilink")
 -   [Requests for Immigration
-    mechanics](Requests_for_Immigration_mechanics "wikilink")
+    mechanics](/keeperrl_wiki/Requests_for_Immigration_mechanics "wikilink")
 -   [Requests for World map
-    mechanics](Requests_for_World_map_mechanics "wikilink")
+    mechanics](/keeperrl_wiki/Requests_for_World_map_mechanics "wikilink")
 
 Fixed exit points
 -----------------
@@ -294,8 +294,8 @@ moving. probably going to need Up down left and right facing animations
 and models as well. A little detail never hurt right?
 
 -   Nothing major? Heh, heh. --[Red
-    kangaroo](User%3ARed_kangaroo "wikilink")
-    ([talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
+    kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 disassociate tribes with being specifically villains/allies
 ===========================================================

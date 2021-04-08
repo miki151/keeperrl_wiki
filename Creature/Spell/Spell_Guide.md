@@ -5,8 +5,8 @@ layout: wiki
 ---
 
 **Spells** are active abilities with cooldown between uses that can be
-learned by your [Keeper](Keeper "wikilink") and some of your
-[minions](minions "wikilink").
+learned by your [/keeperrl_wiki/Keeper](/keeperrl_wiki/Keeper "wikilink") and some of your
+[/keeperrl_wiki/minions](/keeperrl_wiki/minions "wikilink").
 
 Spells known are based on your Magic Damage training, with each level of
 training providing a new spell. This means that only the Keeper can
@@ -14,7 +14,7 @@ learn all spells in the game, as his or her Magic Damage training caps
 at +12, which is the requirement for the highest level spell. All other
 monsters will only learn spells up to their own Magic Damage training
 cap. This also means that you will need [Sorcery
-techs](Sorcery "wikilink") to train the spells of your
+techs](/keeperrl_wiki/Sorcery "wikilink") to train the spells of your
 minions in your dungeon, as wooden, iron and golden bookcases cap at +3,
 +7 and +12 Magic Damage training, respectively; yet your minions can
 gain spells beyond your current Sorcery tech level by training their
@@ -22,7 +22,7 @@ Magic Damage in combat, gaining new spells as they reach higher Magic
 Damage training.
 
 Cooldown of spell uses is affected by your [Sorcery
-skill](Sorcery "wikilink"), with maximum Sorcery skill (100%)
+skill](/keeperrl_wiki/Sorcery "wikilink"), with maximum /keeperrl_wiki/Sorcery skill (100%)
 halving the cooldown of all spells.
 
 <img src="Spells-ScreenShot.png" title="Spells-ScreenShot.png" alt="Spells-ScreenShot.png" width="200" />
@@ -30,7 +30,7 @@ halving the cooldown of all spells.
 Basic Spells
 ============
 
-Unlocked by [sorcery tech](Sorcery "wikilink") and trained
+Unlocked by [sorcery tech](/keeperrl_wiki/Sorcery "wikilink") and trained
 at a wooden bookcase.
 
 ### Heal Self
@@ -45,7 +45,7 @@ Restores all hit points, but can't grow back limbs.
 -   Requires +2 Magic Damage training.
 -   Cooldown: 30
 
-Summons 3 - 6 [flies](Fly "wikilink") for 100 ticks.
+Summons 3 - 6 [flies](/keeperrl_wiki/Fly "wikilink") for 100 ticks.
 
 ### Heal Other
 
@@ -58,7 +58,7 @@ Advanced Spells
 ===============
 
 Unlocked by [advanced sorcery
-tech](Advanced_Sorcery "wikilink") and trained at an iron
+tech](/keeperrl_wiki/Advanced_Sorcery "wikilink") and trained at an iron
 bookcase.
 
 ### Magic Missile
@@ -74,7 +74,7 @@ through walls.
 -   Requires +4 Magic Damage training.
 -   Cooldown: 60
 
-Summons 3 - 7 [Illusions](Illusion "wikilink") for 5 - 10 ticks.
+Summons 3 - 7 [/keeperrl_wiki/Illusions](/keeperrl_wiki/Illusion "wikilink") for 5 - 10 ticks.
 
 ### Escape
 
@@ -119,7 +119,7 @@ Master Spells
 =============
 
 Unlocked by [master sorcery
-tech](Master_Sorcery "wikilink") and trained at a golden
+tech](/keeperrl_wiki/Master_Sorcery "wikilink") and trained at a golden
 bookcase.
 
 ### Defense
@@ -154,7 +154,7 @@ Buffs Melee Damage.
 -   Requires +10 Magic Damage training.
 -   Cooldown: 20
 
-Summons a [Fire Sphere](Fire_Sphere "wikilink").
+Summons a [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink").
 
 ### Meteor Shower
 

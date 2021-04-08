@@ -7,9 +7,9 @@ layout: wiki
 <img src="fire_sphere.png" title="fig:fire_sphere.png" alt="fire_sphere.png" width="100" />
 ''From magic spells
 
-Summoned by [fire sphere](Fire_Sphere "wikilink") spell.
+Summoned by [fire sphere](/keeperrl_wiki/Fire_Sphere "wikilink") spell.
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -37,9 +37,9 @@ Body Parts
 Traits
 ------
 
--   [Brainless](Brainless "wikilink")
--   [Fire Creature](Fire_Creature "wikilink")
--   [Flying](Flying "wikilink")
--   [Not Breathing](Not_Breathing "wikilink")
--   [Uncorporal](Uncorporal "wikilink")
+-   [/keeperrl_wiki/Brainless](/keeperrl_wiki/Brainless "wikilink")
+-   [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
+-   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
+-   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 

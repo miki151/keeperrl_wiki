@@ -7,7 +7,7 @@ layout: wiki
 Usage
 =====
 
-1.  Used with [ItemTypes](ItemTypes "wikilink") to specify variations of
+1.  Used with [/keeperrl_wiki/ItemTypes](/keeperrl_wiki/ItemTypes "wikilink") to specify variations of
     those items
 2.  Used to define special traits for immigrants.
 

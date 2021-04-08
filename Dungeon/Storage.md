@@ -33,16 +33,16 @@ Other storage
 =============
 
 There are currently 2 types of storage tiles: *material*, which store
-[resources](Resources "wikilink"), *equipment* which store
-[items](Category%3AItems "wikilink")
+[resources](/keeperrl_wiki/Resources "wikilink"), *equipment* which store
+[items](/keeperrl_wiki/Category%3AItems "wikilink")
 
 Storage tiles are free to build and have no upper limit.
 
-The [graveyard](Graveyard "wikilink") stockpile
+The [graveyard](/keeperrl_wiki/Graveyard "wikilink") stockpile
 ------------------------------------------------
 
 While it certainly is the resting place of many of our
-[undead](Undead "wikilink") friends, it is also a the stockpile
+[undead](/keeperrl_wiki/Undead "wikilink") friends, it is also a the stockpile
 for corpses, which means you should always have free tile for the lovely
 bones.
 
@@ -52,7 +52,7 @@ Tips
 There seems to be no upper limit to what a tile can store, which means
 that 1 tile of *everything* can virtually hold... everything.
 
-You can use this trick for a single [graveyard](Graveyard "wikilink")
+You can use this trick for a single [graveyard](/keeperrl_wiki/Graveyard "wikilink")
 tile, provided you are ready to see your graveyard disappear if you have
 room in your population cap and a zombie feels like joining.
 Alternatively you can always have 2, and make it grow with every joiner

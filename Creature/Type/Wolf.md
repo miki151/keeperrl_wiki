@@ -7,7 +7,7 @@ layout: wiki
 <img src="wolf.png" title="fig:wolf.png" alt="wolf.png" width="100" />
 ''Arrive in packs
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -34,23 +34,23 @@ farmers and the like.
 Traits
 ------
 
--   [Animal](Animal "wikilink")
+-   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
 
 Skills
 ------
 
--   [Night Vision](Night_Vision "wikilink")
+-   [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
 
 Tasks
 -----
 
--   [Explore](Explore "wikilink") : Nocturnal
--   [Lair](Beast_Lair "wikilink")
+-   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
+-   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
-[Attraction](Immigration "wikilink")
+[Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](Beast_Lair "wikilink")
+-   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 -   probability : 0.15
 -   pack : 3 - 9
 

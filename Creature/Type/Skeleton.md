@@ -7,7 +7,7 @@ layout: wiki
 <img src="skeleton.png" title="fig:skeleton.png" alt="skeleton.png" width="100" />
 ''Undead minion
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -37,21 +37,21 @@ Look at that happy toothy grin!
 Traits
 ------
 
--   [Undead](Undead "wikilink")
--   [Poison Resistant](Poison_Resistance "wikilink")
--   [Fire Resistant](Fire_Resistant "wikilink")
--   [Ranged Resistance](Ranged_Resistance "wikilink")
+-   [/keeperrl_wiki/Undead](/keeperrl_wiki/Undead "wikilink")
+-   [Poison Resistant](/keeperrl_wiki/Poison_Resistance "wikilink")
+-   [Fire Resistant](/keeperrl_wiki/Fire_Resistant "wikilink")
+-   [Ranged Resistance](/keeperrl_wiki/Ranged_Resistance "wikilink")
 
 Tasks
 -----
 
 *Sorted by preference, topmost is more likely done.*
 
--   [Train](Training_Room "wikilink")
--   [Sleep](Graveyard "wikilink")
+-   [Train](/keeperrl_wiki/Training_Room "wikilink")
+-   [Sleep](/keeperrl_wiki/Graveyard "wikilink")
 
-[Attraction](Immigration "wikilink")
+[Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Graveyard](Graveyard "wikilink")
+-   dorm : [/keeperrl_wiki/Graveyard](/keeperrl_wiki/Graveyard "wikilink")
 

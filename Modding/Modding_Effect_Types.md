@@ -7,7 +7,7 @@ layout: wiki
 Usage
 =====
 
-Used with [ItemTypes](ItemTypes "wikilink") to specify variations of
+Used with [/keeperrl_wiki/ItemTypes](/keeperrl_wiki/ItemTypes "wikilink") to specify variations of
 items
 
 Example from workshops\_menus.txt

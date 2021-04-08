@@ -4,14 +4,14 @@ permalink: Traps/
 layout: wiki
 ---
 
-''All traps require [traps](Traps "wikilink") technology.
+''All traps require [traps](/keeperrl_wiki/Traps "wikilink") technology.
 
--   Traps are made in [workshops](Workshop "wikilink")
+-   Traps are made in [workshops](/keeperrl_wiki/Workshop "wikilink")
 
 Terror trap
 -----------
 
-*Causes the trespasser to [panic.](Panic "wikilink")*
+*Causes the trespasser to [panic.](/keeperrl_wiki/Panic "wikilink")*
 
 -   Duration : 15 ticks.
 -   Causes creature to flee in terror.
@@ -19,7 +19,7 @@ Terror trap
 Gas trap
 --------
 
-*Releases a cloud of [poison gas](Poison_Gas "wikilink").*
+*Releases a cloud of [poison gas](/keeperrl_wiki/Poison_Gas "wikilink").*
 
 -   Gas slowly spreads to nearby tiles.
 -   As the gas spreads it become diluted and deals less damage.

@@ -13,21 +13,21 @@ Workshop
 Forge
 -----
 
--   Requires [Iron Working](Iron_Working "wikilink") researched.
+-   Requires [Iron Working](/keeperrl_wiki/Iron_Working "wikilink") researched.
 -   Produces: all metal weapons and all metal armor
 -   Tile Cost: 20 Iron
 
 Laboratory
 ----------
 
--   Requires [Alchemy](Alchemy "wikilink") researched.
+-   Requires [/keeperrl_wiki/Alchemy](/keeperrl_wiki/Alchemy "wikilink") researched.
 -   Produces: magical potions
 -   Tile Cost: 10 stone
 
 Jeweller
 --------
 
--   Requires [Jewellery](Jewellery "wikilink")
+-   Requires [/keeperrl_wiki/Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -   Produces: jewelry, magical rings, and amulets
 -   Tile Cost: 12 Wood
 

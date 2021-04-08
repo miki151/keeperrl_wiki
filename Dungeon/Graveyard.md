@@ -10,9 +10,9 @@ sleep in.*
 This is the dormitory of the Undead:
 <img src="graveyard.png" title="fig:A small Graveyard for Undead spawning and Corpse Collection." alt="A small Graveyard for Undead spawning and Corpse Collection." width="200" />
 
--   [Zombies](Zombie "wikilink")
--   [Vampires](Vampire "wikilink")
--   [Skeletons](Skeleton "wikilink")
+-   [/keeperrl_wiki/Zombies](/keeperrl_wiki/Zombie "wikilink")
+-   [/keeperrl_wiki/Vampires](/keeperrl_wiki/Vampire "wikilink")
+-   [/keeperrl_wiki/Skeletons](/keeperrl_wiki/Skeleton "wikilink")
 
 Imps bury the corpses of the dead here.
 
@@ -20,7 +20,7 @@ Attraction
 ----------
 
 All Undead need a free space grave and a fresh corpse to
-[spawn](Immigration "wikilink").
+[spawn](/keeperrl_wiki/Immigration "wikilink").
 
 Tile Cost
 ---------

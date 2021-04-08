@@ -4,13 +4,13 @@ permalink: Illusion/
 layout: wiki
 ---
 
-*Summoned by [deception](Deception "wikilink") spell.* A copy of
+*Summoned by [deception](/keeperrl_wiki/Deception "wikilink") spell.* A copy of
 the caster used to distract enemies. The creature that summoned the
 illusions views them as transparent to differentiate between themselves
 and the illusions. To other creatures(that did not summon the illusions)
 they appear the same as the caster.
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -41,10 +41,10 @@ Body Parts
 Traits
 ------
 
--   [Blind](Blind "wikilink")
--   [Flying](Flying "wikilink")
--   [Humanoid](Humanoid "wikilink")
--   [Not Breathing](Not_Breathing "wikilink")
--   [Uncorporal](Uncorporal "wikilink")
--   [Stationary](Stationary "wikilink")
+-   [/keeperrl_wiki/Blind](/keeperrl_wiki/Blind "wikilink")
+-   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
+-   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [/keeperrl_wiki/Stationary](/keeperrl_wiki/Stationary "wikilink")
 

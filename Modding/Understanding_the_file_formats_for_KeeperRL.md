@@ -100,8 +100,8 @@ entries:
     jewellers or lab.
 -   The entry has two possible formats
 
-1) \{\{[ItemType](ItemTypes "wikilink")\} **Speed**
-[ResourceID](ResourceIDs "wikilink") **Amount**\}
+1) \{\{[ItemType](/keeperrl_wiki/ItemTypes "wikilink")\} **Speed**
+[ResourceID](/keeperrl_wiki/ResourceIDs "wikilink") **Amount**\}
 
 Example:
 
@@ -153,8 +153,8 @@ The file always begins like this:
 -   The format for an entry is as follows:
 
 `\{`  
-`  creatureId = \{ `[`CreatureIDMale`](CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` \}`  
-`  tribeAlignment = `[`TribeAlignment`](TribeAlignments "wikilink")  
+`  creatureId = \{ `[`CreatureIDMale`](/keeperrl_wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](/keeperrl_wiki/CreatureIDs "wikilink")` \}`  
+`  tribeAlignment = `[`TribeAlignment`](/keeperrl_wiki/TribeAlignments "wikilink")  
 `  immigrantGroups = \{`“**`ImmigrantSection1`**”` `“**`ImmigrantSection2`**”`...\}`  
 `  technology = \{`  
 `    `“**`TechID1`**”` `“**`TechID2`**”`...`  
@@ -196,7 +196,7 @@ Example:
 -   Entries in the adventurer section enable a new type of **Adventurer
     Class**
 
-`\{ `[`CreatureIDMale`](CreatureIDs "wikilink")` `[`CreatureIDFemale`](CreatureIDs "wikilink")` \} `[`TribeAlignment`](/keeperrl_wiki/TribeAlignments "wikilink")` `“**`HelpText`**”
+`\{ `[`CreatureIDMale`](/keeperrl_wiki/CreatureIDs "wikilink")` `[`CreatureIDFemale`](/keeperrl_wiki/CreatureIDs "wikilink")` \} `[`TribeAlignment`](/keeperrl_wiki/TribeAlignments "wikilink")` `“**`HelpText`**”
 
 Example:
 

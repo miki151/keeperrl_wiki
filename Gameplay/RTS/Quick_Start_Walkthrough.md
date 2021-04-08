@@ -39,7 +39,7 @@ Alternatively, purchase the graphical and audio version from
 
 These videos show other players gaming on KeeperRL.
 
--   [YouTube Videos](YouTube_Videos "wikilink")
+-   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
 -   If you think it will be fun to do your own video, please edit this
     page with your link.
 
@@ -67,8 +67,8 @@ to other players can then invade it.
 Starting position
 -----------------
 
-You start with your [keeper](keeper "wikilink") and 4 minion
-[imps](imp "wikilink"). The screen may look like this:
+You start with your [/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink") and 4 minion
+[/keeperrl_wiki/imps](/keeperrl_wiki/imp "wikilink"). The screen may look like this:
 
 <img src="StartingPosition-Screenshot.png" title="StartingPosition-Screenshot.png" alt="StartingPosition-Screenshot.png" width="1000" />
 
@@ -151,7 +151,7 @@ Along the bottom are your resource stats:
 
 <img src="Resources-Screenshot.png" title="Resources-Screenshot.png" alt="Resources-Screenshot.png" width="1000" />
 
-These [resources](resources "wikilink") are what is needed to build
+These [/keeperrl_wiki/resources](/keeperrl_wiki/resources "wikilink") are what is needed to build
 things in the dungeon. Mana is also used for researching technologies.
 (Under the resource stats you can also see your population limit, which
 turn you are in and how much daylight or night is remaining)
@@ -176,7 +176,7 @@ Select that one and have the imps start digging.
 You can be as creative as you want when it comes to designing the layout
 of your dungeon. The imps dig fairly quickly if they are not mining
 ores; stick to the plain black area and they can dig large
-[rooms](Category%3ARooms "wikilink") in a short time. You can hold down
+[rooms](/keeperrl_wiki/Category%3ARooms "wikilink") in a short time. You can hold down
 shift with the mouse and draw out rectangles, too. Hold down the CTRL
 key and drag to cancel blocks of orders shown on the map.
 
@@ -185,10 +185,10 @@ key and drag to cancel blocks of orders shown on the map.
 Construction
 ------------
 
-Various [constructions](constructions "wikilink") are possible.
+Various [/keeperrl_wiki/constructions](/keeperrl_wiki/constructions "wikilink") are possible.
 Construct items by clicking on the pickaxe icon. Select squares for your
-[imps](imp "wikilink") to dig and cut. Assign dungeon squares for
-storage of [resources](resources "wikilink") and items. Build treasure
+[/keeperrl_wiki/imps](/keeperrl_wiki/imp "wikilink") to dig and cut. Assign dungeon squares for
+storage of [/keeperrl_wiki/resources](/keeperrl_wiki/resources "wikilink") and items. Build treasure
 rooms, dormitories, training rooms, libraries, workshops, forges,
 laboratories, jewellers, ritual rooms, beast lairs, graveyards, prisons
 and torture chambers. The selected construction will highlight in green.
@@ -214,10 +214,10 @@ dig their way in anyway.
 Installations
 -------------
 
-Some [installations](installations "wikilink") require research to do.
+Some [/keeperrl_wiki/installations](/keeperrl_wiki/installations "wikilink") require research to do.
 Install doors, bridges, barricades, torches, eyeballs and your prisoner
 heads in like fashion. You can also install various
-[traps](traps "wikilink").
+[/keeperrl_wiki/traps](/keeperrl_wiki/traps "wikilink").
 
 Message boards can be built by Keepers and can be posted to by the
 public.
@@ -242,11 +242,11 @@ gold, but be careful, bandits will scry your wealth.
 Summoning Extra Imps
 --------------------
 
-Whenever you have enough gold, the [keeper](keeper "wikilink") can
+Whenever you have enough gold, the [/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink") can
 summon more imps. Simply click on the imp icon on your immigration
 panel. I usually add 4 more imps, for a total of 8, very near the
 beginning of the game, because this greatly speeds up your ability to
-dig and gather [resources](resources "wikilink"). I then usually add 4
+dig and gather [/keeperrl_wiki/resources](/keeperrl_wiki/resources "wikilink"). I then usually add 4
 more later on in the game but 12 total seems like enough for me to get
 things done. I'd rather save my gold for other things later.
 
@@ -254,7 +254,7 @@ Library and Research
 --------------------
 
 The next thing you probably want to build is a library. The library is
-crucial because the [keeper](keeper "wikilink") needs it to research any
+crucial because the [/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink") needs it to research any
 new techologies.
 
 Have the imps dig out another room, usually at least 10x20 but it can be
@@ -264,7 +264,7 @@ Then simply build your library in that space from the orders menu. You
 need a large library to research advanced skills and at this point wood
 is plentiful so go ahead and build a large library, 10x10 at least. The
 bookshelves will get in your way, so place them one-by-one at suitable
-locations. The [keeper](keeper "wikilink") will usually immediately move
+locations. The [/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink") will usually immediately move
 to the library and spend most of the time there.
 
 Now that the library is built you can start researching skills. Under
@@ -285,8 +285,8 @@ technologies, which you can experiment with.
 Minions
 -------
 
-You need to build other [rooms](Category%3ARooms "wikilink") to attract
-monsters into your dungeon. Some [minions](minions "wikilink") will set
+You need to build other [rooms](/keeperrl_wiki/Category%3ARooms "wikilink") to attract
+monsters into your dungeon. Some [/keeperrl_wiki/minions](/keeperrl_wiki/minions "wikilink") will set
 up home with you if you just give them a dormitory to rest in. Other
 monsters would like places to train, or build things. Build a graveyard
 to keep corpses and you may be able to raise the dead. Other types of
@@ -303,7 +303,7 @@ types of minion and other minion information. Click on each type of
 minion to see a list of each individual creature and their level. Click
 on any individual creature to see the minion management screen where you
 can control them. There are a list of extra commands when inside a
-minion, such as casting [spells](spells "wikilink"). After taking over a
+minion, such as casting [/keeperrl_wiki/spells](/keeperrl_wiki/spells "wikilink"). After taking over a
 minion's will, press “u” to return to the “dark god” mode.
 
 Press 't' to travel to other map sectors on the campaign map. Note that
@@ -365,7 +365,7 @@ be invaded by other players).
 <img src="TribesStrip-Screenshot.png" title="TribesStrip-Screenshot.png" alt="TribesStrip-Screenshot.png" width="1000" />
 
 The world we live in is inhabited by many [
-creatures](Category%3A_Creatures "wikilink"). For example, you may meet
+creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink"). For example, you may meet
 bandits, dragons, dwarves, elves, lizardmen, humans, spiders, scorpions,
 gnomes, undead, dark elves, minotaur, hydras, giant ants, elementalists,
 witchmen, kobolds, driads and cyclops... (there are a few more). Some
@@ -433,10 +433,10 @@ Invaders
 Rumours about your dungeon will spread as it grows. These will attract
 recruits but can also attract invaders. Invaders may be out to plunder
 your gold, gain combat experience or just to assassinate your
-[keeper](keeper "wikilink"). Invaders may carry useful items to loot and
+[/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink"). Invaders may carry useful items to loot and
 can also help you gain combat experience. If you are overpowered by an
 invading force, such as a dragon you may need to evacuate your
-[keeper](keeper "wikilink") out of a back door. Sometimes invaders may
+[/keeperrl_wiki/keeper](/keeperrl_wiki/keeper "wikilink") out of a back door. Sometimes invaders may
 call off an assault. Most invaders are capable of tracking your keeper
 across the map.
 
@@ -446,7 +446,7 @@ Exploring the Map
 Directly control a minion by taking over its will. Explore the map using
 the arrow keys. Kill local monsters and tribes by commanding a party.
 New teams are set up by clicking “New team” on the
-[minions](minions "wikilink") tab. Then select individual creatures to
+[/keeperrl_wiki/minions](/keeperrl_wiki/minions "wikilink") tab. Then select individual creatures to
 add them to the team. Select the minion you want to lead your party and
 click command to control them. Think carefully before trying to loot a
 dragon's hoard or waking up a cyclops. Wolves naturally form their own

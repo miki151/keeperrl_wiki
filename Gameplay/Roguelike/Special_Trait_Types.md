@@ -12,8 +12,8 @@ Used to determine what special immigrants will appear
 Valid values
 ============
 
--   [AttrBonus](AttrBonuses "wikilink")
+-   [AttrBonus](/keeperrl_wiki/AttrBonuses "wikilink")
 -   ExtraTraining
--   [LastingEffect](LastingEffects "wikilink")
--   [SkillID](SkillIDs "wikilink")
+-   [LastingEffect](/keeperrl_wiki/LastingEffects "wikilink")
+-   [SkillID](/keeperrl_wiki/SkillIDs "wikilink")
 

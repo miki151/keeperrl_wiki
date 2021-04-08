@@ -8,17 +8,17 @@ Description: *Beasts sleep in their cages.*
 
 Beast lair is the dormitory of:
 
--   [Bats](Bat "wikilink")
--   [Ravens](Raven "wikilink")
--   [Wolfs](Wolf "wikilink")
--   [Cave Bears](Cave_Bear "wikilink")
--   [Legendary Beasts](Legendary_Beast "wikilink")
+-   [/keeperrl_wiki/Bats](/keeperrl_wiki/Bat "wikilink")
+-   [/keeperrl_wiki/Ravens](/keeperrl_wiki/Raven "wikilink")
+-   [/keeperrl_wiki/Wolfs](/keeperrl_wiki/Wolf "wikilink")
+-   [Cave Bears](/keeperrl_wiki/Cave_Bear "wikilink")
+-   [Legendary Beasts](/keeperrl_wiki/Legendary_Beast "wikilink")
 
 Attraction
 ----------
 
 All beasts except werewolves only need a free space in the dorm for
-their cages to [immigrate](Immigration "wikilink").
+their cages to [immigrate](/keeperrl_wiki/Immigration "wikilink").
 
 Tile Cost
 ---------

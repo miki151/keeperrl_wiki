@@ -12,52 +12,52 @@ full potential.
 Technology tree
 ---------------
 
-'''[Pig Breeding](Pig_Breeding "wikilink")
+'''[Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
 
   
   
 
-'''[Archery](Archery "wikilink")
+'''[/keeperrl_wiki/Archery](/keeperrl_wiki/Archery "wikilink")
 
   
   
 
-'''[Traps](Traps "wikilink")
+'''[/keeperrl_wiki/Traps](/keeperrl_wiki/Traps "wikilink")
 
   
   
 
-'''[Iron Working](Iron_Working "wikilink")
+'''[Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
 
   
   
-'''[|\_\_\_\_\_\_Two-handed Weapons](Two-handed_Weapons "wikilink")
+'''[|\_\_\_\_\_\_Two-handed Weapons](/keeperrl_wiki/Two-handed_Weapons "wikilink")
 
-'''[|\_\_\_\_\_\_Jewellery](Jewellery "wikilink")
+'''[|\_\_\_\_\_\_/keeperrl_wiki/Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 
-'''[Sorcery](Sorcery "wikilink")
-
-  
-  
-'''[|\_\_\_Advanced Sorcery](Advanced_Sorcery "wikilink")
-
-'''[|\_\_\_\_\_\_Master Sorcery](Master_Sorcery "wikilink")
-
-'''[|\_\_\_\_\_\_Demonology](Demonology "wikilink")
-
-'''[|\_\_\_\_\_\_Magic Weaponry](Magic_Weaponry "wikilink")
-
-'''[Alchemy](Alchemy "wikilink")
+'''[/keeperrl_wiki/Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 
   
   
-'''[|\_\_\_Advanced alchemy](Advanced_Alchemy "wikilink")
+'''[|\_\_\_Advanced Sorcery](/keeperrl_wiki/Advanced_Sorcery "wikilink")
 
-'''[|\_\_\_Alchemical conversion](Alchemical_Conversion "wikilink")
+'''[|\_\_\_\_\_\_Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
 
-'''[|\_\_\_Beast mutation](Beast_Mutation "wikilink")
+'''[|\_\_\_\_\_\_/keeperrl_wiki/Demonology](/keeperrl_wiki/Demonology "wikilink")
 
-'''[|\_\_\_Humanoid mutation](Humanoid_Mutation "wikilink")
+'''[|\_\_\_\_\_\_Magic Weaponry](/keeperrl_wiki/Magic_Weaponry "wikilink")
+
+'''[/keeperrl_wiki/Alchemy](/keeperrl_wiki/Alchemy "wikilink")
+
+  
+  
+'''[|\_\_\_Advanced alchemy](/keeperrl_wiki/Advanced_Alchemy "wikilink")
+
+'''[|\_\_\_Alchemical conversion](/keeperrl_wiki/Alchemical_Conversion "wikilink")
+
+'''[|\_\_\_Beast mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
+
+'''[|\_\_\_Humanoid mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
 
 Pig Breeding
 ------------
@@ -83,7 +83,7 @@ Archery
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Bows](Short_Bow "wikilink")
+    -   [Bows](/keeperrl_wiki/Short_Bow "wikilink")
     -   Archery range
 -   The archery way is to torture and convert driads and elven archers,
     then train them in an archery range. You should be able to get +35
@@ -96,7 +96,7 @@ Traps
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Traps](Traps "wikilink")
+    -   [/keeperrl_wiki/Traps](/keeperrl_wiki/Traps "wikilink")
 -   The traps route is not really recommended since traps were nerfed.
     Lure them in to attack you and wipe them out with traps, but it is
     tricky these days.
@@ -108,7 +108,7 @@ Iron Working
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Forge](Forge "wikilink")
+    -   [/keeperrl_wiki/Forge](/keeperrl_wiki/Forge "wikilink")
     -   Iron Training Dummies
 -   Early on you meet dwarves that usually have 2 handed iron weapons,
     so match their weaponry. You need iron-working and 2-handed weapon
@@ -128,7 +128,7 @@ Two-handed Weapons
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Two-handed weapons](Two-handed "wikilink")
+    -   [/keeperrl_wiki/Two-handed weapons](/keeperrl_wiki/Two-handed "wikilink")
 
 Jewellery
 ---------
@@ -137,7 +137,7 @@ Jewellery
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Jeweler](Jeweler "wikilink")
+    -   [/keeperrl_wiki/Jeweler](/keeperrl_wiki/Jeweler "wikilink")
 -   Jewellery can be very underestimated. It is worth following. Poison
     resistance can be important and allows you to take on the ants and
     explore gnome/dark elf dungeons safely. This gives you superior
@@ -148,7 +148,7 @@ Sorcery
 
 -   Cost : 0 mana (Starting technology)
 -   Unlocks :
-    -   [Basic spells](Basic_Spells "wikilink")
+    -   [Basic spells](/keeperrl_wiki/Basic_Spells "wikilink")
 -   If you want to go down the sorcery path, you need to get the best
     spell casters, namely a warlock keeper with vampires and a vampire
     lord and some orc shaman.
@@ -160,7 +160,7 @@ Advanced Sorcery
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Advanced spells](Basic_Spells "wikilink")
+    -   [Advanced spells](/keeperrl_wiki/Basic_Spells "wikilink")
 
 Master Sorcery
 --------------
@@ -168,9 +168,9 @@ Master Sorcery
 *Requires master sorcery*
 
 -   Cost : 100 mana or [Book of Master
-    Sorcery](Book_of_Master_Sorcery "wikilink")
+    Sorcery](/keeperrl_wiki/Book_of_Master_Sorcery "wikilink")
 -   Unlocks :
-    -   [Master spells](Master_Spells "wikilink")
+    -   [Master spells](/keeperrl_wiki/Master_Spells "wikilink")
 
 Demonology
 ----------
@@ -200,8 +200,8 @@ Alchemy
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [Laboratory](Laboratory "wikilink")
-    -   [Basic potions](Basic_Potions "wikilink")
+    -   [/keeperrl_wiki/Laboratory](/keeperrl_wiki/Laboratory "wikilink")
+    -   [Basic potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -   Take heal potions, slow down potions to throw, speed up potions to
     drink, melee resistance potions to drink, melee vulnerability
     potions to throw. Kit up on alchemy and mushrooms. This is the
@@ -214,9 +214,9 @@ Advanced Alchemy
 *Requires alchemy*
 
 -   Cost : 100 mana or [Book of Advanced
-    Alchemy](Book_of_Avanced_Alchemy "wikilink")
+    Alchemy](/keeperrl_wiki/Book_of_Avanced_Alchemy "wikilink")
 -   Unlocks :
-    -   [Advanced Potions](Advanced_Potions "wikilink")
+    -   [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")
 
 Alchemical Conversion
 ---------------------
@@ -230,9 +230,9 @@ Beast Mutation
 --------------
 
 -   Cost : 100 mana or [Book of Beast
-    Mutation](Book_of_Beast_Mutation "wikilink")
+    Mutation](/keeperrl_wiki/Book_of_Beast_Mutation "wikilink")
 -   Unlocks :
-    -   [Legendary Beast](Legendary_Beast "wikilink")
+    -   [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
 -   You can go the legendary beast route. Succubus pregnancy will get
     you some pretty nasty results.
 
@@ -240,9 +240,9 @@ Humanoid Mutation
 -----------------
 
 -   Cost : 100 mana or [Book of Humanoid
-    Mutation](Book_of_Humanoid_Mutation "wikilink")
+    Mutation](/keeperrl_wiki/Book_of_Humanoid_Mutation "wikilink")
 -   Unlocks :
-    -   [Legendary Humanoid](Legendary_Humanoid "wikilink")
+    -   [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
 -   You can go for the legendary humans as a decent strategy. These guys
     are a bit random but can also use equipment unlike the beasts.
 

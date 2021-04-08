@@ -12,7 +12,7 @@ Q: Why does my save file keep getting bigger the longer I play for?
     die they leave equipment, corpses (and bytes) behind. This is
     perfectly normal and nothing to worry about.
 
-Q: Are the ideas, requests and contributions found [in the ideas section](Player_ideas,_requests_and_contributions "wikilink") actually in the game?
+Q: Are the ideas, requests and contributions found [in the ideas section](/keeperrl_wiki/Player_ideas,_requests_and_contributions "wikilink") actually in the game?
 ====================================================================================================================================================
 
 -   A:Most of them are not. Some of them however, have been used. Others
@@ -38,7 +38,7 @@ Q: How do I beat monster X or Y?
 ================================
 
 -   A: Look up [ the full list of
-    creatures](Category%3A_Creatures "wikilink") for help.
+    creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink") for help.
 
 Q: Is there a guard room or a guard post command?
 =================================================

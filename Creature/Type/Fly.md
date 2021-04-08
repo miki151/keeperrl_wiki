@@ -7,7 +7,7 @@ layout: wiki
 <img src="fly.png" title="fig:fly.png" alt="fly.png" width="100" />
 ''Distraction during combat
 
-[Attributes](Attributes "wikilink")
+[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -23,7 +23,7 @@ layout: wiki
 Summary
 -------
 
-Summoned by [summon insects](Summon_Insects "wikilink") spell.
+Summoned by [summon insects](/keeperrl_wiki/Summon_Insects "wikilink") spell.
 These creatures are nothing but a distraction, but they are a good
 distraction. They buzz in the faces of enemies obscuring their vision
 until the invader is forced to swat them away. All the while, you jab at
@@ -41,7 +41,7 @@ Body Parts
 Traits
 ------
 
--   [Animal](Animal "wikilink")
--   [Courage](Courage "wikilink") : 100
--   [Flying](Flying "wikilink")
+-   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
+-   [/keeperrl_wiki/Courage](/keeperrl_wiki/Courage "wikilink") : 100
+-   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
 
