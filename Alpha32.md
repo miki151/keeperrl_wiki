@@ -4,5 +4,5 @@ permalink: Alpha32/
 layout: wiki
 ---
 
-<hr></hr>
+<hr>
 Released in April 2021
