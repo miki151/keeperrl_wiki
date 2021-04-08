@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha18
-permalink: Category:Alpha18/
-layout: tagpage
-tag: Alpha18
+title: Alpha18
+permalink: Alpha18/
+layout: wiki
 ---
 
 Alpha 18 was released in May 2016. The major changes are as follows:

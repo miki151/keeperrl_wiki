@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha22
-permalink: Category:Alpha22/
-layout: tagpage
-tag: Alpha22
+title: Alpha22
+permalink: Alpha22/
+layout: wiki
 ---
 
 Alpha 22 Changes

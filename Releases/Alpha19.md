@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha19
-permalink: Category:Alpha19/
-layout: tagpage
-tag: Alpha19
+title: Alpha19
+permalink: Alpha19/
+layout: wiki
 ---
 
 Alpha 19 - <http://keeperrl.com/keeperrl-alpha19-is-released/> Released

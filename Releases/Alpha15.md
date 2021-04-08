@@ -1,9 +1,7 @@
 ---
-title: Alpha15 Changelog
-permalink: Alpha15_Changelog/
+title: Alpha15
+permalink: Alpha15/
 layout: wiki
-tags:
- - Alpha15
 ---
 
 *Officially released: 02 July 2015. All of the changelog has been copied

@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha24
-permalink: Category:Alpha24/
-layout: tagpage
-tag: Alpha24
+title: Alpha24
+permalink: Alpha24/
+layout: wiki
 ---
 
 The full change log

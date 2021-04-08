@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha17
-permalink: Category:Alpha17/
-layout: tagpage
-tag: Alpha17
+title: Alpha17
+permalink: Alpha17/
+layout: wiki
 ---
 
 **New features for Alpha 17**

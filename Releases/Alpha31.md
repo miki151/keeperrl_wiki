@@ -5,4 +5,4 @@ layout: wiki
 ---
 
 <hr>
-Released in 2020
+Released in Novemnber 2020

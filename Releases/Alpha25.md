@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha25
-permalink: Category:Alpha25/
-layout: tagpage
-tag: Alpha25
+title: Alpha25
+permalink: Alpha25/
+layout: wiki
 ---
 
 Full change log

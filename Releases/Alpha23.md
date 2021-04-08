@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha23
-permalink: Category:Alpha23/
-layout: tagpage
-tag: Alpha23
+title: Alpha23
+permalink: Alpha23/
+layout: wiki
 ---
 
 Alpha 23 change log

@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha21
-permalink: Category:Alpha21/
-layout: tagpage
-tag: Alpha21
+title: Alpha21
+permalink: Alpha21/
+layout: wiki
 ---
 
 Gameplay changes

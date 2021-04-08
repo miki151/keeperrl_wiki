@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha16
-permalink: Category:Alpha16/
-layout: tagpage
-tag: Alpha16
+title: Alpha16
+permalink: Alpha16/
+layout: wiki
 ---
 
 KeeperRL Alpha16 changelog:

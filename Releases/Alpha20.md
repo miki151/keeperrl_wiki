@@ -1,8 +1,7 @@
 ---
-title: Category:Alpha20
-permalink: Category:Alpha20/
-layout: tagpage
-tag: Alpha20
+title: Alpha20
+permalink: Alpha20/
+layout: wiki
 ---
 
 Alpha 20
