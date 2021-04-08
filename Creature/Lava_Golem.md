@@ -1,9 +1,7 @@
 ---
-title: Lava Golem
+title: Lava_Golem
 permalink: Lava_Golem/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="lava_golem.png" title="fig:lava_golem.png" alt="lava_golem.png" width="100" />

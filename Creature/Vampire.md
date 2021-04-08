@@ -2,9 +2,6 @@
 title: Vampire
 permalink: Vampire/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="vampire.png" title="fig:vampire.png" alt="vampire.png" width="100" />

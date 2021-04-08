@@ -2,8 +2,6 @@
 title: Witchman
 permalink: Witchman/
 layout: wiki
-tags:
- - Creatures
 ---
 
 Witcher reference

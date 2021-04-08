@@ -2,9 +2,6 @@
 title: Goblin
 permalink: Goblin/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="goblin.png" title="fig:goblin.png" alt="goblin.png" width="100" />

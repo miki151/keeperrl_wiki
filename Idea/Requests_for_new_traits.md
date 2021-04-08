@@ -1,5 +1,5 @@
 ---
-title: Requests for new traits
+title: Requests_for_new_traits
 permalink: Requests_for_new_traits/
 layout: wiki
 ---

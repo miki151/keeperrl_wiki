@@ -1,5 +1,5 @@
 ---
-title: Campaign mode
+title: Campaign_mode
 permalink: Campaign_mode/
 layout: wiki
 ---

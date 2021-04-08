@@ -1,8 +1,7 @@
 ---
-title: Category:Spells
-permalink: Category:Spells/
-layout: tagpage
-tag: Spells
+title: Category_Spells
+permalink: Category_Spells/
+layout: wiki
 ---
 
 List of spells

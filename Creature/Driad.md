@@ -2,8 +2,6 @@
 title: Driad
 permalink: Driad/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="driad.png" title="fig:driad.png" alt="driad.png" width="100" />

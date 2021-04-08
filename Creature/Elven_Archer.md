@@ -1,9 +1,7 @@
 ---
-title: Elven Archer
+title: Elven_Archer
 permalink: Elven_Archer/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="elf_archer.png" title="fig:elf_archer.png" alt="elf_archer.png" width="100" />

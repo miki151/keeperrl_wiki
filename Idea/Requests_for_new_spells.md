@@ -1,5 +1,5 @@
 ---
-title: Requests for new spells
+title: Requests_for_new_spells
 permalink: Requests_for_new_spells/
 layout: wiki
 ---

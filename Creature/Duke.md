@@ -2,8 +2,6 @@
 title: Duke
 permalink: Duke/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="knightboss.png" title="fig:knightboss.png" alt="knightboss.png" width="100" />

@@ -1,9 +1,7 @@
 ---
-title: EffectTypeIDs
-permalink: EffectTypeIDs/
+title: Modding_Effect_Types
+permalink: Modding_Effect_Types/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

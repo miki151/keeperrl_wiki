@@ -2,8 +2,6 @@
 title: Shaman
 permalink: Shaman/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="shaman.png" title="fig:shaman.png" alt="shaman.png" width="100" />

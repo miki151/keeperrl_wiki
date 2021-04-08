@@ -1,5 +1,5 @@
 ---
-title: Requests for new damage spells
+title: Requests_for_new_damage_spells
 permalink: Requests_for_new_damage_spells/
 layout: wiki
 ---

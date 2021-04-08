@@ -1,8 +1,7 @@
 ---
-title: Category:Creatures
-permalink: Category:Creatures/
-layout: tagpage
-tag: Creatures
+title: Creatures
+permalink: Creatures/
+layout: wiki
 ---
 
 Here is a list of creatures extracted from the game-code in February

@@ -1,5 +1,5 @@
 ---
-title: Requests for graphics
+title: Requests_for_graphics
 permalink: Requests_for_graphics/
 layout: wiki
 ---

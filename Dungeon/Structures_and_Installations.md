@@ -1,9 +1,7 @@
 ---
-title: Structures and Installations
+title: Structures_and_Installations
 permalink: Structures_and_Installations/
 layout: wiki
-tags:
- -  Keeper Mode
 ---
 
 <img src="Installations-Screenshot.png" title="Installations-Screenshot.png" alt="Installations-Screenshot.png" width="500" />

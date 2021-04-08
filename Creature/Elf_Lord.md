@@ -1,9 +1,7 @@
 ---
-title: Elf Lord
+title: Elf_Lord
 permalink: Elf_Lord/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="elf_lord.png" title="fig:elf_lord.png" alt="elf_lord.png" width="100" />

@@ -1,6 +1,6 @@
 ---
-title: Realtime Strategy Roguelike (concept)
-permalink: /
+title: Roguelike_Realtime_Strategy_Concept
+permalink: Roguelike_Realtime_Strategy_Concept/
 layout: wiki
 ---
 

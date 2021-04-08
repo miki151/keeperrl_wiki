@@ -2,8 +2,6 @@
 title: Unicorn
 permalink: Unicorn/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="unicorn.png" title="fig:unicorn.png" alt="unicorn.png" width="100" />

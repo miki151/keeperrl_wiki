@@ -1,5 +1,5 @@
 ---
-title: Requests for new jewellery
+title: Requests_for_new_jewellery
 permalink: Requests_for_new_jewellery/
 layout: wiki
 ---

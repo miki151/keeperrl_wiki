@@ -1,5 +1,5 @@
 ---
-title: Endless Mode
+title: Endless_Mode
 permalink: Endless_Mode/
 layout: wiki
 ---

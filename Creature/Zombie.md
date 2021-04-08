@@ -2,9 +2,6 @@
 title: Zombie
 permalink: Zombie/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="zombie.png" title="fig:zombie.png" alt="zombie.png" width="100" />

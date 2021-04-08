@@ -2,8 +2,6 @@
 title: Manufactories
 permalink: Manufactories/
 layout: wiki
-tags:
- -  Rooms
 ---
 
 Workshop

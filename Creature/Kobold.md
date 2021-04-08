@@ -2,8 +2,6 @@
 title: Kobold
 permalink: Kobold/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="kobold.png" title="fig:kobold.png" alt="kobold.png" width="100" />

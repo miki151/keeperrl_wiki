@@ -2,9 +2,6 @@
 title: Statue
 permalink: Statue/
 layout: wiki
-tags:
- - Gold|Gold
- - Installations
 ---
 
 Type

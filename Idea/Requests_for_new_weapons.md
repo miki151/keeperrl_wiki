@@ -1,5 +1,5 @@
 ---
-title: Requests for new weapons
+title: Requests_for_new_weapons
 permalink: Requests_for_new_weapons/
 layout: wiki
 ---

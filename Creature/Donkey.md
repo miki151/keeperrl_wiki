@@ -2,8 +2,6 @@
 title: Donkey
 permalink: Donkey/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="donkey.png" title="fig:donkey.png" alt="donkey.png" width="100" />

@@ -2,9 +2,6 @@
 title: Storage
 permalink: Storage/
 layout: wiki
-tags:
- - Keeper Mode
- - Rooms
 ---
 
 Treasure Chest

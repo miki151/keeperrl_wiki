@@ -1,8 +1,7 @@
 ---
-title: Category:Enemies
-permalink: Category:Enemies/
-layout: tagpage
-tag: Enemies
+title: Enemies
+permalink: Enemies/
+layout: wiki
 ---
 
 List of enemies

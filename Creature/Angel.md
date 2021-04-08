@@ -2,8 +2,6 @@
 title: Angel
 permalink: Angel/
 layout: wiki
-tags:
- - Creatures
 ---
 
 Base Stats

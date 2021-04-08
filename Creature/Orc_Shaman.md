@@ -1,10 +1,7 @@
 ---
-title: Orc Shaman
+title: Orc_Shaman
 permalink: Orc_Shaman/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="orcshaman.png" title="fig:orcshaman.png" alt="orcshaman.png" width="100" />

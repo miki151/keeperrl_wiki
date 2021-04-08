@@ -1,10 +1,7 @@
 ---
-title: Cave Bear
+title: Cave_Bear
 permalink: Cave_Bear/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="bear.png" title="fig:bear.png" alt="bear.png" width="100" />

@@ -2,8 +2,6 @@
 title: Elf
 permalink: Elf/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="elf.png" title="fig:elf.png" alt="elf.png" width="100" />

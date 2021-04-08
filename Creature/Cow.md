@@ -2,8 +2,6 @@
 title: Cow
 permalink: Cow/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="cow.png" title="fig:cow.png" alt="cow.png" width="100" />

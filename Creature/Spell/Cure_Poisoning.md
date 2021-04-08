@@ -1,9 +1,7 @@
 ---
-title: Cure Poisoning
+title: Cure_Poisoning
 permalink: Cure_Poisoning/
 layout: wiki
-tags:
- -  Spells
 ---
 
 Cure Poisoning

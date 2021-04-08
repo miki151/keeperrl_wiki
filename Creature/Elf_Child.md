@@ -1,9 +1,7 @@
 ---
-title: Elf Child
+title: Elf_Child
 permalink: Elf_Child/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="elf_child.png" title="fig:elf_child.png" alt="elf_child.png" width="100" />

@@ -1,9 +1,7 @@
 ---
-title: Soft Monster
+title: Soft_Monster
 permalink: Soft_Monster/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="softmonster.png" title="fig:softmonster.png" alt="softmonster.png" width="100" />

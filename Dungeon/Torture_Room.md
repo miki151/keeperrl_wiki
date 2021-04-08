@@ -1,7 +1,7 @@
 ---
-title: Torture Room
+title: Torture_Room
 permalink: Torture_Room/
-redirect_to: /wiki/Prison/
+layout: wiki
 ---
 
 You should automatically be redirected to [Prison](/keeperrl_wiki/Prison/)

@@ -1,5 +1,5 @@
 ---
-title: Requests for Immigration mechanics
+title: Requests_for_Immigration_mechanics
 permalink: Requests_for_Immigration_mechanics/
 layout: wiki
 ---

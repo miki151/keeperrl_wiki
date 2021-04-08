@@ -2,8 +2,6 @@
 title: Pig
 permalink: Pig/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="pig.png" title="fig:pig.png" alt="pig.png" width="100" />

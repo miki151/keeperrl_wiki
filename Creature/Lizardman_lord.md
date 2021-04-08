@@ -1,7 +1,7 @@
 ---
-title: Lizardman lord
+title: Lizardman_lord
 permalink: Lizardman_lord/
-redirect_to: /wiki/Lizardman_Chief/
+layout: wiki
 ---
 
 You should automatically be redirected to [Lizardman Chief](/keeperrl_wiki/Lizardman_Chief/)

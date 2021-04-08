@@ -2,8 +2,6 @@
 title: Fly
 permalink: Fly/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="fly.png" title="fig:fly.png" alt="fly.png" width="100" />

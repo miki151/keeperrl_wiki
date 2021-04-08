@@ -2,10 +2,6 @@
 title: Graveyard
 permalink: Graveyard/
 layout: wiki
-tags:
- -  Alpha24
- -  Keeper Mode
- -  Rooms
 ---
 
 Description: *Spot for hauling dead bodies and for Undead creatures to

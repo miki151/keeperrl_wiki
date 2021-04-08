@@ -1,7 +1,7 @@
 ---
 title: Dormitory
 permalink: Dormitory/
-redirect_to: /wiki/Bed/
+layout: wiki
 ---
 
 You should automatically be redirected to [Bed](/keeperrl_wiki/Bed/)

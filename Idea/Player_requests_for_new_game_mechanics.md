@@ -1,5 +1,5 @@
 ---
-title: Player requests for new game mechanics
+title: Player_requests_for_new_game_mechanics
 permalink: Player_requests_for_new_game_mechanics/
 layout: wiki
 ---

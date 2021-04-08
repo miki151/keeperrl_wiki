@@ -2,8 +2,6 @@
 title: Bed
 permalink: Bed/
 layout: wiki
-tags:
- - Rooms
 ---
 
 Description: *Humanoid minions sleep on their beds.*

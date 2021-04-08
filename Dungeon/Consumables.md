@@ -2,8 +2,6 @@
 title: Consumables
 permalink: Consumables/
 layout: wiki
-tags:
- -  Items
 ---
 
 First Aid Kit

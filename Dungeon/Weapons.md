@@ -2,8 +2,6 @@
 title: Weapons
 permalink: Weapons/
 layout: wiki
-tags:
- -  Items
 ---
 
 One-handed

@@ -1,7 +1,7 @@
 ---
-title: Green dragon
+title: Green_dragon
 permalink: Green_dragon/
-redirect_to: /wiki/Green_Dragon/
+layout: wiki
 ---
 
 You should automatically be redirected to [Green Dragon](/keeperrl_wiki/Green_Dragon/)

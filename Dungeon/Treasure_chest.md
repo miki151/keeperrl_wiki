@@ -1,5 +1,5 @@
 ---
-title: Treasure chest
+title: Treasure_chest
 permalink: Treasure_chest/
 layout: wiki
 ---

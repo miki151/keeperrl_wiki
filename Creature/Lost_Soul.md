@@ -1,9 +1,7 @@
 ---
-title: Lost Soul
+title: Lost_Soul
 permalink: Lost_Soul/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="ghost.png" title="fig:ghost.png" alt="ghost.png" width="100" />

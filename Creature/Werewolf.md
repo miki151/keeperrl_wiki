@@ -2,9 +2,6 @@
 title: Werewolf
 permalink: Werewolf/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />

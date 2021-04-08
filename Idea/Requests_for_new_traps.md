@@ -1,5 +1,5 @@
 ---
-title: Requests for new traps
+title: Requests_for_new_traps
 permalink: Requests_for_new_traps/
 layout: wiki
 ---

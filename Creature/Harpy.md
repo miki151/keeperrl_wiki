@@ -2,9 +2,6 @@
 title: Harpy
 permalink: Harpy/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="harpy.png" title="fig:harpy.png" alt="harpy.png" width="100" />

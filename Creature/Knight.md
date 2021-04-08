@@ -2,8 +2,6 @@
 title: Knight
 permalink: Knight/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="knight.png" title="fig:knight.png" alt="knight.png" width="100" />

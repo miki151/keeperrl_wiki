@@ -1,9 +1,7 @@
 ---
-title: Iron Golem
+title: Iron_Golem
 permalink: Iron_Golem/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="iron_golem.png" title="fig:iron_golem.png" alt="iron_golem.png" width="100" />

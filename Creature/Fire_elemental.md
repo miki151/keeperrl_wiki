@@ -1,9 +1,7 @@
 ---
-title: Fire elemental
+title: Fire_elemental
 permalink: Fire_elemental/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="fire_elemental.png" title="fig:fire_elemental.png" alt="fire_elemental.png" width="100" />

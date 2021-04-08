@@ -2,9 +2,6 @@
 title: Doppleganger
 permalink: Doppleganger/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="doppleganger.png" title="fig:doppleganger.png" alt="doppleganger.png" width="100" />

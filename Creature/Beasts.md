@@ -1,8 +1,7 @@
 ---
-title: Category:Beasts
-permalink: Category:Beasts/
-layout: tagpage
-tag: Beasts
+title: Beasts
+permalink: Beasts/
+layout: wiki
 ---
 
 List of beasts

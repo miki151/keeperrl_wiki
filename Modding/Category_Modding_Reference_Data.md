@@ -1,8 +1,7 @@
 ---
-title: Category:Modding Reference Data
-permalink: Category:Modding_Reference_Data/
-layout: tagpage
-tag: Modding Reference Data
+title: Category_Modding_Reference_Data
+permalink: Category_Modding_Reference_Data/
+layout: wiki
 ---
 
 This reference data was taken from the Alpha 26 source code.

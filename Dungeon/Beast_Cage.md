@@ -1,9 +1,7 @@
 ---
-title: Beast Cage
+title: Beast_Cage
 permalink: Beast_Cage/
 layout: wiki
-tags:
- - Rooms
 ---
 
 Description: *Beasts sleep in their cages.*

@@ -2,8 +2,6 @@
 title: Technologies
 permalink: Technologies/
 layout: wiki
-tags:
- -  Keeper Mode
 ---
 
 Note that on most games it will be possible to have researched all

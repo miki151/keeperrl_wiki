@@ -1,5 +1,5 @@
 ---
-title: Video Tutorials From Nat20
+title: Video_Tutorials_From_Nat20
 permalink: Video_Tutorials_From_Nat20/
 layout: wiki
 ---

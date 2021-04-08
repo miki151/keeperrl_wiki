@@ -1,8 +1,7 @@
 ---
-title: Category:Rooms
-permalink: Category:Rooms/
-layout: tagpage
-tag: Rooms
+title: Rooms
+permalink: Rooms/
+layout: wiki
 ---
 
 In the latest versions of KeeperRL, rooms are constructed by placing

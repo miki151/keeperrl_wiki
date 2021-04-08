@@ -2,9 +2,6 @@
 title: Bat
 permalink: Bat/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="bat.png" title="fig:bat.png" alt="bat.png" width="100" />

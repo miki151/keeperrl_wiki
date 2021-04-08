@@ -1,9 +1,7 @@
 ---
-title: Dark elf lord
+title: Dark_elf_lord
 permalink: Dark_elf_lord/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="Dark_elf_lord.png" title="fig:Dark_elf_lord.png" alt="Dark_elf_lord.png" width="100" />

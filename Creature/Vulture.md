@@ -2,8 +2,6 @@
 title: Vulture
 permalink: Vulture/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="vulture.png" title="fig:vulture.png" alt="vulture.png" width="100" />

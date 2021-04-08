@@ -1,5 +1,5 @@
 ---
-title: Alternative keeper characters
+title: Alternative_keeper_characters
 permalink: Alternative_keeper_characters/
 layout: wiki
 ---

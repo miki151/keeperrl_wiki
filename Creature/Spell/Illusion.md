@@ -2,8 +2,6 @@
 title: Illusion
 permalink: Illusion/
 layout: wiki
-tags:
- - Creatures
 ---
 
 *Summoned by [deception](:Spells#Deception "wikilink") spell.* A copy of

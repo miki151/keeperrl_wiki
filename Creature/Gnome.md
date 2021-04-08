@@ -2,8 +2,6 @@
 title: Gnome
 permalink: Gnome/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="gnome.png" title="fig:gnome.png" alt="gnome.png" width="100" />

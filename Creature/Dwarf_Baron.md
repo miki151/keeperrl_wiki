@@ -1,9 +1,7 @@
 ---
-title: Dwarf Baron
+title: Dwarf_Baron
 permalink: Dwarf_Baron/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="dwarfboss.png" title="fig:dwarfboss.png" alt="dwarfboss.png" width="100" />

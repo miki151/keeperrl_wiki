@@ -1,5 +1,5 @@
 ---
-title: Shortcut Keys
+title: Shortcut_Keys
 permalink: Shortcut_Keys/
 layout: wiki
 ---

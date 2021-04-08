@@ -2,8 +2,6 @@
 title: Goat
 permalink: Goat/
 layout: wiki
-tags:
- - Creatures
 ---
 
 Base Stats

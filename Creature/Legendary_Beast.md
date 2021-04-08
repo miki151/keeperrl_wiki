@@ -1,10 +1,7 @@
 ---
-title: Legendary Beast
+title: Legendary_Beast
 permalink: Legendary_Beast/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 [:Attributes](:Attributes "wikilink")

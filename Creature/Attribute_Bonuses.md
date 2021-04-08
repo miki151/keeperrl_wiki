@@ -1,9 +1,7 @@
 ---
-title: AttrBonuses
-permalink: AttrBonuses/
+title: Attribute_Bonuses
+permalink: Attribute_Bonuses/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

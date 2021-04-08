@@ -2,8 +2,6 @@
 title: Snake
 permalink: Snake/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="snake.png" title="fig:snake.png" alt="snake.png" width="100" />

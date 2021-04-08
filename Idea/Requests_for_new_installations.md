@@ -1,5 +1,5 @@
 ---
-title: Requests for new installations
+title: Requests_for_new_installations
 permalink: Requests_for_new_installations/
 layout: wiki
 ---

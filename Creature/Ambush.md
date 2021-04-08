@@ -2,8 +2,6 @@
 title: Ambush
 permalink: Ambush/
 layout: wiki
-tags:
- -  Skills
 ---
 
 1.  REDIRECT [Skills\#Ambush](/keeperrl_wiki/Skills#Ambush "wikilink")

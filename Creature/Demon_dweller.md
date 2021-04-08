@@ -1,9 +1,7 @@
 ---
-title: Demon dweller
+title: Demon_dweller
 permalink: Demon_dweller/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="Demon_dweller.png" title="fig:Demon_dweller.png" alt="Demon_dweller.png" width="100" />

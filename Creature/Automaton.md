@@ -2,8 +2,6 @@
 title: Automaton
 permalink: Automaton/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="automaton.png" title="fig:automaton.png" alt="automaton.png" width="100" />

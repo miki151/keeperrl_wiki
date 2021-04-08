@@ -2,8 +2,6 @@
 title: Fox
 permalink: Fox/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="fox.png" title="fig:fox.png" alt="fox.png" width="100" />

@@ -2,8 +2,6 @@
 title: Library
 permalink: Library/
 layout: wiki
-tags:
- -  Rooms
 ---
 
 -   Allows your minions to research new Spells.

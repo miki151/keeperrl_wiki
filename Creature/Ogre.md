@@ -2,9 +2,6 @@
 title: Ogre
 permalink: Ogre/
 layout: wiki
-tags:
- - Creatures
- -  Minions
 ---
 
 <img src="troll.png" title="fig:troll.png" alt="troll.png" width="100" />

@@ -1,5 +1,5 @@
 ---
-title: Requests for new allies
+title: Requests_for_new_allies
 permalink: Requests_for_new_allies/
 layout: wiki
 ---

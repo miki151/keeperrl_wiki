@@ -2,8 +2,6 @@
 title: Shelob
 permalink: Shelob/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="szelob.png" title="fig:szelob.png" alt="szelob.png" width="100" />

@@ -1,9 +1,7 @@
 ---
-title: Demon Lord
+title: Demon_Lord
 permalink: Demon_Lord/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="demon_lord.png" title="fig:demon_lord.png" alt="demon_lord.png" width="100" />

@@ -2,8 +2,6 @@
 title: Resources
 permalink: Resources/
 layout: wiki
-tags:
- - Keeper Mode
 ---
 
 In KeeperRL the amount of resources you have is *limited*: trees don't

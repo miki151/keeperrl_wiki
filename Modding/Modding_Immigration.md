@@ -1,6 +1,6 @@
 ---
-title: Immigration.txt
-permalink: Immigration.txt/
+title: Modding_Immigration
+permalink: Modding_Immigration/
 layout: wiki
 ---
 

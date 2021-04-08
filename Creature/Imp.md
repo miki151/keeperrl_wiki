@@ -2,9 +2,6 @@
 title: Imp
 permalink: Imp/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="imp.png" title="fig:imp.png" alt="imp.png" width="100" />

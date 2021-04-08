@@ -2,9 +2,6 @@
 title: Wolf
 permalink: Wolf/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="wolf.png" title="fig:wolf.png" alt="wolf.png" width="100" />

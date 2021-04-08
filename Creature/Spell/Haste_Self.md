@@ -1,9 +1,7 @@
 ---
-title: Haste Self
+title: Haste_Self
 permalink: Haste_Self/
 layout: wiki
-tags:
- -  Spells
 ---
 
 +57 Speed

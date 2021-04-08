@@ -1,9 +1,7 @@
 ---
-title: ViewIDs
-permalink: ViewIDs/
+title: Modding_Views
+permalink: Modding_Views/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

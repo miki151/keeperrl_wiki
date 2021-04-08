@@ -1,6 +1,6 @@
 ---
-title: Effects
-permalink: Effects/
+title: Modding_Effects
+permalink: Modding_Effects/
 layout: wiki
 ---
 

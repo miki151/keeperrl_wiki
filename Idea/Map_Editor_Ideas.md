@@ -1,5 +1,5 @@
 ---
-title: Map Editor Ideas
+title: Map_Editor_Ideas
 permalink: Map_Editor_Ideas/
 layout: wiki
 ---

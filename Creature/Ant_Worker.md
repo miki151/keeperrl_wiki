@@ -1,9 +1,7 @@
 ---
-title: Ant Worker
+title: Ant_Worker
 permalink: Ant_Worker/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="antwork.png" title="antwork.png" alt="antwork.png" width="100" />

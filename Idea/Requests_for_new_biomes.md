@@ -1,5 +1,5 @@
 ---
-title: Requests for new biomes
+title: Requests_for_new_biomes
 permalink: Requests_for_new_biomes/
 layout: wiki
 ---

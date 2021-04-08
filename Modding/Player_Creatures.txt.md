@@ -1,5 +1,5 @@
 ---
-title: Player Creatures.txt
+title: Player_Creatures.txt
 permalink: Player_Creatures.txt/
 layout: wiki
 ---

@@ -2,8 +2,6 @@
 title: Jester
 permalink: Jester/
 layout: wiki
-tags:
- - Creatures
 ---
 
 Base Stats

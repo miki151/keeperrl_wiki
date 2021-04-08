@@ -2,8 +2,6 @@
 title: SkillIDs
 permalink: SkillIDs/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

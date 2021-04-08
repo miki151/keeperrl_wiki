@@ -2,8 +2,6 @@
 title: Chicken
 permalink: Chicken/
 layout: wiki
-tags:
- - Creatures
 ---
 
 -   Defense:2

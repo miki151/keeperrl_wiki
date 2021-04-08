@@ -1,9 +1,7 @@
 ---
-title: Dark elf
+title: Dark_elf
 permalink: Dark_elf/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="Dark_elf.png" title="fig:Dark_elf.png" alt="Dark_elf.png" width="100" />

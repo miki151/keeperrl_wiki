@@ -1,5 +1,5 @@
 ---
-title: YouTube Videos
+title: YouTube_Videos
 permalink: YouTube_Videos/
 layout: wiki
 ---

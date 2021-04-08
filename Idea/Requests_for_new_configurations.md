@@ -1,5 +1,5 @@
 ---
-title: Requests for new configurations
+title: Requests_for_new_configurations
 permalink: Requests_for_new_configurations/
 layout: wiki
 ---

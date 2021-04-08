@@ -1,9 +1,7 @@
 ---
-title: CreatureIDs
-permalink: CreatureIDs/
+title: Modding_Creatures
+permalink: Modding_Creatures/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

@@ -1,5 +1,5 @@
 ---
-title: Requests for new rooms
+title: Requests_for_new_rooms
 permalink: Requests_for_new_rooms/
 layout: wiki
 ---

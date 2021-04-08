@@ -1,9 +1,7 @@
 ---
-title: SpecialTraitTypes
-permalink: SpecialTraitTypes/
+title: Special_Trait_Types
+permalink: Special_Trait_Types/
 layout: wiki
-tags:
- - Modding Reference Data
 ---
 
 Usage

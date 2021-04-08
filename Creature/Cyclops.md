@@ -2,8 +2,6 @@
 title: Cyclops
 permalink: Cyclops/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="cyclops.png" title="fig:cyclops.png" alt="cyclops.png" width="100" />

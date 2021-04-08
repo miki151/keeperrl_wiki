@@ -2,8 +2,6 @@
 title: Elementalist
 permalink: Elementalist/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="elementalist.png" title="fig:elementalist.png" alt="elementalist.png" width="100" />

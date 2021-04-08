@@ -2,9 +2,6 @@
 title: Prisoner
 permalink: Prisoner/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 Since Alpha 24 prisoners keep their stats after being captured. They do

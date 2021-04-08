@@ -1,9 +1,7 @@
 ---
-title: Dark elf warrior
+title: Dark_elf_warrior
 permalink: Dark_elf_warrior/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="Dark_elf_warrior.png" title="fig:Dark_elf_warrior.png" alt="Dark_elf_warrior.png" width="100" />

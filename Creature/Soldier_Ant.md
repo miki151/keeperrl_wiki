@@ -1,9 +1,7 @@
 ---
-title: Soldier Ant
+title: Soldier_Ant
 permalink: Soldier_Ant/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="antw.png" title="fig:antw.png" alt="antw.png" width="100" />

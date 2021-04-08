@@ -1,9 +1,7 @@
 ---
-title: Earth elemental
+title: Earth_elemental
 permalink: Earth_elemental/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="earthelemental.png" title="fig:earthelemental.png" alt="earthelemental.png" width="100" />

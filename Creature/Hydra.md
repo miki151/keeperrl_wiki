@@ -2,8 +2,6 @@
 title: Hydra
 permalink: Hydra/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="hydra.png" title="fig:hydra.png" alt="hydra.png" width="100" />

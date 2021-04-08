@@ -1,9 +1,7 @@
 ---
-title: TraitIDs
-permalink: TraitIDs/
+title: Modding_Traits
+permalink: Modding_Traits/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

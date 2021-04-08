@@ -1,9 +1,7 @@
 ---
-title: Halloween Kid
+title: Halloween_Kid
 permalink: Halloween_Kid/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="halloween_kid1.png" title="fig:halloween_kid1.png" alt="halloween_kid1.png" width="100" />

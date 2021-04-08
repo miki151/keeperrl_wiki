@@ -1,9 +1,7 @@
 ---
-title: FurnitureTypes
-permalink: FurnitureTypes/
+title: Furniture_Types
+permalink: Furniture_Types/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

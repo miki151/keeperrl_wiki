@@ -2,8 +2,6 @@
 title: Flying
 permalink: Flying/
 layout: wiki
-tags:
- -  Traits
 ---
 
 1.  REDIRECT [Traits\#Flying](/keeperrl_wiki/Traits#Flying "wikilink")

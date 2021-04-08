@@ -1,9 +1,7 @@
 ---
-title: Gnome Chief
+title: Gnome_Chief
 permalink: Gnome_Chief/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="gnome_chief.png" title="fig:gnome_chief.png" alt="gnome_chief.png" width="100" />

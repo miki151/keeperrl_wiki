@@ -2,8 +2,6 @@
 title: Spirit
 permalink: Spirit/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="spirit.png" title="fig:spirit.png" alt="spirit.png" width="100" />

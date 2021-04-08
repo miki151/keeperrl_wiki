@@ -1,9 +1,7 @@
 ---
-title: Ritual Room
+title: Ritual_Room
 permalink: Ritual_Room/
 layout: wiki
-tags:
- - Rooms
 ---
 
 Build a ritual room that attracts demonic inhabitants to your Dungeon by

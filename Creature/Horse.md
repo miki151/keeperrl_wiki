@@ -2,8 +2,6 @@
 title: Horse
 permalink: Horse/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="horse.png" title="fig:horse.png" alt="horse.png" width="100" />

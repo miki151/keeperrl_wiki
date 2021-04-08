@@ -1,9 +1,7 @@
 ---
-title: Clay Golem
+title: Clay_Golem
 permalink: Clay_Golem/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="clay_golem.png" title="fig:clay_golem.png" alt="clay_golem.png" width="100" />

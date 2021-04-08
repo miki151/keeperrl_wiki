@@ -2,8 +2,6 @@
 title: Warrior
 permalink: Warrior/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="warrior.png" title="fig:warrior.png" alt="warrior.png" width="100" />

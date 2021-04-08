@@ -1,9 +1,7 @@
 ---
-title: Vampire Lord
+title: Vampire_Lord
 permalink: Vampire_Lord/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="vampirelord.png" title="fig:vampirelord.png" alt="vampirelord.png" width="100" />

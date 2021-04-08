@@ -1,7 +1,7 @@
 ---
-title: Treasure Room
+title: Treasure_Room
 permalink: Treasure_Room/
-redirect_to: /wiki/Storage/
+layout: wiki
 ---
 
 You should automatically be redirected to [Storage](/keeperrl_wiki/Storage/)

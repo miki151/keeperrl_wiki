@@ -1,5 +1,5 @@
 ---
-title: Player ideas, requests and contributions
+title: Player_ideas,_requests_and_contributions
 permalink: Player_ideas,_requests_and_contributions/
 layout: wiki
 ---

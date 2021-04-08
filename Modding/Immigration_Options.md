@@ -1,9 +1,7 @@
 ---
-title: ImmigrationOptions
-permalink: ImmigrationOptions/
+title: Immigration_Options
+permalink: Immigration_Options/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

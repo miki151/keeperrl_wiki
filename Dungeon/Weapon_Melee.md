@@ -1,9 +1,7 @@
 ---
-title: Weapon Melee
+title: Weapon_Melee
 permalink: Weapon_Melee/
 layout: wiki
-tags:
- -  Skills
 ---
 
 1.  REDIRECT [Skills\#Weapon\_Melee](/keeperrl_wiki/Skills#Weapon_Melee "wikilink")

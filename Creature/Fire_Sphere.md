@@ -1,9 +1,7 @@
 ---
-title: Fire Sphere
+title: Fire_Sphere
 permalink: Fire_Sphere/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="fire_sphere.png" title="fig:fire_sphere.png" alt="fire_sphere.png" width="100" />

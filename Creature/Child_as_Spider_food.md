@@ -1,7 +1,7 @@
 ---
-title: Child (Spider food)
-permalink: Child_(Spider_food)/
-redirect_to: /wiki/Child/
+title: Child_as_Spider_food
+permalink: Child_as_Spider_food/
+layout: wiki
 ---
 
 You should automatically be redirected to [Child](/keeperrl_wiki/Child/)

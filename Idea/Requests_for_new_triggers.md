@@ -1,5 +1,5 @@
 ---
-title: Requests for new triggers
+title: Requests_for_new_triggers
 permalink: Requests_for_new_triggers/
 layout: wiki
 ---

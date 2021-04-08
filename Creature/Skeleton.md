@@ -2,9 +2,6 @@
 title: Skeleton
 permalink: Skeleton/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="skeleton.png" title="fig:skeleton.png" alt="skeleton.png" width="100" />

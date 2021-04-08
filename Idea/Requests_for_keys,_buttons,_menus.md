@@ -1,5 +1,5 @@
 ---
-title: Requests for keys, buttons, menus
+title: Requests_for_keys,_buttons,_menus
 permalink: Requests_for_keys,_buttons,_menus/
 layout: wiki
 ---

@@ -2,8 +2,6 @@
 title: Dog
 permalink: Dog/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="dog.png" title="fig:dog.png" alt="dog.png" width="100" /> ''

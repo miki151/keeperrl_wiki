@@ -1,9 +1,7 @@
 ---
-title: VillainTypes
-permalink: VillainTypes/
+title: Villain_Types
+permalink: Villain_Types/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

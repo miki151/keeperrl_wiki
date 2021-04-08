@@ -2,8 +2,6 @@
 title: Dwarf
 permalink: Dwarf/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="Dwarf.png" title="fig:Dwarf.png" alt="Dwarf.png" width="100" />

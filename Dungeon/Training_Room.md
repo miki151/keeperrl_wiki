@@ -1,9 +1,7 @@
 ---
-title: Training Room
+title: Training_Room
 permalink: Training_Room/
 layout: wiki
-tags:
- -  Rooms
 ---
 
 Train your creatures

@@ -2,9 +2,6 @@
 title: Succubus
 permalink: Succubus/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="succubussmall.png" title="fig:succubussmall.png" alt="succubussmall.png" width="100" />

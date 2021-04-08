@@ -2,8 +2,6 @@
 title: Spider
 permalink: Spider/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="spider.png" title="fig:spider.png" alt="spider.png" width="100" />

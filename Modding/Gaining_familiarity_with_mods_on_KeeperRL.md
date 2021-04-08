@@ -1,5 +1,5 @@
 ---
-title: Gaining familiarity with mods on KeeperRL
+title: Gaining_familiarity_with_mods_on_KeeperRL
 permalink: Gaining_familiarity_with_mods_on_KeeperRL/
 layout: wiki
 ---

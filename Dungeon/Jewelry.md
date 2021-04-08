@@ -2,8 +2,6 @@
 title: Jewelry
 permalink: Jewelry/
 layout: wiki
-tags:
- -  Items
 ---
 
 Rings

@@ -1,5 +1,5 @@
 ---
-title: Requests for new technology
+title: Requests_for_new_technology
 permalink: Requests_for_new_technology/
 layout: wiki
 ---

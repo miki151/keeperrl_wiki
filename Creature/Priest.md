@@ -2,8 +2,6 @@
 title: Priest
 permalink: Priest/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="priest.png" title="fig:priest.png" alt="priest.png" width="100" />

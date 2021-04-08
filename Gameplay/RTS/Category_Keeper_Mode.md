@@ -1,8 +1,7 @@
 ---
-title: Category:Keeper Mode
-permalink: Category:Keeper_Mode/
-layout: tagpage
-tag: Keeper Mode
+title: Category_Keeper_Mode
+permalink: Category_Keeper_Mode/
+layout: wiki
 ---
 
 Build your keep, recruit monsters and chop your neighbors into bits. Aim

@@ -1,5 +1,5 @@
 ---
-title: Requests for screen layout
+title: Requests_for_screen_layout
 permalink: Requests_for_screen_layout/
 layout: wiki
 ---

@@ -2,8 +2,6 @@
 title: Jackal
 permalink: Jackal/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="jackal.png" title="fig:jackal.png" alt="jackal.png" width="100" />

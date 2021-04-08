@@ -1,9 +1,7 @@
 ---
-title: BuildRequirements
-permalink: BuildRequirements/
+title: Build_Requirements
+permalink: Build_Requirements/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

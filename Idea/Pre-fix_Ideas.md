@@ -1,5 +1,5 @@
 ---
-title: Pre-fix Ideas
+title: Pre-fix_Ideas
 permalink: Pre-fix_Ideas/
 layout: wiki
 ---

@@ -1,7 +1,7 @@
 ---
-title: Female Keeper
+title: Female_Keeper
 permalink: Female_Keeper/
-redirect_to: /wiki/Keeper/
+layout: wiki
 ---
 
 You should automatically be redirected to [Keeper](/keeperrl_wiki/Keeper/)

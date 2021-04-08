@@ -1,9 +1,7 @@
 ---
-title: Ant Queen
+title: Ant_Queen
 permalink: Ant_Queen/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="antq.png" title="fig:antq.png" alt="antq.png" width="100" />

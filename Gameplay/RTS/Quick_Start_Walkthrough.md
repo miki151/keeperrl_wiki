@@ -1,5 +1,5 @@
 ---
-title: Quick Start Walkthrough
+title: Quick_Start_Walkthrough
 permalink: Quick_Start_Walkthrough/
 layout: wiki
 ---

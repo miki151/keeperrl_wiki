@@ -2,9 +2,6 @@
 title: Keeper
 permalink: Keeper/
 layout: wiki
-tags:
- - Creatures
- -  Keeper Mode
 ---
 
 The Keeper (male or female) is the most valuable entity, if the keeper

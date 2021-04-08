@@ -2,10 +2,6 @@
 title: Throne
 permalink: Throne/
 layout: wiki
-tags:
- -  Alpha20
- -  Keeper Mode
- -  Rooms
 ---
 
 This construction can only be built once, after you defeated a tribe. It

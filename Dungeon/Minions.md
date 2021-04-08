@@ -1,8 +1,7 @@
 ---
-title: Category:Minions
-permalink: Category:Minions/
-layout: tagpage
-tag: Minions
+title: Minions
+permalink: Minions/
+layout: wiki
 ---
 
 Overview

@@ -1,9 +1,7 @@
 ---
-title: Magic Shield
+title: Magic_Shield
 permalink: Magic_Shield/
 layout: wiki
-tags:
- -  Spells
 ---
 
 +15 Defense

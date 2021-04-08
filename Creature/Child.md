@@ -2,8 +2,6 @@
 title: Child
 permalink: Child/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="peasantkid.png" title="fig:peasantkid.png" alt="peasantkid.png" width="100" />

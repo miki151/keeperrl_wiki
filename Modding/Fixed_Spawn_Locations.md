@@ -1,9 +1,7 @@
 ---
-title: FixedSpawnLocations
-permalink: FixedSpawnLocations/
+title: Fixed_Spawn_Locations
+permalink: Fixed_Spawn_Locations/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

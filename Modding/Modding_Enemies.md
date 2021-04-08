@@ -1,9 +1,7 @@
 ---
-title: EnemyIDs
-permalink: EnemyIDs/
+title: Modding_Enemies
+permalink: Modding_Enemies/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

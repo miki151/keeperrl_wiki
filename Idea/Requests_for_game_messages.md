@@ -1,5 +1,5 @@
 ---
-title: Requests for game messages
+title: Requests_for_game_messages
 permalink: Requests_for_game_messages/
 layout: wiki
 ---

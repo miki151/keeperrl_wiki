@@ -1,5 +1,5 @@
 ---
-title: Requests for World map mechanics
+title: Requests_for_World_map_mechanics
 permalink: Requests_for_World_map_mechanics/
 layout: wiki
 ---

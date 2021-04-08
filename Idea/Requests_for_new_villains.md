@@ -1,5 +1,5 @@
 ---
-title: Requests for new villains
+title: Requests_for_new_villains
 permalink: Requests_for_new_villains/
 layout: wiki
 ---

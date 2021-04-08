@@ -2,8 +2,6 @@
 title: Lizardman
 permalink: Lizardman/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="lizardman.png" title="fig:lizardman.png" alt="lizardman.png" width="100" />

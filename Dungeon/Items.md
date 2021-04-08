@@ -1,8 +1,7 @@
 ---
-title: Category:Items
-permalink: Category:Items/
-layout: tagpage
-tag: Items
+title: Items
+permalink: Items/
+layout: wiki
 ---
 
 There are different categories of items available. Weapons can be

@@ -1,5 +1,5 @@
 ---
-title: Build Menu.txt
+title: Build_Menu.txt
 permalink: Build_Menu.txt/
 layout: wiki
 ---

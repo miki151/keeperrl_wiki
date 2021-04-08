@@ -1,9 +1,7 @@
 ---
-title: Air Elemental
+title: Air_Elemental
 permalink: Air_Elemental/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="air_element.png" title="fig:air_element.png" alt="air_element.png" width="100" />

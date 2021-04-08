@@ -2,9 +2,6 @@
 title: Raven
 permalink: Raven/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="raven.png" title="fig:raven.png" alt="raven.png" width="100" />

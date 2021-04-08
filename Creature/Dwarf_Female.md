@@ -1,9 +1,7 @@
 ---
-title: Dwarf Female
+title: Dwarf_Female
 permalink: Dwarf_Female/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="dwarf_f.png" title="fig:dwarf_f.png" alt="dwarf_f.png" width="100" />

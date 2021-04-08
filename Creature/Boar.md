@@ -2,8 +2,6 @@
 title: Boar
 permalink: Boar/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="boar.png" title="fig:boar.png" alt="boar.png" width="100" />

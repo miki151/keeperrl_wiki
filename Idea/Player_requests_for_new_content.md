@@ -1,5 +1,5 @@
 ---
-title: Player requests for new content
+title: Player_requests_for_new_content
 permalink: Player_requests_for_new_content/
 layout: wiki
 ---

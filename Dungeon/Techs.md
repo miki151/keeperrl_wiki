@@ -1,6 +1,6 @@
 ---
-title: TechIDs
-permalink: TechIDs/
+title: Techs
+permalink: Techs/
 layout: wiki
 ---
 

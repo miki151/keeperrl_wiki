@@ -2,8 +2,6 @@
 title: Minotaur
 permalink: Minotaur/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="minotaur.png" title="fig:minotaur.png" alt="minotaur.png" width="100" />

@@ -2,8 +2,6 @@
 title: Rat
 permalink: Rat/
 layout: wiki
-tags:
- -  Creatures
 ---
 
 <img src="rat.png" title="fig:rat.png" alt="rat.png" width="100" />

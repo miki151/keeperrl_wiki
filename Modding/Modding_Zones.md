@@ -1,6 +1,6 @@
 ---
-title: ZoneIds
-permalink: ZoneIds/
+title: Modding_Zones
+permalink: Modding_Zones/
 layout: wiki
 ---
 

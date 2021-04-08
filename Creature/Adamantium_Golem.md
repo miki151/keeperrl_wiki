@@ -1,9 +1,7 @@
 ---
-title: Adamantium Golem
+title: Adamantium_Golem
 permalink: Adamantium_Golem/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="ada_golem.png" title="fig:ada_golem.png" alt="ada_golem.png" width="100" />

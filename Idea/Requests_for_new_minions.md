@@ -1,5 +1,5 @@
 ---
-title: Requests for new minions
+title: Requests_for_new_minions
 permalink: Requests_for_new_minions/
 layout: wiki
 ---

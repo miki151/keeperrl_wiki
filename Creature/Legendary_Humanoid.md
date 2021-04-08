@@ -1,10 +1,7 @@
 ---
-title: Legendary Humanoid
+title: Legendary_Humanoid
 permalink: Legendary_Humanoid/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 [:Attributes](:Attributes "wikilink")

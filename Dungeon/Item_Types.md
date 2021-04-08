@@ -1,9 +1,7 @@
 ---
-title: ItemTypes
-permalink: ItemTypes/
+title: Item_Types
+permalink: Item_Types/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

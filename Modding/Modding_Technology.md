@@ -1,6 +1,6 @@
 ---
-title: Technology.txt
-permalink: Technology.txt/
+title: Modding_Technology
+permalink: Modding_Technology/
 layout: wiki
 ---
 

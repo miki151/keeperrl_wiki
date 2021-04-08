@@ -1,9 +1,7 @@
 ---
-title: TribeAlignments
-permalink: TribeAlignments/
+title: Tribe_Alignments
+permalink: Tribe_Alignments/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

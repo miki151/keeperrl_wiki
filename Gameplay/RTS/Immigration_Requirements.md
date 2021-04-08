@@ -1,9 +1,7 @@
 ---
-title: ImmigrationRequirements
-permalink: ImmigrationRequirements/
+title: Immigration_Requirements
+permalink: Immigration_Requirements/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

@@ -1,7 +1,7 @@
 ---
-title: Category:Advances
-permalink: Category:Advances/
-redirect_to: /wiki/:Technologies/
+title: Advances
+permalink: Advances/
+layout: wiki
 ---
 
 You should automatically be redirected to [:Technologies](/keeperrl_wiki/:Technologies/)

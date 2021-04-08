@@ -1,7 +1,7 @@
 ---
-title: Female Adventurer
+title: Female_Adventurer
 permalink: Female_Adventurer/
-redirect_to: /wiki/Adventurer/
+layout: wiki
 ---
 
 You should automatically be redirected to [Adventurer](/keeperrl_wiki/Adventurer/)

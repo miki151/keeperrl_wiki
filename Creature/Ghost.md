@@ -2,9 +2,6 @@
 title: Ghost
 permalink: Ghost/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="ghost.png" title="fig:ghost.png" alt="ghost.png" width="100" />

@@ -1,9 +1,7 @@
 ---
-title: Tree Spirit
+title: Tree_Spirit
 permalink: Tree_Spirit/
 layout: wiki
-tags:
- - Creatures
 ---
 
 [:Attributes](:Attributes "wikilink")

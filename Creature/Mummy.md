@@ -2,8 +2,6 @@
 title: Mummy
 permalink: Mummy/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="mummy.png" title="fig:mummy.png" alt="mummy.png" width="100" />

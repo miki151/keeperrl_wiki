@@ -2,8 +2,6 @@
 title: Bandit
 permalink: Bandit/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="bandit.png" title="fig:bandit.png" alt="bandit.png" width="100" />

@@ -2,8 +2,6 @@
 title: LastingEffects
 permalink: LastingEffects/
 layout: wiki
-tags:
- -  Modding Reference Data
 ---
 
 Usage

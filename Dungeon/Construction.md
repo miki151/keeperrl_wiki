@@ -2,8 +2,6 @@
 title: Construction
 permalink: Construction/
 layout: wiki
-tags:
- -  Skills
 ---
 
 1.  REDIRECT [Skills\#Construction](/keeperrl_wiki/Skills#Construction "wikilink")

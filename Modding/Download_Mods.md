@@ -1,5 +1,5 @@
 ---
-title: Download Mods
+title: Download_Mods
 permalink: Download_Mods/
 layout: wiki
 ---

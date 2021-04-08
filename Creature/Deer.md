@@ -2,8 +2,6 @@
 title: Deer
 permalink: Deer/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="Deer.png" title="fig:Deer.png" alt="Deer.png" width="100" />

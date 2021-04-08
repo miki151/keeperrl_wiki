@@ -2,8 +2,6 @@
 title: Armor
 permalink: Armor/
 layout: wiki
-tags:
- -  Items
 ---
 
 Helmets

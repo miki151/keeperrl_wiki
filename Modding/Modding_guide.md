@@ -1,5 +1,5 @@
 ---
-title: Modding guide
+title: Modding_guide
 permalink: Modding_guide/
 layout: wiki
 ---

@@ -1,5 +1,5 @@
 ---
-title: Guide for Adventurer mode
+title: Guide_for_Adventurer_mode
 permalink: Guide_for_Adventurer_mode/
 layout: wiki
 ---

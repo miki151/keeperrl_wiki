@@ -1,9 +1,7 @@
 ---
-title: Water Elemental
+title: Water_Elemental
 permalink: Water_Elemental/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="waterelement.png" title="fig:waterelement.png" alt="waterelement.png" width="100" />

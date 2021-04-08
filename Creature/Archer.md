@@ -2,8 +2,6 @@
 title: Archer
 permalink: Archer/
 layout: wiki
-tags:
- - Creatures
 ---
 
 Base Stats

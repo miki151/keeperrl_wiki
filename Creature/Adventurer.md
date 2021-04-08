@@ -2,8 +2,6 @@
 title: Adventurer
 permalink: Adventurer/
 layout: wiki
-tags:
- - Creatures
 ---
 
 <img src="adventurer.png" title="fig:adventurer.png" alt="adventurer.png" width="100" />

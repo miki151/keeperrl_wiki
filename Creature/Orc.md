@@ -2,9 +2,6 @@
 title: Orc
 permalink: Orc/
 layout: wiki
-tags:
- - Creatures
- - Minions
 ---
 
 <img src="orc.png" title="fig:orc.png" alt="orc.png" width="100" />

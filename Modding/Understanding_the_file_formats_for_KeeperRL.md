@@ -1,5 +1,5 @@
 ---
-title: Understanding the file formats for KeeperRL
+title: Understanding_the_file_formats_for_KeeperRL
 permalink: Understanding_the_file_formats_for_KeeperRL/
 layout: wiki
 ---

@@ -2,8 +2,6 @@
 title: Prison
 permalink: Prison/
 layout: wiki
-tags:
- -  Rooms
 ---
 
 It is possible to build separate prisons and torture rooms but I tend to
