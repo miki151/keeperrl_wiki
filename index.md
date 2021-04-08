@@ -30,7 +30,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Gameplay Guide                                  
 <hr>
--   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
+-   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Gameplay/Quick_Start_Walkthrough "wikilink")
 -   [How to win as an adventurer](/keeperrl_wiki/How to win as an adventurer "wikilink")
 -   [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike Realtime Strategy Concept "wikilink")
 -   [Campaign mode](/keeperrl_wiki/Campaign mode "wikilink")
@@ -61,13 +61,13 @@ Dungeon Guide
 -   [ Resources](:Resources "wikilink")                                                              
 -   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
    -   [ Rooms](/keeperrl_wiki/Category%3A_Rooms "wikilink")                                                       
-   -   [Structures and Installations](/keeperrl_wiki/Structures_and_Installations "wikilink")                      
-   -   [ Traps ](:Traps "wikilink")                                                                 
+        -   [Structures and Installations](/keeperrl_wiki/Structures_and_Installations "wikilink")                      
+       -   [ Traps ](:Traps "wikilink")                                                                 
    -   [ Items](/keeperrl_wiki/Category%3A_Items "wikilink")                                                           
-      -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
-      -   [Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
-      -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
-      -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
+       -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
+       -   [Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
+       -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
+       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
 
 <hr>
 Release History Guide
