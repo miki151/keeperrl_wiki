@@ -32,14 +32,14 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Gameplay Guide                                  
 <hr>
-[Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
--How to win as an adventurer
--Roguelike Realtime Strategy Concept
--Campaign mode
--Endless Waves of Invaders
--Team Strategy
--YouTube Videos
--Shortcut Keys
+-[Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
+-[How to win as an adventurer](/keeperrl_wiki/How to win as an adventurer "wikilink")
+-[Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike Realtime Strategy Concept "wikilink")
+-[Campaign mode](/keeperrl_wiki/Campaign mode "wikilink")
+-[Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink") 
+-[Team Strategy](/keeperrl_wiki/Team Strategy "wikilink")
+-[YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
+-[Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
 
 <hr>
 Creature Guide
@@ -59,17 +59,35 @@ Creature Guide
 <hr>
 Dungeon Guide
 <hr>
- -   [ Dungeon Technologies](:Technologies "wikilink")                                               
-  -   [ Resources](:Resources "wikilink")                                                              
-  -   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
-      -   [ Rooms](/keeperrl_wiki/Category%3A_Rooms "wikilink")                                                       
-      -   [Structures and Installations](/keeperrl_wiki/Structures_and_Installations "wikilink")                      
-      -   [ Traps ](:Traps "wikilink")                                                                 
-  -   [ Items](/keeperrl_wiki/Category%3A_Items "wikilink")                                                           
+-[ Dungeon Technologies](:Technologies "wikilink")                                               
+-[ Resources](:Resources "wikilink")                                                              
+-[Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
+-   [ Rooms](/keeperrl_wiki/Category%3A_Rooms "wikilink")                                                       
+-   [Structures and Installations](/keeperrl_wiki/Structures_and_Installations "wikilink")                      
+-   [ Traps ](:Traps "wikilink")                                                                 
+ -   [ Items](/keeperrl_wiki/Category%3A_Items "wikilink")                                                           
       -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
       -   [Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
       -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
 
+<hr>
+Release History Guide
+<hr>
+-[Alpha31](:Alpha31 "wikilink") | Introducing Warlord Mode
+-[Alpha30](:Alpha30 "wikilink") | Introducing Gnome Keepers\Many Mods at once *
+-[Alpha29](:Alpha29 "wikilink") | Introducing Steam workshop integration *
+-[Alpha28](:Alpha28 "wikilink") | Introducing Explosion of free game content *
+-[Alpha27](:Alpha27 "wikilink") | Introducing  Z-Levels *
+-[Alpha26](:Alpha26 "wikilink") | Introducing  Modding support\Building outside *
+-[Alpha25](:Alpha25 "wikilink") | Introducing  Dark knight keepers\moats *
+-[Alpha24](:Alpha24 "wikilink") | Introducing  Convertible prisoners who keep stats *
+-[Alpha23](:Alpha23 "wikilink") | Introducing  Endless mode *
+-[Alpha22](:Alpha22 "wikilink") | Introducing  Tutorial *
+-[Alpha21](:Alpha21 "wikilink") | Introducing  Immigration system upgraded |- !
+
+
 <img src="images/Keeper_knight_east.png" title="fig:\Keeper knight" alt="_images\Keeper_knight_east.png" width="100" />
 <img src="_images/Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="_images\Keeper_female_west.png" width="100" />
+
+Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
