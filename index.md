@@ -23,8 +23,8 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 </h3>
 
 <br/>
-<img src="_images\Keeper_east.png" title="fig:\Keeper_east.png" alt="_images\Keeper_east.png" width="100" />
-<img src="_images\Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="_images\Keeper_knight_female_west.png" width="100" />
+<img src="Keeper_east.png" title="fig:\Keeper_east.png" alt="Keeper_east.png" width="100" />
+<img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
 <br/>
 
 <hr>
@@ -85,7 +85,7 @@ Release History Guide
 -   [Alpha21](:Alpha21 "wikilink") | Introducing  Immigration system upgraded
 
 
-<img src="images/Keeper_knight_east.png" title="fig:\Keeper knight" alt="_images\Keeper_knight_east.png" width="100" />
-<img src="_images/Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="_images\Keeper_female_west.png" width="100" />
+<img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
+<img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
