@@ -29,7 +29,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 [Gameplay Guide](Gameplay_Guide "wikilink")                                 
 <hr>
--   [Quick Start Walkthrough for Keepers](Gameplay/Quick_Start_Walkthrough "wikilink")
+-   [Quick Start Walkthrough for Keepers](Quick_Start_Walkthrough "wikilink")
 -   [How to win as an adventurer](How_to_win_as_an_adventurer "wikilink")
 -   [Roguelike Realtime Strategy Concept](Roguelike_Realtime_Strategy_Concept "wikilink")
 -   [Campaign mode](Campaign_mode "wikilink")
