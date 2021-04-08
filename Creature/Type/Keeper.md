@@ -44,13 +44,13 @@ Dark Knight Attributes
 Traits
 ------
 
--   [Humanoid](/keeperrl_wiki/Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Tasks
 -----
 
 *sorted by preference, topmost is more likely done*
 
--   [Study](:Library "wikilink")
--   [Train](:Training_Room "wikilink")
+-   [Study](Library "wikilink")
+-   [Train](Training_Room "wikilink")
 

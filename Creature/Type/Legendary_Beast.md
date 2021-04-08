@@ -4,7 +4,7 @@ permalink: Legendary_Beast/
 layout: wiki
 ---
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -26,21 +26,21 @@ Traits
 
 -   Random
     -   none
-    -   [Undead](:Traits#Undead "wikilink")
+    -   [Undead](Undead "wikilink")
 -   Random
     -   none
-    -   [Swimming](:Traits#Swimming "wikilink")
+    -   [Swimming](Swimming "wikilink")
 -   Random
     -   none
-    -   [Uncorporal](:Traits#Uncorporal "wikilink")
+    -   [Uncorporal](Uncorporal "wikilink")
 -   Random
     -   none
         -   OR
-    -   [Flying](:Traits#Flying "wikilink")
-    -   [Body parts](:Attributes#Body_Parts "wikilink") : 2 Wings
+    -   [Flying](Flying "wikilink")
+    -   [Body parts](Body_Parts "wikilink") : 2 Wings
 -   Random
-    -   [Poison Attack](:Effects#Poison "wikilink")
-    -   [Fire Attack](:Effects#Fire "wikilink")
+    -   [Poison Attack](Poison "wikilink")
+    -   [Fire Attack](Fire "wikilink")
 
 Body Parts
 ----------
@@ -48,10 +48,10 @@ Body Parts
 -   Arms : 0 | 2
 -   Legs : 0 | 2 | 4
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](:Beast_Lair "wikilink")
+-   dorm : [Beast Lair](Beast_Lair "wikilink")
 -   probability : 0.2
--   [Beast Mutation](:Technologies#Beast_Mutation "wikilink")
+-   [Beast Mutation](Beast_Mutation "wikilink")
 

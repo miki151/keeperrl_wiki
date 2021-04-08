@@ -67,7 +67,7 @@ Barricade
 *Place it on tiles next to a wall.*
 
 -   Cost : 20 wood
--   Requires : [Crafting](:Technologies#Crafting "wikilink")
+-   Requires : [Crafting](Crafting "wikilink")
 
 Barricades let the air through, not your minions! Pretty useful to have
 a indoor pigsty without corpse rotting hazard. Best is to have a
@@ -110,7 +110,7 @@ Portal
 Gold Statue
 -----------
 
--   Less effective than the [throne](:Throne "wikilink") but you can add
+-   Less effective than the [throne](Throne "wikilink") but you can add
     as many statues as you want - the minions like fine art!
 -   Augments the population cap by 1.''
 -   Cost: 50 gold
@@ -138,6 +138,6 @@ Prisoner Head
 
 *Impaled head of an executed prisoner. Aggravates enemies.*
 
--   Cost : 1 [prisoner head](:Prisoner#Tasks "wikilink")
+-   Cost : 1 [prisoner head](Tasks "wikilink")
 -   Each head increase the chance to be attacked by villages.
 

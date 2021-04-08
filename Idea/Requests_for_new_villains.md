@@ -432,7 +432,7 @@ Basically goodly greenskins.
     -   Could also have trolls, who would be a counterpart to ogres.
         Trolls might have lower stats than ogres, but regeneration
         similar to werewolves. --[Red
-        kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+        kangaroo](User%3ARed_kangaroo "wikilink")
         ([talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Bone Golem
@@ -609,7 +609,7 @@ Floating eye
     -   Maybe it could have Blast and Circular Blast spells, plus
         supercharged Sorcery so that it can cast them quite often? More
         a nuisance than a threat, basically. --[Red
-        kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+        kangaroo](User%3ARed_kangaroo "wikilink")
         ([talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 The Holy Warrior (humans)

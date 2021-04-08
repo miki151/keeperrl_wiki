@@ -8,17 +8,17 @@ Description: *Humanoid minions sleep on their beds.*
 
 A dormitory is the sleeping-place of:
 
--   [Goblins](/keeperrl_wiki/Goblin "wikilink")
--   [Orcs](/keeperrl_wiki/Orc "wikilink")
--   [Orc Shamans](/keeperrl_wiki/Orc_Shaman "wikilink")
--   [Ogres](/keeperrl_wiki/Ogre "wikilink")
--   [Harpies](/keeperrl_wiki/Harpy "wikilink")
--   [Werewolves](/keeperrl_wiki/Werewolf "wikilink")
+-   [Goblins](Goblin "wikilink")
+-   [Orcs](Orc "wikilink")
+-   [Orc Shamans](Orc_Shaman "wikilink")
+-   [Ogres](Ogre "wikilink")
+-   [Harpies](Harpy "wikilink")
+-   [Werewolves](Werewolf "wikilink")
 
 Attraction
 ----------
 
-All Humanoids need a free bed to [immigrate](/keeperrl_wiki/Immigration "wikilink").
+All Humanoids need a free bed to [immigrate](Immigration "wikilink").
 
 Tile Cost
 ---------

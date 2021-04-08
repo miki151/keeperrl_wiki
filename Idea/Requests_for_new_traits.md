@@ -26,7 +26,7 @@ No Armour (Implemented: Imps and goblins - eg. Alpha 25)
 -   Discussion:
 
 I think the Harpy should have armor, but maybe not heavy armor
-[Owen](/keeperrl_wiki/User%3AOwen "wikilink") ([talk](User_talk:Owen "wikilink"))
+[Owen](User%3AOwen "wikilink") ([talk](User_talk:Owen "wikilink"))
 01:11, 27 February 2017 (CET)
 
 No Two Handed

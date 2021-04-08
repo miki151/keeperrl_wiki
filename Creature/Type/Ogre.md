@@ -30,14 +30,14 @@ most orcs.
 Skills
 ------
 
--   [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink")
+-   [Weapon Melee](Weapon_Melee "wikilink")
 
 Order Tasks
 -----------
 
--   [Training](/keeperrl_wiki/Training "wikilink")
--   [Workshop](/keeperrl_wiki/Workshop "wikilink")
--   [Forge](/keeperrl_wiki/Forge "wikilink")
--   [Lab](/keeperrl_wiki/Lab "wikilink")
--   [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
+-   [Training](Training "wikilink")
+-   [Workshop](Workshop "wikilink")
+-   [Forge](Forge "wikilink")
+-   [Lab](Lab "wikilink")
+-   [Jeweler](Jeweler "wikilink")
 

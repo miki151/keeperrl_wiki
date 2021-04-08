@@ -44,11 +44,11 @@ Basic Strategies
 
 Keepers will find this walkthrough helpful:
 
--   [Quick Start Walkthrough](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
+-   [Quick Start Walkthrough](Quick_Start_Walkthrough "wikilink")
 
 When at war with another keeper dungeon, many of the tips in the
 adventurer guide are helpful for keepers:
 
 -   [How to win as an
-    adventurer!!!](/keeperrl_wiki/How_to_win_as_an_adventurer!!! "wikilink")
+    adventurer!!!](How_to_win_as_an_adventurer!!! "wikilink")
 

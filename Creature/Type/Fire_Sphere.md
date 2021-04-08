@@ -7,9 +7,9 @@ layout: wiki
 <img src="fire_sphere.png" title="fig:fire_sphere.png" alt="fire_sphere.png" width="100" />
 ''From magic spells
 
-Summoned by [fire sphere](:Spells#Fire_Sphere "wikilink") spell.
+Summoned by [fire sphere](Fire_Sphere "wikilink") spell.
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -37,9 +37,9 @@ Body Parts
 Traits
 ------
 
--   [Brainless](:Traits#Brainless "wikilink")
--   [Fire Creature](:Traits#Fire_Creature "wikilink")
--   [Flying](:Traits#Flying "wikilink")
--   [Not Breathing](:Traits#Not_Breathing "wikilink")
--   [Uncorporal](:Traits#Uncorporal "wikilink")
+-   [Brainless](Brainless "wikilink")
+-   [Fire Creature](Fire_Creature "wikilink")
+-   [Flying](Flying "wikilink")
+-   [Not Breathing](Not_Breathing "wikilink")
+-   [Uncorporal](Uncorporal "wikilink")
 

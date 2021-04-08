@@ -39,7 +39,7 @@ Necromage
         good. :) Could Raise Undead to temporarily create zombies from
         all corpses nearby, but those corpses would burn to dust after
         being destroyed or a short time, thus not giving you infinite
-        minions. --[Red kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+        minions. --[Red kangaroo](User%3ARed_kangaroo "wikilink")
         ([talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Giant
@@ -69,12 +69,12 @@ Giant
     -   Could we call it a troll as per Brogue-lore and make it a
         legendary greenskin? It would not be allowed to use ranged
         weapons, but it could carry heavy weaponry.
-        [Owen](/keeperrl_wiki/User%3AOwen "wikilink")
+        [Owen](User%3AOwen "wikilink")
         ([talk](/keeperrl_wiki/User_talk:Owen "wikilink")) 01:17, 27 February 2017
         (CET)
     -   I like the idea of this being a legendary greenskin troll, maybe
         even the leader of the village? --[Red
-        kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+        kangaroo](User%3ARed_kangaroo "wikilink")
         ([talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Cultist

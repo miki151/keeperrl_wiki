@@ -7,9 +7,9 @@ layout: wiki
 <img src="spirit.png" title="fig:spirit.png" alt="spirit.png" width="100" />
 ''Summoned protection
 
-Summoned by [summon spirit](:Spells#Summon_Spirit "wikilink") spell.''
+Summoned by [summon spirit](Summon_Spirit "wikilink") spell.''
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -39,6 +39,6 @@ Body Parts
 Traits
 ------
 
--   [Uncorporal](:Traits#Uncorporal "wikilink")
--   [Flying](:Traits#Flying "wikilink")
+-   [Uncorporal](Uncorporal "wikilink")
+-   [Flying](Flying "wikilink")
 

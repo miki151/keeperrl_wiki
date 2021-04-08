@@ -7,7 +7,7 @@ layout: wiki
 <img src="bear.png" title="fig:bear.png" alt="bear.png" width="100" />
 ''Bears can take the initiative.
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,17 +30,17 @@ villages on their own initiative.
 Traits
 ------
 
--   [Animal](:Traits#Animal "wikilink")
+-   [Animal](Animal "wikilink")
 
 Tasks
 -----
 
--   [Explore](:Traits#Explore "wikilink") : Caves
--   [Lair](:Beast_Lair "wikilink")
+-   [Explore](Explore "wikilink") : Caves
+-   [Lair](Beast_Lair "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](:Beast_Lair "wikilink")
+-   dorm : [Beast Lair](Beast_Lair "wikilink")
 -   probability : 0.1
 

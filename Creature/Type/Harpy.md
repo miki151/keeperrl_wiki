@@ -7,7 +7,7 @@ layout: wiki
 <img src="harpy.png" title="fig:harpy.png" alt="harpy.png" width="100" />
 ''Winged killer
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -33,26 +33,26 @@ decent at defending dungeons especially in long corridors with lighting.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Skills
 ------
 
--   [Weapon Melee](:Skills#Weapon_Melee "wikilink") : 0.3
+-   [Weapon Melee](Weapon_Melee "wikilink") : 0.3
 
 Tasks
 -----
 
 *sorted by preference, topmost is more likely done*
 
--   [Train](:Training_Room "wikilink")
--   [Workshop](:Manufactories "wikilink")
--   [Sleep](:Dormitory "wikilink")
+-   [Train](Training_Room "wikilink")
+-   [Workshop](Manufactories "wikilink")
+-   [Sleep](Dormitory "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](Dormitory "wikilink")
 -   probability : 0.3
 -   space usage : 3
 -   required tiles

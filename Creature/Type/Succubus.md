@@ -7,7 +7,7 @@ layout: wiki
 <img src="succubussmall.png" title="fig:succubussmall.png" alt="succubussmall.png" width="100" />
 ''She's done it before (once)
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -32,18 +32,18 @@ to get pregnant.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
--   [Uncorporal](:Traits#Uncorporal "wikilink")
--   [Flying](:Traits#Flying "wikilink")
--   [Body parts](:Attributes#Body_Parts "wikilink") : 2 Wings
+-   [Humanoid](Humanoid "wikilink")
+-   [Uncorporal](Uncorporal "wikilink")
+-   [Flying](Flying "wikilink")
+-   [Body parts](Body_Parts "wikilink") : 2 Wings
 
 Tasks
 -----
 
--   [Copulate](:Skills#Copulate "wikilink")
--   [Ritual](:Ritual_Room "wikilink")
+-   [Copulate](Copulate "wikilink")
+-   [Ritual](Ritual_Room "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
 -   probability : 0.3

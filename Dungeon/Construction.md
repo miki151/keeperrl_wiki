@@ -4,6 +4,6 @@ permalink: Construction/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Construction](/keeperrl_wiki/Skills#Construction "wikilink")
+1.  REDIRECT [Skills\#Construction](Construction "wikilink")
 
 Mine and construct rooms.

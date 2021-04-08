@@ -18,7 +18,7 @@ can occasionally get excited and set alight to your library, or perhaps
 worse - set alight to the forest near your dungeon base, giving you a
 wood shortage.
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -35,27 +35,27 @@ wood shortage.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Skills
 ------
 
--   [Healing](:Skills#Healing "wikilink")
--   [Sorcery](:Skills#Sorcery "wikilink") : 0.7
+-   [Healing](Healing "wikilink")
+-   [Sorcery](Sorcery "wikilink") : 0.7
 
 Tasks
 -----
 
 *sorted by preference, study and lab are equal*
 
--   [Study](:Library "wikilink")
--   [Lab](:Laboratory "wikilink")
--   [Sleep](:Dormitory "wikilink")
+-   [Study](Library "wikilink")
+-   [Lab](Laboratory "wikilink")
+-   [Sleep](Dormitory "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](Dormitory "wikilink")
 -   probability : 0.15
 -   space usage : 1
 -   required tiles

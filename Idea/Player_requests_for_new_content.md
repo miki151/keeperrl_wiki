@@ -31,73 +31,73 @@ Ideas for technology
 --------------------
 
 -   [Requests for new
-    technology](/keeperrl_wiki/Requests_for_new_technology "wikilink")
+    technology](Requests_for_new_technology "wikilink")
 
 Ideas for creatures
 -------------------
 
 References: <http://keeperrl.com/forums/topic/ideas-for-new-creatures/>
 
--   [Requests for new villains](/keeperrl_wiki/Requests_for_new_villains "wikilink")
+-   [Requests for new villains](Requests_for_new_villains "wikilink")
     (hostile)
--   [Requests for new allies](/keeperrl_wiki/Requests_for_new_allies "wikilink")
+-   [Requests for new allies](Requests_for_new_allies "wikilink")
     (friendly)
--   [Requests for new wildlife](/keeperrl_wiki/Requests_for_new_wildlife "wikilink")
+-   [Requests for new wildlife](Requests_for_new_wildlife "wikilink")
     (timid)
--   [Requests for new minions](/keeperrl_wiki/Requests_for_new_minions "wikilink")
+-   [Requests for new minions](Requests_for_new_minions "wikilink")
     (obedient)
 
 Ideas for items
 ---------------
 
--   [Requests for new weapons](/keeperrl_wiki/Requests_for_new_weapons "wikilink")
--   [Requests for new armour](/keeperrl_wiki/Requests_for_new_armour "wikilink")
--   [Requests for new jewellery](/keeperrl_wiki/Requests_for_new_jewellery "wikilink")
+-   [Requests for new weapons](Requests_for_new_weapons "wikilink")
+-   [Requests for new armour](Requests_for_new_armour "wikilink")
+-   [Requests for new jewellery](Requests_for_new_jewellery "wikilink")
 -   [Requests for new unequipped
-    items](/keeperrl_wiki/Requests_for_new_unequipped_items "wikilink")
+    items](Requests_for_new_unequipped_items "wikilink")
 
 Ideas for creature features
 ---------------------------
 
--   [Requests for new spells](/keeperrl_wiki/Requests_for_new_spells "wikilink")
--   [Requests for new traits](/keeperrl_wiki/Requests_for_new_traits "wikilink")
+-   [Requests for new spells](Requests_for_new_spells "wikilink")
+-   [Requests for new traits](Requests_for_new_traits "wikilink")
 -   [Requests for new tasks and
-    skills](/keeperrl_wiki/Requests_for_new_tasks_and_skills "wikilink")
--   [Requests for new triggers](/keeperrl_wiki/Requests_for_new_triggers "wikilink")
+    skills](Requests_for_new_tasks_and_skills "wikilink")
+-   [Requests for new triggers](Requests_for_new_triggers "wikilink")
 
 Ideas for constructions
 -----------------------
 
--   [Requests for new traps](/keeperrl_wiki/Requests_for_new_traps "wikilink")
--   [Requests for new rooms](/keeperrl_wiki/Requests_for_new_rooms "wikilink")
+-   [Requests for new traps](Requests_for_new_traps "wikilink")
+-   [Requests for new rooms](Requests_for_new_rooms "wikilink")
 -   [Requests for new
-    installations](/keeperrl_wiki/Requests_for_new_installations "wikilink")
+    installations](Requests_for_new_installations "wikilink")
 
 Ideas for game maps
 -------------------
 
--   [Requests for new biomes](/keeperrl_wiki/Requests_for_new_biomes "wikilink")
+-   [Requests for new biomes](Requests_for_new_biomes "wikilink")
 -   [Requests for new
-    configurations](/keeperrl_wiki/Requests_for_new_configurations "wikilink")
+    configurations](Requests_for_new_configurations "wikilink")
 
 Ideas for alternative keeper characters
 ---------------------------------------
 
 -   [Alternative keeper
-    characters](/keeperrl_wiki/Alternative_keeper_characters "wikilink")
+    characters](Alternative_keeper_characters "wikilink")
 
 Requests for look and feel of the game
 --------------------------------------
 
--   [Requests for sound](/keeperrl_wiki/Requests_for_sound "wikilink")
--   [Requests for graphics](/keeperrl_wiki/Requests_for_graphics "wikilink")
--   [Requests for game messages](/keeperrl_wiki/Requests_for_game_messages "wikilink")
+-   [Requests for sound](Requests_for_sound "wikilink")
+-   [Requests for graphics](Requests_for_graphics "wikilink")
+-   [Requests for game messages](Requests_for_game_messages "wikilink")
 
 Game Mechanics has its own page
 ===============================
 
 -   [Player requests for new game
-    mechanics](/keeperrl_wiki/Player_requests_for_new_game_mechanics "wikilink")
+    mechanics](Player_requests_for_new_game_mechanics "wikilink")
 
 There may be some overlap between changing what the game contains (game
 content) and changing the way the game is designed (game mechanics).

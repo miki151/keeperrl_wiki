@@ -14,9 +14,9 @@ Players are welcome to discuss ideas and make requests on these pages.
 Thanks!
 
 -   [Player requests for new
-    content](/keeperrl_wiki/Player_requests_for_new_content "wikilink")
+    content](Player_requests_for_new_content "wikilink")
 -   [Player requests for new game
-    mechanics](/keeperrl_wiki/Player_requests_for_new_game_mechanics "wikilink")
--   [Prefix Ideas](/keeperrl_wiki/Pre-fix_Ideas "wikilink")
--   [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
+    mechanics](Player_requests_for_new_game_mechanics "wikilink")
+-   [Prefix Ideas](Pre-fix_Ideas "wikilink")
+-   [Map Editor Ideas](Map_Editor_Ideas "wikilink")
 

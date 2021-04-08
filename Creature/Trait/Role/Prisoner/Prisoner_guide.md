@@ -15,18 +15,18 @@ Converting prisoners
 Best types of prisoners
 =======================
 
--   [Cyclops](/keeperrl_wiki/Cyclops "wikilink") make excellent fighters when fully
+-   [Cyclops](Cyclops "wikilink") make excellent fighters when fully
     equipped
--   The [Vampire Lord](/keeperrl_wiki/Vampire_Lord "wikilink") is a powerful spell
+-   The [Vampire Lord](Vampire_Lord "wikilink") is a powerful spell
     caster
--   [Elven archers](/keeperrl_wiki/Elven_Archer "wikilink") and
-    [driads](/keeperrl_wiki/Driad "wikilink") are better archers than you can recruit,
+-   [Elven archers](Elven_Archer "wikilink") and
+    [driads](Driad "wikilink") are better archers than you can recruit,
     so they are often worth it
 -   [Dwarves](dwarf "wikilink") make excellent diggers in your mines
 -   [Knights](knight "wikilink") have melee resistance
--   [Human archers](/keeperrl_wiki/Archer "wikilink") are the best archers.
--   Most bosses are worth it, so [Elf Lord](/keeperrl_wiki/Elf_Lord "wikilink"), [Dwarf
-    Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
+-   [Human archers](Archer "wikilink") are the best archers.
+-   Most bosses are worth it, so [Elf Lord](Elf_Lord "wikilink"), [Dwarf
+    Baron](Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
 -   Lizardmen have a speed bonus and an optional poison +8 attack
     unarmed
 -   The [elementalist](elementalist "wikilink") sucks, he can't even
@@ -46,6 +46,6 @@ Looking after prisoners
 =======================
 
 -   Try not to capture more prisoners than you can look after
--   [Wolves](/keeperrl_wiki/Wolf "wikilink") are good at looking after prisoners
+-   [Wolves](Wolf "wikilink") are good at looking after prisoners
     because you can get a whole pack of them for 1 population slot
 

@@ -43,27 +43,27 @@ morale to get anything really useful from them.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Skills
 ------
 
--   [Disarm traps](:Skills#Disarm_Traps "wikilink")
+-   [Disarm traps](Disarm_Traps "wikilink")
 
 Tasks
 -----
 
 *sorted by preference, topmost is more likely done*
 
--   [Workshops](:Manufactories "wikilink")
--   [Train](:Training_Room "wikilink")
--   [Laboratory](:Laboratory "wikilink")
--   [Sleep](:Dormitory "wikilink")
+-   [Workshops](Manufactories "wikilink")
+-   [Train](Training_Room "wikilink")
+-   [Laboratory](Laboratory "wikilink")
+-   [Sleep](Dormitory "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](Dormitory "wikilink")
 -   probability : 1
 -   space usage : 1
 -   required tiles

@@ -7,7 +7,7 @@ layout: wiki
 <img src="ghost.png" title="fig:ghost.png" alt="ghost.png" width="100" />
 ''Makes enemies insane
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,15 +30,15 @@ a great way to severely weaken your enemies.
 Traits
 ------
 
--   [Uncorporal](:Traits#Uncorporal "wikilink")
--   [Courage](:Traits#Courage "wikilink") : 10
+-   [Uncorporal](Uncorporal "wikilink")
+-   [Courage](Courage "wikilink") : 10
 
 Tasks
 -----
 
--   [Ritual](:Ritual_Room "wikilink")
+-   [Ritual](Ritual_Room "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
 -   probability : 0.3

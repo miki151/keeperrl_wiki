@@ -11,7 +11,7 @@ Animal
 ------
 
 Effected by [amulet of nature
-affinity.](:Jewelry#Amulet_of_Nature_Affinity "wikilink")
+affinity.](Amulet_of_Nature_Affinity "wikilink")
 
 Blind
 -----

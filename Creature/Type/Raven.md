@@ -7,7 +7,7 @@ layout: wiki
 <img src="raven.png" title="fig:raven.png" alt="raven.png" width="100" />
 ''Daytime explorer. Fast!
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -35,20 +35,20 @@ the ability to fly and travel fast.
 Traits
 ------
 
--   [Animal](:Traits#Animal "wikilink")
--   [Flying](:Traits#Flying "wikilink")
--   [Body parts](:Attributes#Body_Parts "wikilink") : 2 Wings
+-   [Animal](Animal "wikilink")
+-   [Flying](Flying "wikilink")
+-   [Body parts](Body_Parts "wikilink") : 2 Wings
 
 Tasks
 -----
 
--   [Explore](:Traits#Explore "wikilink")
--   [Lair](:Beast_Lair "wikilink")
+-   [Explore](Explore "wikilink")
+-   [Lair](Beast_Lair "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](:Beast_Lair "wikilink")
+-   dorm : [Beast Lair](Beast_Lair "wikilink")
 -   probability : 1.0
 -   Daytime
 

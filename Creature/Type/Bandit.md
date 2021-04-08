@@ -12,12 +12,12 @@ Summary
 
 They are common in mountainous areas and like to inhabit caves. They can
 see your wealth and once the temptation is too much, try to access your
-[treasure room](:Treasure_Room "wikilink") to steal the gold and then
+[treasure room](Treasure_Room "wikilink") to steal the gold and then
 run away. If you are overpowered early on in the game, they can be
 bribed to leave you alone. Such cowardice is normally very much less
 satisfying than killing them all and taking their swords for your army.
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -37,29 +37,29 @@ Combat Attributes
 Skills
 ------
 
--   [Disarm Traps](:Skills#Disarm_Traps "wikilink") (Older versions
+-   [Disarm Traps](Disarm_Traps "wikilink") (Older versions
     only)
 
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Inventory
 ---------
 
--   [Sword](:Weapons#Sword "wikilink")
+-   [Sword](Sword "wikilink")
 -   30% chance :
-    -   [Potion of healing](:Consumables#Potion_of_Healing "wikilink") :
+    -   [Potion of healing](Potion_of_Healing "wikilink") :
         4
-    -   [Scroll of teleport](:Consumables#Scroll_of_Teleport "wikilink")
+    -   [Scroll of teleport](Scroll_of_Teleport "wikilink")
         : 1
 -   5% chance :
-    -   [Short bow](:Weapons#Short_Bow "wikilink")
+    -   [Short bow](Short_Bow "wikilink")
 
 Behavior
 --------
 
 Attack Trigger : Start attack when player has too much gold.
 
-Goal : Steal gold from the [treasure room](:Treasure_Room "wikilink").
+Goal : Steal gold from the [treasure room](Treasure_Room "wikilink").

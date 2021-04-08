@@ -4,7 +4,7 @@ permalink: Archery/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Archery](/keeperrl_wiki/Skills#Archery "wikilink")
+1.  REDIRECT [Skills\#Archery](Archery "wikilink")
 
 Archery
 

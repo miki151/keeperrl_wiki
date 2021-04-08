@@ -20,9 +20,9 @@ Construction
 
 *Mine and construct rooms.*
 
-Ability to gather [resources](/keeperrl_wiki/Resources "wikilink"), building
-[rooms](/keeperrl_wiki/Category%3ARooms "wikilink"), [traps](Traps "wikilink") and
-[installations](/keeperrl_wiki/Installations "wikilink").
+Ability to gather [resources](Resources "wikilink"), building
+[rooms](Category%3ARooms "wikilink"), [traps](Traps "wikilink") and
+[installations](Installations "wikilink").
 
 Consumption
 -----------
@@ -34,27 +34,27 @@ or more body parts. After that it has all the absorbed creatures higher
 stat values, additional skills and grows new body parts. The absorbed
 creature will die in this process.  
 When it has consumed one head, two arms and two legs it will become a
-[humanoid](/keeperrl_wiki/Traits#Humanoid "wikilink").
+[humanoid](Humanoid "wikilink").
 
 Copulation
 ----------
 
-Only copulates with male, [humanoid](:Traits#Humanoid "wikilink") and
-not [uncorporal](:Traits#Uncorporal "wikilink") creatures.  
+Only copulates with male, [humanoid](Humanoid "wikilink") and
+not [uncorporal](Uncorporal "wikilink") creatures.  
 After some time the creature will give birth to one of the following:
 
--   [Goblin](:Goblin "wikilink")
--   [Orc](:Orc "wikilink")
--   [Orc Shaman](:Orc_Shaman "wikilink")
--   [Harpy](:Harpy "wikilink")
--   [Ogre](:Ogre "wikilink")
--   [Werewolf](:Werewolf "wikilink")
--   if [Humanoid Mutation](:Technologies#Humanoid_Mutation "wikilink")
+-   [Goblin](Goblin "wikilink")
+-   [Orc](Orc "wikilink")
+-   [Orc Shaman](Orc_Shaman "wikilink")
+-   [Harpy](Harpy "wikilink")
+-   [Ogre](Ogre "wikilink")
+-   [Werewolf](Werewolf "wikilink")
+-   if [Humanoid Mutation](Humanoid_Mutation "wikilink")
     researched
-    -   [Legendary Humanoid](:Legendary_Humanoid "wikilink")
--   if [Beast Mutation](:Technologies#Beast_Mutation "wikilink")
+    -   [Legendary Humanoid](Legendary_Humanoid "wikilink")
+-   if [Beast Mutation](Beast_Mutation "wikilink")
     researched
-    -   [Legendary Beast](:Legendary_Beast "wikilink")
+    -   [Legendary Beast](Legendary_Beast "wikilink")
 
 Crops
 -----

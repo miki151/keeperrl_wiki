@@ -7,9 +7,9 @@ layout: wiki
 Build a ritual room that attracts demonic inhabitants to your Dungeon by
 placing demon shrines:
 
--   [Ghost](/keeperrl_wiki/Ghost "wikilink")
--   [Succubus](/keeperrl_wiki/Succubus "wikilink")
--   [Doppleganger](/keeperrl_wiki/Doppleganger "wikilink")
+-   [Ghost](Ghost "wikilink")
+-   [Succubus](Succubus "wikilink")
+-   [Doppleganger](Doppleganger "wikilink")
 
 <!-- -->
 

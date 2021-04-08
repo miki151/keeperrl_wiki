@@ -7,7 +7,7 @@ layout: wiki
 <img src="wolf.png" title="fig:wolf.png" alt="wolf.png" width="100" />
 ''Arrive in packs
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -34,23 +34,23 @@ farmers and the like.
 Traits
 ------
 
--   [Animal](:Traits#Animal "wikilink")
+-   [Animal](Animal "wikilink")
 
 Skills
 ------
 
--   [Night Vision](:Skills#Night_Vision "wikilink")
+-   [Night Vision](Night_Vision "wikilink")
 
 Tasks
 -----
 
--   [Explore](:Traits#Explore "wikilink") : Nocturnal
--   [Lair](:Beast_Lair "wikilink")
+-   [Explore](Explore "wikilink") : Nocturnal
+-   [Lair](Beast_Lair "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](:Beast_Lair "wikilink")
+-   dorm : [Beast Lair](Beast_Lair "wikilink")
 -   probability : 0.15
 -   pack : 3 - 9
 

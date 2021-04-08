@@ -31,7 +31,7 @@ Poison
 
 <!-- -->
 
--   other source / spells / [lizardman](:Lizardman "wikilink")
+-   other source / spells / [lizardman](Lizardman "wikilink")
     -   duration : 60 ticks
     -   damage : 1.0 / 60
 

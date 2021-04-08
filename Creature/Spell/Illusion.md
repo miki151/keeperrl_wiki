@@ -4,13 +4,13 @@ permalink: Illusion/
 layout: wiki
 ---
 
-*Summoned by [deception](:Spells#Deception "wikilink") spell.* A copy of
+*Summoned by [deception](Deception "wikilink") spell.* A copy of
 the caster used to distract enemies. The creature that summoned the
 illusions views them as transparent to differentiate between themselves
 and the illusions. To other creatures(that did not summon the illusions)
 they appear the same as the caster.
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -41,10 +41,10 @@ Body Parts
 Traits
 ------
 
--   [Blind](:Traits#Blind "wikilink")
--   [Flying](:Traits#Flying "wikilink")
--   [Humanoid](:Traits#Humanoid "wikilink")
--   [Not Breathing](:Traits#Not_Breathing "wikilink")
--   [Uncorporal](:Traits#Uncorporal "wikilink")
--   [Stationary](:Traits#Stationary "wikilink")
+-   [Blind](Blind "wikilink")
+-   [Flying](Flying "wikilink")
+-   [Humanoid](Humanoid "wikilink")
+-   [Not Breathing](Not_Breathing "wikilink")
+-   [Uncorporal](Uncorporal "wikilink")
+-   [Stationary](Stationary "wikilink")
 

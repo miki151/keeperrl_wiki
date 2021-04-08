@@ -7,7 +7,7 @@ layout: wiki
 <img src="zombie.png" title="fig:zombie.png" alt="zombie.png" width="100" />
 ''Invasion fodder
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -29,22 +29,22 @@ enemies for a number of turns before they are dismembered.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
--   [Undead](:Traits#Undead "wikilink")
--   [Brainless](:Traits#Brainless "wikilink")
+-   [Humanoid](Humanoid "wikilink")
+-   [Undead](Undead "wikilink")
+-   [Brainless](Brainless "wikilink")
 
 Tasks
 -----
 
 *Sorted by preference, topmost is more likely to be done.*
 
--   [Train](:Training_Room "wikilink")
--   [Sleep](:Graveyard "wikilink")
+-   [Train](Training_Room "wikilink")
+-   [Sleep](Graveyard "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Graveyard](/keeperrl_wiki/Graveyard "wikilink")
+-   dorm : [Graveyard](Graveyard "wikilink")
 -   probability : 0.5
 -   corpse usage : 1
 

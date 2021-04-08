@@ -7,7 +7,7 @@ layout: wiki
 <img src="doppleganger.png" title="fig:doppleganger.png" alt="doppleganger.png" width="100" />
 '' Absorber of bodies
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,15 +30,15 @@ traits as well.
 Traits
 ------
 
--   [Uncorporal](:Traits#Uncorporal "wikilink")
+-   [Uncorporal](Uncorporal "wikilink")
 
 Tasks
 -----
 
--   [Absorb](:Skills#Absorbtion "wikilink")
--   [Ritual](:Ritual_Room "wikilink")
+-   [Absorb](Absorbtion "wikilink")
+-   [Ritual](Ritual_Room "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
 -   probability : 0.2

@@ -7,7 +7,7 @@ layout: wiki
 <img src="orc.png" title="fig:orc.png" alt="orc.png" width="100" />
 ''Standard warrior minion
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,31 +30,31 @@ wish to feed them to your doppleganger, just to be rid of them, although
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Skills
 ------
 
--   [Weapon Melee](:Skills#Weapon_Melee "wikilink") : 0.3
+-   [Weapon Melee](Weapon_Melee "wikilink") : 0.3
 
 Tasks
 -----
 
 *sorted by preference, topmost is more likely done*
 
--   [Train](:Training_Room "wikilink")
--   [Workshop](:Manufactories "wikilink")
--   [Lab](:Laboratory "wikilink")
--   [Sleep](:Dormitory "wikilink")
+-   [Train](Training_Room "wikilink")
+-   [Workshop](Manufactories "wikilink")
+-   [Lab](Laboratory "wikilink")
+-   [Sleep](Dormitory "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](Dormitory "wikilink")
 -   probability : 0.7
 -   space usage : 1
 -   required tiles
     -   Training Room : 12
 
---[Keeperman](/keeperrl_wiki/User%3AKeeperman "wikilink")
+--[Keeperman](User%3AKeeperman "wikilink")
 ([talk](/keeperrl_wiki/User_talk:Keeperman "wikilink")) 13:42, 11 August 2018 (UTC)

@@ -7,7 +7,7 @@ layout: wiki
 Type
 ----
 
--   [:Installation](:Installation "wikilink")
+-   [Installation](Installation "wikilink")
 
 Description
 -----------

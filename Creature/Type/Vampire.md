@@ -7,7 +7,7 @@ layout: wiki
 <img src="vampire.png" title="fig:vampire.png" alt="vampire.png" width="100" />
 ''Undead spell-caster minion
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -39,28 +39,28 @@ time and can meet the sunrise.
 Traits
 ------
 
--   [Humanoid](:Traits#Humanoid "wikilink")
--   [Undead](:Traits#Undead "wikilink")
+-   [Humanoid](Humanoid "wikilink")
+-   [Undead](Undead "wikilink")
 
 Skills
 ------
 
--   [Night Vision](:Skills#Night_Vision "wikilink")
--   [Sorcery](:Skills#Sorcery "wikilink") : 0.1
+-   [Night Vision](Night_Vision "wikilink")
+-   [Sorcery](Sorcery "wikilink") : 0.1
 
 Tasks
 -----
 
 *sorted by preference, topmost is more likely done*
 
--   [Train](:Training_Room "wikilink")
--   [Study](:Library "wikilink")
--   [Sleep](:Graveyard "wikilink")
+-   [Train](Training_Room "wikilink")
+-   [Study](Library "wikilink")
+-   [Sleep](Graveyard "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Graveyard](/keeperrl_wiki/Graveyard "wikilink")
+-   dorm : [Graveyard](Graveyard "wikilink")
 -   probability : 0.3
 -   corpse usage : 1
 

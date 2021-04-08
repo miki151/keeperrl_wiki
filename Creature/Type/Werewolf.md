@@ -7,7 +7,7 @@ layout: wiki
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />
 ''Naturally regenerates health
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -40,25 +40,25 @@ for a keeper.
 Traits
 ------
 
--   [Animal](:Traits#Animal "wikilink")
--   [Humanoid](:Traits#Humanoid "wikilink")
+-   [Animal](Animal "wikilink")
+-   [Humanoid](Humanoid "wikilink")
 
 Skills
 ------
 
--   [Night Vision](:Skills#Night_Vision "wikilink")
+-   [Night Vision](Night_Vision "wikilink")
 
 Tasks
 -----
 
--   [Explore](:Traits#Explore "wikilink") : Nocturnal
--   [Train](:Training_Room "wikilink")
--   [Lair](:Beast_Lair "wikilink")
+-   [Explore](Explore "wikilink") : Nocturnal
+-   [Train](Training_Room "wikilink")
+-   [Lair](Beast_Lair "wikilink")
 
-[Attraction](:Immigration "wikilink")
+[Attraction](Immigration "wikilink")
 -------------------------------------
 
--   dorm : [Beast Lair](:Beast_Lair "wikilink")
+-   dorm : [Beast Lair](Beast_Lair "wikilink")
 -   probability : 0.1
 -   space usage : 4
 -   required tiles

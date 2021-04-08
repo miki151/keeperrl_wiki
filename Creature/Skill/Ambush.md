@@ -4,7 +4,7 @@ permalink: Ambush/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Ambush](/keeperrl_wiki/Skills#Ambush "wikilink")
+1.  REDIRECT [Skills\#Ambush](Ambush "wikilink")
 
 Ambush
 

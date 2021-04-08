@@ -4,6 +4,6 @@ permalink: Sorcery/
 layout: wiki
 ---
 
-1.  REDIRECT [Skills\#Sorcery](/keeperrl_wiki/Skills#Sorcery "wikilink")
+1.  REDIRECT [Skills\#Sorcery](Sorcery "wikilink")
 
 Cast spells.

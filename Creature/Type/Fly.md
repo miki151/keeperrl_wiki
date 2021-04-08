@@ -7,7 +7,7 @@ layout: wiki
 <img src="fly.png" title="fig:fly.png" alt="fly.png" width="100" />
 ''Distraction during combat
 
-[:Attributes](:Attributes "wikilink")
+[Attributes](Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -23,7 +23,7 @@ layout: wiki
 Summary
 -------
 
-Summoned by [summon insects](:Spells#Summon_Insects "wikilink") spell.
+Summoned by [summon insects](Summon_Insects "wikilink") spell.
 These creatures are nothing but a distraction, but they are a good
 distraction. They buzz in the faces of enemies obscuring their vision
 until the invader is forced to swat them away. All the while, you jab at
@@ -41,7 +41,7 @@ Body Parts
 Traits
 ------
 
--   [Animal](:Traits#Animal "wikilink")
--   [Courage](:Traits#Courage "wikilink") : 100
--   [Flying](:Traits#Flying "wikilink")
+-   [Animal](Animal "wikilink")
+-   [Courage](Courage "wikilink") : 100
+-   [Flying](Flying "wikilink")
 
