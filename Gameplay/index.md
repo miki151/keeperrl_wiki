@@ -1,5 +1,5 @@
 ---
-title: Gameplay guide
+title:
 layout: wiki
 ---
 
