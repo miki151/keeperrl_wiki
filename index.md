@@ -74,7 +74,7 @@ Dungeon Guide
 <hr>
 Release History Guide
 <hr>
--   [Alpha31](:Alpha31 "wikilink") | Introducing Warlord Mode
+-   [Alpha31](:Alpha31 "wikilink") | Introducing Warlord Mode *
 -   [Alpha30](:Alpha30 "wikilink") | Introducing Gnome Keepers\Many Mods at once *
 -   [Alpha29](:Alpha29 "wikilink") | Introducing Steam workshop integration *
 -   [Alpha28](:Alpha28 "wikilink") | Introducing Explosion of free game content *
@@ -84,7 +84,7 @@ Release History Guide
 -   [Alpha24](:Alpha24 "wikilink") | Introducing  Convertible prisoners who keep stats *
 -   [Alpha23](:Alpha23 "wikilink") | Introducing  Endless mode *
 -   [Alpha22](:Alpha22 "wikilink") | Introducing  Tutorial *
--   [Alpha21](:Alpha21 "wikilink") | Introducing  Immigration system upgraded |- !
+-   [Alpha21](:Alpha21 "wikilink") | Introducing  Immigration system upgraded *
 
 
 <img src="images/Keeper_knight_east.png" title="fig:\Keeper knight" alt="_images\Keeper_knight_east.png" width="100" />
