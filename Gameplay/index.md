@@ -12,7 +12,7 @@ Gameplay Guide
 <hr>
 -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Gameplay/Quick_Start_Walkthrough "wikilink")
 -   [How to win as an adventurer](/keeperrl_wiki/How to win as an adventurer "wikilink")
--   [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike Realtime Strategy Concept "wikilink")
+-   [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Gameplay/Roguelike Realtime Strategy Concept "wikilink")
 -   [Campaign mode](/keeperrl_wiki/Campaign mode "wikilink")
 -   [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink") 
 -   [Team Strategy](/keeperrl_wiki/Team Strategy "wikilink")
