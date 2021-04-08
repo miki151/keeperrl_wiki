@@ -1,5 +1,6 @@
 ---
-title:
+title: Gameplay_Guide
+permalink: Gameplay_Guide/
 layout: wiki
 ---
 
