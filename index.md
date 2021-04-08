@@ -28,7 +28,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <br/>
 
 <hr>
-Gameplay Guide                                  
+[Gameplay Guide](/keeperrl_wiki/Gameplay/ "wikilink")                                 
 <hr>
 -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Gameplay/Quick_Start_Walkthrough "wikilink")
 -   [How to win as an adventurer](/keeperrl_wiki/How to win as an adventurer "wikilink")
