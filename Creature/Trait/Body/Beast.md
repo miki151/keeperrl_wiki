@@ -1,6 +1,6 @@
 ---
-title: Beasts
-permalink: Beasts/
+title: Beast
+permalink: Beast/
 layout: wiki
 ---
 

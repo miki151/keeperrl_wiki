@@ -1,6 +1,6 @@
 ---
-title: Skills
-permalink: Skills/
+title: Skills_Guide
+permalink: Skills_Guide/
 layout: wiki
 ---
 

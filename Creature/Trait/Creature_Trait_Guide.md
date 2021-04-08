@@ -1,6 +1,6 @@
 ---
-title: Traits
-permalink: Traits/
+title: Creature_Trait_Guide
+permalink: Creature_Trait_Guide/
 layout: wiki
 ---
 

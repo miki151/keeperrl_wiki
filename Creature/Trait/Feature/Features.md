@@ -1,6 +1,6 @@
 ---
-title: Characteristics
-permalink: Characteristics/
+title: Features
+permalink: Features/
 layout: wiki
 ---
 
