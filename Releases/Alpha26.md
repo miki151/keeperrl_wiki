@@ -1,6 +1,6 @@
 ---
-title: Alpha25
-permalink: Alpha25/
+title: Alpha26
+permalink: Alpha26/
 layout: wiki
 ---
 
