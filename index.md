@@ -69,6 +69,9 @@ Dungeon Guide
        -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
        -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
 
+<img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
+<img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />
+
 <hr>
 Release History Guide
 <hr>
@@ -84,8 +87,5 @@ Release History Guide
 -   [Alpha22](:Alpha22 "wikilink") | Introducing  Tutorial
 -   [Alpha21](:Alpha21 "wikilink") | Introducing  Immigration system upgraded
 
-
-<img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
-<img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
