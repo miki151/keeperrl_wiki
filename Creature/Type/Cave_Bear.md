@@ -4,7 +4,7 @@ permalink: Cave_Bear/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki/Bear.png" alt="/keeperrl_wiki/Bear.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Bear.png" alt="/keeperrl_wiki//keeperrl_wiki/Bear.png" width="100" />
 ''Bears can take the initiative.
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

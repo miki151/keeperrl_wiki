@@ -4,7 +4,7 @@ permalink: Deer/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Deer.png" title="fig:/keeperrl_wiki/Deer.png" alt="/keeperrl_wiki/Deer.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Deer.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Deer.png" alt="/keeperrl_wiki//keeperrl_wiki/Deer.png" width="100" />
 '' Sometimes glimpsed running through the trees
 
 Base Stats

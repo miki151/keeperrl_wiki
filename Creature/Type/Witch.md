@@ -4,7 +4,7 @@ permalink: Witch/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki/Witch.png" alt="/keeperrl_wiki/Witch.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Witch.png" alt="/keeperrl_wiki//keeperrl_wiki/Witch.png" width="100" />
 ''Not always visible
 
 Base Stats

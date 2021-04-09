@@ -4,7 +4,7 @@ permalink: Adamantium_Golem/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Ada_Golem.png" title="fig:/keeperrl_wiki/Ada_Golem.png" alt="/keeperrl_wiki/Ada_Golem.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Ada_Golem.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Ada_Golem.png" alt="/keeperrl_wiki//keeperrl_wiki/Ada_Golem.png" width="100" />
 ''Feared by the weak, hated by the strong.
 
 -   Defense:36

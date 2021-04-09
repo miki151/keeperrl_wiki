@@ -4,7 +4,7 @@ permalink: Soldier_Ant/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki/Antw.png" alt="/keeperrl_wiki/Antw.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Antw.png" alt="/keeperrl_wiki//keeperrl_wiki/Antw.png" width="100" />
 ''Poisonous ant warriors
 
 Base Stats

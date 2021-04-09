@@ -4,7 +4,7 @@ permalink: Earth_Elemental/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Earthelemental.png" title="fig:/keeperrl_wiki/Earthelemental.png" alt="/keeperrl_wiki/Earthelemental.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Earthelemental.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Earthelemental.png" alt="/keeperrl_wiki//keeperrl_wiki/Earthelemental.png" width="100" />
 ''Summoned near rock using magic
 
 Base Stats

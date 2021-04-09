@@ -4,7 +4,7 @@ permalink: Dwarf_Baron/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Dwarfboss.png" title="fig:/keeperrl_wiki/Dwarfboss.png" alt="/keeperrl_wiki/Dwarfboss.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Dwarfboss.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Dwarfboss.png" alt="/keeperrl_wiki//keeperrl_wiki/Dwarfboss.png" width="100" />
 '' King under the mountain
 
 Base Stats

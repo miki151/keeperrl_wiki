@@ -4,7 +4,7 @@ permalink: Elven_Archer/
 layout: wiki
 ---
 
-<img src="elf_/keeperrl_wiki/Archer.png" title="fig:elf_/keeperrl_wiki/Archer.png" alt="elf_/keeperrl_wiki/Archer.png" width="100" />
+<img src="elf_/keeperrl_wiki//keeperrl_wiki/Archer.png" title="fig:elf_/keeperrl_wiki//keeperrl_wiki/Archer.png" alt="elf_/keeperrl_wiki//keeperrl_wiki/Archer.png" width="100" />
 ''Deadly shooter
 
 Base Stats

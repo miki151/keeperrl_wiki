@@ -4,7 +4,7 @@ permalink: Warrior/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Warrior.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki//keeperrl_wiki/Warrior.png" width="100" />
 ''Tribal warrior
 
 Base Stats

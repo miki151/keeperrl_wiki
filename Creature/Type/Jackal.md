@@ -4,7 +4,7 @@ permalink: Jackal/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Jackal.png" title="fig:/keeperrl_wiki/Jackal.png" alt="/keeperrl_wiki/Jackal.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Jackal.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Jackal.png" alt="/keeperrl_wiki//keeperrl_wiki/Jackal.png" width="100" />
 ''Weak aggressor
 
 Base Stats

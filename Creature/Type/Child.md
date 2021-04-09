@@ -4,7 +4,7 @@ permalink: Child/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Peasantkid.png" title="fig:/keeperrl_wiki/Peasantkid.png" alt="/keeperrl_wiki/Peasantkid.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Peasantkid.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Peasantkid.png" alt="/keeperrl_wiki//keeperrl_wiki/Peasantkid.png" width="100" />
 ''Stealthy
 
 Summary

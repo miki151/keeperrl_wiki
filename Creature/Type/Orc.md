@@ -4,7 +4,7 @@ permalink: Orc/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Orc.png" title="fig:/keeperrl_wiki/Orc.png" alt="/keeperrl_wiki/Orc.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Orc.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Orc.png" alt="/keeperrl_wiki//keeperrl_wiki/Orc.png" width="100" />
 ''Standard warrior minion
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

@@ -4,7 +4,7 @@ permalink: Duke/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki/Knightboss.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki//keeperrl_wiki/Knightboss.png" width="100" />
 ''Mighty human boss
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Soft_Monster/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Softmonster.png" title="fig:/keeperrl_wiki/Softmonster.png" alt="/keeperrl_wiki/Softmonster.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Softmonster.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Softmonster.png" alt="/keeperrl_wiki//keeperrl_wiki/Softmonster.png" width="100" />
 ''Rare “thing” that lives in dungeons
 
 Base Stats

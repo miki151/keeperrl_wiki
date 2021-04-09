@@ -4,7 +4,7 @@ permalink: Vulture/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Vulture.png" title="fig:/keeperrl_wiki/Vulture.png" alt="/keeperrl_wiki/Vulture.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Vulture.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Vulture.png" alt="/keeperrl_wiki//keeperrl_wiki/Vulture.png" width="100" />
 ''Food scavenger
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

@@ -4,7 +4,7 @@ permalink: Raven/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Raven.png" title="fig:/keeperrl_wiki/Raven.png" alt="/keeperrl_wiki/Raven.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Raven.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Raven.png" alt="/keeperrl_wiki//keeperrl_wiki/Raven.png" width="100" />
 ''Daytime explorer. Fast!
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

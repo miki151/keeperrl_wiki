@@ -4,7 +4,7 @@ permalink: Orc_Shaman/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" width="100" />
+<img src="/keeperrl_wiki/Orc/keeperrl_wiki//keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Orc/keeperrl_wiki//keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Orc/keeperrl_wiki//keeperrl_wiki/Shaman.png" width="100" />
 ''Standard healer minion
 
 Some potions and a good book and his day is complete.

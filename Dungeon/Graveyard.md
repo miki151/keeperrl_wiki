@@ -8,7 +8,7 @@ Description: *Spot for hauling dead bodies and for Undead creatures to
 sleep in.*
 
 This is the dormitory of the Undead:
-<img src="/keeperrl_wiki/Graveyard.png" title="fig:A small Graveyard for Undead spawning and Corpse Collection." alt="A small Graveyard for Undead spawning and Corpse Collection." width="200" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Graveyard.png" title="fig:A small Graveyard for Undead spawning and Corpse Collection." alt="A small Graveyard for Undead spawning and Corpse Collection." width="200" />
 
 -   [Zombies](/keeperrl_wiki/Zombie "wikilink")
 -   [Vampires](/keeperrl_wiki/Vampire "wikilink")

@@ -4,7 +4,7 @@ permalink: Gnome/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Gnome.png" title="fig:/keeperrl_wiki/Gnome.png" alt="/keeperrl_wiki/Gnome.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Gnome.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Gnome.png" alt="/keeperrl_wiki//keeperrl_wiki/Gnome.png" width="100" />
 ''Dungeon dwellers
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Zombie/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Zombie.png" title="fig:/keeperrl_wiki/Zombie.png" alt="/keeperrl_wiki/Zombie.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Zombie.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Zombie.png" alt="/keeperrl_wiki//keeperrl_wiki/Zombie.png" width="100" />
 ''Invasion fodder
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

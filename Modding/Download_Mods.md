@@ -16,14 +16,14 @@ want to, just by extracting the zip file.
 
 Enjoy!
 
-![](/keeperrl_wiki/Applyingmodsusingzipfiles.png "/keeperrl_wiki/Applyingmodsusingzipfiles.png")
+![](/keeperrl_wiki//keeperrl_wiki/Applyingmodsusingzipfiles.png "/keeperrl_wiki//keeperrl_wiki/Applyingmodsusingzipfiles.png")
 
 Above: What it might look like unzipping in Windows.
 
 Below: What the extract window might look like. Note: Do NOT extract to
 a new folder. Extract to “data\_free” and overwrite.
 
-![](/keeperrl_wiki/Extractwindowformods.png "/keeperrl_wiki/Extractwindowformods.png")
+![](/keeperrl_wiki//keeperrl_wiki/Extractwindowformods.png "/keeperrl_wiki//keeperrl_wiki/Extractwindowformods.png")
 
 Downloads
 =========

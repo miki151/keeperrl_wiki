@@ -4,7 +4,7 @@ permalink: Priest/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Priest.png" title="fig:/keeperrl_wiki/Priest.png" alt="/keeperrl_wiki/Priest.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Priest.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Priest.png" alt="/keeperrl_wiki//keeperrl_wiki/Priest.png" width="100" />
 ''Human healer
 
 -   Spell damage:27

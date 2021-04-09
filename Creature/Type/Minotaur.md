@@ -4,7 +4,7 @@ permalink: Minotaur/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Minotaur.png" title="fig:/keeperrl_wiki/Minotaur.png" alt="/keeperrl_wiki/Minotaur.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Minotaur.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Minotaur.png" alt="/keeperrl_wiki//keeperrl_wiki/Minotaur.png" width="100" />
 ''Sometimes lives under castles
 
 Base Stats

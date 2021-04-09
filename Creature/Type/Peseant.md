@@ -4,7 +4,7 @@ permalink: Peseant/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Peasant.png" title="fig:/keeperrl_wiki/Peasant.png" alt="/keeperrl_wiki/Peasant.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Peasant.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Peasant.png" alt="/keeperrl_wiki//keeperrl_wiki/Peasant.png" width="100" />
 ''Living morale boost for minons
 
 Base Stats

@@ -23,13 +23,13 @@ Alternatively, purchase the graphical and audio version from
 2.  The Main Menu will come up. The options will be “Play game”, “Change
     settings”, “View highscores”, “view credits”, “quit”.
 
-<img src="/keeperrl_wiki/Title-screenshot.png" title="/keeperrl_wiki/Title-screenshot.png" alt="/keeperrl_wiki/Title-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Title-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Title-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Title-screenshot.png" width="1000" />
 
 1.  Play the game
 2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
     back”.
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Playmenu-screenshot.png" title="/keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Playmenu-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki//keeperrl_wiki/Playmenu-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki//keeperrl_wiki/Playmenu-screenshot.png" width="1000" />
 
 1.  If this is your very first game, play the tutorial first: (Note,
     some players get lost in the black unexplored area of the map when
@@ -51,7 +51,7 @@ hero, try playing an adventurer.
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" title="/keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki//keeperrl_wiki/Campaignmap-screenshot.png" width="1000" />
 
 You can experiment with the game set up. When you click confirm a map is
 generated for you and you will now be launched into the overhead view.
@@ -70,7 +70,7 @@ Starting position
 You start with your [Keeper](/keeperrl_wiki/Keeper "wikilink") and 4 minion
 [Imps](/keeperrl_wiki/Imp "wikilink"). The screen may look like this:
 
-<img src="/keeperrl_wiki/Startingposition-screenshot.png" title="/keeperrl_wiki/Startingposition-screenshot.png" alt="/keeperrl_wiki/Startingposition-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Startingposition-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Startingposition-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Startingposition-screenshot.png" width="1000" />
 
 You will occasionally see text in orange. These hints will provide you
 with ideas on what to do next. When playing the tutorial, there are
@@ -85,14 +85,14 @@ Game options
 Press escape to view the game options. Save the game, abandon it or
 retire (after winning). Change graphics and sound etc.
 
-<img src="/keeperrl_wiki/Gameoptions-screenshot.png" title="/keeperrl_wiki/Gameoptions-screenshot.png" alt="/keeperrl_wiki/Gameoptions-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Gameoptions-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Gameoptions-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Gameoptions-screenshot.png" width="1000" />
 
 You can also pause the game at any time by pressing space. This will
 give you time to think and issue complex orders. If it looks like you
 are winning, you can increase the game speed to fast-forward it (until
 you are invaded).
 
-<img src="/keeperrl_wiki/Gamespeed-screenshot.png" title="/keeperrl_wiki/Gamespeed-screenshot.png" alt="/keeperrl_wiki/Gamespeed-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Gamespeed-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Gamespeed-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Gamespeed-screenshot.png" width="1000" />
 
 Later in the game and depending on your level of arrogance,
 insensitivity and violence, many hostile forces start to get worried
@@ -108,14 +108,14 @@ The four menu tabs in the top left corner of the screen are as follows:
 -   Research (book icon)
 -   Help (question mark icon)
 
-<img src="/keeperrl_wiki/Tabs-screenshot.png" title="/keeperrl_wiki/Tabs-screenshot.png" alt="/keeperrl_wiki/Tabs-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Tabs-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Tabs-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Tabs-screenshot.png" width="1000" />
 
 Below the mini map in the top right are two buttons
 
 -   Campaign Map (compass icon)
 -   Find keeper (keeper icon)
 
-<img src="/keeperrl_wiki/Minimap-screenshot.png" title="/keeperrl_wiki/Minimap-screenshot.png" alt="/keeperrl_wiki/Minimap-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Minimap-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Minimap-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Minimap-screenshot.png" width="1000" />
 
 Resources and resource stats
 ----------------------------
@@ -149,7 +149,7 @@ Along the bottom are your resource stats:
 ` Gained by committing genocide against a tribe on the map.`  
 ` Gained by studying in the library if this option is turned on in `“`free-play`”` mode.`
 
-<img src="/keeperrl_wiki/Resources-screenshot.png" title="/keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki/Resources-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Resources-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Resources-screenshot.png" width="1000" />
 
 These [Resources](/keeperrl_wiki/Resources "wikilink") are what is needed to build
 things in the dungeon. Mana is also used for researching technologies.
@@ -180,7 +180,7 @@ ores; stick to the plain black area and they can dig large
 shift with the mouse and draw out rectangles, too. Hold down the CTRL
 key and drag to cancel blocks of orders shown on the map.
 
-<img src="/keeperrl_wiki/Littledungeon-screenshot.png" title="/keeperrl_wiki/Littledungeon-screenshot.png" alt="/keeperrl_wiki/Littledungeon-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Littledungeon-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Littledungeon-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Littledungeon-screenshot.png" width="1000" />
 
 Construction
 ------------
@@ -222,7 +222,7 @@ heads in like fashion. You can also install various
 Message boards can be built by Keepers and can be posted to by the
 public.
 
-<img src="/keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki/Installations-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Installations-screenshot.png" width="1000" />
 
 Building Rooms and Gathering Resources
 --------------------------------------
@@ -280,7 +280,7 @@ basic creatures to your dungeon already, and killed a few easy enemies.
 You should have enough mana at this point to research some of the
 technologies, which you can experiment with.
 
-<img src="/keeperrl_wiki/Researchmenu-screenshot.png" title="/keeperrl_wiki/Researchmenu-screenshot.png" alt="/keeperrl_wiki/Researchmenu-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Researchmenu-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Researchmenu-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Researchmenu-screenshot.png" width="1000" />
 
 Minions
 -------
@@ -312,7 +312,7 @@ invade. To do this, click on the team on the left panel of the minions
 tab, then select a team member and click “control”. Press 'g' to manage
 every move of each team member and to toggle that feature off again.
 
-<img src="/keeperrl_wiki/Directcontrol-screenshot.png" title="/keeperrl_wiki/Directcontrol-screenshot.png" alt="/keeperrl_wiki/Directcontrol-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Directcontrol-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Directcontrol-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Directcontrol-screenshot.png" width="1000" />
 
 Options on the minion management screen
 ---------------------------------------
@@ -320,7 +320,7 @@ Options on the minion management screen
 You can banish, whip, directly control, rename, assign activities,
 assign equipment, lock equipment and view spells.
 
-<img src="/keeperrl_wiki/Minionmanagement-screenshot.png" title="/keeperrl_wiki/Minionmanagement-screenshot.png" alt="/keeperrl_wiki/Minionmanagement-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Minionmanagement-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Minionmanagement-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Minionmanagement-screenshot.png" width="1000" />
 
 Population limit
 ----------------
@@ -362,7 +362,7 @@ Destroying a tribe will yield mana and allow you to pillage. Full
 conquest of all the tribes will allow you to retire victorious (only to
 be invaded by other players).
 
-<img src="/keeperrl_wiki/Tribesstrip-screenshot.png" title="/keeperrl_wiki/Tribesstrip-screenshot.png" alt="/keeperrl_wiki/Tribesstrip-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Tribesstrip-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Tribesstrip-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Tribesstrip-screenshot.png" width="1000" />
 
 The world we live in is inhabited by many [
 creatures](/keeperrl_wiki/Creatures_Guide "wikilink"). For example, you may meet
@@ -462,7 +462,7 @@ inhabited caves, which will not be able to counter-attack against you.
 There are forest animals such as deer, foxes and boars. Don't get killed
 by a dog while wandering about at level 5 with no weapons and armour!
 
-<img src="/keeperrl_wiki/Killedbydog-screenshot.png" title="/keeperrl_wiki/Killedbydog-screenshot.png" alt="/keeperrl_wiki/Killedbydog-screenshot.png" width="1000" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Killedbydog-screenshot.png" title="/keeperrl_wiki//keeperrl_wiki/Killedbydog-screenshot.png" alt="/keeperrl_wiki//keeperrl_wiki/Killedbydog-screenshot.png" width="1000" />
 
 Winning the game
 ----------------

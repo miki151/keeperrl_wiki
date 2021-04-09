@@ -4,7 +4,7 @@ permalink: Shelob/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Szelob.png" title="fig:/keeperrl_wiki/Szelob.png" alt="/keeperrl_wiki/Szelob.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Szelob.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Szelob.png" alt="/keeperrl_wiki//keeperrl_wiki/Szelob.png" width="100" />
 ''Spider boss
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Snake/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Snake.png" title="fig:/keeperrl_wiki/Snake.png" alt="/keeperrl_wiki/Snake.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Snake.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Snake.png" alt="/keeperrl_wiki//keeperrl_wiki/Snake.png" width="100" />
 ''Poisonous wildlife
 
 Base Stats
