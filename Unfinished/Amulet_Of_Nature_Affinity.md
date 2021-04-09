@@ -1,6 +1,8 @@
+---
 title: Amulet_Of_Nature_Affinity
 permalink: Amulet_Of_Nature_Affinity/
 layout: wiki
+---
 
 
 

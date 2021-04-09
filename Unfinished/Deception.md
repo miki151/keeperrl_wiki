@@ -1,6 +1,8 @@
+---
 title: Deception
 permalink: Deception/
 layout: wiki
+---
 
 
 

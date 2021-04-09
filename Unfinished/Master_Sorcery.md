@@ -1,6 +1,8 @@
+---
 title: Master_Sorcery
 permalink: Master_Sorcery/
 layout: wiki
+---
 
 
 

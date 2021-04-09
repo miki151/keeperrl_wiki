@@ -1,6 +1,8 @@
+---
 title: Short_Bow
 permalink: Short_Bow/
 layout: wiki
+---
 
 
 

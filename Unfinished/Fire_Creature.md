@@ -1,6 +1,8 @@
+---
 title: Fire_Creature
 permalink: Fire_Creature/
 layout: wiki
+---
 
 
 

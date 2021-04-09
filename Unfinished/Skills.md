@@ -1,6 +1,8 @@
+---
 title: Skills
 permalink: Skills/
 layout: wiki
+---
 
 
 

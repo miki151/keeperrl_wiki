@@ -1,6 +1,8 @@
+---
 title: Basic_Spells
 permalink: Basic_Spells/
 layout: wiki
+---
 
 
 

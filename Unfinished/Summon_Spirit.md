@@ -1,6 +1,8 @@
+---
 title: Summon_Spirit
 permalink: Summon_Spirit/
 layout: wiki
+---
 
 
 

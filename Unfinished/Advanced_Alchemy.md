@@ -1,6 +1,8 @@
+---
 title: Advanced_Alchemy
 permalink: Advanced_Alchemy/
 layout: wiki
+---
 
 
 

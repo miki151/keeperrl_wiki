@@ -1,6 +1,8 @@
+---
 title: Explore
 permalink: Explore/
 layout: wiki
+---
 
 
 

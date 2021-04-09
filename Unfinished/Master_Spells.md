@@ -1,6 +1,8 @@
+---
 title: Master_Spells
 permalink: Master_Spells/
 layout: wiki
+---
 
 
 

@@ -1,6 +1,8 @@
+---
 title: Amulet_Of_Defense
 permalink: Amulet_Of_Defense/
 layout: wiki
+---
 
 
 

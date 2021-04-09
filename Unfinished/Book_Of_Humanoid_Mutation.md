@@ -1,6 +1,8 @@
+---
 title: Book_Of_Humanoid_Mutation
 permalink: Book_Of_Humanoid_Mutation/
 layout: wiki
+---
 
 
 

@@ -1,6 +1,8 @@
+---
 title: Humanoid
 permalink: Humanoid/
 layout: wiki
+---
 
 
 

@@ -1,6 +1,8 @@
+---
 title: Spells
 permalink: Spells/
 layout: wiki
+---
 
 
 

@@ -1,6 +1,8 @@
+---
 title: Panic
 permalink: Panic/
 layout: wiki
+---
 
 
 

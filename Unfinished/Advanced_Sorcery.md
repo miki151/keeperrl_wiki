@@ -1,6 +1,8 @@
+---
 title: Advanced_Sorcery
 permalink: Advanced_Sorcery/
 layout: wiki
+---
 
 
 

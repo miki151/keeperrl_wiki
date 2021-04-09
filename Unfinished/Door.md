@@ -1,6 +1,8 @@
+---
 title: Door
 permalink: Door/
 layout: wiki
+---
 
 
 

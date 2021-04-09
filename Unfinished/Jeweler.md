@@ -1,6 +1,8 @@
+---
 title: Jeweler
 permalink: Jeweler/
 layout: wiki
+---
 
 
 

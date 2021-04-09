@@ -1,6 +1,8 @@
+---
 title: Poison_Gas
 permalink: Poison_Gas/
 layout: wiki
+---
 
 
 

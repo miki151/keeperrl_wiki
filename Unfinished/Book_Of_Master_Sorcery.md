@@ -1,6 +1,8 @@
+---
 title: Book_Of_Master_Sorcery
 permalink: Book_Of_Master_Sorcery/
 layout: wiki
+---
 
 
 

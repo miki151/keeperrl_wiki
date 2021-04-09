@@ -1,6 +1,8 @@
+---
 title: Potion_Of_Healing
 permalink: Potion_Of_Healing/
 layout: wiki
+---
 
 
 

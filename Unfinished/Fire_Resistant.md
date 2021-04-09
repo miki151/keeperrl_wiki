@@ -1,6 +1,8 @@
+---
 title: Fire_Resistant
 permalink: Fire_Resistant/
 layout: wiki
+---
 
 
 

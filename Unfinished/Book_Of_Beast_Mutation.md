@@ -1,6 +1,8 @@
+---
 title: Book_Of_Beast_Mutation
 permalink: Book_Of_Beast_Mutation/
 layout: wiki
+---
 
 
 

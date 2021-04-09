@@ -1,6 +1,8 @@
+---
 title: Body_Parts
 permalink: Body_Parts/
 layout: wiki
+---
 
 
 

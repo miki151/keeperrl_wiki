@@ -1,6 +1,8 @@
+---
 title: Brainless
 permalink: Brainless/
 layout: wiki
+---
 
 
  

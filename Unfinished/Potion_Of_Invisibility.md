@@ -1,6 +1,8 @@
+---
 title: Potion_Of_Invisibility
 permalink: Potion_Of_Invisibility/
 layout: wiki
+---
 
 
 

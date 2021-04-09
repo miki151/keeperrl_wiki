@@ -1,6 +1,8 @@
+---
 title: Gold
 permalink: Gold/
 layout: wiki
+---
 
 
 

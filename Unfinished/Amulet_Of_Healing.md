@@ -1,6 +1,8 @@
+---
 title: Amulet_Of_Healing
 permalink: Amulet_Of_Healing/
 layout: wiki
+---
 
 
 

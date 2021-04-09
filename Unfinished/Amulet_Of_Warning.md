@@ -1,6 +1,8 @@
+---
 title: Amulet_Of_Warning
 permalink: Amulet_Of_Warning/
 layout: wiki
+---
 
 
 

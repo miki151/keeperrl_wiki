@@ -1,6 +1,8 @@
+---
 title: Courage
 permalink: Courage/
 layout: wiki
+---
 
 
 

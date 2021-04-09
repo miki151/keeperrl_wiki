@@ -1,6 +1,8 @@
+---
 title: Dexterity_Mushroom
 permalink: Dexterity_Mushroom/
 layout: wiki
+---
 
 
 

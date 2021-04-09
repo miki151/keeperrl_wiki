@@ -1,6 +1,8 @@
+---
 title: Sword
 permalink: Sword/
 layout: wiki
+---
 
 
 

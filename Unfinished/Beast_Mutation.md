@@ -1,6 +1,8 @@
+---
 title: Beast_Mutation
 permalink: Beast_Mutation/
 layout: wiki
+---
 
 
 

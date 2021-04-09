@@ -1,6 +1,8 @@
+---
 title: Immigration
 permalink: Immigration/
 layout: wiki
+---
 
 
 

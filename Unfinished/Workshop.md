@@ -1,6 +1,8 @@
+---
 title: Workshop
 permalink: Workshop/
 layout: wiki
+---
 
 
 

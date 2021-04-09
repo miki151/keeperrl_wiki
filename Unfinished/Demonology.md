@@ -1,6 +1,8 @@
+---
 title: Demonology
 permalink: Demonology/
 layout: wiki
+---
 
 
 

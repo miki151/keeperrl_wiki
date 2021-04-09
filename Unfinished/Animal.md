@@ -1,6 +1,8 @@
+---
 title: Animal
 permalink: Animal/
 layout: wiki
+---
 
 
 

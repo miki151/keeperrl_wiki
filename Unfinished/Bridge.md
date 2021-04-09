@@ -1,6 +1,8 @@
+---
 title: Bridge
 permalink: Bridge/
 layout: wiki
+---
 
 
 

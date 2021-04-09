@@ -1,6 +1,8 @@
+---
 title: Blind
 permalink: Blind/
 layout: wiki
+---
 
 
 

@@ -1,6 +1,8 @@
+---
 title: Alchemy
 permalink: Alchemy/
 layout: wiki
+---
 
 
 

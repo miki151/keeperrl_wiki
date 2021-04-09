@@ -1,6 +1,8 @@
+---
 title: Humanoid_Mutation
 permalink: Humanoid_Mutation/
 layout: wiki
+---
 
 
 

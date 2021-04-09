@@ -1,6 +1,8 @@
+---
 title: Summon_Insects
 permalink: Summon_Insects/
 layout: wiki
+---
 
 
 

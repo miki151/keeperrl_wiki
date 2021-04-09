@@ -1,6 +1,8 @@
+---
 title: Jewellery
 permalink: Jewellery/
 layout: wiki
+---
 
 
  

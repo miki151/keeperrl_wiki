@@ -1,6 +1,8 @@
+---
 title: Traits
 permalink: Traits/
 layout: wiki
+---
 
 
 

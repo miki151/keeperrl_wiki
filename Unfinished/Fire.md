@@ -1,6 +1,8 @@
+---
 title: Fire
 permalink: Fire/
 layout: wiki
+---
 
 
 

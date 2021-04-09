@@ -1,6 +1,8 @@
+---
 title: Poison_Resistance
 permalink: Poison_Resistance/
 layout: wiki
+---
 
 
 
