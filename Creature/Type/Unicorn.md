@@ -4,7 +4,7 @@ permalink: Unicorn/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Unicorn.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Unicorn.png" alt="/keeperrl_wiki//keeperrl_wiki/Unicorn.png" width="100" />
+<img src="/keeperrl_wiki/Unicorn.png" title="fig:/keeperrl_wiki/Unicorn.png" alt="/keeperrl_wiki/Unicorn.png" width="100" />
 ''Woodland herds
 
 Base Stats

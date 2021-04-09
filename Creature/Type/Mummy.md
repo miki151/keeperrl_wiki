@@ -4,7 +4,7 @@ permalink: Mummy/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Mummy.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Mummy.png" alt="/keeperrl_wiki//keeperrl_wiki/Mummy.png" width="100" />
+<img src="/keeperrl_wiki/Mummy.png" title="fig:/keeperrl_wiki/Mummy.png" alt="/keeperrl_wiki/Mummy.png" width="100" />
 ''Never seems to show up
 
 -   Spell Damage:10

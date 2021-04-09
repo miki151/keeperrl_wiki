@@ -4,7 +4,7 @@ permalink: Spirit/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Spirit.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Spirit.png" alt="/keeperrl_wiki//keeperrl_wiki/Spirit.png" width="100" />
+<img src="/keeperrl_wiki/Spirit.png" title="fig:/keeperrl_wiki/Spirit.png" alt="/keeperrl_wiki/Spirit.png" width="100" />
 ''Summoned protection
 
 Summoned by [summon spirit](/keeperrl_wiki/Summon_Spirit "wikilink") spell.''

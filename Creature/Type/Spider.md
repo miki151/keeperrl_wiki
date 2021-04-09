@@ -4,7 +4,7 @@ permalink: Spider/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Spider.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Spider.png" alt="/keeperrl_wiki//keeperrl_wiki/Spider.png" width="100" />
+<img src="/keeperrl_wiki/Spider.png" title="fig:/keeperrl_wiki/Spider.png" alt="/keeperrl_wiki/Spider.png" width="100" />
 ''Weak but poisonous
 
 Base Stats

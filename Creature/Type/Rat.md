@@ -4,7 +4,7 @@ permalink: Rat/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Rat.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Rat.png" alt="/keeperrl_wiki//keeperrl_wiki/Rat.png" width="100" />
+<img src="/keeperrl_wiki/Rat.png" title="fig:/keeperrl_wiki/Rat.png" alt="/keeperrl_wiki/Rat.png" width="100" />
 ''Often live in chests, eating cheese
 
 Base Stats

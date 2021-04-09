@@ -4,7 +4,7 @@ permalink: Wolf/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Wolf.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Wolf.png" alt="/keeperrl_wiki//keeperrl_wiki/Wolf.png" width="100" />
+<img src="/keeperrl_wiki/Wolf.png" title="fig:/keeperrl_wiki/Wolf.png" alt="/keeperrl_wiki/Wolf.png" width="100" />
 ''Arrive in packs
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")
