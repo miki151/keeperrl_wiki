@@ -7,8 +7,9 @@ layout: wiki
 Alpha 23 change log
 ===================
 
-Gameplay
---------
+Gameplay Changes
+----------------
+
 
 -   Endless game mode: no conquest objective, recurring enemy waves,
     survive as long as possible.
@@ -93,8 +94,8 @@ Gameplay
 -   Redefined civilians and fighters in enemy villages.
 -   Dogs can no longer be leaders of villages.
 
-Interface
----------
+Interface Changes
+-----------------
 
 -   Big optimizations of rendering code.
 -   Added health bars.
@@ -106,8 +107,8 @@ Interface
 -   Optimized splash screen.
 -   Improved item counts display in workshops UI.
 
-Bug fixes
----------
+Bugfixes
+--------
 
 -   Excluded bogus outdoor tiles from some caves territories.
 -   Fixed crash involving items destroying themselves.

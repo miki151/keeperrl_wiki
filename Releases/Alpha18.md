@@ -6,6 +6,9 @@ layout: wiki
 
 Alpha 18 was released in May 2016. The major changes are as follows:
 
+Gameplay Changes
+----------------
+
 -   Campaign mode, including Keeper vs Keeper battles!
 -   Added geology tech, now used to uncover ores.
 -   Added command to switch team leader.

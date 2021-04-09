@@ -6,6 +6,9 @@ layout: wiki
 
 KeeperRL Alpha16 changelog:
 
+Gameplay Changes
+----------------
+
 -   Cemetery with an underground crypt where you can find some super
     powerful undead minions.
 -   'Mine Town' dungeon with friendly dark elves or gnomes that will

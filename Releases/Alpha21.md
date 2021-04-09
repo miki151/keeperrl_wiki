@@ -4,7 +4,9 @@ permalink: Alpha21/
 layout: wiki
 ---
 
-Gameplay changes
+Gameplay Changes
+----------------
+
 
 `   New immigration system and UI, which lets the player accept or reject minions, and unifies immigration, recruitment, breeding, and imp spawning.`  
 `   New campaign game mode with fixed keeper position and villains.`  
@@ -19,7 +21,9 @@ Gameplay changes
 `   “Escape” spell won’t teleport creature to an inaccessible area.`  
 `   Minerals won’t spawn next to dug out tiles.`
 
-UI changes
+Interface Changes
+-----------------
+
 
 `   Female keepers and adventurers! Gender currently has no effect on gameplay.`  
 `   Single map mode is available through the campaign setup window.`  
@@ -39,6 +43,7 @@ UI changes
 `   Some player messages have a higher priority color. Changed “critically wounded” status to “bleeding”.`
 
 Bugfixes
+--------
 
 `   Fixed a common compatibility issue with Intel Express and similar video cards due to lack of support of non-power-of-two texture sizes.`  
 `   Fixed capturing of prisoners.`  

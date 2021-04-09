@@ -7,8 +7,9 @@ layout: wiki
 The full change log
 ===================
 
-Gameplay
---------
+Gameplay Changes
+----------------
+
 
 -   Prisoners retain their identity and can join your side if tortured.
 -   Prisoners can be captured outside of player's dungeon.
@@ -90,8 +91,8 @@ Gameplay
 -   Pig corpses don't emit gas.
 -   All enemy creatures heal slowly over time.
 
-Interface
----------
+Interface Changes
+-----------------
 
 -   New UI for managing team members: adding and removing from team,
     changing move order.
@@ -114,8 +115,8 @@ Interface
 -   Total inventory weight and maximum capacity is displayed in control
     mode.
 
-Fixes
------
+Bugfixes
+--------
 
 -   Endless mode highscore takes into account only time spent defending
     the base, and not wandering around.

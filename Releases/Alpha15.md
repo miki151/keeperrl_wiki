@@ -7,8 +7,9 @@ layout: wiki
 *Officially released: 02 July 2015. All of the changelog has been copied
 from the KeeperRL blog.*
 
-Gameplay changes
+Gameplay Changes
 ----------------
+
 
 -   Introduced max population limit, which starts at 10 and can be
     increased by building various rooms.
@@ -38,8 +39,9 @@ Gameplay changes
 -   More extended attack options: wild and swift attacks.
 -   Donkey.
 
-UI changes
-----------
+
+Interface Changes
+-----------------
 
 -   New minion management UI.
 -   Item pick up menu improved.
@@ -54,7 +56,7 @@ UI changes
 -   Add an option to run the game in single-threaded mode.
 -   Rendering optimizations.
 
-Bug fixes
+Bugfixes
 ---------
 
 -   Fixed pathfinding slowdowns in narrow corridors.

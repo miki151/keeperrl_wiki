@@ -7,6 +7,9 @@ layout: wiki
 Alpha 19 - <http://keeperrl.com/keeperrl-alpha19-is-released/> Released
 in July 2016
 
+Gameplay Changes
+----------------
+
 -   Added adventurer campaign mode.
 -   Fixed management of autosave files so that there is a always a file
     to recover from.

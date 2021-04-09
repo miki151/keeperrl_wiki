@@ -7,8 +7,9 @@ layout: wiki
 Alpha 22 Changes
 ================
 
-Gameplay changes
+Gameplay Changes
 ----------------
+
 
 -   Dedicated tutorial mode that teaches the game’s basic features and
     controls.
@@ -24,8 +25,8 @@ Gameplay changes
 -   Ownership of an item by a minion is assumed when player equips the
     item in control mode.
 
-UI changes
-----------
+Interface Changes
+-----------------
 
 -   Added setting to disable vertical sync, which may solve some
     framerate issues.
@@ -38,8 +39,8 @@ UI changes
 -   Window “close” button is highlighted.
 -   Swapped storage colors. Equipment is now blue, resources green.
 
-Bug fixes
----------
+Bugfixes
+--------
 
 -   Fixed UI crash when changing minion’s task.
 -   Fix drowning of flying creatures that enter deep water that is in

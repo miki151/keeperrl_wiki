@@ -6,6 +6,9 @@ layout: wiki
 
 **New features for Alpha 17**
 
+Gameplay Changes
+----------------
+
 -   40 sound effects.
 -   Minion menu overhaul.
 -   Team UI overhaul.

@@ -10,8 +10,9 @@ Alpha 20
 -   <http://keeperrl.com/keeperrl-alpha20-released/>
 -   Released in October 2016
 
-Changes
--------
+Gameplay Changes
+----------------
+
 
 -   Steel resource, furnace and steel products.
 -   Free floor and furniture placement.

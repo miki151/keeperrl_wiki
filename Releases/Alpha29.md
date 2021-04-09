@@ -7,8 +7,9 @@ layout: wiki
 Full change log
 ===============
 
-Gameplay
---------
+Gameplay Changes
+----------------
+
 
 -   Dark knight, a new Keeper character focused on melee skills.
 -   Digging moats.
@@ -53,8 +54,8 @@ Gameplay
 -   Dogs and other animals can be petted. AI will also pet animals
     sometimes.
 
-UI
---
+Interface Changes
+-----------------
 
 -   New villains UI with attack and trigger notifications, easier
     pillaging and browsing villains.
