@@ -7,7 +7,7 @@ layout: wiki
 <img src="vulture.png" title="fig:vulture.png" alt="vulture.png" width="100" />
 ''Food scavenger
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -31,8 +31,8 @@ practice with the bow, but they offer little experience.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
--   [/keeperrl_wiki/Courage](/keeperrl_wiki/Courage "wikilink") : 100
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Courage](/keeperrl_wiki/Courage "wikilink") : 100
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 

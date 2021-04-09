@@ -7,7 +7,7 @@ layout: wiki
 <img src="succubussmall.png" title="fig:succubussmall.png" alt="succubussmall.png" width="100" />
 ''She's done it before (once)
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -32,15 +32,15 @@ to get pregnant.
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 
 Tasks
 -----
 
--   [/keeperrl_wiki/Copulate](/keeperrl_wiki/Copulate "wikilink")
+-   [Copulate](/keeperrl_wiki/Copulate "wikilink")
 -   [Ritual](/keeperrl_wiki/Ritual_Room "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")

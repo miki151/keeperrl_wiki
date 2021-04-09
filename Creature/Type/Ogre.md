@@ -35,9 +35,9 @@ Skills
 Order Tasks
 -----------
 
--   [/keeperrl_wiki/Training](/keeperrl_wiki/Training "wikilink")
--   [/keeperrl_wiki/Workshop](/keeperrl_wiki/Workshop "wikilink")
--   [/keeperrl_wiki/Forge](/keeperrl_wiki/Forge "wikilink")
--   [/keeperrl_wiki/Lab](/keeperrl_wiki/Lab "wikilink")
--   [/keeperrl_wiki/Jeweler](/keeperrl_wiki/Jeweler "wikilink")
+-   [Training](/keeperrl_wiki/Training "wikilink")
+-   [Workshop](/keeperrl_wiki/Workshop "wikilink")
+-   [Forge](/keeperrl_wiki/Forge "wikilink")
+-   [Lab](/keeperrl_wiki/Lab "wikilink")
+-   [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
 

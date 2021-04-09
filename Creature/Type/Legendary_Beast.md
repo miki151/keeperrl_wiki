@@ -4,7 +4,7 @@ permalink: Legendary_Beast/
 layout: wiki
 ---
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -26,17 +26,17 @@ Traits
 
 -   Random
     -   none
-    -   [/keeperrl_wiki/Undead](/keeperrl_wiki/Undead "wikilink")
+    -   [Undead](/keeperrl_wiki/Undead "wikilink")
 -   Random
     -   none
-    -   [/keeperrl_wiki/Swimming](/keeperrl_wiki/Swimming "wikilink")
+    -   [Swimming](/keeperrl_wiki/Swimming "wikilink")
 -   Random
     -   none
-    -   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+    -   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 -   Random
     -   none
         -   OR
-    -   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+    -   [Flying](/keeperrl_wiki/Flying "wikilink")
     -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 -   Random
     -   [/keeperrl_wiki/Poison Attack](/keeperrl_wiki/Poison "wikilink")

@@ -44,7 +44,7 @@ Dark Knight Attributes
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Tasks
 -----

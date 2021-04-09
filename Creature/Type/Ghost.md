@@ -7,7 +7,7 @@ layout: wiki
 <img src="ghost.png" title="fig:ghost.png" alt="ghost.png" width="100" />
 ''Makes enemies insane
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,8 +30,8 @@ a great way to severely weaken your enemies.
 Traits
 ------
 
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--   [/keeperrl_wiki/Courage](/keeperrl_wiki/Courage "wikilink") : 10
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Courage](/keeperrl_wiki/Courage "wikilink") : 10
 
 Tasks
 -----

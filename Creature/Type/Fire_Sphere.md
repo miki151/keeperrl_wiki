@@ -9,7 +9,7 @@ layout: wiki
 
 Summoned by [fire sphere](/keeperrl_wiki/Fire_Sphere "wikilink") spell.
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -37,9 +37,9 @@ Body Parts
 Traits
 ------
 
--   [/keeperrl_wiki/Brainless](/keeperrl_wiki/Brainless "wikilink")
+-   [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -   [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 -   [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 

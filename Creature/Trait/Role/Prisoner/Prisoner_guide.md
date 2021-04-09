@@ -15,7 +15,7 @@ Converting prisoners
 Best types of prisoners
 =======================
 
--   [/keeperrl_wiki/Cyclops](/keeperrl_wiki/Cyclops "wikilink") make excellent fighters when fully
+-   [Cyclops](/keeperrl_wiki/Cyclops "wikilink") make excellent fighters when fully
     equipped
 -   The [Vampire Lord](/keeperrl_wiki/Vampire_Lord "wikilink") is a powerful spell
     caster
@@ -29,9 +29,9 @@ Best types of prisoners
     Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
 -   Lizardmen have a speed bonus and an optional poison +8 attack
     unarmed
--   The [/keeperrl_wiki/Elementalist](/keeperrl_wiki/Elementalist "wikilink") sucks, he can't even
+-   The [Elementalist](/keeperrl_wiki/Elementalist "wikilink") sucks, he can't even
     summon elementals, so don't bother with him
--   You aren't likely to find a [/keeperrl_wiki/Minotaur](/keeperrl_wiki/Minotaur "wikilink")
+-   You aren't likely to find a [Minotaur](/keeperrl_wiki/Minotaur "wikilink")
     (sometimes they live below castles and they are powerful)
 -   The [lizardman chief](/keeperrl_wiki/Lizardman_Chief "wikilink") is a bit special
 -   [Warriors](/keeperrl_wiki/Warrior "wikilink") from the Viking tribe are very good

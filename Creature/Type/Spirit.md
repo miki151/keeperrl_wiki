@@ -9,7 +9,7 @@ layout: wiki
 
 Summoned by [summon spirit](/keeperrl_wiki/Summon_Spirit "wikilink") spell.''
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -39,6 +39,6 @@ Body Parts
 Traits
 ------
 
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 

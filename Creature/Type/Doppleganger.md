@@ -7,7 +7,7 @@ layout: wiki
 <img src="doppleganger.png" title="fig:doppleganger.png" alt="doppleganger.png" width="100" />
 '' Absorber of bodies
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,7 +30,7 @@ traits as well.
 Traits
 ------
 
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 
 Tasks
 -----

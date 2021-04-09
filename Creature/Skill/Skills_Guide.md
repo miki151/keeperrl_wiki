@@ -43,12 +43,12 @@ Only copulates with male, [humanoid](/keeperrl_wiki/Humanoid "wikilink") and
 not [uncorporal](/keeperrl_wiki/Uncorporal "wikilink") creatures.  
 After some time the creature will give birth to one of the following:
 
--   [/keeperrl_wiki/Goblin](/keeperrl_wiki/Goblin "wikilink")
--   [/keeperrl_wiki/Orc](/keeperrl_wiki/Orc "wikilink")
+-   [Goblin](/keeperrl_wiki/Goblin "wikilink")
+-   [Orc](/keeperrl_wiki/Orc "wikilink")
 -   [Orc Shaman](/keeperrl_wiki/Orc_Shaman "wikilink")
--   [/keeperrl_wiki/Harpy](/keeperrl_wiki/Harpy "wikilink")
--   [/keeperrl_wiki/Ogre](/keeperrl_wiki/Ogre "wikilink")
--   [/keeperrl_wiki/Werewolf](/keeperrl_wiki/Werewolf "wikilink")
+-   [Harpy](/keeperrl_wiki/Harpy "wikilink")
+-   [Ogre](/keeperrl_wiki/Ogre "wikilink")
+-   [Werewolf](/keeperrl_wiki/Werewolf "wikilink")
 -   if [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
     researched
     -   [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")

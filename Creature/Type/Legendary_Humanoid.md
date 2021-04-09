@@ -4,7 +4,7 @@ permalink: Legendary_Humanoid/
 layout: wiki
 ---
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -24,13 +24,13 @@ layout: wiki
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
 
--   [/keeperrl_wiki/Archery](/keeperrl_wiki/Archery "wikilink") : 0.0 - 1.0
--   [/keeperrl_wiki/Sorcery](/keeperrl_wiki/Sorcery "wikilink") : 0.0 - 1.0
+-   [Archery](/keeperrl_wiki/Archery "wikilink") : 0.0 - 1.0
+-   [Sorcery](/keeperrl_wiki/Sorcery "wikilink") : 0.0 - 1.0
 -   [Unarmed Melee](/keeperrl_wiki/Unarmed_Melee "wikilink") : 0.0 - 1.0
 -   [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink") : 0.0 - 1.0
 
@@ -45,7 +45,7 @@ Tasks
 [Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [/keeperrl_wiki/Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
 -   probability : 0.2
 -   space usage : 3
 -   required tiles

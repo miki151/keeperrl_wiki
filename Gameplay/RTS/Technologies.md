@@ -17,12 +17,12 @@ Technology tree
   
   
 
-'''[/keeperrl_wiki/Archery](/keeperrl_wiki/Archery "wikilink")
+'''[Archery](/keeperrl_wiki/Archery "wikilink")
 
   
   
 
-'''[/keeperrl_wiki/Traps](/keeperrl_wiki/Traps "wikilink")
+'''[Traps](/keeperrl_wiki/Traps "wikilink")
 
   
   
@@ -35,7 +35,7 @@ Technology tree
 
 '''[|\_\_\_\_\_\_/keeperrl_wiki/Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 
-'''[/keeperrl_wiki/Sorcery](/keeperrl_wiki/Sorcery "wikilink")
+'''[Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 
   
   
@@ -47,7 +47,7 @@ Technology tree
 
 '''[|\_\_\_\_\_\_Magic Weaponry](/keeperrl_wiki/Magic_Weaponry "wikilink")
 
-'''[/keeperrl_wiki/Alchemy](/keeperrl_wiki/Alchemy "wikilink")
+'''[Alchemy](/keeperrl_wiki/Alchemy "wikilink")
 
   
   
@@ -96,7 +96,7 @@ Traps
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [/keeperrl_wiki/Traps](/keeperrl_wiki/Traps "wikilink")
+    -   [Traps](/keeperrl_wiki/Traps "wikilink")
 -   The traps route is not really recommended since traps were nerfed.
     Lure them in to attack you and wipe them out with traps, but it is
     tricky these days.
@@ -108,7 +108,7 @@ Iron Working
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [/keeperrl_wiki/Forge](/keeperrl_wiki/Forge "wikilink")
+    -   [Forge](/keeperrl_wiki/Forge "wikilink")
     -   Iron Training Dummies
 -   Early on you meet dwarves that usually have 2 handed iron weapons,
     so match their weaponry. You need iron-working and 2-handed weapon
@@ -137,7 +137,7 @@ Jewellery
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [/keeperrl_wiki/Jeweler](/keeperrl_wiki/Jeweler "wikilink")
+    -   [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
 -   Jewellery can be very underestimated. It is worth following. Poison
     resistance can be important and allows you to take on the ants and
     explore gnome/dark elf dungeons safely. This gives you superior
@@ -200,7 +200,7 @@ Alchemy
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [/keeperrl_wiki/Laboratory](/keeperrl_wiki/Laboratory "wikilink")
+    -   [Laboratory](/keeperrl_wiki/Laboratory "wikilink")
     -   [Basic potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -   Take heal potions, slow down potions to throw, speed up potions to
     drink, melee resistance potions to drink, melee vulnerability

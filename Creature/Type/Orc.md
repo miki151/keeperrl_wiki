@@ -7,7 +7,7 @@ layout: wiki
 <img src="orc.png" title="fig:orc.png" alt="orc.png" width="100" />
 ''Standard warrior minion
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,7 +30,7 @@ wish to feed them to your doppleganger, just to be rid of them, although
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
@@ -50,7 +50,7 @@ Tasks
 [Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [/keeperrl_wiki/Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
 -   probability : 0.7
 -   space usage : 1
 -   required tiles

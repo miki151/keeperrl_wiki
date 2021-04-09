@@ -7,7 +7,7 @@ layout: wiki
 <img src="bat.png" title="fig:bat.png" alt="bat.png" width="100" />
 ''They like to explore
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -33,8 +33,8 @@ and flight. They are ideal for teaming up with ground units.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 
 Skills
@@ -45,8 +45,8 @@ Skills
 Tasks
 -----
 
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Caves
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
+-   [Explore](/keeperrl_wiki/Explore "wikilink") : Caves
+-   [Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
 -   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")

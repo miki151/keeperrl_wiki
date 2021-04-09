@@ -7,7 +7,7 @@ layout: wiki
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />
 ''Naturally regenerates health
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -40,8 +40,8 @@ for a keeper.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
@@ -51,7 +51,7 @@ Skills
 Tasks
 -----
 
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
+-   [Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
 -   [Train](/keeperrl_wiki/Training_Room "wikilink")
 -   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 

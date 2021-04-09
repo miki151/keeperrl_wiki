@@ -10,7 +10,7 @@ illusions views them as transparent to differentiate between themselves
 and the illusions. To other creatures(that did not summon the illusions)
 they appear the same as the caster.
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -41,10 +41,10 @@ Body Parts
 Traits
 ------
 
--   [/keeperrl_wiki/Blind](/keeperrl_wiki/Blind "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Blind](/keeperrl_wiki/Blind "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -   [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--   [/keeperrl_wiki/Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--   [/keeperrl_wiki/Stationary](/keeperrl_wiki/Stationary "wikilink")
+-   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-   [Stationary](/keeperrl_wiki/Stationary "wikilink")
 

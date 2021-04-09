@@ -20,14 +20,14 @@ Forge
 Laboratory
 ----------
 
--   Requires [/keeperrl_wiki/Alchemy](/keeperrl_wiki/Alchemy "wikilink") researched.
+-   Requires [Alchemy](/keeperrl_wiki/Alchemy "wikilink") researched.
 -   Produces: magical potions
 -   Tile Cost: 10 stone
 
 Jeweller
 --------
 
--   Requires [/keeperrl_wiki/Jewellery](/keeperrl_wiki/Jewellery "wikilink")
+-   Requires [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -   Produces: jewelry, magical rings, and amulets
 -   Tile Cost: 12 Wood
 

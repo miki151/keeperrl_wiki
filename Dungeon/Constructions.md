@@ -10,6 +10,6 @@ To manage your dungeon, you can ask your imps and recruited volunteers
 This is a game about building a dungeon after all.
 
 -   [ Rooms](/keeperrl_wiki/Rooms_Guide "wikilink")
--   [ /keeperrl_wiki/Installations](/keeperrl_wiki/Installations "wikilink")
--   [ /keeperrl_wiki/Traps ](/keeperrl_wiki/Traps "wikilink")
+-   [Installations](/keeperrl_wiki/Installations "wikilink")
+-   [Traps](/keeperrl_wiki/Traps "wikilink")
 

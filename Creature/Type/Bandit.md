@@ -17,7 +17,7 @@ run away. If you are overpowered early on in the game, they can be
 bribed to leave you alone. Such cowardice is normally very much less
 satisfying than killing them all and taking their swords for your army.
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -43,12 +43,12 @@ Skills
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Inventory
 ---------
 
--   [/keeperrl_wiki/Sword](/keeperrl_wiki/Sword "wikilink")
+-   [Sword](/keeperrl_wiki/Sword "wikilink")
 -   30% chance :
     -   [Potion of healing](/keeperrl_wiki/Potion_Of_Healing "wikilink") :
         4

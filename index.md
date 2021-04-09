@@ -46,27 +46,27 @@ Creature Guide
 -   [ /keeperrl_wiki/Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
 -   Creature natures                                                           
-    -   [ /keeperrl_wiki/Skills](/keeperrl_wiki/Skills "wikilink")                                          
-    -   [ /keeperrl_wiki/Traits](/keeperrl_wiki/Traits "wikilink")                                          
-    -   [ /keeperrl_wiki/Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
-    -   [ /keeperrl_wiki/Spells](/keeperrl_wiki/Spells "wikilink")                                          
-    -   [ /keeperrl_wiki/Attributes ](/keeperrl_wiki/Attributes "wikilink")                                 
-    -   [ /keeperrl_wiki/Experience ](/keeperrl_wiki/Experience "wikilink")
+    -   [Skills](/keeperrl_wiki/Skills "wikilink")                                          
+    -   [Traits](/keeperrl_wiki/Traits "wikilink")                                          
+    -   [Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
+    -   [Spells](/keeperrl_wiki/Spells "wikilink")                                          
+    -   [Attributes](/keeperrl_wiki/Attributes "wikilink")                                 
+    -   [Experience](/keeperrl_wiki/Experience "wikilink")
 
 <hr>
 Dungeon Guide
 <hr>
 -   [ Dungeon /keeperrl_wiki/Technologies](/keeperrl_wiki/Technologies "wikilink")                                               
--   [ /keeperrl_wiki/Resources](/keeperrl_wiki/Resources "wikilink")                                                              
--   [/keeperrl_wiki/Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
+-   [Resources](/keeperrl_wiki/Resources "wikilink")                                                              
+-   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
    -   [ Rooms](/keeperrl_wiki/Rooms_Guide "wikilink")                                                       
         -   [Structures and Installations](/keeperrl_wiki/Structures_And_Installations "wikilink")                      
-       -   [ /keeperrl_wiki/Traps ](/keeperrl_wiki/Traps "wikilink")                                                                 
+       -   [Traps](/keeperrl_wiki/Traps "wikilink")                                                                 
    -   [ Items](/keeperrl_wiki/Items_Guide "wikilink")                                                           
-       -   [/keeperrl_wiki/Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
-       -   [/keeperrl_wiki/Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
-       -   [/keeperrl_wiki/Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
-       -   [/keeperrl_wiki/Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
+       -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
+       -   [Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
+       -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
+       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
 
 <img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
 <img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />
@@ -74,17 +74,17 @@ Dungeon Guide
 <hr>
 Release History Guide
 <hr>
--   [/keeperrl_wiki/Alpha31](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Warlord Mode
--   [/keeperrl_wiki/Alpha30](/keeperrl_wiki/Alpha30 "wikilink") | Introducing Gnome Keepers\Many Mods at once
--   [/keeperrl_wiki/Alpha29](/keeperrl_wiki/Alpha29 "wikilink") | Introducing Steam workshop integration
--   [/keeperrl_wiki/Alpha28](/keeperrl_wiki/Alpha28 "wikilink") | Introducing Explosion of free game content
--   [/keeperrl_wiki/Alpha27](/keeperrl_wiki/Alpha27 "wikilink") | Introducing  Z-Levels
--   [/keeperrl_wiki/Alpha26](/keeperrl_wiki/Alpha26 "wikilink") | Introducing  Modding support\Building outside
--   [/keeperrl_wiki/Alpha25](/keeperrl_wiki/Alpha25 "wikilink") | Introducing  Dark knight keepers\moats
--   [/keeperrl_wiki/Alpha24](/keeperrl_wiki/Alpha24 "wikilink") | Introducing  Convertible prisoners who keep stats
--   [/keeperrl_wiki/Alpha23](/keeperrl_wiki/Alpha23 "wikilink") | Introducing  Endless mode
--   [/keeperrl_wiki/Alpha22](/keeperrl_wiki/Alpha22 "wikilink") | Introducing  Tutorial
--   [/keeperrl_wiki/Alpha21](/keeperrl_wiki/Alpha21 "wikilink") | Introducing  Immigration system upgraded
+-   [Alpha31](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Warlord Mode
+-   [Alpha30](/keeperrl_wiki/Alpha30 "wikilink") | Introducing Gnome Keepers\Many Mods at once
+-   [Alpha29](/keeperrl_wiki/Alpha29 "wikilink") | Introducing Steam workshop integration
+-   [Alpha28](/keeperrl_wiki/Alpha28 "wikilink") | Introducing Explosion of free game content
+-   [Alpha27](/keeperrl_wiki/Alpha27 "wikilink") | Introducing  Z-Levels
+-   [Alpha26](/keeperrl_wiki/Alpha26 "wikilink") | Introducing  Modding support\Building outside
+-   [Alpha25](/keeperrl_wiki/Alpha25 "wikilink") | Introducing  Dark knight keepers\moats
+-   [Alpha24](/keeperrl_wiki/Alpha24 "wikilink") | Introducing  Convertible prisoners who keep stats
+-   [Alpha23](/keeperrl_wiki/Alpha23 "wikilink") | Introducing  Endless mode
+-   [Alpha22](/keeperrl_wiki/Alpha22 "wikilink") | Introducing  Tutorial
+-   [Alpha21](/keeperrl_wiki/Alpha21 "wikilink") | Introducing  Immigration system upgraded
 
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.

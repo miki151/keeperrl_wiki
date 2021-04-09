@@ -7,7 +7,7 @@ layout: wiki
 <img src="raven.png" title="fig:raven.png" alt="raven.png" width="100" />
 ''Daytime explorer. Fast!
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -35,14 +35,14 @@ the ability to fly and travel fast.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 
 Tasks
 -----
 
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink")
+-   [Explore](/keeperrl_wiki/Explore "wikilink")
 -   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")

@@ -7,7 +7,7 @@ layout: wiki
 <img src="wolf.png" title="fig:wolf.png" alt="wolf.png" width="100" />
 ''Arrive in packs
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -34,7 +34,7 @@ farmers and the like.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
 
 Skills
 ------
@@ -44,7 +44,7 @@ Skills
 Tasks
 -----
 
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
+-   [Explore](/keeperrl_wiki/Explore "wikilink") : Nocturnal
 -   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")

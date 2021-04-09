@@ -5,8 +5,8 @@ layout: wiki
 ---
 
 **Spells** are active abilities with cooldown between uses that can be
-learned by your [/keeperrl_wiki/Keeper](/keeperrl_wiki/Keeper "wikilink") and some of your
-[/keeperrl_wiki/Minions](/keeperrl_wiki/Minions "wikilink").
+learned by your [Keeper](/keeperrl_wiki/Keeper "wikilink") and some of your
+[Minions](/keeperrl_wiki/Minions "wikilink").
 
 Spells known are based on your Magic Damage training, with each level of
 training providing a new spell. This means that only the Keeper can

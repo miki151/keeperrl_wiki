@@ -7,7 +7,7 @@ layout: wiki
 <img src="fly.png" title="fig:fly.png" alt="fly.png" width="100" />
 ''Distraction during combat
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -41,7 +41,7 @@ Body Parts
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
--   [/keeperrl_wiki/Courage](/keeperrl_wiki/Courage "wikilink") : 100
--   [/keeperrl_wiki/Flying](/keeperrl_wiki/Flying "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Courage](/keeperrl_wiki/Courage "wikilink") : 100
+-   [Flying](/keeperrl_wiki/Flying "wikilink")
 

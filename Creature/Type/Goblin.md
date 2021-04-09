@@ -43,7 +43,7 @@ morale to get anything really useful from them.
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 
 Skills
 ------
@@ -57,13 +57,13 @@ Tasks
 
 -   [Workshops](/keeperrl_wiki/Manufactories "wikilink")
 -   [Train](/keeperrl_wiki/Training_Room "wikilink")
--   [/keeperrl_wiki/Laboratory](/keeperrl_wiki/Laboratory "wikilink")
+-   [Laboratory](/keeperrl_wiki/Laboratory "wikilink")
 -   [Sleep](/keeperrl_wiki/Dormitory "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")
 -------------------------------------
 
--   dorm : [/keeperrl_wiki/Dormitory](/keeperrl_wiki/Dormitory "wikilink")
+-   dorm : [Dormitory](/keeperrl_wiki/Dormitory "wikilink")
 -   probability : 1
 -   space usage : 1
 -   required tiles

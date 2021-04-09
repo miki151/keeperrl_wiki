@@ -10,7 +10,7 @@ however gain new tasks and traits:
 Traits
 ------
 
--   [/keeperrl_wiki/Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+-   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -   [Poison resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
 
 Tasks

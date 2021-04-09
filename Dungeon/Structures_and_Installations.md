@@ -67,7 +67,7 @@ Barricade
 *Place it on tiles next to a wall.*
 
 -   Cost : 20 wood
--   Requires : [/keeperrl_wiki/Crafting](/keeperrl_wiki/Crafting "wikilink")
+-   Requires : [Crafting](/keeperrl_wiki/Crafting "wikilink")
 
 Barricades let the air through, not your minions! Pretty useful to have
 a indoor pigsty without corpse rotting hazard. Best is to have a

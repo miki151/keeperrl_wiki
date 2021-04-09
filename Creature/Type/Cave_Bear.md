@@ -7,7 +7,7 @@ layout: wiki
 <img src="bear.png" title="fig:bear.png" alt="bear.png" width="100" />
 ''Bears can take the initiative.
 
-[/keeperrl_wiki/Attributes](/keeperrl_wiki/Attributes "wikilink")
+[Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
 *Base values*
@@ -30,12 +30,12 @@ villages on their own initiative.
 Traits
 ------
 
--   [/keeperrl_wiki/Animal](/keeperrl_wiki/Animal "wikilink")
+-   [Animal](/keeperrl_wiki/Animal "wikilink")
 
 Tasks
 -----
 
--   [/keeperrl_wiki/Explore](/keeperrl_wiki/Explore "wikilink") : Caves
+-   [Explore](/keeperrl_wiki/Explore "wikilink") : Caves
 -   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 
 [Attraction](/keeperrl_wiki/Immigration "wikilink")
