@@ -23,13 +23,13 @@ Alternatively, purchase the graphical and audio version from
 2.  The Main Menu will come up. The options will be “Play game”, “Change
     settings”, “View highscores”, “view credits”, “quit”.
 
-<img src="Title-Screenshot.png" title="Title-Screenshot.png" alt="Title-Screenshot.png" width="1000" />
+<img src="Title-screenshot.png" title="Title-screenshot.png" alt="Title-screenshot.png" width="1000" />
 
 1.  Play the game
 2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
     back”.
 
-<img src="PlayMenu-Screenshot.png" title="PlayMenu-Screenshot.png" alt="PlayMenu-Screenshot.png" width="1000" />
+<img src="Playmenu-screenshot.png" title="Playmenu-screenshot.png" alt="Playmenu-screenshot.png" width="1000" />
 
 1.  If this is your very first game, play the tutorial first: (Note,
     some players get lost in the black unexplored area of the map when
@@ -51,7 +51,7 @@ hero, try playing an adventurer.
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
 
-<img src="CampaignMap-Screenshot.png" title="CampaignMap-Screenshot.png" alt="CampaignMap-Screenshot.png" width="1000" />
+<img src="Campaignmap-screenshot.png" title="Campaignmap-screenshot.png" alt="Campaignmap-screenshot.png" width="1000" />
 
 You can experiment with the game set up. When you click confirm a map is
 generated for you and you will now be launched into the overhead view.
@@ -70,7 +70,7 @@ Starting position
 You start with your [Keeper](/keeperrl_wiki/Keeper "wikilink") and 4 minion
 [Imps](/keeperrl_wiki/Imp "wikilink"). The screen may look like this:
 
-<img src="StartingPosition-Screenshot.png" title="StartingPosition-Screenshot.png" alt="StartingPosition-Screenshot.png" width="1000" />
+<img src="Startingposition-screenshot.png" title="Startingposition-screenshot.png" alt="Startingposition-screenshot.png" width="1000" />
 
 You will occasionally see text in orange. These hints will provide you
 with ideas on what to do next. When playing the tutorial, there are
@@ -85,14 +85,14 @@ Game options
 Press escape to view the game options. Save the game, abandon it or
 retire (after winning). Change graphics and sound etc.
 
-<img src="GameOptions-Screenshot.png" title="GameOptions-Screenshot.png" alt="GameOptions-Screenshot.png" width="1000" />
+<img src="Gameoptions-screenshot.png" title="Gameoptions-screenshot.png" alt="Gameoptions-screenshot.png" width="1000" />
 
 You can also pause the game at any time by pressing space. This will
 give you time to think and issue complex orders. If it looks like you
 are winning, you can increase the game speed to fast-forward it (until
 you are invaded).
 
-<img src="GameSpeed-Screenshot.png" title="GameSpeed-Screenshot.png" alt="GameSpeed-Screenshot.png" width="1000" />
+<img src="Gamespeed-screenshot.png" title="Gamespeed-screenshot.png" alt="Gamespeed-screenshot.png" width="1000" />
 
 Later in the game and depending on your level of arrogance,
 insensitivity and violence, many hostile forces start to get worried
@@ -108,14 +108,14 @@ The four menu tabs in the top left corner of the screen are as follows:
 -   Research (book icon)
 -   Help (question mark icon)
 
-<img src="Tabs-Screenshot.png" title="Tabs-Screenshot.png" alt="Tabs-Screenshot.png" width="1000" />
+<img src="Tabs-screenshot.png" title="Tabs-screenshot.png" alt="Tabs-screenshot.png" width="1000" />
 
 Below the mini map in the top right are two buttons
 
 -   Campaign Map (compass icon)
 -   Find keeper (keeper icon)
 
-<img src="MiniMap-Screenshot.png" title="MiniMap-Screenshot.png" alt="MiniMap-Screenshot.png" width="1000" />
+<img src="Minimap-screenshot.png" title="Minimap-screenshot.png" alt="Minimap-screenshot.png" width="1000" />
 
 Resources and resource stats
 ----------------------------
@@ -149,7 +149,7 @@ Along the bottom are your resource stats:
 ` Gained by committing genocide against a tribe on the map.`  
 ` Gained by studying in the library if this option is turned on in `“`free-play`”` mode.`
 
-<img src="Resources-Screenshot.png" title="Resources-Screenshot.png" alt="Resources-Screenshot.png" width="1000" />
+<img src="Resources-screenshot.png" title="Resources-screenshot.png" alt="Resources-screenshot.png" width="1000" />
 
 These [Resources](/keeperrl_wiki/Resources "wikilink") are what is needed to build
 things in the dungeon. Mana is also used for researching technologies.
@@ -180,7 +180,7 @@ ores; stick to the plain black area and they can dig large
 shift with the mouse and draw out rectangles, too. Hold down the CTRL
 key and drag to cancel blocks of orders shown on the map.
 
-<img src="LittleDungeon-Screenshot.png" title="LittleDungeon-Screenshot.png" alt="LittleDungeon-Screenshot.png" width="1000" />
+<img src="Littledungeon-screenshot.png" title="Littledungeon-screenshot.png" alt="Littledungeon-screenshot.png" width="1000" />
 
 Construction
 ------------
@@ -222,7 +222,7 @@ heads in like fashion. You can also install various
 Message boards can be built by Keepers and can be posted to by the
 public.
 
-<img src="Installations-Screenshot.png" title="Installations-Screenshot.png" alt="Installations-Screenshot.png" width="1000" />
+<img src="Installations-screenshot.png" title="Installations-screenshot.png" alt="Installations-screenshot.png" width="1000" />
 
 Building Rooms and Gathering Resources
 --------------------------------------
@@ -280,7 +280,7 @@ basic creatures to your dungeon already, and killed a few easy enemies.
 You should have enough mana at this point to research some of the
 technologies, which you can experiment with.
 
-<img src="ResearchMenu-Screenshot.png" title="ResearchMenu-Screenshot.png" alt="ResearchMenu-Screenshot.png" width="1000" />
+<img src="Researchmenu-screenshot.png" title="Researchmenu-screenshot.png" alt="Researchmenu-screenshot.png" width="1000" />
 
 Minions
 -------
@@ -312,7 +312,7 @@ invade. To do this, click on the team on the left panel of the minions
 tab, then select a team member and click “control”. Press 'g' to manage
 every move of each team member and to toggle that feature off again.
 
-<img src="DirectControl-Screenshot.png" title="DirectControl-Screenshot.png" alt="DirectControl-Screenshot.png" width="1000" />
+<img src="Directcontrol-screenshot.png" title="Directcontrol-screenshot.png" alt="Directcontrol-screenshot.png" width="1000" />
 
 Options on the minion management screen
 ---------------------------------------
@@ -320,7 +320,7 @@ Options on the minion management screen
 You can banish, whip, directly control, rename, assign activities,
 assign equipment, lock equipment and view spells.
 
-<img src="MinionManagement-Screenshot.png" title="MinionManagement-Screenshot.png" alt="MinionManagement-Screenshot.png" width="1000" />
+<img src="Minionmanagement-screenshot.png" title="Minionmanagement-screenshot.png" alt="Minionmanagement-screenshot.png" width="1000" />
 
 Population limit
 ----------------
@@ -362,7 +362,7 @@ Destroying a tribe will yield mana and allow you to pillage. Full
 conquest of all the tribes will allow you to retire victorious (only to
 be invaded by other players).
 
-<img src="TribesStrip-Screenshot.png" title="TribesStrip-Screenshot.png" alt="TribesStrip-Screenshot.png" width="1000" />
+<img src="Tribesstrip-screenshot.png" title="Tribesstrip-screenshot.png" alt="Tribesstrip-screenshot.png" width="1000" />
 
 The world we live in is inhabited by many [
 creatures](/keeperrl_wiki/Creatures_Guide "wikilink"). For example, you may meet
@@ -462,7 +462,7 @@ inhabited caves, which will not be able to counter-attack against you.
 There are forest animals such as deer, foxes and boars. Don't get killed
 by a dog while wandering about at level 5 with no weapons and armour!
 
-<img src="KilledByDog-Screenshot.png" title="KilledByDog-Screenshot.png" alt="KilledByDog-Screenshot.png" width="1000" />
+<img src="Killedbydog-screenshot.png" title="Killedbydog-screenshot.png" alt="Killedbydog-screenshot.png" width="1000" />
 
 Winning the game
 ----------------

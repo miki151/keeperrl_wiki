@@ -13,7 +13,7 @@ To gather resources you have to select them the *Dig or cut tree* tool.
 Your [imps](/keeperrl_wiki/Imp "wikilink") will then start to harvest the resource and
 carry it to your [stockpiles](/keeperrl_wiki/Storage "wikilink").
 
-<img src="Resources-Screenshot.png" title="fig:Resources-Screenshot.png" alt="Resources-Screenshot.png" width="500" />
+<img src="Resources-screenshot.png" title="fig:Resources-screenshot.png" alt="Resources-screenshot.png" width="500" />
 Left to right: Gold, wood, iron, adamantium, stone, mana
 
 Gold
