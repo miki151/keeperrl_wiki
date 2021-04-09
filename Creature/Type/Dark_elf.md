@@ -4,7 +4,7 @@ permalink: Dark_Elf/
 layout: wiki
 ---
 
-<img src="Dark_elf.png" title="fig:Dark_elf.png" alt="Dark_elf.png" width="100" />
+<img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" width="100" />
 '' Citizens of the dark elf caves found in the mountains.
 
 Base Stats

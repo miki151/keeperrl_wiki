@@ -4,7 +4,7 @@ permalink: Bandit/
 layout: wiki
 ---
 
-<img src="bandit.png" title="fig:bandit.png" alt="bandit.png" width="100" />
+<img src="/keeperrl_wiki/Bandit.png" title="fig:/keeperrl_wiki/Bandit.png" alt="/keeperrl_wiki/Bandit.png" width="100" />
 ''They are after gold.
 
 Summary

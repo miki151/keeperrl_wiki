@@ -4,7 +4,7 @@ permalink: Air_Elemental/
 layout: wiki
 ---
 
-<img src="air_element.png" title="fig:air_element.png" alt="air_element.png" width="100" />
+<img src="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" title="fig:/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" alt="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" width="100" />
 ''Summon a deadly vortex
 
 -   Body Size:Large

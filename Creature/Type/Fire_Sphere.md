@@ -4,7 +4,7 @@ permalink: Fire_Sphere/
 layout: wiki
 ---
 
-<img src="fire_sphere.png" title="fig:fire_sphere.png" alt="fire_sphere.png" width="100" />
+<img src="/keeperrl_wiki/Fire_Sphere.png" title="fig:/keeperrl_wiki/Fire_Sphere.png" alt="/keeperrl_wiki/Fire_Sphere.png" width="100" />
 ''From magic spells
 
 Summoned by [fire sphere](/keeperrl_wiki/Fire_Sphere "wikilink") spell.

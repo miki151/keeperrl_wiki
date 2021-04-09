@@ -4,7 +4,7 @@ permalink: Gnome_Chief/
 layout: wiki
 ---
 
-<img src="gnome_chief.png" title="fig:gnome_chief.png" alt="gnome_chief.png" width="100" />
+<img src="/keeperrl_wiki/Gnome_Chief.png" title="fig:/keeperrl_wiki/Gnome_Chief.png" alt="/keeperrl_wiki/Gnome_Chief.png" width="100" />
 ''Lord of his own dungeon
 
 -   Defense:16

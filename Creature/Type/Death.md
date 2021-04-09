@@ -4,7 +4,7 @@ permalink: Death/
 layout: wiki
 ---
 
-<img src="Death.png" title="fig:Death.png" alt="Death.png" width="100" />
+<img src="/keeperrl_wiki/Death.png" title="fig:/keeperrl_wiki/Death.png" alt="/keeperrl_wiki/Death.png" width="100" />
 '' Doesn't seem.to ever appear in the game
 
 -   Defense:35

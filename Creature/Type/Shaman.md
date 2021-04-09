@@ -4,7 +4,7 @@ permalink: Shaman/
 layout: wiki
 ---
 
-<img src="shaman.png" title="fig:shaman.png" alt="shaman.png" width="100" />
+<img src="/keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Shaman.png" width="100" />
 ''Tribal wizard
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Elf_Child/
 layout: wiki
 ---
 
-<img src="elf_child.png" title="fig:elf_child.png" alt="elf_child.png" width="100" />
+<img src="elf_/keeperrl_wiki/Child.png" title="fig:elf_/keeperrl_wiki/Child.png" alt="elf_/keeperrl_wiki/Child.png" width="100" />
 ''Stealthy
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Dark_Elf_Lord/
 layout: wiki
 ---
 
-<img src="Dark_elf_lord.png" title="fig:Dark_elf_lord.png" alt="Dark_elf_lord.png" width="100" />
+<img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" width="100" />
 '' Lord of his caves
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Dwarf/
 layout: wiki
 ---
 
-<img src="Dwarf.png" title="fig:Dwarf.png" alt="Dwarf.png" width="100" />
+<img src="/keeperrl_wiki/Dwarf.png" title="fig:/keeperrl_wiki/Dwarf.png" alt="/keeperrl_wiki/Dwarf.png" width="100" />
 '' An armoured fighter
 
 Base Stats

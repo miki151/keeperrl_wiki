@@ -4,7 +4,7 @@ permalink: Automaton/
 layout: wiki
 ---
 
-<img src="automaton.png" title="fig:automaton.png" alt="automaton.png" width="100" />
+<img src="/keeperrl_wiki/Automaton.png" title="fig:/keeperrl_wiki/Automaton.png" alt="/keeperrl_wiki/Automaton.png" width="100" />
 ''Disloyal but deadly
 
 -   Defense:40

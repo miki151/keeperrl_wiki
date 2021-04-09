@@ -4,7 +4,7 @@ permalink: Succubus/
 layout: wiki
 ---
 
-<img src="succubussmall.png" title="fig:succubussmall.png" alt="succubussmall.png" width="100" />
+<img src="/keeperrl_wiki/Succubussmall.png" title="fig:/keeperrl_wiki/Succubussmall.png" alt="/keeperrl_wiki/Succubussmall.png" width="100" />
 ''She's done it before (once)
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

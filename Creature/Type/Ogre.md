@@ -4,7 +4,7 @@ permalink: Ogre/
 layout: wiki
 ---
 
-<img src="troll.png" title="fig:troll.png" alt="troll.png" width="100" />
+<img src="/keeperrl_wiki/Troll.png" title="fig:/keeperrl_wiki/Troll.png" alt="/keeperrl_wiki/Troll.png" width="100" />
 ''12 combat training levels
 
 Base Stats

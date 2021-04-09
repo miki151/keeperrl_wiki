@@ -4,7 +4,7 @@ permalink: Imp/
 layout: wiki
 ---
 
-<img src="imp.png" title="fig:imp.png" alt="imp.png" width="100" />
+<img src="/keeperrl_wiki/Imp.png" title="fig:/keeperrl_wiki/Imp.png" alt="/keeperrl_wiki/Imp.png" width="100" />
 ''Warlock's best workers
 
 Summary

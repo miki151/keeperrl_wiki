@@ -4,7 +4,7 @@ permalink: Vampire/
 layout: wiki
 ---
 
-<img src="vampire.png" title="fig:vampire.png" alt="vampire.png" width="100" />
+<img src="/keeperrl_wiki/Vampire.png" title="fig:/keeperrl_wiki/Vampire.png" alt="/keeperrl_wiki/Vampire.png" width="100" />
 ''Undead spell-caster minion
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

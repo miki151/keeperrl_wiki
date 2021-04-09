@@ -4,7 +4,7 @@ permalink: Dog/
 layout: wiki
 ---
 
-<img src="dog.png" title="fig:dog.png" alt="dog.png" width="100" /> ''
+<img src="/keeperrl_wiki/Dog.png" title="fig:/keeperrl_wiki/Dog.png" alt="/keeperrl_wiki/Dog.png" width="100" /> ''
 Killer of the unarmed
 
 Base Stats

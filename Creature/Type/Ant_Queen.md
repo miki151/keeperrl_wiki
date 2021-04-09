@@ -4,7 +4,7 @@ permalink: Ant_Queen/
 layout: wiki
 ---
 
-<img src="antq.png" title="fig:antq.png" alt="antq.png" width="100" />
+<img src="/keeperrl_wiki/Antq.png" title="fig:/keeperrl_wiki/Antq.png" alt="/keeperrl_wiki/Antq.png" width="100" />
 ''A minor boss.
 
 -   Defense:26

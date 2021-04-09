@@ -4,7 +4,7 @@ permalink: Kobold/
 layout: wiki
 ---
 
-<img src="kobold.png" title="fig:kobold.png" alt="kobold.png" width="100" />
+<img src="/keeperrl_wiki/Kobold.png" title="fig:/keeperrl_wiki/Kobold.png" alt="/keeperrl_wiki/Kobold.png" width="100" />
 ''Little guys with spears
 
 Base Stats

@@ -4,7 +4,7 @@ permalink: Lizardman/
 layout: wiki
 ---
 
-<img src="lizardman.png" title="fig:lizardman.png" alt="lizardman.png" width="100" />
+<img src="/keeperrl_wiki/Lizardman.png" title="fig:/keeperrl_wiki/Lizardman.png" alt="/keeperrl_wiki/Lizardman.png" width="100" />
 ''Poisoning reptile
 
 Base Stats

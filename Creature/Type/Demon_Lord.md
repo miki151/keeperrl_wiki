@@ -4,7 +4,7 @@ permalink: Demon_Lord/
 layout: wiki
 ---
 
-<img src="demon_lord.png" title="fig:demon_lord.png" alt="demon_lord.png" width="100" />
+<img src="/keeperrl_wiki/Demon_Lord.png" title="fig:/keeperrl_wiki/Demon_Lord.png" alt="/keeperrl_wiki/Demon_Lord.png" width="100" />
 '' Major Villain
 
 Base Stats

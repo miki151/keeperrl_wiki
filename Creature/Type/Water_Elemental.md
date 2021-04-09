@@ -4,7 +4,7 @@ permalink: Water_Elemental/
 layout: wiki
 ---
 
-<img src="waterelement.png" title="fig:waterelement.png" alt="waterelement.png" width="100" />
+<img src="waterelem/keeperrl_wiki/Ent.png" title="fig:waterelem/keeperrl_wiki/Ent.png" alt="waterelem/keeperrl_wiki/Ent.png" width="100" />
 ''Summoned near water
 
 Base Stats

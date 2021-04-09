@@ -4,7 +4,7 @@ permalink: Kraken/
 layout: wiki
 ---
 
-<img src="krakenhead.png" title="fig:krakenhead.png" alt="krakenhead.png" width="100" /><img src="krakenland.png" title="fig:krakenland.png" alt="krakenland.png" width="100" /><img src="krakenland.png" title="fig:krakenland.png" alt="krakenland.png" width="100" />
+<img src="/keeperrl_wiki/Krakenhead.png" title="fig:/keeperrl_wiki/Krakenhead.png" alt="/keeperrl_wiki/Krakenhead.png" width="100" /><img src="/keeperrl_wiki/Krakenland.png" title="fig:/keeperrl_wiki/Krakenland.png" alt="/keeperrl_wiki/Krakenland.png" width="100" /><img src="/keeperrl_wiki/Krakenland.png" title="fig:/keeperrl_wiki/Krakenland.png" alt="/keeperrl_wiki/Krakenland.png" width="100" />
 ''Entangling water monster
 
 -   Attributes:Kraken stats

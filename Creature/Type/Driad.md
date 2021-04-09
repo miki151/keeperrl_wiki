@@ -4,7 +4,7 @@ permalink: Driad/
 layout: wiki
 ---
 
-<img src="driad.png" title="fig:driad.png" alt="driad.png" width="100" />
+<img src="/keeperrl_wiki/Driad.png" title="fig:/keeperrl_wiki/Driad.png" alt="/keeperrl_wiki/Driad.png" width="100" />
 '' Tree dwellers
 
 Base Stats

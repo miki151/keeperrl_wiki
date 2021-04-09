@@ -4,7 +4,7 @@ permalink: Skeleton/
 layout: wiki
 ---
 
-<img src="skeleton.png" title="fig:skeleton.png" alt="skeleton.png" width="100" />
+<img src="/keeperrl_wiki/Skeleton.png" title="fig:/keeperrl_wiki/Skeleton.png" alt="/keeperrl_wiki/Skeleton.png" width="100" />
 ''Undead minion
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

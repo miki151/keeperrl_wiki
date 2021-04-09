@@ -4,7 +4,7 @@ permalink: Elf_Lord/
 layout: wiki
 ---
 
-<img src="elf_lord.png" title="fig:elf_lord.png" alt="elf_lord.png" width="100" />
+<img src="/keeperrl_wiki/Elf_Lord.png" title="fig:/keeperrl_wiki/Elf_Lord.png" alt="/keeperrl_wiki/Elf_Lord.png" width="100" />
 ''Lord of the forest
 
 Base Stats

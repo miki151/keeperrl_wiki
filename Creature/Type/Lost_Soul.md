@@ -4,7 +4,7 @@ permalink: Lost_Soul/
 layout: wiki
 ---
 
-<img src="ghost.png" title="fig:ghost.png" alt="ghost.png" width="100" />
+<img src="/keeperrl_wiki/Ghost.png" title="fig:/keeperrl_wiki/Ghost.png" alt="/keeperrl_wiki/Ghost.png" width="100" />
 ''Woo!
 
 Base Stats

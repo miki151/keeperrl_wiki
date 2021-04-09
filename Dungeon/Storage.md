@@ -16,7 +16,7 @@ Treasure Chest
 Tile Cost
 ---------
 
-<img src="treasurydeco.png" title="fig:treasurydeco.png" alt="treasurydeco.png" width="100" />
+<img src="/keeperrl_wiki/Treasurydeco.png" title="fig:/keeperrl_wiki/Treasurydeco.png" alt="/keeperrl_wiki/Treasurydeco.png" width="100" />
 ''5 wood per treasure chest
 
 Usage

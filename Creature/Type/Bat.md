@@ -4,7 +4,7 @@ permalink: Bat/
 layout: wiki
 ---
 
-<img src="bat.png" title="fig:bat.png" alt="bat.png" width="100" />
+<img src="/keeperrl_wiki/Bat.png" title="fig:/keeperrl_wiki/Bat.png" alt="/keeperrl_wiki/Bat.png" width="100" />
 ''They like to explore
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

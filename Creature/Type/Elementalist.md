@@ -4,7 +4,7 @@ permalink: Elementalist/
 layout: wiki
 ---
 
-<img src="elementalist.png" title="fig:elementalist.png" alt="elementalist.png" width="100" />
+<img src="/keeperrl_wiki/Elementalist.png" title="fig:/keeperrl_wiki/Elementalist.png" alt="/keeperrl_wiki/Elementalist.png" width="100" />
 ''Major Boss
 
 Base Stats

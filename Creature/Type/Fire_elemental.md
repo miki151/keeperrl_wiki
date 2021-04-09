@@ -4,7 +4,7 @@ permalink: Fire_Elemental/
 layout: wiki
 ---
 
-<img src="fire_elemental.png" title="fig:fire_elemental.png" alt="fire_elemental.png" width="100" />
+<img src="/keeperrl_wiki/Fire_Elemental.png" title="fig:/keeperrl_wiki/Fire_Elemental.png" alt="/keeperrl_wiki/Fire_Elemental.png" width="100" />
 ''Summoned near lava
 
 Base Stats

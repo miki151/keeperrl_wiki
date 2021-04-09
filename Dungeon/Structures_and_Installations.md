@@ -4,7 +4,7 @@ permalink: Structures_And_Installations/
 layout: wiki
 ---
 
-<img src="Installations-Screenshot.png" title="Installations-Screenshot.png" alt="Installations-Screenshot.png" width="500" />
+<img src="/keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki/Installations-screenshot.png" width="500" />
 
 Structures
 ==========

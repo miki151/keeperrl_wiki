@@ -4,7 +4,7 @@ permalink: Cyclops/
 layout: wiki
 ---
 
-<img src="cyclops.png" title="fig:cyclops.png" alt="cyclops.png" width="100" />
+<img src="/keeperrl_wiki/Cyclops.png" title="fig:/keeperrl_wiki/Cyclops.png" alt="/keeperrl_wiki/Cyclops.png" width="100" />
 ''A nasty minor boss
 
 -   Defense:40

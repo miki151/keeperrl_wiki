@@ -4,7 +4,7 @@ permalink: Iron_Golem/
 layout: wiki
 ---
 
-<img src="iron_golem.png" title="fig:iron_golem.png" alt="iron_golem.png" width="100" />
+<img src="/keeperrl_wiki/Iron_Golem.png" title="fig:/keeperrl_wiki/Iron_Golem.png" alt="/keeperrl_wiki/Iron_Golem.png" width="100" />
 ''Walking iron
 
 Base Stats

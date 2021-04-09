@@ -25,7 +25,7 @@ Cooldown of spell uses is affected by your [Sorcery
 skill](/keeperrl_wiki/Sorcery "wikilink"), with maximum /keeperrl_wiki/Sorcery skill (100%)
 halving the cooldown of all spells.
 
-<img src="Spells-ScreenShot.png" title="Spells-ScreenShot.png" alt="Spells-ScreenShot.png" width="200" />
+<img src="/keeperrl_wiki/Spells-screenshot.png" title="/keeperrl_wiki/Spells-screenshot.png" alt="/keeperrl_wiki/Spells-screenshot.png" width="200" />
 
 Basic Spells
 ============

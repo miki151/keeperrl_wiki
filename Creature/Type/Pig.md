@@ -4,7 +4,7 @@ permalink: Pig/
 layout: wiki
 ---
 
-<img src="pig.png" title="fig:pig.png" alt="pig.png" width="100" />
+<img src="/keeperrl_wiki/Pig.png" title="fig:/keeperrl_wiki/Pig.png" alt="/keeperrl_wiki/Pig.png" width="100" />
 ''Pork yesterday, ham today, bacon tomorrow
 
 Base Stats
