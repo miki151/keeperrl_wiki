@@ -29,7 +29,7 @@ Alternatively, purchase the graphical and audio version from
 2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
     back”.
 
-[[_images/Playmenu-screenshot.png]]
+(http://keeperrl.com/download/Playmenu-screenshot.png)
 Testing
 
 1.  If this is your very first game, play the tutorial first: (Note,
@@ -53,6 +53,7 @@ A new campaign map showing map sectors will be displayed. It may look
 something like this one:
 
 <img src="Campaignmap-screenshot.png" title="Campaignmap-screenshot.png" alt="Campaignmap-screenshot.png" width="1000" />
+Testing
 
 You can experiment with the game set up. When you click confirm a map is
 generated for you and you will now be launched into the overhead view.
