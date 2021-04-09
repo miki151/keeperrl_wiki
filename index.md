@@ -56,7 +56,7 @@ Creature Guide
 <hr>
 Dungeon Guide
 <hr>
--   [ Dungeon /keeperrl_wiki/Technologies](/keeperrl_wiki/Technologies "wikilink")                                               
+-   [ Dungeon Technologies](/keeperrl_wiki/Technologies "wikilink")                                               
 -   [Resources](/keeperrl_wiki/Resources "wikilink")                                                              
 -   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
    -   [ Rooms](/keeperrl_wiki/Rooms_Guide "wikilink")                                                       
