@@ -41,7 +41,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Creature Guide
 <hr>
--   [ Full List Of Creatures](/keeperrl_wiki/Creatures_Guide "wikilink")               
+-   [ Full List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
 -   [Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
