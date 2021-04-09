@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_traits
-permalink: Requests_for_new_traits/
+title: Requests_For_New_Traits
+permalink: Requests_For_New_Traits/
 layout: wiki
 ---
 

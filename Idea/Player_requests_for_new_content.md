@@ -1,6 +1,6 @@
 ---
-title: Player_requests_for_new_content
-permalink: Player_requests_for_new_content/
+title: Player_Requests_For_New_Content
+permalink: Player_Requests_For_New_Content/
 layout: wiki
 ---
 

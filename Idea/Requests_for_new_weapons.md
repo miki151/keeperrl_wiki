@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_weapons
-permalink: Requests_for_new_weapons/
+title: Requests_For_New_Weapons
+permalink: Requests_For_New_Weapons/
 layout: wiki
 ---
 

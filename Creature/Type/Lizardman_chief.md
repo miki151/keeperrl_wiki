@@ -1,6 +1,6 @@
 ---
-title: Lizardman_chief
-permalink: Lizardman_chief/
+title: Lizardman_Chief
+permalink: Lizardman_Chief/
 layout: wiki
 ---
 

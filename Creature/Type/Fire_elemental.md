@@ -1,6 +1,6 @@
 ---
-title: Fire_elemental
-permalink: Fire_elemental/
+title: Fire_Elemental
+permalink: Fire_Elemental/
 layout: wiki
 ---
 

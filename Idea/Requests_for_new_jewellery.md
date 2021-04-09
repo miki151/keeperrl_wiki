@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_jewellery
-permalink: Requests_for_new_jewellery/
+title: Requests_For_New_Jewellery
+permalink: Requests_For_New_Jewellery/
 layout: wiki
 ---
 

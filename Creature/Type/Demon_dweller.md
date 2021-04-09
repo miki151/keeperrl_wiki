@@ -1,6 +1,6 @@
 ---
-title: Demon_dweller
-permalink: Demon_dweller/
+title: Demon_Dweller
+permalink: Demon_Dweller/
 layout: wiki
 ---
 

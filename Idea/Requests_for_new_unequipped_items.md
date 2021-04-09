@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_unequipped_items
-permalink: Requests_for_new_unequipped_items/
+title: Requests_For_New_Unequipped_Items
+permalink: Requests_For_New_Unequipped_Items/
 layout: wiki
 ---
 

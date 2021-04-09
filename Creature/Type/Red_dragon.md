@@ -1,6 +1,6 @@
 ---
-title: Red_dragon
-permalink: Red_dragon/
+title: Red_Dragon
+permalink: Red_Dragon/
 layout: wiki
 ---
 

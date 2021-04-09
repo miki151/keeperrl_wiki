@@ -1,6 +1,6 @@
 ---
-title: Dark_elf
-permalink: Dark_elf/
+title: Dark_Elf
+permalink: Dark_Elf/
 layout: wiki
 ---
 

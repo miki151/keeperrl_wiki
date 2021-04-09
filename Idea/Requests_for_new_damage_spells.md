@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_damage_spells
-permalink: Requests_for_new_damage_spells/
+title: Requests_For_New_Damage_Spells
+permalink: Requests_For_New_Damage_Spells/
 layout: wiki
 ---
 

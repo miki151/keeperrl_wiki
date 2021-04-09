@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_spells
-permalink: Requests_for_new_spells/
+title: Requests_For_New_Spells
+permalink: Requests_For_New_Spells/
 layout: wiki
 ---
 

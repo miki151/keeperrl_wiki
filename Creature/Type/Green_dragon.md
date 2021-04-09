@@ -1,6 +1,6 @@
 ---
-title: Green_dragon
-permalink: Green_dragon/
+title: Green_Dragon
+permalink: Green_Dragon/
 layout: wiki
 ---
 

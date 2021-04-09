@@ -1,6 +1,6 @@
 ---
-title: Word_of_Power
-permalink: Word_of_Power/
+title: Word_Of_Power
+permalink: Word_Of_Power/
 layout: wiki
 ---
 

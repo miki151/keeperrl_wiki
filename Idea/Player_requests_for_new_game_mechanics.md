@@ -1,6 +1,6 @@
 ---
-title: Player_requests_for_new_game_mechanics
-permalink: Player_requests_for_new_game_mechanics/
+title: Player_Requests_For_New_Game_Mechanics
+permalink: Player_Requests_For_New_Game_Mechanics/
 layout: wiki
 ---
 

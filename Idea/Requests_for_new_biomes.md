@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_biomes
-permalink: Requests_for_new_biomes/
+title: Requests_For_New_Biomes
+permalink: Requests_For_New_Biomes/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Structures_and_Installations
-permalink: Structures_and_Installations/
+title: Structures_And_Installations
+permalink: Structures_And_Installations/
 layout: wiki
 ---
 

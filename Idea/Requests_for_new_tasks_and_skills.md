@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_tasks_and_skills
-permalink: Requests_for_new_tasks_and_skills/
+title: Requests_For_New_Tasks_And_Skills
+permalink: Requests_For_New_Tasks_And_Skills/
 layout: wiki
 ---
 

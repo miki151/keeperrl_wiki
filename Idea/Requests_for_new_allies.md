@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_allies
-permalink: Requests_for_new_allies/
+title: Requests_For_New_Allies
+permalink: Requests_For_New_Allies/
 layout: wiki
 ---
 

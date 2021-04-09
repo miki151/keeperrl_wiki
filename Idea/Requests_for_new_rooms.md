@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_rooms
-permalink: Requests_for_new_rooms/
+title: Requests_For_New_Rooms
+permalink: Requests_For_New_Rooms/
 layout: wiki
 ---
 

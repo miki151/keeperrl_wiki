@@ -1,6 +1,6 @@
 ---
-title: Campaign_mode
-permalink: Campaign_mode/
+title: Campaign_Mode
+permalink: Campaign_Mode/
 layout: wiki
 ---
 
