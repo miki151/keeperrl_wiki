@@ -29,8 +29,7 @@ Alternatively, purchase the graphical and audio version from
 2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
     back”.
 
-(http://keeperrl.com/download/Playmenu-screenshot.png)
-Testing
+<img src="/keeperrl_wiki/Playmenu-screenshot.png" title="Campaignmap-screenshot.png" alt="/keeperrl_wiki/Playmenu-screenshot.png" width="1000" />
 
 1.  If this is your very first game, play the tutorial first: (Note,
     some players get lost in the black unexplored area of the map when
@@ -52,8 +51,7 @@ hero, try playing an adventurer.
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
 
-<img src="/keeperrl_wiki/Campaignmap-screenshots.png" title="Campaignmap-screenshots.png" alt="/keeperrl_wiki/Campaignmap-screenshots.png" width="1000" />
-Tests
+<img src="/keeperrl_wiki/Campaignmap-screenshot.png" title="Campaignmap-screenshot.png" alt="/keeperrl_wiki/Campaignmap-screenshot.png" width="1000" />
 
 You can experiment with the game set up. When you click confirm a map is
 generated for you and you will now be launched into the overhead view.
