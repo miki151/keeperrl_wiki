@@ -4,7 +4,7 @@ permalink: Donkey/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Don/keeperrl_wiki//keeperrl_wiki/Key.png" title="fig:/keeperrl_wiki/Don/keeperrl_wiki//keeperrl_wiki/Key.png" alt="/keeperrl_wiki/Don/keeperrl_wiki//keeperrl_wiki/Key.png" width="100" />
+<img src="/keeperrl_wiki/Don/keeperrl_wiki/Key.png" title="fig:/keeperrl_wiki/Don/keeperrl_wiki/Key.png" alt="/keeperrl_wiki/Don/keeperrl_wiki/Key.png" width="100" />
 '' Farm animal
 
 Base Stats

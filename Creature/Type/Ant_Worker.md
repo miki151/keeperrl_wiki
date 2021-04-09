@@ -4,7 +4,7 @@ permalink: Ant_Worker/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Antwork.png" title="/keeperrl_wiki//keeperrl_wiki/Antwork.png" alt="/keeperrl_wiki//keeperrl_wiki/Antwork.png" width="100" />
+<img src="/keeperrl_wiki/Antwork.png" title="/keeperrl_wiki/Antwork.png" alt="/keeperrl_wiki/Antwork.png" width="100" />
 
 -   Defense:16
 -   Damage:16

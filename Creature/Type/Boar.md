@@ -4,7 +4,7 @@ permalink: Boar/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Boar.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Boar.png" alt="/keeperrl_wiki//keeperrl_wiki/Boar.png" width="100" />
+<img src="/keeperrl_wiki/Boar.png" title="fig:/keeperrl_wiki/Boar.png" alt="/keeperrl_wiki/Boar.png" width="100" />
 '' Shy creatures that only fight when cornered.
 
 -   Defense:10

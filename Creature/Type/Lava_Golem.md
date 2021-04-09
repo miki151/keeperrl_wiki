@@ -4,7 +4,7 @@ permalink: Lava_Golem/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Lava_Golem.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Lava_Golem.png" alt="/keeperrl_wiki//keeperrl_wiki/Lava_Golem.png" width="100" />
+<img src="/keeperrl_wiki/Lava_Golem.png" title="fig:/keeperrl_wiki/Lava_Golem.png" alt="/keeperrl_wiki/Lava_Golem.png" width="100" />
 ''Fiery
 
 Base Stats

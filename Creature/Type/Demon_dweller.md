@@ -4,7 +4,7 @@ permalink: Demon_Dweller/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Demon_Dweller.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Demon_Dweller.png" alt="/keeperrl_wiki//keeperrl_wiki/Demon_Dweller.png" width="100" />
+<img src="/keeperrl_wiki/Demon_Dweller.png" title="fig:/keeperrl_wiki/Demon_Dweller.png" alt="/keeperrl_wiki/Demon_Dweller.png" width="100" />
 '' Soldiers of Demonshrine
 
 Base Stats

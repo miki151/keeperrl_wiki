@@ -4,7 +4,7 @@ permalink: Doppleganger/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki//keeperrl_wiki/Doppleganger.png" width="100" />
+<img src="/keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki/Doppleganger.png" width="100" />
 '' Absorber of bodies
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

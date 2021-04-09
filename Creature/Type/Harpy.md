@@ -4,7 +4,7 @@ permalink: Harpy/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Harpy.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Harpy.png" alt="/keeperrl_wiki//keeperrl_wiki/Harpy.png" width="100" />
+<img src="/keeperrl_wiki/Harpy.png" title="fig:/keeperrl_wiki/Harpy.png" alt="/keeperrl_wiki/Harpy.png" width="100" />
 ''Winged killer
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

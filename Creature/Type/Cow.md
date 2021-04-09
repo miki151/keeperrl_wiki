@@ -4,7 +4,7 @@ permalink: Cow/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Cow.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Cow.png" alt="/keeperrl_wiki//keeperrl_wiki/Cow.png" width="100" />
+<img src="/keeperrl_wiki/Cow.png" title="fig:/keeperrl_wiki/Cow.png" alt="/keeperrl_wiki/Cow.png" width="100" />
 ''Found on human farms
 
 Base Stats

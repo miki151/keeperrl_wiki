@@ -4,7 +4,7 @@ permalink: Dwarf_Female/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Dwarf_F.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Dwarf_F.png" alt="/keeperrl_wiki//keeperrl_wiki/Dwarf_F.png" width="100" />
+<img src="/keeperrl_wiki/Dwarf_F.png" title="fig:/keeperrl_wiki/Dwarf_F.png" alt="/keeperrl_wiki/Dwarf_F.png" width="100" />
 '' A good digger once imprisoned
 
 Base Stats

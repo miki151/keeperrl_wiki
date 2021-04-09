@@ -4,7 +4,7 @@ permalink: Hydra/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Hydra.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Hydra.png" alt="/keeperrl_wiki//keeperrl_wiki/Hydra.png" width="100" />
+<img src="/keeperrl_wiki/Hydra.png" title="fig:/keeperrl_wiki/Hydra.png" alt="/keeperrl_wiki/Hydra.png" width="100" />
 ''Poisonous boss
 
 Base Stats

@@ -4,8 +4,8 @@ permalink: Adventurer/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki//keeperrl_wiki/Adventurer.png" width="100" />
-<img src="/keeperrl_wiki//keeperrl_wiki/Adventurer_Female.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Adventurer_Female.png" alt="/keeperrl_wiki//keeperrl_wiki/Adventurer_Female.png" width="100" />
+<img src="/keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki/Adventurer.png" width="100" />
+<img src="/keeperrl_wiki/Adventurer_Female.png" title="fig:/keeperrl_wiki/Adventurer_Female.png" alt="/keeperrl_wiki/Adventurer_Female.png" width="100" />
 ''They face the world alone and the glory is theirs alone.
 
 -   Defense:20

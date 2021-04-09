@@ -4,7 +4,7 @@ permalink: Fox/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Fox.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Fox.png" alt="/keeperrl_wiki//keeperrl_wiki/Fox.png" width="100" />
+<img src="/keeperrl_wiki/Fox.png" title="fig:/keeperrl_wiki/Fox.png" alt="/keeperrl_wiki/Fox.png" width="100" />
 ''Archery target practice
 
 Base Stats

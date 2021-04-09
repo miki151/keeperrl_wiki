@@ -4,7 +4,7 @@ permalink: Goblin/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Goblin.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Goblin.png" alt="/keeperrl_wiki//keeperrl_wiki/Goblin.png" width="100" />
+<img src="/keeperrl_wiki/Goblin.png" title="fig:/keeperrl_wiki/Goblin.png" alt="/keeperrl_wiki/Goblin.png" width="100" />
 *Really likes crafting things.*
 
 Base Stats

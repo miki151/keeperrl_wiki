@@ -4,7 +4,7 @@ permalink: Clay_Golem/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Clay_Golem.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Clay_Golem.png" alt="/keeperrl_wiki//keeperrl_wiki/Clay_Golem.png" width="100" />
+<img src="/keeperrl_wiki/Clay_Golem.png" title="fig:/keeperrl_wiki/Clay_Golem.png" alt="/keeperrl_wiki/Clay_Golem.png" width="100" />
 ''Loot the stone when killed
 
 -   Defense:19

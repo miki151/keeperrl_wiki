@@ -4,7 +4,7 @@ permalink: Halloween_Kid/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Halloween_Kid1.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Halloween_Kid1.png" alt="/keeperrl_wiki//keeperrl_wiki/Halloween_Kid1.png" width="100" />
+<img src="/keeperrl_wiki/Halloween_Kid1.png" title="fig:/keeperrl_wiki/Halloween_Kid1.png" alt="/keeperrl_wiki/Halloween_Kid1.png" width="100" />
 ''Trick or Treat?
 
 -   Defense:8

@@ -4,7 +4,7 @@ permalink: Fly/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Fly.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Fly.png" alt="/keeperrl_wiki//keeperrl_wiki/Fly.png" width="100" />
+<img src="/keeperrl_wiki/Fly.png" title="fig:/keeperrl_wiki/Fly.png" alt="/keeperrl_wiki/Fly.png" width="100" />
 ''Distraction during combat
 
 [Attributes](/keeperrl_wiki/Attributes "wikilink")

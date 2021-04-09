@@ -4,7 +4,7 @@ permalink: Dark_Elf_Warrior/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki//keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Dark_Elf_/keeperrl_wiki//keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki//keeperrl_wiki/Warrior.png" width="100" />
+<img src="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" width="100" />
 '' Defender of the dark elves
 
 Base Stats

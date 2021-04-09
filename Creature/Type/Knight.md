@@ -4,7 +4,7 @@ permalink: Knight/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Knight.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Knight.png" alt="/keeperrl_wiki//keeperrl_wiki/Knight.png" width="100" />
+<img src="/keeperrl_wiki/Knight.png" title="fig:/keeperrl_wiki/Knight.png" alt="/keeperrl_wiki/Knight.png" width="100" />
 ''Melee combat expert
 
 Base Stats

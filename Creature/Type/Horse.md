@@ -4,7 +4,7 @@ permalink: Horse/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki//keeperrl_wiki/Horse.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Horse.png" alt="/keeperrl_wiki//keeperrl_wiki/Horse.png" width="100" />
+<img src="/keeperrl_wiki/Horse.png" title="fig:/keeperrl_wiki/Horse.png" alt="/keeperrl_wiki/Horse.png" width="100" />
 ''No, you can't ride it
 
 Base Stats
