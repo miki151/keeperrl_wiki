@@ -52,8 +52,8 @@ hero, try playing an adventurer.
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
 
-<img src="Campaignmap-screenshot.png" title="Campaignmap-screenshot.png" alt="Campaignmap-screenshot.png" width="1000" />
-Testing
+<img src="/keeperrl_wiki/Campaignmap-screenshot.png" title="Campaignmap-screenshot.png" alt="/keeperrl_wiki/Campaignmap-screenshot.png" width="1000" />
+Tests
 
 You can experiment with the game set up. When you click confirm a map is
 generated for you and you will now be launched into the overhead view.
