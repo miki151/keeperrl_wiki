@@ -1,6 +1,6 @@
 ---
-title: index
-permalink: index/
+title:
+permalink: /
 layout: wiki
 ---
 <img align="center" src="logo-big.png">
