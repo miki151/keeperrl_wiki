@@ -1,6 +1,6 @@
 ---
-title: Prisoner_guide
-permalink: Prisoner_guide/
+title: Prisoner_Guide
+permalink: Prisoner_Guide/
 layout: wiki
 ---
 
