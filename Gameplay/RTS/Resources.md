@@ -22,7 +22,7 @@ Gold
 *You get gold by mining gold veins.*
 
 You need to store gold pieces in a [treasure
-chest](/keeperrl_wiki/treasure_chest "wikilink").
+chest](/keeperrl_wiki/Treasure_chest "wikilink").
 
 Gold is used to build [statues](/keeperrl_wiki/Statue "wikilink"). It is
 the only way to seriously increase your population cap. Hoarding too

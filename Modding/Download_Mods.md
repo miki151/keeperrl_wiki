@@ -56,7 +56,7 @@ C:\\Program Files
 (x86)\\Steam\\steamapps\\common\\KeeperRL\\data\_free\\game\_config
 
 2) Edit the text files inside the game config folder to get the mod that
-you want. Look at the [modding guide](/keeperrl_wiki/modding_guide "wikilink") to help
+you want. Look at the [modding guide](/keeperrl_wiki/Modding_guide "wikilink") to help
 you.
 
 3) Zip up you game\_config folder

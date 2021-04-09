@@ -22,22 +22,22 @@ Best types of prisoners
 -   [Elven archers](/keeperrl_wiki/Elven_Archer "wikilink") and
     [driads](/keeperrl_wiki/Driad "wikilink") are better archers than you can recruit,
     so they are often worth it
--   [Dwarves](/keeperrl_wiki/dwarf "wikilink") make excellent diggers in your mines
--   [Knights](/keeperrl_wiki/knight "wikilink") have melee resistance
+-   [Dwarves](/keeperrl_wiki/Dwarf "wikilink") make excellent diggers in your mines
+-   [Knights](/keeperrl_wiki/Knight "wikilink") have melee resistance
 -   [Human archers](/keeperrl_wiki/Archer "wikilink") are the best archers.
 -   Most bosses are worth it, so [Elf Lord](/keeperrl_wiki/Elf_Lord "wikilink"), [Dwarf
     Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
 -   Lizardmen have a speed bonus and an optional poison +8 attack
     unarmed
--   The [/keeperrl_wiki/elementalist](/keeperrl_wiki/elementalist "wikilink") sucks, he can't even
+-   The [/keeperrl_wiki/Elementalist](/keeperrl_wiki/Elementalist "wikilink") sucks, he can't even
     summon elementals, so don't bother with him
--   You aren't likely to find a [/keeperrl_wiki/minotaur](/keeperrl_wiki/minotaur "wikilink")
+-   You aren't likely to find a [/keeperrl_wiki/Minotaur](/keeperrl_wiki/Minotaur "wikilink")
     (sometimes they live below castles and they are powerful)
--   The [lizardman chief](/keeperrl_wiki/lizardman_chief "wikilink") is a bit special
--   [Warriors](/keeperrl_wiki/warrior "wikilink") from the Viking tribe are very good
+-   The [lizardman chief](/keeperrl_wiki/Lizardman_chief "wikilink") is a bit special
+-   [Warriors](/keeperrl_wiki/Warrior "wikilink") from the Viking tribe are very good
 -   When you come up against enemy keepers, some of the minions will be
     better than yours if you can get them
--   You can capture enemy [/keeperrl_wiki/keepers](/keeperrl_wiki/keeper "wikilink")
+-   You can capture enemy [/keeperrl_wiki/Keepers](/keeperrl_wiki/Keeper "wikilink")
 -   In endless mode, always take any prisoners you can get, because they
     will be buffed
 -   Basically, capture any powerful humanoid
