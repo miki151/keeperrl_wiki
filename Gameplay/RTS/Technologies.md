@@ -128,7 +128,7 @@ Two-handed Weapons
 
 -   Cost : 100 mana
 -   Unlocks :
-    -   [/keeperrl_wiki/Two-handed weapons](/keeperrl_wiki/Two-handed "wikilink")
+    -   [Two-handed weapons](/keeperrl_wiki/Two-handed "wikilink")
 
 Jewellery
 ---------

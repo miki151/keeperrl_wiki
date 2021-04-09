@@ -39,8 +39,8 @@ Traits
     -   [Flying](/keeperrl_wiki/Flying "wikilink")
     -   [Body parts](/keeperrl_wiki/Body_Parts "wikilink") : 2 Wings
 -   Random
-    -   [/keeperrl_wiki/Poison Attack](/keeperrl_wiki/Poison "wikilink")
-    -   [/keeperrl_wiki/Fire Attack](/keeperrl_wiki/Fire "wikilink")
+    -   [Poison Attack](/keeperrl_wiki/Poison "wikilink")
+    -   [Fire Attack](/keeperrl_wiki/Fire "wikilink")
 
 Body Parts
 ----------

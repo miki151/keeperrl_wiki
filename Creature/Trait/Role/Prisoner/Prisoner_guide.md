@@ -37,7 +37,7 @@ Best types of prisoners
 -   [Warriors](/keeperrl_wiki/Warrior "wikilink") from the Viking tribe are very good
 -   When you come up against enemy keepers, some of the minions will be
     better than yours if you can get them
--   You can capture enemy [/keeperrl_wiki/Keepers](/keeperrl_wiki/Keeper "wikilink")
+-   You can capture enemy [Keepers](/keeperrl_wiki/Keeper "wikilink")
 -   In endless mode, always take any prisoners you can get, because they
     will be buffed
 -   Basically, capture any powerful humanoid

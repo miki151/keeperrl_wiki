@@ -8,10 +8,10 @@ Description: *Humanoid minions sleep on their beds.*
 
 A dormitory is the sleeping-place of:
 
--   [/keeperrl_wiki/Goblins](/keeperrl_wiki/Goblin "wikilink")
--   [/keeperrl_wiki/Orcs](/keeperrl_wiki/Orc "wikilink")
+-   [Goblins](/keeperrl_wiki/Goblin "wikilink")
+-   [Orcs](/keeperrl_wiki/Orc "wikilink")
 -   [Orc Shamans](/keeperrl_wiki/Orc_Shaman "wikilink")
--   [/keeperrl_wiki/Ogres](/keeperrl_wiki/Ogre "wikilink")
+-   [Ogres](/keeperrl_wiki/Ogre "wikilink")
 -   [Harpies](/keeperrl_wiki/Harpy "wikilink")
 -   [Werewolves](/keeperrl_wiki/Werewolf "wikilink")
 

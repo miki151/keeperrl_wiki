@@ -8,9 +8,9 @@ Description: *Beasts sleep in their cages.*
 
 Beast lair is the dormitory of:
 
--   [/keeperrl_wiki/Bats](/keeperrl_wiki/Bat "wikilink")
--   [/keeperrl_wiki/Ravens](/keeperrl_wiki/Raven "wikilink")
--   [/keeperrl_wiki/Wolfs](/keeperrl_wiki/Wolf "wikilink")
+-   [Bats](/keeperrl_wiki/Bat "wikilink")
+-   [Ravens](/keeperrl_wiki/Raven "wikilink")
+-   [Wolfs](/keeperrl_wiki/Wolf "wikilink")
 -   [Cave Bears](/keeperrl_wiki/Cave_Bear "wikilink")
 -   [Legendary Beasts](/keeperrl_wiki/Legendary_Beast "wikilink")
 

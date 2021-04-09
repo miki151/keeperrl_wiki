@@ -74,7 +74,7 @@ through walls.
 -   Requires +4 Magic Damage training.
 -   Cooldown: 60
 
-Summons 3 - 7 [/keeperrl_wiki/Illusions](/keeperrl_wiki/Illusion "wikilink") for 5 - 10 ticks.
+Summons 3 - 7 [Illusions](/keeperrl_wiki/Illusion "wikilink") for 5 - 10 ticks.
 
 ### Escape
 
