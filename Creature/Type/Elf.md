@@ -4,7 +4,7 @@ permalink: Elf/
 layout: wiki
 ---
 
-<img src="/keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki/Elf.png" alt="/keeperrl_wiki/Elf.png" width="100" />
+<img src="/keeperrl_wiki//keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki//keeperrl_wiki/Elf.png" alt="/keeperrl_wiki//keeperrl_wiki/Elf.png" width="100" />
 ''Not generally dangerous
 
 Base Stats
