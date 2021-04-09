@@ -46,7 +46,7 @@ Creature Guide
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
 -   Creature natures                                                           
-    -   [Skills](/keeperrl_wiki/Skills "wikilink")                                          
+    -   [Skills](/keeperrl_wiki/Skills_Guide "wikilink")                                          
     -   [Traits](/keeperrl_wiki/Traits "wikilink")                                          
     -   [Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
     -   [Spells](/keeperrl_wiki/Spells "wikilink")                                          
