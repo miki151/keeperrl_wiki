@@ -62,12 +62,12 @@ Inventory
     -   Great Battle Axe
 -   One Items
     -   [Potion of
-        Invisibility](/keeperrl_wiki/Potion_of_Invisibility "wikilink") :
+        Invisibility](/keeperrl_wiki/Potion_Of_Invisibility "wikilink") :
         3-5
     -   Strength, [Dexterity
         Mushrooms](/keeperrl_wiki/Dexterity_Mushroom "wikilink") : 3-5
     -   Random Jewelry
-        -   [Amulet of Warning](/keeperrl_wiki/Amulet_of_Warning "wikilink")
-        -   [Amulet of Healing](/keeperrl_wiki/Amulet_of_Healing "wikilink")
-        -   [Amulet of Defense](/keeperrl_wiki/Amulet_of_Defense "wikilink")
+        -   [Amulet of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
+        -   [Amulet of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
+        -   [Amulet of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
 

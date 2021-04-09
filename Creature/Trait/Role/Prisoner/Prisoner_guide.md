@@ -33,7 +33,7 @@ Best types of prisoners
     summon elementals, so don't bother with him
 -   You aren't likely to find a [/keeperrl_wiki/Minotaur](/keeperrl_wiki/Minotaur "wikilink")
     (sometimes they live below castles and they are powerful)
--   The [lizardman chief](/keeperrl_wiki/Lizardman_chief "wikilink") is a bit special
+-   The [lizardman chief](/keeperrl_wiki/Lizardman_Chief "wikilink") is a bit special
 -   [Warriors](/keeperrl_wiki/Warrior "wikilink") from the Viking tribe are very good
 -   When you come up against enemy keepers, some of the minions will be
     better than yours if you can get them

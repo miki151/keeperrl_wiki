@@ -168,7 +168,7 @@ Master Sorcery
 *Requires master sorcery*
 
 -   Cost : 100 mana or [Book of Master
-    Sorcery](/keeperrl_wiki/Book_of_Master_Sorcery "wikilink")
+    Sorcery](/keeperrl_wiki/Book_Of_Master_Sorcery "wikilink")
 -   Unlocks :
     -   [Master spells](/keeperrl_wiki/Master_Spells "wikilink")
 
@@ -214,7 +214,7 @@ Advanced Alchemy
 *Requires alchemy*
 
 -   Cost : 100 mana or [Book of Advanced
-    Alchemy](/keeperrl_wiki/Book_of_Avanced_Alchemy "wikilink")
+    Alchemy](/keeperrl_wiki/Book_Of_Avanced_Alchemy "wikilink")
 -   Unlocks :
     -   [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")
 
@@ -230,7 +230,7 @@ Beast Mutation
 --------------
 
 -   Cost : 100 mana or [Book of Beast
-    Mutation](/keeperrl_wiki/Book_of_Beast_Mutation "wikilink")
+    Mutation](/keeperrl_wiki/Book_Of_Beast_Mutation "wikilink")
 -   Unlocks :
     -   [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
 -   You can go the legendary beast route. Succubus pregnancy will get
@@ -240,7 +240,7 @@ Humanoid Mutation
 -----------------
 
 -   Cost : 100 mana or [Book of Humanoid
-    Mutation](/keeperrl_wiki/Book_of_Humanoid_Mutation "wikilink")
+    Mutation](/keeperrl_wiki/Book_Of_Humanoid_Mutation "wikilink")
 -   Unlocks :
     -   [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
 -   You can go for the legendary humans as a decent strategy. These guys

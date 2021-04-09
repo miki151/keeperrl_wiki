@@ -39,7 +39,7 @@ Necromage
         good. :) Could Raise Undead to temporarily create zombies from
         all corpses nearby, but those corpses would burn to dust after
         being destroyed or a short time, thus not giving you infinite
-        minions. --[Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+        minions. --[Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
         (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Giant
@@ -74,7 +74,7 @@ Giant
         (CET)
     -   I like the idea of this being a legendary greenskin troll, maybe
         even the leader of the village? --[Red
-        kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+        kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
         (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Cultist

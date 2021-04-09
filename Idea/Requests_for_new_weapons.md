@@ -30,7 +30,7 @@ Normal weapons
     -   I really like the idea of reach for spears. Maybe they couldn't
         be equipped at the same time as bows and Alt+dir would instead
         make you reach with the spear? --[Red
-        kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+        kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
         (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:01, 27 February
         2017 (CET)
     -   That could be really interesting. (Keeperman)
@@ -305,7 +305,7 @@ a way to deal damage or otherwise affect the world at a distance.
         implementation in many other roguelikes and would probably work
         quite okay.
 
--- [Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+-- [Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:18, 28 February 2017
 (CET)
 
@@ -398,7 +398,7 @@ Shields
     equipped - any spell that would hit the wearer is instead reflected
     back at the caster. Use this with an adventurer to make the orc
     shamans stun themselves! --[Red
-    kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+    kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
     (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:01, 27 February 2017
     (CET)
 
@@ -408,7 +408,7 @@ Shields
     away any enemy that hits the user. Thus it would nicely help against
     hordes of enemies surrounding you, because they would quickly be
     teleported and you could then pick them one at a time. --[Red
-    kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+    kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
     (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 09:44, 2 September 2017
     (UTC)
 

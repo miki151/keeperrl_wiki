@@ -50,5 +50,5 @@ When at war with another keeper dungeon, many of the tips in the
 adventurer guide are helpful for keepers:
 
 -   [How to win as an
-    adventurer!!!](/keeperrl_wiki/How_to_win_as_an_adventurer!!! "wikilink")
+    adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 

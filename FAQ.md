@@ -12,7 +12,7 @@ Q: Why does my save file keep getting bigger the longer I play for?
     die they leave equipment, corpses (and bytes) behind. This is
     perfectly normal and nothing to worry about.
 
-Q: Are the ideas, requests and contributions found [in the ideas section](/keeperrl_wiki/Player_ideas,_requests_and_contributions "wikilink") actually in the game?
+Q: Are the ideas, requests and contributions found [in the ideas section](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink") actually in the game?
 ====================================================================================================================================================
 
 -   A:Most of them are not. Some of them however, have been used. Others

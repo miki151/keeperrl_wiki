@@ -42,10 +42,10 @@ Jungle
 -   How about an abundance of poison, biological, and poison resistant
     stuff in the jungle? [Owen](/keeperrl_wiki/Player_Owen "wikilink")
     (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Owen "wikilink")) 03:23, 1 April 2017 (UTC)
--   I agree (/keeperrl_wiki/Sounds_good)_[Keeperman](/keeperrl_wiki/User%3AKeeperman "wikilink")
+-   I agree (/keeperrl_wiki/Sounds_Good)_[Keeperman](/keeperrl_wiki/User%3AKeeperman "wikilink")
 -   What about diseases, eg. tropical fever that affects living
     creatures and causes lowered speed and accuracy, but does not
-    actually kill? --[Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
+    actually kill? --[Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
     (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 Desert

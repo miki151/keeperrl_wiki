@@ -12,9 +12,9 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 Gameplay Guide                                  
 <hr>
 -   [Quick Start Walkthrough for Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
--   [How to win as an adventurer](/keeperrl_wiki/How_to_win_as_an_adventurer "wikilink")
+-   [How to win as an adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -   [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
--   [Campaign mode](/keeperrl_wiki/Campaign_mode "wikilink")
+-   [Campaign mode](/keeperrl_wiki/Campaign_Mode "wikilink")
 -   [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink") 
 -   [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
 -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")

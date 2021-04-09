@@ -50,9 +50,9 @@ Inventory
 
 -   [/keeperrl_wiki/Sword](/keeperrl_wiki/Sword "wikilink")
 -   30% chance :
-    -   [Potion of healing](/keeperrl_wiki/Potion_of_Healing "wikilink") :
+    -   [Potion of healing](/keeperrl_wiki/Potion_Of_Healing "wikilink") :
         4
-    -   [Scroll of teleport](/keeperrl_wiki/Scroll_of_Teleport "wikilink")
+    -   [Scroll of teleport](/keeperrl_wiki/Scroll_Of_Teleport "wikilink")
         : 1
 -   5% chance :
     -   [Short bow](/keeperrl_wiki/Short_Bow "wikilink")
