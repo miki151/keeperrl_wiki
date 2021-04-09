@@ -29,7 +29,7 @@ Alternatively, purchase the graphical and audio version from
 2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
     back”.
 
-<img src="Playmenu-screenshot.png" title="Playmenu-screenshot.png" alt="Playmenu-screenshot.png" width="1000" />
+[[Playmenu-screenshot.png]]
 
 1.  If this is your very first game, play the tutorial first: (Note,
     some players get lost in the black unexplored area of the map when
