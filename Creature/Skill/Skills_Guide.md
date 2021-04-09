@@ -7,7 +7,7 @@ layout: wiki
 Creature skills
 ===============
 
-Ambush
+[Ambush](/keeperrl_wiki/Ambush "wikilink")
 ------
 
 *Hide and ambush unsuspecting enemies. Press 'h' to hide on a tile that
@@ -15,7 +15,7 @@ allows it.*
 
 Adventurers have this skill. Also, werewolves very rarely have it.
 
-Construction
+[Construction](/keeperrl_wiki/Construction "wikilink")
 ------------
 
 *Mine and construct rooms.*
@@ -24,7 +24,7 @@ Ability to gather [resources](/keeperrl_wiki/Resources "wikilink"), building
 [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), [traps](Traps "wikilink") and
 [installations](/keeperrl_wiki/Installations "wikilink").
 
-Consumption
+[Consumption](/keeperrl_wiki/Consumption "wikilink")
 -----------
 
 *Absorb other creatures and retain their attributes.*
@@ -36,7 +36,7 @@ creature will die in this process.
 When it has consumed one head, two arms and two legs it will become a
 [humanoid](/keeperrl_wiki/Humanoid "wikilink").
 
-Copulation
+[Copulation](/keeperrl_wiki/Copulation "wikilink")
 ----------
 
 Only copulates with male, [humanoid](/keeperrl_wiki/Humanoid "wikilink") and
@@ -56,17 +56,17 @@ After some time the creature will give birth to one of the following:
     researched
     -   [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
 
-Crops
+[Crops](/keeperrl_wiki/Crops "wikilink")
 -----
 
 Peasants tend crops, a useless skill once confined to a dungeon.
 
-Digging
+[Digging](/keeperrl_wiki/Digging "wikilink")
 -------
 
 Ability to dig your dungeon out of the mountain face.
 
-Disarm Traps
+[Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink")
 ------------
 
 *Evade traps and disarm them.*
@@ -74,46 +74,46 @@ Disarm Traps
 Creature does not trigger traps and disables them, so they have to be
 rearmed.
 
-Exploring (general)
+[Exploring](/keeperrl_wiki/Exploring "wikilink")
 -------------------
 
 Animals that go out during the day and explore your local map uncovering
 the starter tribes.
 
-Exploring caves
+[Exploring caves](/keeperrl_wiki/Exploring_Caves "wikilink")Exploring caves
 ---------------
 
 Animals that explore cave networks around your local map, uncovering
 starter tribes.
 
-Exploring nocturnally
+[Exploring nocturnally](/keeperrl_wiki/Exploring_Nocturnally "wikilink")
 ---------------------
 
 Wolves and werewolves that go out and hunt at night.
 
-Forging
+[Construction](/keeperrl_wiki/Construction "wikilink")Forging
 -------
 
 Creatures able to forge iron and adamantium kit. Insane goblins are
 sometimes skilled enough to craft artifacts.
 
-Jewellery
+[Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 ---------
 
 Creatures able to craft magic rings and amulets
 
-Laboratory
+[Laboratory](/keeperrl_wiki/Laboratory "wikilink")
 ----------
 
 Creatures able to make potions
 
-Navigational Digging
+[Navigational Digging](/keeperrl_wiki/Navigational_Digging "wikilink")Navigational Digging
 --------------------
 
 Creatures able to navigate towards your dungeon whilst digging, allowing
 surprise attacks.
 
-Sorcery
+[Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 -------
 
 *Cast spells.* Reduces or increases the spell cooldown.
@@ -126,22 +126,22 @@ CooldownMulti = 2 \* 0.25^sorceryValue
 | Multiplier | 1.74 | 1.51 | 1.32 | 1.15 | 1.0 | 0.87 | 0.76 | 0.66 | 0.57 | 0.5 |
 ||
 
-Swimming
+[Swimming](/keeperrl_wiki/Swimming "wikilink")
 --------
 
 *Cross water without drowning.* Creature can walk over water.
 
-Spider
+[Spider](/keeperrl_wiki/Spider "wikilink")
 ------
 
 Creatures able to spin webs
 
-Stealth
+[Stealth](/keeperrl_wiki/Stealth "wikilink")
 -------
 
 An ability to kill enemies without awakening other enemies.
 
-Workshop
+[Workshop](/keeperrl_wiki/Workshop "wikilink")
 --------
 
 An ability to craft leather armour and hand torches and traps. Some rare
