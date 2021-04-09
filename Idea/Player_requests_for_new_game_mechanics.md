@@ -294,7 +294,7 @@ moving. probably going to need Up down left and right facing animations
 and models as well. A little detail never hurt right?
 
 -   Nothing major? Heh, heh. --[Red
-    kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+    kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
     (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
 
 disassociate tribes with being specifically villains/allies

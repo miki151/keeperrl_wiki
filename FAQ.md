@@ -38,7 +38,7 @@ Q: How do I beat monster X or Y?
 ================================
 
 -   A: Look up [ the full list of
-    creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink") for help.
+    creatures](/keeperrl_wiki/Creatures_Guide "wikilink") for help.
 
 Q: Is there a guard room or a guard post command?
 =================================================

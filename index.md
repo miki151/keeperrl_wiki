@@ -41,7 +41,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Creature Guide
 <hr>
--   [ Full List Of Creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink")               
+-   [ Full List Of Creatures](/keeperrl_wiki/Creatures_Guide "wikilink")               
 -   [ /keeperrl_wiki/Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [ /keeperrl_wiki/Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_guide "wikilink")                                
@@ -59,10 +59,10 @@ Dungeon Guide
 -   [ Dungeon /keeperrl_wiki/Technologies](/keeperrl_wiki/Technologies "wikilink")                                               
 -   [ /keeperrl_wiki/Resources](/keeperrl_wiki/Resources "wikilink")                                                              
 -   [/keeperrl_wiki/Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
-   -   [ Rooms](/keeperrl_wiki/Category%3A_Rooms "wikilink")                                                       
+   -   [ Rooms](/keeperrl_wiki/Rooms_Guide "wikilink")                                                       
         -   [Structures and Installations](/keeperrl_wiki/Structures_and_Installations "wikilink")                      
        -   [ /keeperrl_wiki/Traps ](/keeperrl_wiki/Traps "wikilink")                                                                 
-   -   [ Items](/keeperrl_wiki/Category%3A_Items "wikilink")                                                           
+   -   [ Items](/keeperrl_wiki/Items_Guide "wikilink")                                                           
        -   [/keeperrl_wiki/Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
        -   [/keeperrl_wiki/Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
        -   [/keeperrl_wiki/Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                

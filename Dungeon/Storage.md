@@ -34,7 +34,7 @@ Other storage
 
 There are currently 2 types of storage tiles: *material*, which store
 [resources](/keeperrl_wiki/Resources "wikilink"), *equipment* which store
-[items](/keeperrl_wiki/Category%3AItems "wikilink")
+[items](/keeperrl_wiki/Items_Guide "wikilink")
 
 Storage tiles are free to build and have no upper limit.
 

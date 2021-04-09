@@ -41,7 +41,7 @@ Wood
 
 The amount of wood planks per tile is more from trees than from bushes.
 
-Wood is used to build [rooms](/keeperrl_wiki/Category%3ARooms "wikilink") (around 2/3
+Wood is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") (around 2/3
 of them) and [installations](/keeperrl_wiki/Installations "wikilink"), like
 [doors](/keeperrl_wiki/Door "wikilink"),
 [bridges](/keeperrl_wiki/Bridge "wikilink"), etc. It's the first
@@ -56,7 +56,7 @@ Iron
 
 The amount of iron ore per tile is randomized somewhat.
 
-Iron is used to build [rooms](/keeperrl_wiki/Category%3ARooms "wikilink"), usually with
+Iron is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), usually with
 a military theme, such as the [training
 room](/keeperrl_wiki/Training_Room "wikilink"), the
 [forge](/keeperrl_wiki/Forge "wikilink").
@@ -75,7 +75,7 @@ Stone
 
 *You get stone by mining granite veins.*
 
-Stone is used to build 2 [rooms](/keeperrl_wiki/Category%3ARooms "wikilink"): the
+Stone is used to build 2 [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"): the
 [graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
 [laboratory](/keeperrl_wiki/Laboratory "wikilink"). It is needed for
 flooring.

@@ -176,7 +176,7 @@ Select that one and have the imps start digging.
 You can be as creative as you want when it comes to designing the layout
 of your dungeon. The imps dig fairly quickly if they are not mining
 ores; stick to the plain black area and they can dig large
-[rooms](/keeperrl_wiki/Category%3ARooms "wikilink") in a short time. You can hold down
+[rooms](/keeperrl_wiki/Rooms_Guide "wikilink") in a short time. You can hold down
 shift with the mouse and draw out rectangles, too. Hold down the CTRL
 key and drag to cancel blocks of orders shown on the map.
 
@@ -285,7 +285,7 @@ technologies, which you can experiment with.
 Minions
 -------
 
-You need to build other [rooms](/keeperrl_wiki/Category%3ARooms "wikilink") to attract
+You need to build other [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") to attract
 monsters into your dungeon. Some [/keeperrl_wiki/Minions](/keeperrl_wiki/Minions "wikilink") will set
 up home with you if you just give them a dormitory to rest in. Other
 monsters would like places to train, or build things. Build a graveyard
@@ -365,7 +365,7 @@ be invaded by other players).
 <img src="TribesStrip-Screenshot.png" title="TribesStrip-Screenshot.png" alt="TribesStrip-Screenshot.png" width="1000" />
 
 The world we live in is inhabited by many [
-creatures](/keeperrl_wiki/Category%3A_Creatures "wikilink"). For example, you may meet
+creatures](/keeperrl_wiki/Creatures_Guide "wikilink"). For example, you may meet
 bandits, dragons, dwarves, elves, lizardmen, humans, spiders, scorpions,
 gnomes, undead, dark elves, minotaur, hydras, giant ants, elementalists,
 witchmen, kobolds, driads and cyclops... (there are a few more). Some

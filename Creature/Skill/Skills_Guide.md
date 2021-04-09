@@ -21,7 +21,7 @@ Construction
 *Mine and construct rooms.*
 
 Ability to gather [resources](/keeperrl_wiki/Resources "wikilink"), building
-[rooms](/keeperrl_wiki/Category%3ARooms "wikilink"), [traps](Traps "wikilink") and
+[rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), [traps](Traps "wikilink") and
 [installations](/keeperrl_wiki/Installations "wikilink").
 
 Consumption

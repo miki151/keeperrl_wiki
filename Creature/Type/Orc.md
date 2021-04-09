@@ -56,5 +56,5 @@ Tasks
 -   required tiles
     -   Training Room : 12
 
---[Keeperman](/keeperrl_wiki/User%3AKeeperman "wikilink")
+--[Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Keeperman "wikilink")) 13:42, 11 August 2018 (UTC)

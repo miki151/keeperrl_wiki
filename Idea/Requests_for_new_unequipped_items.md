@@ -24,7 +24,7 @@ Potions
     -   Yeah, making an instakill potion, then not giving it to enemies
         sounds weird. Just make it debuff/frighten the vampire. They
         were after all repulsed by the scent of garlic, not killed by
-        it, in fiction. --[Red kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+        it, in fiction. --[Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
         (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:30, 28 February
         2017 (CET)
 
@@ -55,7 +55,7 @@ Potions
     to prevent easy recovery for adventurers. Finding and buying one in
     a shop is okay, though.
 
---[Red kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+--[Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:30, 28 February 2017
 (CET)
 
@@ -171,7 +171,7 @@ straight useless. This would both make it worthwhile to find and carry
 all mushrooms, not just of strength and dexterity, and give the players
 some nice decisions when to use the double-edged ones. Good example
 already in game would be rage mushroom - giving you attack while
-decreasing defense. -- [Red kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+decreasing defense. -- [Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:40, 28 February 2017
 (CET)
 
@@ -215,7 +215,7 @@ Books
     -   book of deception (grants deception spell)
     -   book of meteor shower
 
---[Red kangaroo](/keeperrl_wiki/User%3ARed_kangaroo "wikilink")
+--[Red kangaroo](/keeperrl_wiki/Player_Red_kangaroo "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:07, 27 February 2017
 (CET)
 
