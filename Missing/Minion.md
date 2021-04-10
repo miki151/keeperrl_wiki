@@ -1,6 +1,6 @@
 ---
-title: Roguelike
-permalink: Roguelike/
+title: Minion
+permalink: Minion/
 layout: wiki
 ---
 

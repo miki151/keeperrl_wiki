@@ -1,6 +1,6 @@
 ---
-title: Roguelike
-permalink: Roguelike/
+title: Skill
+permalink: Skill/
 layout: wiki
 ---
 

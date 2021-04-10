@@ -1,6 +1,6 @@
 ---
-title: Roguelike
-permalink: Roguelike/
+title: Enemies
+permalink: Enemies/
 layout: wiki
 ---
 

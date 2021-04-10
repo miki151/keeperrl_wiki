@@ -1,11 +1,10 @@
 ---
-title: Unfinished
-permalink: Unfinished/
+title: Bestiary
+permalink: Bestiary/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
-
 
 This article has gone missing.
 

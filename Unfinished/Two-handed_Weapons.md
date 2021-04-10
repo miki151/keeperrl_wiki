@@ -6,12 +6,10 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-
-
 ''Requires iron working
 '' 
 - Unlocks :
-- [[:Weapons#Two-handed|Two-handed weapons]]
+- [[:Weapons#Two-handed|Two-handed weapons]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 

@@ -6,12 +6,10 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-
-
  Power: 9 - 11
  Weight: 1
  Price: 60
-Occasionally carried by bandits. Always carried by harpies, driads, archers both human and elf. Allows ranged attacks.
+Occasionally carried by bandits. Always carried by harpies, driads, archers both human and elf. Allows ranged attacks.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
