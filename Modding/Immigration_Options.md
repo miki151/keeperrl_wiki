@@ -4,6 +4,8 @@ permalink: Immigration_Options/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -23,4 +25,6 @@ Valid values
 -   consumeIds
 -   initialRecruitment
 -   frequency
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

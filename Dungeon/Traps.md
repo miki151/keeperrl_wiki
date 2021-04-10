@@ -4,6 +4,8 @@ permalink: Traps/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 ''All traps require [traps](/keeperrl_wiki/Traps "wikilink") technology.
 
 -   Traps are made in [workshops](/keeperrl_wiki/Workshop "wikilink")
@@ -58,4 +60,6 @@ Surprise trap
 *Teleports nearby minions to deal with the trespasser.*
 
 -   Teleports minions in 8 tiles range near the enemy.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

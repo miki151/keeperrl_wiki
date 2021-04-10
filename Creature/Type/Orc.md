@@ -4,6 +4,8 @@ permalink: Orc/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Orc.png" title="fig:/keeperrl_wiki/Orc.png" alt="/keeperrl_wiki/Orc.png" width="100" />
 ''Standard warrior minion
 
@@ -58,3 +60,6 @@ Tasks
 
 --[Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
 (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Keeperman "wikilink")) 13:42, 11 August 2018 (UTC)
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

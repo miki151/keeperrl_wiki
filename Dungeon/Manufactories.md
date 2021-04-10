@@ -4,6 +4,8 @@ permalink: Manufactories/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Workshop
 --------
 
@@ -30,4 +32,6 @@ Jeweller
 -   Requires [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -   Produces: jewelry, magical rings, and amulets
 -   Tile Cost: 12 Wood
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

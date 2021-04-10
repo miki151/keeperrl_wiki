@@ -4,6 +4,8 @@ permalink: Dwarf_Baron/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Dwarfboss.png" title="fig:/keeperrl_wiki/Dwarfboss.png" alt="/keeperrl_wiki/Dwarfboss.png" width="100" />
 '' King under the mountain
 
@@ -38,3 +40,6 @@ Inventory
 `Iron helm`  
 `Iron boots`  
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

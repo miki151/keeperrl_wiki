@@ -4,6 +4,8 @@ permalink: Werewolf/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />
 ''Naturally regenerates health
 
@@ -63,4 +65,6 @@ Tasks
 -   space usage : 4
 -   required tiles
     -   Training Room : 12
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

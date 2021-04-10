@@ -4,6 +4,8 @@ permalink: Spirit/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Spirit.png" title="fig:/keeperrl_wiki/Spirit.png" alt="/keeperrl_wiki/Spirit.png" width="100" />
 ''Summoned protection
 
@@ -41,4 +43,6 @@ Traits
 
 -   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 -   [Flying](/keeperrl_wiki/Flying "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

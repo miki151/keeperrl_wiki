@@ -4,6 +4,8 @@ permalink: Storage/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Treasure Chest
 ==============
 
@@ -57,3 +59,6 @@ tile, provided you are ready to see your graveyard disappear if you have
 room in your population cap and a zombie feels like joining.
 Alternatively you can always have 2, and make it grow with every joiner
 without risking a rotting accident in your keep.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

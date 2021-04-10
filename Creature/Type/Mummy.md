@@ -4,6 +4,8 @@ permalink: Mummy/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Mummy.png" title="fig:/keeperrl_wiki/Mummy.png" alt="/keeperrl_wiki/Mummy.png" width="100" />
 ''Never seems to show up
 
@@ -20,3 +22,6 @@ Summary
 -------
 
 If you ever see one, you know something that I don't.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

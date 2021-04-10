@@ -4,6 +4,8 @@ permalink: Bed/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Description: *Humanoid minions sleep on their beds.*
 
 A dormitory is the sleeping-place of:
@@ -24,3 +26,6 @@ Tile Cost
 ---------
 
 12 Wood Planks
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

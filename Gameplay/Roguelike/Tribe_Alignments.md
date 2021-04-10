@@ -4,6 +4,8 @@ permalink: Tribe_Alignments/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+
 Usage
 =====
 
@@ -21,4 +23,6 @@ Valid values
 
 -   EVIL
 -   LAWFUL
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 

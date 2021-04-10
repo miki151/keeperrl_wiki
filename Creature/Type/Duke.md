@@ -4,6 +4,8 @@ permalink: Duke/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki/Knightboss.png" width="100" />
 ''Mighty human boss
 
@@ -35,3 +37,6 @@ Inventory
 `Iron Boots`  
 `Potion of Healing: 1-4`  
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

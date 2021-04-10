@@ -4,6 +4,8 @@ permalink: FAQ/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[FAQ](/keeperrl_wiki/FAQ "wikilink")
+
 Q: Why does my save file keep getting bigger the longer I play for?
 ===================================================================
 
@@ -93,4 +95,6 @@ Q: When is KeeperRL going to come out of Alpha and be officially released?
 
 -   A: The game is getting better and better every release. So not
     expected until late 2019 at the earliest.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[FAQ](/keeperrl_wiki/FAQ "wikilink")
 

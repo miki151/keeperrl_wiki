@@ -4,7 +4,7 @@ permalink: Humanoid_Mutation/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 - Alternative research method: [[Miscellaneous_Items#Book_of_Humanoid_Mutation|Book of Humanoid Mutation]]
 - Unlocks :
@@ -31,3 +31,6 @@ layout: wiki
       <comment>Created page with &quot;__NOTOC__ 
 ''Summoned by [[:Spells#Summon_Insects|summon insects]] spell.
 '' 
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

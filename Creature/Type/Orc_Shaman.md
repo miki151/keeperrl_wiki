@@ -4,6 +4,8 @@ permalink: Orc_Shaman/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" width="100" />
 ''Standard healer minion
 
@@ -61,4 +63,6 @@ Tasks
 -   required tiles
     -   Library : 16
     -   Laboratory : 9
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

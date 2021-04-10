@@ -4,6 +4,8 @@ permalink: Modding_Effect_Types/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -43,4 +45,6 @@ Valid values
 -   LooseBodyPart
 -   RegrowBodyPart
 -   DestroyWalls
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

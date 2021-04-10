@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Unequipped_Items
-permalink: Requests_For_New_Unequipped_Items/
+title: Requests_for_new_unequipped_items
+permalink: Requests_for_new_unequipped_items/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Potions
 =======
@@ -275,4 +277,6 @@ Next consumable
 -   Optional features: What other things could be added to make it even
     better?
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

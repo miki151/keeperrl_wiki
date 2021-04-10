@@ -4,6 +4,8 @@ permalink: Alpha17/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 **New features for Alpha 17**
 
 Gameplay Changes
@@ -32,4 +34,6 @@ Gameplay Changes
 -   A lot of UI fixes optimizations.
 -   Some sprites are redone and prettier.
 -   Fixed many crashes.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

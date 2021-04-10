@@ -4,6 +4,8 @@ permalink: Ogre/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Troll.png" title="fig:/keeperrl_wiki/Troll.png" alt="/keeperrl_wiki/Troll.png" width="100" />
 ''12 combat training levels
 
@@ -40,4 +42,6 @@ Order Tasks
 -   [Forge](/keeperrl_wiki/Forge "wikilink")
 -   [Lab](/keeperrl_wiki/Lab "wikilink")
 -   [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

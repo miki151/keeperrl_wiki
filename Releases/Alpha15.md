@@ -4,6 +4,8 @@ permalink: Alpha15/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 *Officially released: 02 July 2015. All of the changelog has been copied
 from the KeeperRL blog.*
 
@@ -68,4 +70,6 @@ Bugfixes
 -   Fixed arrow and thrown object displaying in zoomed-out view.
 -   Fixed bugs in immigration, and bed building.
 -   Fixed lots of crashes.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

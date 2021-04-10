@@ -4,6 +4,8 @@ permalink: Fixed_Spawn_Locations/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -26,4 +28,6 @@ Valid Values
 -   NearLeader
 -   Pregnancy
 -   FurnitureType
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

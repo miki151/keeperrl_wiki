@@ -4,6 +4,8 @@ permalink: Child/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Peasantkid.png" title="fig:/keeperrl_wiki/Peasantkid.png" alt="/keeperrl_wiki/Peasantkid.png" width="100" />
 ''Stealthy
 
@@ -30,3 +32,6 @@ Child (spider food)
 -   Defense:2
 
 Don't absorb the spider food unless you want a blind doppleganger.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

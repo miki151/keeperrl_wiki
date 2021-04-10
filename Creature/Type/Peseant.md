@@ -4,6 +4,8 @@ permalink: Peseant/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Peasant.png" title="fig:/keeperrl_wiki/Peasant.png" alt="/keeperrl_wiki/Peasant.png" width="100" />
 ''Living morale boost for minons
 
@@ -21,3 +23,6 @@ Summary
 A standard farmer with little use in any dungeon, except perhaps for
 hauling stuff and mining out rock as a prisoner. Dark knights often have
 a small crew of peasants for such work.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

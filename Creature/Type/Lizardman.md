@@ -4,6 +4,8 @@ permalink: Lizardman/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Lizardman.png" title="fig:/keeperrl_wiki/Lizardman.png" alt="/keeperrl_wiki/Lizardman.png" width="100" />
 ''Poisoning reptile
 
@@ -22,3 +24,6 @@ Inventory
 ---------
 
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

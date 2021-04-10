@@ -4,6 +4,8 @@ permalink: Alpha18/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Alpha 18 was released in May 2016. The major changes are as follows:
 
 Gameplay Changes
@@ -28,4 +30,6 @@ Gameplay Changes
 -   Fixed message bug about praying to a web instead of breaking free.
 -   KeeperRL is ported to the Visual Studio C++ compiler, which means
     better error reporting and possible Steamworks integration
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

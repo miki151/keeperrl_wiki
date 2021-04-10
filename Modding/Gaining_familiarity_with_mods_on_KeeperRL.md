@@ -1,8 +1,10 @@
 ---
-title: Gaining_Familiarity_With_Mods_On_KeeperRL
-permalink: Gaining_Familiarity_With_Mods_On_KeeperRL/
+title: Gaining_familiarity_with_mods_on_KeeperRL
+permalink: Gaining_familiarity_with_mods_on_KeeperRL/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 
 Recommended method
 ------------------
@@ -164,3 +166,6 @@ to
 On line 155 remove the text:
 
 `TechId `“`iron`` ``working`”
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

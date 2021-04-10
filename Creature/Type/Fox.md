@@ -4,6 +4,8 @@ permalink: Fox/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Fox.png" title="fig:/keeperrl_wiki/Fox.png" alt="/keeperrl_wiki/Fox.png" width="100" />
 ''Archery target practice
 
@@ -22,3 +24,6 @@ Summary
 
 Yup, only imps could possibly be frightened of the common fox. Foxes are
 so shy that you don't see many unless you look out for them.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

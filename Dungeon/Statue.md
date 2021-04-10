@@ -4,6 +4,8 @@ permalink: Statue/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Type
 ----
 
@@ -23,4 +25,6 @@ Size
 ----
 
 -   Requires 1 square of space.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

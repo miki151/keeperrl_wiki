@@ -4,6 +4,8 @@ permalink: Creature_Trait_Guide/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait "wikilink")
+
 Traits
 ======
 
@@ -102,4 +104,6 @@ Lost Body Parts
     -   Strength -2, Dexterity -3
 -   no more wings
     -   Strenght -4, Dexterity -6
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait "wikilink")
 

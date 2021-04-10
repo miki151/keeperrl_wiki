@@ -4,6 +4,8 @@ permalink: Prison/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 It is possible to build separate prisons and torture rooms but I tend to
 build them together for convenience.
 
@@ -23,4 +25,6 @@ Torture tables
 -   The Torture tables are where you torture your prisoners, and may be
     able to convert them. The survival rate is about 50%.
 -   20 iron cost
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

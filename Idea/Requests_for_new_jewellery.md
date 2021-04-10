@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Jewellery
-permalink: Requests_For_New_Jewellery/
+title: Requests_for_new_jewellery
+permalink: Requests_for_new_jewellery/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Amulet of Teleportation
 -----------------------
@@ -241,4 +243,6 @@ Ring of Sacrificial Power
 -   Optional features: The eyes of the wearer (not sacrifice) grow a
     brighter red with each sacrifice.
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

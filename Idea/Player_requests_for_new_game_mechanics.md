@@ -1,8 +1,10 @@
 ---
-title: Player_Requests_For_New_Game_Mechanics
-permalink: Player_Requests_For_New_Game_Mechanics/
+title: Player_requests_for_new_game_mechanics
+permalink: Player_requests_for_new_game_mechanics/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Game Mechanics
 ==============
@@ -451,3 +453,6 @@ system and to assist in dropping numbers in the early portions of the
 waves. Once you've destroyed the tribes on your part of the map, I think
 it would stand to reason to be able to terraform and build a bit more of
 the open plains, especially if other keeper types are added. -FPD
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

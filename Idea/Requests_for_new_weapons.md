@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Weapons
-permalink: Requests_For_New_Weapons/
+title: Requests_for_new_weapons
+permalink: Requests_for_new_weapons/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Melee weapons
 =============
@@ -429,4 +431,6 @@ Template
 -   Optional features: What other things could be added to make it even
     better?
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

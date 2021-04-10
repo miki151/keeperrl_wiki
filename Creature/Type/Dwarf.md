@@ -4,6 +4,8 @@ permalink: Dwarf/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Dwarf.png" title="fig:/keeperrl_wiki/Dwarf.png" alt="/keeperrl_wiki/Dwarf.png" width="100" />
 '' An armoured fighter
 
@@ -40,3 +42,6 @@ Inventory
 `50% Chance: Iron helm`  
 `30% Chance: Iron boots`  
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

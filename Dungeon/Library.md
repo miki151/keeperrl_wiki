@@ -4,6 +4,8 @@ permalink: Library/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 -   Allows your minions to research new Spells.
 -   The maximum amount of technologies the library can store is:
 
@@ -30,4 +32,6 @@ Golden bookcase
 ---------------
 
 -   Basic, intermediate and advanced spells, faster research
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Alpha24/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 The full change log
 ===================
 
@@ -145,4 +147,6 @@ Bugfixes
 -   Fixed red dragon appearing on green dragon's place in the campaign.
 -   Increased female keeper spell damage to match the male version.
 -   Fixed issue with calculating influence area in campaign map.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

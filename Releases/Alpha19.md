@@ -4,6 +4,8 @@ permalink: Alpha19/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Alpha 19 - <http://keeperrl.com/keeperrl-alpha19-is-released/> Released
 in July 2016
 
@@ -54,4 +56,6 @@ Gameplay Changes
     ended.
 -   Fixed various issues in music playback.
 -   Fixed switching tabs in creature control mode.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

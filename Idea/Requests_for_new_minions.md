@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Minions
-permalink: Requests_For_New_Minions/
+title: Requests_for_new_minions
+permalink: Requests_for_new_minions/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Please fill out the structure below. For stats “Terrible”, “Poor”,
 “Medium”, “Good”, “Excellent” will do as much as numbers.
@@ -379,3 +381,6 @@ Designated Unit's
 Defense Force, gains a slight buff to stats while fighting on the
 dungeon map and a debuff when fighting anywhere else. Attack Force,
 exact opposite of the Defense Force.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

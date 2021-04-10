@@ -4,6 +4,8 @@ permalink: Potion_Of_Invisibility/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+
 
 
  Grants Invisibility.
@@ -12,3 +14,6 @@ layout: wiki
  Thrown accuracy: 6
  Weight: 0.3
  Price: 120
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

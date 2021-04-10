@@ -4,6 +4,8 @@ permalink: Humanoid/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+
 
 
 -Start Level: 10
@@ -23,3 +25,6 @@ layout: wiki
 -Purpose in game: Source of money
 -Optional Features:
 Has a 3% chance that if he injures a beast unit (Ants, etc) No dragons... thats OP..... That if you have a beast cage... the beast unit will be yours.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

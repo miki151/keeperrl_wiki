@@ -4,7 +4,7 @@ permalink: Summon_Spirit/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 - Cooldown : 150
 - Summon 2 - 4 [[:Spirit|spirits]] for 100 ticks.</text>
@@ -21,3 +21,6 @@ layout: wiki
         <id>40</id>
       </contributor>
       <text xml:space
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

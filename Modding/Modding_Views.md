@@ -4,6 +4,8 @@ permalink: Modding_Views/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -142,4 +144,6 @@ Valid values
 -   SPECIAL\_HMBW
 -   SPECIAL\_HMGN
 -   SPECIAL\_HMGW
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

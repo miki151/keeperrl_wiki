@@ -1,8 +1,10 @@
 ---
-title: How_To_Win_As_An_Adventurer
-permalink: How_To_Win_As_An_Adventurer/
+title: How_to_win_as_an_Adventurer
+permalink: How_to_win_as_an_Adventurer/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
 Updated March 2018
 ------------------
@@ -335,4 +337,6 @@ Winning the game
 -   Trap him if you can. Choose your moment and take your chance. Go
     invisible if at all possible. Speed yourself. Buff strength and dex.
     Go kill him to win the game.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 

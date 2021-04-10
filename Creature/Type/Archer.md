@@ -4,6 +4,8 @@ permalink: Archer/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 Base Stats
 ==========
 
@@ -28,3 +30,6 @@ Inventory
 `Leather Boots`  
 `Potion of Healing`  
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

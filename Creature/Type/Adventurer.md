@@ -4,6 +4,8 @@ permalink: Adventurer/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki/Adventurer.png" width="100" />
 <img src="/keeperrl_wiki/Adventurer_Female.png" title="fig:/keeperrl_wiki/Adventurer_Female.png" alt="/keeperrl_wiki/Adventurer_Female.png" width="100" />
 ''They face the world alone and the glory is theirs alone.
@@ -25,3 +27,6 @@ have the option of becoming adventurers themselves and abandoning the
 management of other troops and dungeons or tribes in
 \[<http://keeperrl.com/wiki/index.php?title=How_to_win_as_an_adventurer>!!!
 Adventure Mode\]
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

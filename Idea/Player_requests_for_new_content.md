@@ -1,8 +1,10 @@
 ---
-title: Player_Requests_For_New_Content
-permalink: Player_Requests_For_New_Content/
+title: Player_requests_for_new_content
+permalink: Player_requests_for_new_content/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Michal has indicated that he is interested in producing new content and
 may adopt player ideas. This section is here to facilitate this.
@@ -101,3 +103,6 @@ Game Mechanics has its own page
 
 There may be some overlap between changing what the game contains (game
 content) and changing the way the game is designed (game mechanics).
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

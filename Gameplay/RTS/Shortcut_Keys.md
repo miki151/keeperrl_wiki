@@ -4,6 +4,8 @@ permalink: Shortcut_Keys/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
 Keeper Mode Keys
 ================
 
@@ -104,4 +106,5 @@ Other
 | u    | Leave Minion                    |
 ||
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 

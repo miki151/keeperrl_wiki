@@ -4,6 +4,8 @@ permalink: Armor/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Helmets
 =======
 
@@ -126,3 +128,6 @@ Defence Boots
 -------------
 
 `Description: Boots that normally have the best defence bonus`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

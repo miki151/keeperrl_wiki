@@ -4,6 +4,8 @@ permalink: Vampire_Lord/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="vampirelord.png" title="fig:vampirelord.png" alt="vampirelord.png" width="100" />
 ''Powerful when converted
 
@@ -36,3 +38,6 @@ After studying they have the best spells in the game and they can also
 train using training dummies. They can level up even further by killing
 enemies in combat. They are very powerful if you take care of them but
 do tend to lose limbs a bit easily.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

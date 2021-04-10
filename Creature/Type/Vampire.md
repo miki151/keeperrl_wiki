@@ -4,6 +4,8 @@ permalink: Vampire/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Vampire.png" title="fig:/keeperrl_wiki/Vampire.png" alt="/keeperrl_wiki/Vampire.png" width="100" />
 ''Undead spell-caster minion
 
@@ -63,4 +65,6 @@ Tasks
 -   dorm : [Graveyard](/keeperrl_wiki/Graveyard "wikilink")
 -   probability : 0.3
 -   corpse usage : 1
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

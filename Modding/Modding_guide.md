@@ -1,8 +1,10 @@
 ---
-title: Modding_Guide
-permalink: Modding_Guide/
+title: Modding_guide
+permalink: Modding_guide/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 
 There are 3 parts to this modding guide:
 
@@ -12,4 +14,6 @@ There are 3 parts to this modding guide:
     KeeperRL](/keeperrl_wiki/Understanding_The_File_Formats_For_KeeperRL "wikilink")
 3.  [ Available reference data for modding
     KeeperRL](/keeperrl_wiki/Modding_Reference_Data_Guide "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

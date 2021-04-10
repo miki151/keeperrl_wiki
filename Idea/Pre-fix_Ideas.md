@@ -4,6 +4,8 @@ permalink: Pre-fix_Ideas/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+
 Prefix Items (Definition)
 =========================
 
@@ -161,4 +163,6 @@ Loyal succubus, disloyal vampire...
 
 -   Loyal - keeps minions happy
 -   Disloyal - makes minions unhappy
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

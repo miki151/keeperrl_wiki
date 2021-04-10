@@ -4,6 +4,8 @@ permalink: Bat/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Bat.png" title="fig:/keeperrl_wiki/Bat.png" alt="/keeperrl_wiki/Bat.png" width="100" />
 ''They like to explore
 
@@ -55,4 +57,6 @@ Tasks
 -   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 -   probability : 1.0
 -   Nighttime
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

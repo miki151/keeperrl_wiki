@@ -1,8 +1,10 @@
 ---
-title: Requests_For_Game_Messages
-permalink: Requests_For_Game_Messages/
+title: Requests_for_game_messages
+permalink: Requests_for_game_messages/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 -   French Versus
 -   Russian Demo
@@ -40,4 +42,6 @@ Room Clutter:
 -   A new category “Reputation”/“Infamy”/“Recognition” could be used
     for: Pigsty, Throne Room, Statues and Prisioner Heads (making
     improvements on population easier to understand)
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

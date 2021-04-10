@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Villains
-permalink: Requests_For_New_Villains/
+title: Requests_for_new_villains
+permalink: Requests_for_new_villains/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 For stats “Terrible”, “Poor”, “Medium”, “Good”, “Excellent” will do as
 much as numbers.
@@ -764,3 +766,6 @@ Ideas for further development
 -----------------------------
 
 -Good for Mini Villains: (Merman, Hobgoblin)
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

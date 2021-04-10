@@ -4,6 +4,8 @@ permalink: Training_Room/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Train your creatures
 
 Available furniture
@@ -32,4 +34,6 @@ Archery target
 
 -   Training in archery
 -   Cost: 12 wood
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Alpha21/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Gameplay Changes
 ----------------
 
@@ -72,3 +74,6 @@ Other
 `   Added versioning to highscores, so they can be cleared after major gameplay changes.`  
 `   The “UI zoom” setting is not available at lower resolutions to prevent crashes.`  
 `   Replaced “no fullscreen” option in Steam launcher with “clear settings”.`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+

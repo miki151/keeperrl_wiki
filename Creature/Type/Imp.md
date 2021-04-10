@@ -4,6 +4,8 @@ permalink: Imp/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Imp.png" title="fig:/keeperrl_wiki/Imp.png" alt="/keeperrl_wiki/Imp.png" width="100" />
 ''Warlock's best workers
 
@@ -51,4 +53,6 @@ Skills
 ------
 
 -   [Construction](/keeperrl_wiki/Construction "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

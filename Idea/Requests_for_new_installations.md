@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Installations
-permalink: Requests_For_New_Installations/
+title: Requests_for_new_installations
+permalink: Requests_for_new_installations/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Doors
 =====
@@ -64,4 +66,6 @@ Standing Torch (Implemented in Alpha 24)
 ----------------------------------------
 
 -   A torch that stands on the ground instead of a wall
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

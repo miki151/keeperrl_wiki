@@ -4,6 +4,8 @@ permalink: Throne/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 This construction can only be built once, after you defeated a tribe. It
 immediately adds 10 to your population cap, and makes the other tribes
 hate you more. But they're probably just jealous.
@@ -18,3 +20,6 @@ Cost
 ----
 
 800 gold.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

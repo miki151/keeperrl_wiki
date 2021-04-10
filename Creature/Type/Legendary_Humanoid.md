@@ -4,6 +4,8 @@ permalink: Legendary_Humanoid/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 [Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
@@ -70,4 +72,6 @@ Inventory
         -   [Amulet of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
         -   [Amulet of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
         -   [Amulet of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

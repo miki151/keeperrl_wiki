@@ -4,6 +4,8 @@ permalink: Modding_Traits/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -28,4 +30,6 @@ Valid Values
 -   NO\_AUTO\_EQUIPMENT
 -   DOESNT\_TRIGGER
 -   INCREASE\_POPULATION
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

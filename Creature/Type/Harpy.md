@@ -4,6 +4,8 @@ permalink: Harpy/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Harpy.png" title="fig:/keeperrl_wiki/Harpy.png" alt="/keeperrl_wiki/Harpy.png" width="100" />
 ''Winged killer
 
@@ -57,4 +59,6 @@ Tasks
 -   space usage : 3
 -   required tiles
     -   Training Room : 16
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

@@ -1,8 +1,10 @@
 ---
-title: Requests_For_Graphics
-permalink: Requests_For_Graphics/
+title: Requests_for_graphics
+permalink: Requests_for_graphics/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 -   Host texture packs on Steam workshop
 -   Make furniture items rotatable(just a visual effect)
@@ -19,3 +21,6 @@ there were certain other wall types or even an option to paint over or
 texture over them with wallpapers, dungeons would feel more coherent in
 their design. As much as I prefer form over function, small
 inconsistencies like that just look out of place when building. -FPD
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

@@ -1,8 +1,10 @@
 ---
-title: Demon_Dweller
-permalink: Demon_Dweller/
+title: Demon_dweller
+permalink: Demon_dweller/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 
 <img src="/keeperrl_wiki/Demon_Dweller.png" title="fig:/keeperrl_wiki/Demon_Dweller.png" alt="/keeperrl_wiki/Demon_Dweller.png" width="100" />
 '' Soldiers of Demonshrine
@@ -30,3 +32,6 @@ to war by building demon altars. It is sometimes worth leaving their
 demon lord alone, so that you can farm the demon dwellers for their gold
 as they immigrate to Demonshrine and then proceed to attack your
 dungeon.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

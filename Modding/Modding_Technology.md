@@ -4,6 +4,8 @@ permalink: Modding_Technology/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 `\{`  
 `\{`  
 `  `“`alchemy`”`                  \{ `“`Build`` ``a`` ``laboratory`` ``and`` ``produce`` ``basic`` ``potions.`”` \}`  
@@ -24,3 +26,6 @@ layout: wiki
 `  `“`demonology`”`               \{ `“`Build`` ``demon`` ``shrines`` ``and`` ``attract`` ``demons.`”`                      \{`“`advanced`` ``sorcery`”`\}\}`  
 `\}`  
 `\}`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Technology
-permalink: Requests_For_New_Technology/
+title: Requests_for_new_technology
+permalink: Requests_for_new_technology/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Note: The cost of technologies should probably be such that you will
 rarely be able to get them all in a single game. Perhaps just one or two
@@ -269,3 +271,6 @@ You are the the Evil Overlord of Devilish minions. No Humanoid Tribe
 would Deal with you without the point of a blade at your throat.
 Diplomacy with minor allies (of the keeper) on the other hand should be
 a thing.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+

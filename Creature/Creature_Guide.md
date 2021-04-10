@@ -4,6 +4,8 @@ permalink: Creature_Guide/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
+
 Here is a list of creatures extracted from the game-code in February
 2018. Some of the monsters will be impossible to actually encounter
 (yet).
@@ -407,4 +409,6 @@ Here is a list of creatures extracted from the game-code in February
 [Zombie](/keeperrl_wiki/Zombie "wikilink")
 <img src="/keeperrl_wiki/Zombie.png" title="fig:/keeperrl_wiki/Zombie.png" alt="/keeperrl_wiki/Zombie.png" width="100" />
 ''Invasion fodder
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
 

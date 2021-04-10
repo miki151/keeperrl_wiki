@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Armour
-permalink: Requests_For_New_Armour/
+title: Requests_for_new_armour
+permalink: Requests_for_new_armour/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Elven Steel War Helm
 --------------------
@@ -92,4 +94,6 @@ Next armour (Copy this as a template)
 -   Optional features: What other things could be added to make it even
     better?
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

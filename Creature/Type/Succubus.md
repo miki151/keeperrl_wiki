@@ -4,6 +4,8 @@ permalink: Succubus/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Succubussmall.png" title="fig:/keeperrl_wiki/Succubussmall.png" alt="/keeperrl_wiki/Succubussmall.png" width="100" />
 ''She's done it before (once)
 
@@ -50,4 +52,6 @@ Tasks
 -   space usage : 2
 -   required tiles
     -   Ritual Room : 12
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

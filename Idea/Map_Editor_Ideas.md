@@ -4,6 +4,8 @@ permalink: Map_Editor_Ideas/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
+
 Hi,
 
 There is a possibility that Alpha 26 will include a map editor. Please
@@ -284,4 +286,6 @@ Additional notes
     you click on it to show blindness is switched on. Make the blind
     pirate slower and give him an injured leg by clicking on “slow” and
     his intrinsic leg attack turning them red.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Alpha20/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Alpha 20
 ========
 
@@ -61,4 +63,6 @@ Gameplay Changes
 -   Fixed boulder movement and animation glitches.
 -   Fixed how minion’s morale is used for their working efficiency.
 -   Added diagnostics for various unknown crashes.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

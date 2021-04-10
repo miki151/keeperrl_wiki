@@ -4,6 +4,8 @@ permalink: Legendary_Beast/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 [Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
@@ -54,4 +56,6 @@ Body Parts
 -   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 -   probability : 0.2
 -   [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Elf/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki/Elf.png" alt="/keeperrl_wiki/Elf.png" width="100" />
 ''Not generally dangerous
 
@@ -33,3 +35,6 @@ Spells
 
 Inventory
 ---------
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

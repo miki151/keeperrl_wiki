@@ -4,6 +4,8 @@ permalink: Chicken/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 -   Defense:2
 -   Damage:2
 -   Body size:Small
@@ -17,3 +19,6 @@ Summary
 Chickens look like they are extinct (not in the game?). Perhaps like the
 dodo, they were just too tasty and too pathetic to survive in a hungry
 world.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

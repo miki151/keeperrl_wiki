@@ -4,6 +4,8 @@ permalink: Player_Creatures.txt/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 `# Keepers`  
 `\{`  
 `  \{`  
@@ -64,3 +66,6 @@ layout: wiki
 ` # CreatureId                     TribeAlignment `  
 ` \{ ADVENTURER ADVENTURER_F \}      LAWFUL             `“`Roam`` ``the`` ``land`` ``in`` ``search`` ``of`` ``adventures`` ``and`` ``loot!`”  
 `\}`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

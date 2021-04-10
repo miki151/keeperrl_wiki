@@ -4,6 +4,8 @@ permalink: Spider/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Spider.png" title="fig:/keeperrl_wiki/Spider.png" alt="/keeperrl_wiki/Spider.png" width="100" />
 ''Weak but poisonous
 
@@ -24,3 +26,6 @@ Huge spiders but they are not giants. They are off-spring of something
 far bigger and worse but sometimes find themselves in dark elf dungeons.
 You are happily levelling up when one of these poison you and you
 realise it is all over.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

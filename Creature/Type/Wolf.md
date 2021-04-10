@@ -4,6 +4,8 @@ permalink: Wolf/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Wolf.png" title="fig:/keeperrl_wiki/Wolf.png" alt="/keeperrl_wiki/Wolf.png" width="100" />
 ''Arrive in packs
 
@@ -53,4 +55,6 @@ Tasks
 -   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
 -   probability : 0.15
 -   pack : 3 - 9
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

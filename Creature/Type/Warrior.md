@@ -4,6 +4,8 @@ permalink: Warrior/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Warrior.png" width="100" />
 ''Tribal warrior
 
@@ -30,3 +32,6 @@ Inventory
 `Club`  
 `Leather_Armor`  
 `Gold`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

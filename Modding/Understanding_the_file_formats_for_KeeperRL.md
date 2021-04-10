@@ -1,8 +1,10 @@
 ---
-title: Understanding_The_File_Formats_For_KeeperRL
-permalink: Understanding_The_File_Formats_For_KeeperRL/
+title: Understanding_the_file_formats_for_KeeperRL
+permalink: Understanding_the_file_formats_for_KeeperRL/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 
 general rules
 =============
@@ -207,3 +209,6 @@ Example:
 The file always begins like this:
 
 `\}`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

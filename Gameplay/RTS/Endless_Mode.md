@@ -4,6 +4,8 @@ permalink: Endless_Mode/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
 Edited 3rd April 2018
 ---------------------
 
@@ -108,4 +110,6 @@ Strategies for progressing in Endless Mode
     or sleep and just train.
 -   Get healers and spell casters
 -   Build up the very best possible team
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 

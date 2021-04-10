@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Rooms
-permalink: Requests_For_New_Rooms/
+title: Requests_for_new_rooms
+permalink: Requests_for_new_rooms/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Mushroom Farm
 -------------
@@ -231,4 +233,6 @@ New room (Requested)
 -   Special effects: Neat features...
 -   Purpose in game: How does it add to the game?
 -   Optional features: What would make it even better?
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

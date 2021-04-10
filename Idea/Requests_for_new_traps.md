@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Traps
-permalink: Requests_For_New_Traps/
+title: Requests_for_new_traps
+permalink: Requests_for_new_traps/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 References:
 
@@ -262,4 +264,6 @@ Hidden passage and Door
     allies to flank such enemies. Also allows a better chance to
     surround enemies for possible capture.
 -   Purpose: Tactics
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

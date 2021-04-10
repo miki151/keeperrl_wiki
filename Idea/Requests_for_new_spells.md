@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Spells
-permalink: Requests_For_New_Spells/
+title: Requests_for_new_spells
+permalink: Requests_for_new_spells/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 References:
 
@@ -452,4 +454,6 @@ Dragon breath
 -   Purpose in game: Making dragons more deadly
 -   Optional Features: Various effects depending on dragon type
 -   Discussion:
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

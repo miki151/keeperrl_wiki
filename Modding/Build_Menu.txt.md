@@ -4,6 +4,8 @@ permalink: Build_Menu.txt/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 `# `“`structure`”`, `“`doors`”`, etc are groups that are then used in the last column in player_creatures.txt.`  
 `# (they do not necessarily correspond to how menu items are grouped into submenus, you can join several`  
 `# groups into a submenu, like beds, cages, pigsty and coffins are in the `“`living`”` submenu)`
@@ -268,3 +270,6 @@ layout: wiki
 `  `“`Teleports`` ``nearby`` ``minions`` ``to`` ``deal`` ``with`` ``the`` ``trespasser.`”` 0 \{ TechId `“`traps`”` \}\}`  
 `  \}`  
 `\}`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

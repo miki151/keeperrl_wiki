@@ -4,6 +4,8 @@ permalink: Zombie/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Zombie.png" title="fig:/keeperrl_wiki/Zombie.png" alt="/keeperrl_wiki/Zombie.png" width="100" />
 ''Invasion fodder
 
@@ -47,4 +49,6 @@ Tasks
 -   dorm : [Graveyard](/keeperrl_wiki/Graveyard "wikilink")
 -   probability : 0.5
 -   corpse usage : 1
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

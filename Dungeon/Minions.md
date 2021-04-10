@@ -4,6 +4,8 @@ permalink: Minions/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Overview
 ========
 
@@ -251,3 +253,6 @@ Equip</p></th>
 
 List of minions
 ---------------
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

@@ -4,7 +4,7 @@ permalink: Workshop/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 An ability to craft leather armour and hand torches and traps. Some rare crazy goblins can make artifact armour and weapons.
 [[Category:Creature Guide]]</text>
@@ -27,3 +27,6 @@ An ability to craft leather armour and hand torches and traps. Some rare crazy g
       <comment>Created page with &quot;__NOTOC__ 
 ''A captured human that has surrendered to you.
 ''  
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

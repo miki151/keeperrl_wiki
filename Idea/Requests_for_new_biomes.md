@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Biomes
-permalink: Requests_For_New_Biomes/
+title: Requests_for_new_biomes
+permalink: Requests_for_new_biomes/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Use this page for game maps that will require new monsters and new
 terrain
@@ -182,4 +184,6 @@ For new ideas consider:
 -   background tiles
 -   Features
 -   Inhabitants
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

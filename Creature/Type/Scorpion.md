@@ -4,6 +4,8 @@ permalink: Scorpion/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 Base Stats
 ==========
 
@@ -22,3 +24,6 @@ Calculated Stats
 `Attack: 19`  
 `Defense: 9`  
 `Accuracy: 13`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

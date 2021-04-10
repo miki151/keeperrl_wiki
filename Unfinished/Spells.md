@@ -4,6 +4,8 @@ permalink: Spells/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+
 
 
 -Heal self
@@ -12,3 +14,6 @@ layout: wiki
 -Defence bonus
 -Damage bonus
 -Blast
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

@@ -4,6 +4,8 @@ permalink: Doppleganger/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki/Doppleganger.png" width="100" />
 '' Absorber of bodies
 
@@ -44,4 +46,6 @@ Tasks
 -   probability : 0.2
 -   required tiles
     -   Demon Shrine : 4
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

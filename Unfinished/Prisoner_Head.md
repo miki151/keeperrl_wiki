@@ -4,7 +4,7 @@ permalink: Prisoner_Head/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 ''Impaled head of an executed prisoner. Aggravates enemies.
 ''
@@ -23,3 +23,6 @@ layout: wiki
     <ns>0</ns>
     <id>373</id>
     <redirect title
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

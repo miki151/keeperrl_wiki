@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Configurations
-permalink: Requests_For_New_Configurations/
+title: Requests_for_new_configurations
+permalink: Requests_for_new_configurations/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Use this page for new maps made from existing monsters and tiles. Should
 feel free to use suggested content if it has already been scheduled.
@@ -96,4 +98,6 @@ Trading post
 -   Fresh items on sale every day
 -   Shopkeeper
 -   Stealing or killing stops all fresh items
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

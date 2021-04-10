@@ -4,6 +4,8 @@ permalink: Witch/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki/Witch.png" alt="/keeperrl_wiki/Witch.png" width="100" />
 ''Not always visible
 
@@ -36,3 +38,6 @@ Inventory
 `Potion of Invisibility`  
 `Potion of Poison`  
 `Potion of Speed`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

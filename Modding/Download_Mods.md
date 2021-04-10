@@ -4,6 +4,8 @@ permalink: Download_Mods/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Download instructions
 =====================
 
@@ -70,3 +72,6 @@ you.
 
 7) Edit this page, and insert the link to your zip file in the “Download
 mods for Alpha 26” section
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

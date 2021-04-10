@@ -4,6 +4,8 @@ permalink: Villain_Types/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+
 Usage
 =====
 
@@ -21,4 +23,6 @@ Valid values
 -   MAIN
 -   LESSER
 -   ALLY
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Prisoner/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 Since Alpha 24 prisoners keep their stats after being captured. They do
 however gain new tasks and traits:
 
@@ -18,4 +20,6 @@ Tasks
 
 -   [Torture](/keeperrl_wiki/Torture_Room "wikilink")
 -   [Exectute](/keeperrl_wiki/Prisoner_Head "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

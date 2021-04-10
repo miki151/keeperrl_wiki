@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Tasks_And_Skills
-permalink: Requests_For_New_Tasks_And_Skills/
+title: Requests_for_new_tasks_and_skills
+permalink: Requests_for_new_tasks_and_skills/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Existing skills are: Absorption, Ambush, Archery, Construction,
 Copulate, Disarm Traps, Elf Vision, Healing, Knife Throwing, Night
@@ -103,4 +105,6 @@ etc... (or it could be probability based)
 -   Extra awesomeness if you could inscribe the items with a special
     name in/or description to conmemorate the event.
 -   Optional features: armor enhancements
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

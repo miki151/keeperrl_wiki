@@ -4,6 +4,8 @@ permalink: Resources/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
 In KeeperRL the amount of resources you have is *limited*: trees don't
 grow back, all ores are shown. Through the use of alchemy there is an
 exception with [gold](/keeperrl_wiki/Gold "wikilink") being used to turn
@@ -90,3 +92,6 @@ this option is turned on during the game setup.
 
 Mana is used to do [research](/keeperrl_wiki/Technologies "wikilink") and build your
 [throne](/keeperrl_wiki/Throne "wikilink") once you can.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+

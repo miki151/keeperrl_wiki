@@ -4,6 +4,8 @@ permalink: Alpha22/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Alpha 22 Changes
 ================
 
@@ -57,4 +59,6 @@ Bugfixes
 -   Fix scrolling inventory in control mode.
 -   Fixed game speed dialog glitch.
 -   Removed useless “execution” task.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

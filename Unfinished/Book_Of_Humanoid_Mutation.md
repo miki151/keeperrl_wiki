@@ -4,7 +4,7 @@ permalink: Book_Of_Humanoid_Mutation/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
  Unlocks humanoid mutation.
  Weight: 0.5
@@ -31,3 +31,6 @@ layout: wiki
 - [[Lawful Keepers|Lawful Keepers - Less evil]] 
 - [[Adventurer | Adventurers]]&quot;</comment>
       <text xml:space
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

@@ -4,6 +4,8 @@ permalink: Alpha23/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Alpha 23 change log
 ===================
 
@@ -120,4 +122,6 @@ Bugfixes
 -   Fixed deadlock when game window is closed during world generation.
 -   Fixed issues with locating pigs in pigsty.
 -   Fixed various small issues in pathfinding.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

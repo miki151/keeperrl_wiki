@@ -4,7 +4,7 @@ permalink: Jeweler/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 Requires [[Jewellery]]
 Produces: jewelry, magical rings, and amulets
@@ -22,3 +22,6 @@ Produces: jewelry, magical rings, and amulets
         <id>14</id>
       </contributor>
       <text xml:space
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

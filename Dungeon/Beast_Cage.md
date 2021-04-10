@@ -4,6 +4,8 @@ permalink: Beast_Cage/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Description: *Beasts sleep in their cages.*
 
 Beast lair is the dormitory of:
@@ -24,3 +26,6 @@ Tile Cost
 ---------
 
 8 Wood planks
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

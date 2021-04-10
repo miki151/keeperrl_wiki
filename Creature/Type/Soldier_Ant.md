@@ -4,6 +4,8 @@ permalink: Soldier_Ant/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki/Antw.png" alt="/keeperrl_wiki/Antw.png" width="100" />
 ''Poisonous ant warriors
 
@@ -23,3 +25,6 @@ Summary
 
 They like to dig through rock into dungeons and poison enemies. You may
 want to take the fight to them, before they dig up your dungeon walls.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

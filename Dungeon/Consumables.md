@@ -4,6 +4,8 @@ permalink: Consumables/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 First Aid Kit
 -------------
 
@@ -296,3 +298,6 @@ Book of Humanoid Mutation
 `Unlocks humanoid mutation.`  
 `Weight: 0.5`  
 `Price: 1000`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

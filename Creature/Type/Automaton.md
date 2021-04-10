@@ -4,6 +4,8 @@ permalink: Automaton/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Automaton.png" title="fig:/keeperrl_wiki/Automaton.png" alt="/keeperrl_wiki/Automaton.png" width="100" />
 ''Disloyal but deadly
 
@@ -17,3 +19,6 @@ Summary
 
 Built with magic material, once created, these huge monsters attack both
 friend and foe alike. Sometimes sold by gnomes.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

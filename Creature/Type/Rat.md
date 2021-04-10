@@ -4,6 +4,8 @@ permalink: Rat/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Rat.png" title="fig:/keeperrl_wiki/Rat.png" alt="/keeperrl_wiki/Rat.png" width="100" />
 ''Often live in chests, eating cheese
 
@@ -23,3 +25,6 @@ Summary
 -------
 
 Yup imps are even afraid of large rats.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

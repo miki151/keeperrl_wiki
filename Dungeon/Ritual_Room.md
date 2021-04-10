@@ -4,6 +4,8 @@ permalink: Ritual_Room/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Build a ritual room that attracts demonic inhabitants to your Dungeon by
 placing demon shrines:
 
@@ -15,4 +17,6 @@ placing demon shrines:
 
 -   30 gold per shrine
 -   Requirement: Demonology
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

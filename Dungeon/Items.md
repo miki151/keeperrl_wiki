@@ -4,7 +4,12 @@ permalink: Items/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 There are different categories of items available. Weapons can be
 equipped in your hand. Armor is worn on the feet, body, hands and head.
 Magic jewelry is normally worn on the fingers or around the neck.
 Consumables, first aid kits and scrolls etc. cannot be equipped.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

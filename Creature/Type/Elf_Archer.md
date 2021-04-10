@@ -4,6 +4,8 @@ permalink: Elf_Archer/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 Base Stats
 ==========
 
@@ -38,3 +40,6 @@ Inventory
 `Short Bow`  
 `Arrow: 20-36`  
 `Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

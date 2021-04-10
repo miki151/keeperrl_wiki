@@ -4,6 +4,8 @@ permalink: Weapons/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 One-handed
 ==========
 
@@ -175,3 +177,6 @@ Elven Silver Bow
 `Power: 15 `  
 `Weight: 1`  
 `Price: 60`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

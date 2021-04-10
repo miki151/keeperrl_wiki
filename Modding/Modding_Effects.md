@@ -4,6 +4,8 @@ permalink: Modding_Effects/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Fire
 ----
 
@@ -65,4 +67,6 @@ Sunlight
 --------
 
 -   10% chance per tick for undead to crumble to dust.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

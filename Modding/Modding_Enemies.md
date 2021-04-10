@@ -4,6 +4,8 @@ permalink: Modding_Enemies/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -69,4 +71,6 @@ Valid values
 -   UNICORN\_HERD
 -   ELVEN\_COTTAGE
 -   ADA\_GOLEMS
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

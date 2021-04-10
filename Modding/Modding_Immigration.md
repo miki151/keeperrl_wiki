@@ -4,6 +4,8 @@ permalink: Modding_Immigration/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 `\{`  
 ` `“`imps`”  
 ` \{`  
@@ -457,3 +459,6 @@ layout: wiki
 `  \}`  
 ` \}`  
 `\}`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+

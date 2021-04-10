@@ -4,6 +4,8 @@ permalink: Shelob/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Szelob.png" title="fig:/keeperrl_wiki/Szelob.png" alt="/keeperrl_wiki/Szelob.png" width="100" />
 ''Spider boss
 
@@ -27,3 +29,6 @@ A boss monster that is only found in mountain caves. It eats children,
 but sadly has no interest in becoming a dungeon minion of yours. They
 tend to live with a few of their young and spin webs everywhere that
 tangle up intruders.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

@@ -4,6 +4,8 @@ permalink: Ant_Queen/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Antq.png" title="fig:/keeperrl_wiki/Antq.png" alt="/keeperrl_wiki/Antq.png" width="100" />
 ''A minor boss.
 
@@ -21,3 +23,6 @@ Larger ant colonies are led by an ant queen, more powerful than her
 minions. They have been known to launch huge counter attacks after their
 territory is invaded. Her forces may invade by breaking through stone to
 launch a surprise attack.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

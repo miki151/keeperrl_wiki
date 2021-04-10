@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Traits
-permalink: Requests_For_New_Traits/
+title: Requests_for_new_traits
+permalink: Requests_for_new_traits/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Existing traits are:
 
@@ -277,4 +279,6 @@ Rock thrower
 -   Suggested creatures: Cyclops, soft monster
 -   Reasoning: Alternative physical attacking method for enemies without
     ranged weapon
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

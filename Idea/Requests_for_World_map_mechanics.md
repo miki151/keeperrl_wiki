@@ -1,11 +1,15 @@
 ---
-title: Requests_For_World_Map_Mechanics
-permalink: Requests_For_World_Map_Mechanics/
+title: Requests_for_World_map_mechanics
+permalink: Requests_for_World_map_mechanics/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 References:
 
 -   <http://keeperrl.com/forums/topic/your-help-is-needed-now/>
 -   <http://keeperrl.com/forums/topic/a-collection-of-ideas/>
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

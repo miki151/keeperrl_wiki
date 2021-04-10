@@ -4,6 +4,8 @@ permalink: Modding_Creatures/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+
 Usage
 =====
 
@@ -151,4 +153,6 @@ Valid values
 -   ANT\_QUEEN
 -   SOKOBAN\_BOULDER
 -   HALLOWEEN\_KID
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
 

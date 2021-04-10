@@ -4,7 +4,7 @@ permalink: Amulet_Of_Nature_Affinity/
 layout: wiki
 ---
 
-
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
  Description: Makes all animals peaceful.
  Weight: 0.3
@@ -23,3 +23,6 @@ layout: wiki
       </contributor>
       <minor/>
       <text xml:space
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+

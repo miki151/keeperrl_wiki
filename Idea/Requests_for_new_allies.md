@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Allies
-permalink: Requests_For_New_Allies/
+title: Requests_for_new_allies
+permalink: Requests_for_new_allies/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Allies are split into humanoids, beasts and undead for convenience.
 
@@ -287,4 +289,6 @@ Next creature (Copy this as a template)
 -   Optional features: What other things could be added to make it even
     better?
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

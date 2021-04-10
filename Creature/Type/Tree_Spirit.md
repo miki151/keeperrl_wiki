@@ -4,6 +4,8 @@ permalink: Tree_Spirit/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 [Attributes](/keeperrl_wiki/Attributes "wikilink")
 -------------------------------------
 
@@ -35,4 +37,6 @@ Skills
 ------
 
 -   [Elf Vision](/keeperrl_wiki/Elf_Vision "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

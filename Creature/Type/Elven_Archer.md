@@ -4,6 +4,8 @@ permalink: Elven_Archer/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="elf_/keeperrl_wiki/Archer.png" title="fig:elf_/keeperrl_wiki/Archer.png" alt="elf_/keeperrl_wiki/Archer.png" width="100" />
 ''Deadly shooter
 
@@ -46,3 +48,6 @@ Inventory
 `Short Bow`  
 `Arrow: 20-36`  
 `Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

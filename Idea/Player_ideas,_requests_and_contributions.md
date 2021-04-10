@@ -1,8 +1,10 @@
 ---
-title: Player_Ideas,_Requests_And_Contributions
-permalink: Player_Ideas,_Requests_And_Contributions/
+title: Player_ideas,_requests_and_contributions
+permalink: Player_ideas,_requests_and_contributions/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Players are welcome to discuss ideas and make requests on these pages.
 
@@ -19,4 +21,6 @@ Thanks!
     mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
 -   [Prefix Ideas](/keeperrl_wiki/Pre-fix_Ideas "wikilink")
 -   [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

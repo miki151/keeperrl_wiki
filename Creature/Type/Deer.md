@@ -4,6 +4,8 @@ permalink: Deer/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Deer.png" title="fig:/keeperrl_wiki/Deer.png" alt="/keeperrl_wiki/Deer.png" width="100" />
 '' Sometimes glimpsed running through the trees
 
@@ -24,3 +26,6 @@ Summary
 Fun to shoot down with a bow, if you can find them. They are a lot
 easier to spot from the air. Not a danger unless you blunder into one
 without any armour on. Imps don't like them much.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

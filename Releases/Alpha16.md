@@ -4,6 +4,8 @@ permalink: Alpha16/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 KeeperRL Alpha16 changelog:
 
 Gameplay Changes
@@ -46,4 +48,6 @@ Gameplay Changes
 -   Fixed movement animation of creatures thrown by spells.
 -   Bugfixes.
 -   Optimizations.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

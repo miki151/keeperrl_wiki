@@ -4,6 +4,8 @@ permalink: Adamantium_Golem/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Ada_Golem.png" title="fig:/keeperrl_wiki/Ada_Golem.png" alt="/keeperrl_wiki/Ada_Golem.png" width="100" />
 ''Feared by the weak, hated by the strong.
 
@@ -36,3 +38,6 @@ them backwards as they advance.
 
 Look out for any magic weapons, missile spells and driad prisoners you
 can put to use.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

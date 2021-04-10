@@ -1,8 +1,10 @@
 ---
-title: Alternative_Keeper_Characters
-permalink: Alternative_Keeper_Characters/
+title: Alternative_keeper_characters
+permalink: Alternative_keeper_characters/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Keepers are always warlocks (at the time of writing, in Alpha 24)
 
@@ -1355,3 +1357,6 @@ end up more durable and stronger.
     immigrate a set number of Undead every so many days.
 
 -FPD
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+

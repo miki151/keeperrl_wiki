@@ -4,6 +4,8 @@ permalink: Elf_Child/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="elf_/keeperrl_wiki/Child.png" title="fig:elf_/keeperrl_wiki/Child.png" alt="elf_/keeperrl_wiki/Child.png" width="100" />
 ''Stealthy
 
@@ -24,3 +26,6 @@ Summary
 Elf Children can provide a good line of sight for parties, being able to
 see through trees. They sometimes become food for dopplegangers who can
 gain stealth, elf vision and magic resistance.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

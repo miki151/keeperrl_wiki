@@ -4,6 +4,8 @@ permalink: Item_Types/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Usage
 =====
 
@@ -71,4 +73,6 @@ Valid values
 -   UnicornHorn
 -   Intrinsic
 -   Torch
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

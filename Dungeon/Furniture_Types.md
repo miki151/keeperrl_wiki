@@ -4,6 +4,8 @@ permalink: Furniture_Types/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Usage
 =====
 
@@ -116,4 +118,6 @@ Valid values
 -   PORTAL
 -   METEOR\_SHOWER
 -   PIT
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Cyclops/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Cyclops.png" title="fig:/keeperrl_wiki/Cyclops.png" alt="/keeperrl_wiki/Cyclops.png" width="100" />
 ''A nasty minor boss
 
@@ -35,3 +37,6 @@ Goal
 ----
 
 `Kill creatures.`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

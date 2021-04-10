@@ -4,6 +4,8 @@ permalink: Bandit/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+
 <img src="/keeperrl_wiki/Bandit.png" title="fig:/keeperrl_wiki/Bandit.png" alt="/keeperrl_wiki/Bandit.png" width="100" />
 ''They are after gold.
 
@@ -63,3 +65,6 @@ Behavior
 Attack Trigger : Start attack when player has too much gold.
 
 Goal : Steal gold from the [treasure room](/keeperrl_wiki/Treasure_Room "wikilink").
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
+

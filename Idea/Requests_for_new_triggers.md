@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Triggers
-permalink: Requests_For_New_Triggers/
+title: Requests_for_new_triggers
+permalink: Requests_for_new_triggers/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Requests for new triggers
 =========================
@@ -79,4 +81,6 @@ Vampiric Influence
     forces.
 -   Creatures: Any Humanoid Race
 -   Invader's target: The Keeper Vampire Lord
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

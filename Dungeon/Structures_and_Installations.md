@@ -1,8 +1,10 @@
 ---
-title: Structures_And_Installations
-permalink: Structures_And_Installations/
+title: Structures_and_Installations
+permalink: Structures_and_Installations/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
 <img src="/keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki/Installations-screenshot.png" width="500" />
 
@@ -140,4 +142,6 @@ Prisoner Head
 
 -   Cost : 1 [prisoner head](/keeperrl_wiki/Tasks "wikilink")
 -   Each head increase the chance to be attacked by villages.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

@@ -4,6 +4,8 @@ permalink: Jewelry/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Rings
 =====
 
@@ -71,3 +73,6 @@ Amulet of Elf Vision
 --------------------
 
 `Description: See through trees`
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+

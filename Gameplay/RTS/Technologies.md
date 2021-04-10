@@ -4,6 +4,8 @@ permalink: Technologies/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
 Note that on most games it will be possible to have researched all
 technologies before the end of the game. However, you can often develop
 a game-winning strategy by exploiting just some of your options to their
@@ -245,4 +247,6 @@ Humanoid Mutation
     -   [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
 -   You can go for the legendary humans as a decent strategy. These guys
     are a bit random but can also use equipment unlike the beasts.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 

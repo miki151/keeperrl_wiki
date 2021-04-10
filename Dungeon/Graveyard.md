@@ -4,6 +4,8 @@ permalink: Graveyard/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
+
 Description: *Spot for hauling dead bodies and for Undead creatures to
 sleep in.*
 
@@ -35,4 +37,6 @@ Tips
 -   Graveyards have no limit to the amount of bones that can be piled on
     them. If you don't need Undead and just need to store corpses, one
     Graveyard is sufficient.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 

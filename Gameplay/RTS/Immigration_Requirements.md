@@ -4,6 +4,8 @@ permalink: Immigration_Requirements/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
 Usage
 =====
 
@@ -31,4 +33,6 @@ Valid values
 -   RecruitmentInfo
 -   TechId
 -   Pregnancy
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 

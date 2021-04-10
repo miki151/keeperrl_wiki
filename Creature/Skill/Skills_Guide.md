@@ -4,6 +4,8 @@ permalink: Skills_Guide/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+
 Creature skills
 ===============
 
@@ -146,3 +148,6 @@ An ability to kill enemies without awakening other enemies.
 
 An ability to craft leather armour and hand torches and traps. Some rare
 crazy goblins can make artifact armour and weapons.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+

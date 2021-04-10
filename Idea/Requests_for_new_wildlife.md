@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Wildlife
-permalink: Requests_For_New_Wildlife/
+title: Requests_for_new_wildlife
+permalink: Requests_for_new_wildlife/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Eagle
 -----
@@ -142,4 +144,6 @@ Next animal (Copy this as a template)
 -   Optional features: What other things could be added to make it even
     better?
 -   Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 

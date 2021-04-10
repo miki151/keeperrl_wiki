@@ -4,6 +4,8 @@ permalink: Alpha29/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
 Full change log
 ===============
 
@@ -93,4 +95,6 @@ Fixes
 -   Fixed tiny glitches when rendering fog-of-war.
 -   Made it impossible to retire in the tutorial.
 -   Fixed crash caused by enslaving the same retire creature twice.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

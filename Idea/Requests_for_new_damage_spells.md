@@ -1,8 +1,10 @@
 ---
-title: Requests_For_New_Damage_Spells
-permalink: Requests_For_New_Damage_Spells/
+title: Requests_for_new_damage_spells
+permalink: Requests_for_new_damage_spells/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Stinking cloud
 --------------
@@ -18,4 +20,6 @@ Next spell (Copy this as a template)
 -   Magic school: ?
 -   Special powers: ?
 -   Cooldown : ?
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
