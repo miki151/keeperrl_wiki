@@ -1,5 +1,5 @@
 ---
-title: Tribe_Alignments
+title: Tribe Alignments
 permalink: Tribe_Alignments/
 layout: wiki
 ---
@@ -26,3 +26,10 @@ Valid values
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
+Other items in this section
+    [Category Aimed Spells](/keeperrl_wiki/Category_Aimed_Spells "wikilink")
+    [Experience](/keeperrl_wiki/Experience "wikilink")
+    [Guide for Adventurer mode](/keeperrl_wiki/Guide_For_Adventurer_Mode "wikilink")
+    [How to win as an Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
+    [Special Trait Types](/keeperrl_wiki/Special_Trait_Types "wikilink")
+    [Villain Types](/keeperrl_wiki/Villain_Types "wikilink")

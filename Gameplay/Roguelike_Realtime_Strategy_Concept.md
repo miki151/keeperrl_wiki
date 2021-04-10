@@ -1,5 +1,5 @@
 ---
-title: Roguelike_Realtime_Strategy_Concept
+title: Roguelike Realtime Strategy Concept
 permalink: Roguelike_Realtime_Strategy_Concept/
 layout: wiki
 ---
@@ -10,3 +10,5 @@ KeeperRL is a dungeon keeper Realtime Strategy game mixed with Rogue-like combat
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
 
+Other items in this section
+    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")

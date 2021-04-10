@@ -1,5 +1,5 @@
 ---
-title: Item_Types
+title: Item Types
 permalink: Item_Types/
 layout: wiki
 ---
@@ -76,3 +76,8 @@ Valid values
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
 
+Other items in this section
+    [Armor](/keeperrl_wiki/Armor "wikilink")
+    [Items](/keeperrl_wiki/Items "wikilink")
+    [Potions](/keeperrl_wiki/Potions "wikilink")
+    [Weapons](/keeperrl_wiki/Weapons "wikilink")

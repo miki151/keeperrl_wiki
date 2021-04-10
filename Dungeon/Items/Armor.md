@@ -131,3 +131,8 @@ Defence Boots
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
 
+Other items in this section
+    [Items](/keeperrl_wiki/Items "wikilink")
+    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
+    [Potions](/keeperrl_wiki/Potions "wikilink")
+    [Weapons](/keeperrl_wiki/Weapons "wikilink")

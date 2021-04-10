@@ -1,5 +1,5 @@
 ---
-title: Gameplay_Guide
+title: Gameplay Guide
 permalink: Gameplay_Guide/
 layout: wiki
 ---
@@ -24,3 +24,5 @@ Gameplay Guide
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
 
+Other items in this section
+    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")

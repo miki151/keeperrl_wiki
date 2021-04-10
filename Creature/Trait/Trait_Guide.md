@@ -1,5 +1,5 @@
 ---
-title: Trait_Guide
+title: Trait Guide
 permalink: Trait_Guide/
 layout: wiki
 ---
@@ -107,3 +107,4 @@ Lost Body Parts
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")
 
+Other items in this section

@@ -1,8 +1,11 @@
 ---
-title:
-permalink: /
+title: Index
+permalink: Index/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")
+
 <img align="center" src="logo-big.png">
 A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
@@ -88,3 +91,6 @@ Release History Guide
 
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
+
+[MainPage](/keeperrl_wiki/ "wikilink")
+

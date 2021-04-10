@@ -4,7 +4,7 @@ permalink: Features/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Features "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Feature "wikilink")
 
 Good Characteristics
 ====================
@@ -225,5 +225,8 @@ Time Left to live
 
 The summoned creature is returning back to the world it came from.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Features "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Feature "wikilink")
 
+Other items in this section
+    [Flying](/keeperrl_wiki/Flying "wikilink")
+    [LastingEffects](/keeperrl_wiki/LastingEffects "wikilink")
