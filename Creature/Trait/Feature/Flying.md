@@ -14,5 +14,5 @@ through trees.
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Feature "wikilink")
 
 Other items in this section
-    [Features](/keeperrl_wiki/Features "wikilink")
-    [LastingEffects](/keeperrl_wiki/LastingEffects "wikilink")
+-    [Features](/keeperrl_wiki/Features "wikilink")
+-    [LastingEffects](/keeperrl_wiki/LastingEffects "wikilink")

@@ -29,4 +29,4 @@ Valid values
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Other items in this section
-    [Attributes](/keeperrl_wiki/Attributes "wikilink")
+-    [Attributes](/keeperrl_wiki/Attributes "wikilink")

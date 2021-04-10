@@ -64,4 +64,4 @@ Weight
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Other items in this section
-    [Attribute Bonuses](/keeperrl_wiki/Attribute_Bonuses "wikilink")
+-    [Attribute Bonuses](/keeperrl_wiki/Attribute_Bonuses "wikilink")
