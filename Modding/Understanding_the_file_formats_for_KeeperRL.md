@@ -1,6 +1,6 @@
 ---
-title: Understanding_the_file_formats_for_KeeperRL
-permalink: Understanding_the_file_formats_for_KeeperRL/
+title: Understanding_The_File_Formats_For_KeeperRL
+permalink: Understanding_The_File_Formats_For_KeeperRL/
 layout: wiki
 ---
 

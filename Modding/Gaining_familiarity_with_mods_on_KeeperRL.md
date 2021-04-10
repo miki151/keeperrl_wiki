@@ -1,6 +1,6 @@
 ---
-title: Gaining_familiarity_with_mods_on_KeeperRL
-permalink: Gaining_familiarity_with_mods_on_KeeperRL/
+title: Gaining_Familiarity_With_Mods_On_KeeperRL
+permalink: Gaining_Familiarity_With_Mods_On_KeeperRL/
 layout: wiki
 ---
 

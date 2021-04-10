@@ -1,6 +1,6 @@
 ---
-title: Dark_elf_warrior
-permalink: Dark_elf_warrior/
+title: Dark_Elf_Warrior
+permalink: Dark_Elf_Warrior/
 layout: wiki
 ---
 

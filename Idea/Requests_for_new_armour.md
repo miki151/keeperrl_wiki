@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_armour
-permalink: Requests_for_new_armour/
+title: Requests_For_New_Armour
+permalink: Requests_For_New_Armour/
 layout: wiki
 ---
 

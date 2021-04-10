@@ -1,6 +1,6 @@
 ---
-title: Treasure_chest
-permalink: Treasure_chest/
+title: Treasure_Chest
+permalink: Treasure_Chest/
 layout: wiki
 ---
 

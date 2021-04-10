@@ -1,6 +1,6 @@
 ---
-title: Child_as_Spider_food
-permalink: Child_as_Spider_food/
+title: Child_As_Spider_Food
+permalink: Child_As_Spider_Food/
 layout: wiki
 ---
 

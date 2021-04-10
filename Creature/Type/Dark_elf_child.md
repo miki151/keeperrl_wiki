@@ -1,6 +1,6 @@
 ---
-title: Dark_elf_child
-permalink: Dark_elf_child/
+title: Dark_Elf_Child
+permalink: Dark_Elf_Child/
 layout: wiki
 ---
 

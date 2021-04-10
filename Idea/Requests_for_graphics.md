@@ -1,6 +1,6 @@
 ---
-title: Requests_for_graphics
-permalink: Requests_for_graphics/
+title: Requests_For_Graphics
+permalink: Requests_For_Graphics/
 layout: wiki
 ---
 

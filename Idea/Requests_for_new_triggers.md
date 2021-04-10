@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_triggers
-permalink: Requests_for_new_triggers/
+title: Requests_For_New_Triggers
+permalink: Requests_For_New_Triggers/
 layout: wiki
 ---
 

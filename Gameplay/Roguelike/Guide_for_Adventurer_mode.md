@@ -1,6 +1,6 @@
 ---
-title: Guide_for_Adventurer_mode
-permalink: Guide_for_Adventurer_mode/
+title: Guide_For_Adventurer_Mode
+permalink: Guide_For_Adventurer_Mode/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: index
-permalink: index/
+title: Index
+permalink: Index/
 layout: wiki
 ---
 

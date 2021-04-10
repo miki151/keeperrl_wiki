@@ -1,6 +1,6 @@
 ---
-title: Lizardman_lord
-permalink: Lizardman_lord/
+title: Lizardman_Lord
+permalink: Lizardman_Lord/
 layout: wiki
 ---
 

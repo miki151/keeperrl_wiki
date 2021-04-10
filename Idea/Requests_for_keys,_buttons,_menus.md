@@ -1,6 +1,6 @@
 ---
-title: Requests_for_keys,_buttons,_menus
-permalink: Requests_for_keys,_buttons,_menus/
+title: Requests_For_Keys,_Buttons,_Menus
+permalink: Requests_For_Keys,_Buttons,_Menus/
 layout: wiki
 ---
 

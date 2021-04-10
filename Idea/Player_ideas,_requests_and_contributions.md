@@ -1,6 +1,6 @@
 ---
-title: Player_ideas,_requests_and_contributions
-permalink: Player_ideas,_requests_and_contributions/
+title: Player_Ideas,_Requests_And_Contributions
+permalink: Player_Ideas,_Requests_And_Contributions/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Requests_for_new_wildlife
-permalink: Requests_for_new_wildlife/
+title: Requests_For_New_Wildlife
+permalink: Requests_For_New_Wildlife/
 layout: wiki
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: Earth_elemental
-permalink: Earth_elemental/
+title: Earth_Elemental
+permalink: Earth_Elemental/
 layout: wiki
 ---
 
