@@ -1,12 +1,7 @@
 ---
-title: User_TalkRed_Kangaroo
+title: User TalkRed Kangaroo
 permalink: User_TalkRed_Kangaroo/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
-
 This article has gone missing.
-
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
-
