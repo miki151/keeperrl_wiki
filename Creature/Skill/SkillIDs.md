@@ -4,7 +4,7 @@ permalink: SkillIDs/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 
 Usage
 =====
@@ -40,5 +40,5 @@ Valid values
 -   EXPLORE\_NOCTURNAL
 -   EXPLORE\_CAVES
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 

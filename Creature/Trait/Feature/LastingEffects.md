@@ -4,7 +4,7 @@ permalink: LastingEffects/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Traits "wikilink")>>[Feature](/keeperrl_wiki/Features "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Feature "wikilink")
 
 Usage
 =====
@@ -72,5 +72,5 @@ Valid values
 -   SLOW\_CRAFTING
 -   SLOW\_TRAINING
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Traits "wikilink")>>[Feature](/keeperrl_wiki/Features "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Feature](/keeperrl_wiki/Feature "wikilink")
 

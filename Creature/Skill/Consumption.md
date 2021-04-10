@@ -4,7 +4,7 @@ permalink: Consumption/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 
 
 
@@ -15,5 +15,5 @@ After that it has all the absorbed creatures higher stat values, additional skil
 The absorbed creature will die in this process.&lt;br&gt;
 When it has consumed one head, two arms and two legs it will become a [[Traits#Humanoid|humanoid]].
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 
