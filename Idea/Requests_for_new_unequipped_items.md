@@ -27,7 +27,7 @@ Potions
         sounds weird. Just make it debuff/frighten the vampire. They
         were after all repulsed by the scent of garlic, not killed by
         it, in fiction. --[Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-        (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:30, 28 February
+        (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:30, 28 February
         2017 (CET)
 
 ### Terrain seeing potion
@@ -58,7 +58,7 @@ Potions
     a shop is okay, though.
 
 --[Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-(/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:30, 28 February 2017
+(/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:30, 28 February 2017
 (CET)
 
 -   Discussion:
@@ -174,7 +174,7 @@ all mushrooms, not just of strength and dexterity, and give the players
 some nice decisions when to use the double-edged ones. Good example
 already in game would be rage mushroom - giving you attack while
 decreasing defense. -- [Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-(/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:40, 28 February 2017
+(/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:40, 28 February 2017
 (CET)
 
 ### Magic Mushroom
@@ -218,7 +218,7 @@ Books
     -   book of meteor shower
 
 --[Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-(/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:07, 27 February 2017
+(/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:07, 27 February 2017
 (CET)
 
 -   Discussion:

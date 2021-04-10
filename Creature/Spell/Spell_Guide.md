@@ -24,7 +24,7 @@ Magic Damage in combat, gaining new spells as they reach higher Magic
 Damage training.
 
 Cooldown of spell uses is affected by your [Sorcery
-skill](/keeperrl_wiki/Sorcery "wikilink"), with maximum /keeperrl_wiki/Sorcery skill (100%)
+skill](/keeperrl_wiki/Sorcery "wikilink"), with maximum /keeperrl_wiki/Sorcery skill (/keeperrl_wiki/100%)
 halving the cooldown of all spells.
 
 <img src="/keeperrl_wiki/Spells-screenshot.png" title="/keeperrl_wiki/Spells-screenshot.png" alt="/keeperrl_wiki/Spells-screenshot.png" width="200" />

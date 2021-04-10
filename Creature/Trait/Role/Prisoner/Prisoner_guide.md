@@ -4,7 +4,7 @@ permalink: Prisoner_Guide/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Traits "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
 
 Converting prisoners
 ====================
@@ -28,7 +28,7 @@ Best types of prisoners
 -   [Knights](/keeperrl_wiki/Knight "wikilink") have melee resistance
 -   [Human archers](/keeperrl_wiki/Archer "wikilink") are the best archers.
 -   Most bosses are worth it, so [Elf Lord](/keeperrl_wiki/Elf_Lord "wikilink"), [Dwarf
-    Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](Duke "wikilink")
+    Baron](/keeperrl_wiki/Dwarf_Baron "wikilink") and the [Duke](/keeperrl_wiki/Duke "wikilink")
 -   Lizardmen have a speed bonus and an optional poison +8 attack
     unarmed
 -   The [Elementalist](/keeperrl_wiki/Elementalist "wikilink") sucks, he can't even
@@ -51,5 +51,5 @@ Looking after prisoners
 -   [Wolves](/keeperrl_wiki/Wolf "wikilink") are good at looking after prisoners
     because you can get a whole pack of them for 1 population slot
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Traits "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
 

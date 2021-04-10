@@ -39,7 +39,7 @@ Combat Attributes
 Skills
 ------
 
--   [Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink") (Older versions
+-   [Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink") (/keeperrl_wiki/Older_Versions
     only)
 
 Traits

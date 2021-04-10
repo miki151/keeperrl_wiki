@@ -33,7 +33,7 @@ Normal weapons
         be equipped at the same time as bows and Alt+dir would instead
         make you reach with the spear? --[Red
         kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-        (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:01, 27 February
+        (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:01, 27 February
         2017 (CET)
     -   That could be really interesting. (Keeperman)
     -   Does it need to be equipped before it can be thrown?
@@ -103,7 +103,7 @@ Normal weapons
 -   Discussion:
 
 Defense bonus could be amplified if several allied units form a siege
-line [Owen](/keeperrl_wiki/Player_Owen "wikilink") ([talk](User_talk:Owen "wikilink"))
+line [Owen](/keeperrl_wiki/Player_Owen "wikilink") (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkOwen "wikilink"))
 05:25, 15 February 2017 (CET)
 
 ### Force Staff
@@ -308,7 +308,7 @@ a way to deal damage or otherwise affect the world at a distance.
         quite okay.
 
 -- [Red kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-(/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:18, 28 February 2017
+(/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:18, 28 February 2017
 (CET)
 
 ### Wand of Fire
@@ -401,7 +401,7 @@ Shields
     back at the caster. Use this with an adventurer to make the orc
     shamans stun themselves! --[Red
     kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 17:01, 27 February 2017
+    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 17:01, 27 February 2017
     (CET)
 
 ### Shield of Displacement
@@ -411,7 +411,7 @@ Shields
     hordes of enemies surrounding you, because they would quickly be
     teleported and you could then pick them one at a time. --[Red
     kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink")) 09:44, 2 September 2017
+    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink")) 09:44, 2 September 2017
     (UTC)
 
 Template

@@ -297,7 +297,7 @@ and models as well. A little detail never hurt right?
 
 -   Nothing major? Heh, heh. --[Red
     kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
-    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Red_kangaroo "wikilink"))
+    (/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkRed_Kangaroo "wikilink"))
 
 disassociate tribes with being specifically villains/allies
 ===========================================================

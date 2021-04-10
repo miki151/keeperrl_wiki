@@ -59,7 +59,7 @@ Tasks
     -   Training Room : 12
 
 --[Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
-(/keeperrl_wiki/[talk](/keeperrl_wiki/User_talk:Keeperman "wikilink")) 13:42, 11 August 2018 (UTC)
+(/keeperrl_wiki/[talk](/keeperrl_wiki/User_TalkKeeperman "wikilink")) 13:42, 11 August 2018 (/keeperrl_wiki/UTC)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Type](/keeperrl_wiki/Type "wikilink")
 

@@ -4,7 +4,7 @@ permalink: Copulation/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
 
 
 
@@ -21,5 +21,5 @@ After some time the creature will give birth to one of the following:
 - if [[:Technologies#Beast_Mutation|Beast Mutation]] researched
 - [[:Legendary_Beast|Legendary Beast]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
 

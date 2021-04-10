@@ -4,7 +4,7 @@ permalink: Skills_Guide/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
 
 Creature skills
 ===============
@@ -23,7 +23,7 @@ Adventurers have this skill. Also, werewolves very rarely have it.
 *Mine and construct rooms.*
 
 Ability to gather [resources](/keeperrl_wiki/Resources "wikilink"), building
-[rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), [traps](Traps "wikilink") and
+[rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), [traps](/keeperrl_wiki/Traps "wikilink") and
 [installations](/keeperrl_wiki/Installations "wikilink").
 
 [Consumption](/keeperrl_wiki/Consumption "wikilink")
@@ -149,5 +149,5 @@ An ability to kill enemies without awakening other enemies.
 An ability to craft leather armour and hand torches and traps. Some rare
 crazy goblins can make artifact armour and weapons.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Skill](/keeperrl_wiki/Skills "wikilink")
 

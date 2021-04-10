@@ -43,7 +43,7 @@ Wood
 
 The amount of wood planks per tile is more from trees than from bushes.
 
-Wood is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") (around 2/3
+Wood is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") (/keeperrl_wiki/3
 of them) and [installations](/keeperrl_wiki/Installations "wikilink"), like
 [doors](/keeperrl_wiki/Door "wikilink"),
 [bridges](/keeperrl_wiki/Bridge "wikilink"), etc. It's the first
