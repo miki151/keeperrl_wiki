@@ -1,8 +1,0 @@
-[[File:pig.png|100px|link=]] ''Pigs spawn here
-
-Provides up to 4 extra population when built depending on the size of the pigsty. Once built attracts pigs and allows minions to eat there and to gain +1 in combat for a short while.
-
-It requires [[Technologies#Pig_Breeding | Pig Breeding]]
-
-[[Category: Rooms]]
-[[Category: Keeper Mode]]

@@ -1,9 +1,0 @@
-= Base Stats =
-*Defense:7
-*Damage:16
-*Body size:Large
-*Weight:500
-*Animal:Yes
-*Chasing:No
-
-[[Category: Creatures]]

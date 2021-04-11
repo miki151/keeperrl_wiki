@@ -1,7 +1,0 @@
-[[File:Death.png|100px|link=]] '' Doesn't seem to ever appear in the game
-
-*Defense:35
-*Spell Damage:100
-*Body size:Large
-
-[[Category:Creatures]]

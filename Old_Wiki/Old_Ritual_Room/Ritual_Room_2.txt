@@ -1,9 +1,0 @@
-Attracts demonic inhabitants to your Dungeon.
-Ghost,
-Succubus,
-Doppelganger
-
-==Tile Cost==
-60 mana
-
-[[Category:Rooms]]

@@ -1,8 +1,0 @@
-[[File:gnome_chief.png|100px|link=]] ''Lord of his own dungeon
-
-*Defense:16
-*Damage:15
-*Body size:Medium
-*Jeweler:1
-
-[[Category:Creatures]]

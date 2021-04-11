@@ -1,9 +1,0 @@
-=The full change log=
-==Gameplay==
-*Added 
-
-==UI==
-*New
-
-==Fixes==
-*Staff

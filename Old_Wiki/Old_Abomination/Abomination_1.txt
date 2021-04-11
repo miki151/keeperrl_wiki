@@ -1,8 +1,0 @@
-[[File:abomination.png|100px|link=]]
-
-= Base Stats =
-*Body: HUGE
-*DAMAGE 60
-*DEFENSE 40 
-
-[[Category: Creatures]]

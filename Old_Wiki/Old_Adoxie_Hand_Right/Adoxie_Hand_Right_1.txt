@@ -1,8 +1,0 @@
-[[File:adoxie_hand_right.png|100px|link=]]
-
-= Base Stats =
-
-*DEFENSE 50 
-*SPELL_DAMAGE 60
-*Spells:  &quot;swap positions&quot; &quot;shove&quot; &quot;firewall&quot; 
-[[Category: Creatures]]

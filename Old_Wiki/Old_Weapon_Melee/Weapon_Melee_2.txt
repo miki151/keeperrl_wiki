@@ -1,4 +1,0 @@
-#REDIRECT [[Skills#Weapon_Melee]]
-Creature can fight with weapons.
-
-[[Category: Skills]]

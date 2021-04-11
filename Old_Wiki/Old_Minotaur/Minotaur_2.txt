@@ -1,9 +1,0 @@
-[[File:minotaur.png|100px|link=]] ''Sometimes lives under castles
-
-*Defense:45
-*Damage:35
-*Ranged Resistance:Yes
-*Body size:Large
-*Melee training maximum:5
-
-[[Category:Creatures]]

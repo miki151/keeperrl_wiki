@@ -1,9 +1,0 @@
-= Stats =
-*Settlement: type: Custom wizard tower 
-*Inhabitants: White wizard with 5-7 Succubus
-*Tribal Loyalty: Bandit 
-*Building Style: Forest
-*Furniture: trees 
-*Z-level connections: Bottom level, wizard tower entry. Main enemy 20x20 wizard tower
-
-[[Category: Tribes]]

@@ -1,7 +1,0 @@
-*Body Size:Large
-*Weight:500
-*Defense:25
-*Damage:30
-*Ranged Resistance:Yes
-
-[[Category:Creatures]]

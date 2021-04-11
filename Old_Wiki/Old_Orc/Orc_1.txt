@@ -1,7 +1,0 @@
-Orcs start at level 7
-
-== Skills ==
-* [[Weapon Melee]]
-
-[[Category:Creatures]]
-[[Category:Minions]]

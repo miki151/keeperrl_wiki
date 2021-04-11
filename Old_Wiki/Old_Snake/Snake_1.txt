@@ -1,9 +1,0 @@
-*Defense:14
-*Damage:14
-*Body size:Small
-*Weight:2
-*Animal:Yes
-*Attack:Poison
-*Skill:Swimming
-
-[[Category:Creatures]]

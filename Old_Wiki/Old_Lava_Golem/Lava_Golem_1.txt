@@ -1,9 +1,0 @@
-*Defense:36
-*Damage:26
-*Melee Resistance:Yes
-*Slow:Yes
-*Body Size:Large
-*Attack:Fire
-*Fire Resistant:Yes
-
-[[Category:Creatures]]

@@ -1,6 +1,0 @@
-*Defense:16
-*Damage:15
-*Body size:Medium
-*Jeweler:1
-
-[[Category:Creatures]]

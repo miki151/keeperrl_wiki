@@ -1,3 +1,0 @@
-A creature with flying and move over ground and water and can see through trees.
-
-[[Category: Skills]]

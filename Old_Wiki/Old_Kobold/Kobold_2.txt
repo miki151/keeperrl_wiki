@@ -1,8 +1,0 @@
-[[File:kobold.png|100px|link=]] ''Little guys with spears
-
-*Defense:13
-*Damage:12
-*Body size:Medium
-*Skill:Swimming
-
-[[Category:Creatures]]

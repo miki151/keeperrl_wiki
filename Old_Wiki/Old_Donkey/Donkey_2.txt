@@ -1,9 +1,0 @@
-[[File:donkey.png|100px|link=]] '' Farm animal
-
-*Defense:7
-*Damage:10
-*Body size:Large
-*Weight:200
-*Animal:Yes
-*Chasing:No
-[[Category:Creatures]]

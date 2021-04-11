@@ -1,7 +1,0 @@
-*Damage:2
-*Body size:Medium
-*Entangled:Yes
-*Blind:Yes
-*Defense:2
-
-[[Category:Creatures]]

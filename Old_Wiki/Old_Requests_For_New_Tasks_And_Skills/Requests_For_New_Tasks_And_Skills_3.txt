@@ -1,3 +1,0 @@
-Existing skills are: Absorption, Ambush, Archery, Construction, Copulate, Disarm Traps, Elf Vision, Healing, Knife Throwing, Night Vision, Sorcery, Stealing, Swimming, Unarmed Melee, Weapon Melee
-
-Existing tasks include: Training, sleeping, eating, studying, crafting, whipping, sitting on the throne.

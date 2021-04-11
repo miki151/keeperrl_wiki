@@ -1,8 +1,0 @@
-*Spell Damage:20
-*Defense:30
-*Damage:30
-*Body size:Large
-*Magic Resistance:Yes
-*Gender:Male
-
-[[Category:Creatures]]

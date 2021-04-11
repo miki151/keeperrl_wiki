@@ -1,5 +1,0 @@
-Holds your gold, ready for payday.
-==Tile Cost==
-5 wood
-
-[[Category:Rooms]]

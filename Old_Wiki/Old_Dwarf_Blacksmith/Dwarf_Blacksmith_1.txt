@@ -1,6 +1,0 @@
-[[File:dwarf_blacksmith.png|100px|link=]]
-
-= Base Stats =
-*Skills: Forge 100%
-
-[[Category: Creatures]]

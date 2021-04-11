@@ -1,6 +1,0 @@
-=Usage=
-Used with [[ItemTypes]] to specify variations of those items
-
-=Valid values=
-
-[[Category: Modding Reference Data]]

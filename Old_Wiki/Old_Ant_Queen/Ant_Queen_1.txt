@@ -1,8 +1,0 @@
-*Defense:26
-*Damage:30
-*Body size:Medium
-*Weight:10
-*Attack:Poison
-*Animal:Yes
-
-[[Category:Creatures]]

@@ -1,6 +1,0 @@
-=Valid Values=
-*SPELL
-*ARCHERY
-*MELEE
-
-[[Category:Modding Reference Data]]

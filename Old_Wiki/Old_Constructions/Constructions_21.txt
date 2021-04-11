@@ -1,6 +1,0 @@
-To manage your dungeon, you can ask your imps and recruited volunteers (prisoners) to construct rooms, install features and set traps.
-
-This is a game about building a dungeon after all.
-
-[[Category: Keeper Mode]]
-[[Category: Dungeon Guide]]

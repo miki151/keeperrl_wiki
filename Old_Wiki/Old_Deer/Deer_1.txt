@@ -1,9 +1,0 @@
-*Defense:10
-*Damage:10
-*Body size:Large
-*Weight:400
-*Fast:True
-*Animal:Yes
-*Chasing:No
-
-[[Category:Creatures]]

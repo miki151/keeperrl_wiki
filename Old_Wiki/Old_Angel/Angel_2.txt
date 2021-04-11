@@ -1,9 +1,0 @@
-*Spell Damage:20
-*Defense:22
-*Body Size:Large
-
-==Summary==
-
-I'm not sure anyone knows where to find them or what they look like.
-
-[[Category:Creatures]]

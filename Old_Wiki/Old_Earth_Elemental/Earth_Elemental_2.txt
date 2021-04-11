@@ -1,9 +1,0 @@
-[[File:earth_elemental.png|100px|link=]] ''
-
-*Body Size:Large
-*Weight:500
-*Defense:25
-*Damage:30
-*Ranged Resistance:Yes
-
-[[Category:Creatures]]

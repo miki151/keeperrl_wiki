@@ -1,3 +1,0 @@
-Creatures around the spellcaster are thrown back and dealt damage
-
-[[Category: Spells]]

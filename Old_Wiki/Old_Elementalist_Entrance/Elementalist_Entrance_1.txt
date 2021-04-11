@@ -1,7 +1,0 @@
-= Stats =
-*Settlement: Tower
-*Tribe: Human
-*Building Style: Wizard tower floor
-*Notable discovery: False
-
-[[Category: Tribes]]

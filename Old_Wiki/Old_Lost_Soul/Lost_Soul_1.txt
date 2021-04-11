@@ -1,8 +1,0 @@
-*Body size:Large
-*Spell Damage:5
-*Defense:25
-*Spell:Invisibility
-*Attack:Insanity
-*Flying:Yes
-
-[[Category:Creatures]]

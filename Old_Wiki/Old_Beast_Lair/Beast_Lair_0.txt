@@ -1,5 +1,0 @@
-???
-==Tile Cost==
-12 wood
-
-[[Category:Rooms]]

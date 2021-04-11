@@ -1,7 +1,0 @@
-Train your creatures
-==Tile Cost==
-20 iron
-==Efficiency==
-Yes
-
-[[Category: Rooms]]

@@ -1,8 +1,0 @@
-[[File:softmonster.png|100px|link=]] ''Rare &quot;thing&quot; that lives in dungeons
-
-*Defense:25
-*Damage:45
-*Body size:Large
-*Courage:No
-
-[[Category:Creatures]]

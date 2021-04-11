@@ -1,9 +1,0 @@
-= Base Stats =
-*Body: Four Legged HUGE WINGS:2 HEAD
-*Bite attack
-*Drops: WhiteDragonScales
-*Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;ice cone&quot;
-*RANGED_VULNERABILITY
-*COLD_RESISTANT 
-
-[[Category: Creatures]]

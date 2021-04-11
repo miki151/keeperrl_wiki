@@ -1,9 +1,0 @@
-[[File: &quot;nomad&quot; .png|100px|link=]]
-
-= Base Stats =
-*Defense:12
-*Damage:14
-*Body size:Large
-*Melee training maximum:3
-
-[[Category: Creatures]]

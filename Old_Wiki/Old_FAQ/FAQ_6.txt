@@ -1,5 +1,0 @@
-=Q: Why does my save file keep getting bigger the longer I play for?=
-*A: The number of entities in the game tends to go up. For example, new monsters migrate into the game with their equipment. When they die they leave equipment, corpses (and bytes) behind.
-
-=Q: Are the ideas, requests and contributions found [[Player_ideas,_requests_and_contributions|here]] actually in the game?=
-*A:Most of them are not. Some of the however, have been used. Others are planned.

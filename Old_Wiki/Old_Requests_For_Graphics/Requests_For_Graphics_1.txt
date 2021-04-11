@@ -1,2 +1,0 @@
-*Host texture packs on Steam workshop
-*Make furniture items rotatable(just a visual effect)

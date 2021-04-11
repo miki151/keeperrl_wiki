@@ -1,4 +1,0 @@
-== Stinking cloud ==
-* Magic school: Master sorcery
-* Special powers: Surrounds the caster with a cloud of poisonous gas without impacting his own map square
-* Cooldown : 150

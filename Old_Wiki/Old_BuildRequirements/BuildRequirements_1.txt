@@ -1,8 +1,0 @@
-=Usage=
-Used to specify whether it is a requirement to have a particular technology or a particular dungeon level to build items from the build menu
-
-=Valid values=
-*TechId
-*DungeonLevel
-
-[[Category: Modding Reference Data]]

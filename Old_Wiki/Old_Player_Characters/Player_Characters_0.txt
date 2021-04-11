@@ -1,5 +1,0 @@
-There are a few different types of player characters as follows:
-
-* [[Keeper | Keepers - Evil]]
-* [[Lawful Keepers|Lawful Keepers - Less evil]]
-* [[Adventurer | Adventurers]]

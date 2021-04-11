@@ -1,9 +1,0 @@
-[[File:jackal.png|100px|link=]] ''Weak aggressor
-
-*Defense:10
-*Damage:15
-*Body size:Small
-*Weight:10
-*Animal:Yes
-
-[[Category:Creatures]]

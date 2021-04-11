@@ -1,8 +1,0 @@
-= Stats =
-*Settlement: Cave
-*Inhabitants: Lone yeti
-*Race: Yeti 
-*Tribal Loyalty: Hostile 
-*Building Style: Dungeon
- 
-[[Category: Tribes]]

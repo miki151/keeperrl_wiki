@@ -1,4 +1,0 @@
-* [[Player requests for new content]]
-* [[Player requests for new game mechanics]]
-* [[Pre-fix Ideas|Prefix Ideas]]
-* [[Map Editor Ideas]]

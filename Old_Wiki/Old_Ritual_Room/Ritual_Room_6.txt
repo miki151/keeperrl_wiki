@@ -1,9 +1,0 @@
-Build a ritual room that attracts demonic inhabitants to your Dungeon by placing demon shrines:
-*[[Ghost]]
-*[[Succubus]]
-*[[Doppleganger]]
-
-*30 gold per shrine
-*Requirement: [[Technologies#Demonology | Demonology]]
-
-[[Category:Rooms]]

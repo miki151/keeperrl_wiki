@@ -1,5 +1,0 @@
-Weapon Melee
-
-Fight with weapons.
-
-[[Category: Skills]]
