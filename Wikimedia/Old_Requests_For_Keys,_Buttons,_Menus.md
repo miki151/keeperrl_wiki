@@ -4,7 +4,7 @@ permalink: Old_Requests_For_Keys,_Buttons,_Menus/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 *Click library, hold down shift, select a rectangle on the map with mouse - library with spaced shelves needs to be drawn (And not a solid block of shelves)
 
@@ -14,7 +14,7 @@ layout: wiki
 
 *Ability to double-click on creatures in minions menu, and move to their position on the world map. (It helps to find your imps when they are performing jobs)
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -454,4 +454,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

@@ -4,7 +4,7 @@ permalink: Old_Recruits/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 = Configuration of recruits =
 Recruits often have special traits and the types of immigrants and their special traits are configurable in immigration.txt:
@@ -78,7 +78,7 @@ These are the standard Alpha 30 recruits for white knights.
 [[Category: Keeper Mode]]
 [[Category:Creature Guide]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -518,4 +518,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

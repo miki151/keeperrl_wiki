@@ -4,7 +4,7 @@ permalink: Old_Tribes/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Tribes faced by players can sometimes have &quot;triggers&quot; which mean they are planning to attack the player's dungeon or castle. Types of triggers include greed for gold, excessive hostility, revenge for stealing from or killing tribe members, the population of your dungeon being threatening or seen as an easy target, provocation by hanging up executed prisoner heads and some other reasons.
 
@@ -159,7 +159,7 @@ If you are going to mod the tribes data, you may need to work out the alliance f
 
 [[Category:Creature Guide]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -599,4 +599,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

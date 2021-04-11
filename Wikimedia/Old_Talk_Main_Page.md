@@ -4,7 +4,7 @@ permalink: Old_Talk_Main_Page/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Is there a place where this Wiki shows some depth? KeeperRL's big brother Dwarf Fortress made a point of having a well-organised, community supported wiki and it makes a world of difference when you play:
 
@@ -24,7 +24,7 @@ Thanks for your help. I'm on discord a lot if you want to chat.
 
 Soft Monster
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -464,4 +464,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

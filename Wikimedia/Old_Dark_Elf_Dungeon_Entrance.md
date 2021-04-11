@@ -4,7 +4,7 @@ permalink: Old_Dark_Elf_Dungeon_Entrance/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 [[File:Dark_elf_warrior.png|100px|link=]]
 [[File:Dark_elf_warrior.png|100px|link=]]
@@ -24,7 +24,7 @@ layout: wiki
 
 [[Category: Tribes]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -464,4 +464,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

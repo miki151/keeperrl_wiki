@@ -4,7 +4,7 @@ permalink: Old_Rooms/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 In the latest versions of KeeperRL, rooms are constructed by placing furniture and building floors and providing lighting using torches. There is no necessity to separate the furniture, so for example you may place a mass grave in a corner of your dungeon and have multiple other rooms containing coffins. So below, the &quot;graveyard&quot; I have described is a mixture of coffins and graves assuming that the furniture is placed in that kind of design. (These days it doesn't have to be).
 
@@ -13,7 +13,7 @@ These are broadly speaking, the different types of rooms you are likely to want 
 [[Category : Constructions]]
 [[Category: Keeper Mode]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -453,4 +453,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

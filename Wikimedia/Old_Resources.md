@@ -4,7 +4,7 @@ permalink: Old_Resources/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 In KeeperRL the amount of resources you have is theoretically infinite, trees don't grow back, but you can dig down for more resources into the z-levels. Underground treeshrooms provide a source of wood. Also iron, stone, gold and lower down adamantium. Through the use of alchemy [[: Resources#Gold|gold]] can be turned it into other materials. Invaders carry gold into your dungeons. Even so, you will be short of resources at times depending on the sort of game you are playing.
 
@@ -68,7 +68,7 @@ Gathered by worshiping shrines. More of it is required to get top tier Demon/Ang
 [[Category: Keeper Mode]]
 [[Category: Dungeon Guide]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -508,4 +508,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

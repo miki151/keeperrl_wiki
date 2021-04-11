@@ -4,7 +4,7 @@ permalink: Old_Requests_For_Graphics/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 *Host texture packs on Steam workshop
 *Make furniture items rotatable(just a visual effect)
@@ -13,7 +13,7 @@ layout: wiki
 
 I wasn't sure where to add this, so I hope this will be alright. Regarding room types I think being able to change the material of the walls would be a nice addition. Right now you have soft or hard stone, and you can't replace the hard stone alone, it creates inconsistency when trying to rebuild some areas or add new tunnels/rooms manually. If there were certain other wall types or even an option to paint over or texture over them with wallpapers, dungeons would feel more coherent in their design. As much as I prefer form over function, small inconsistencies like that just look out of place when building. -FPD
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -453,4 +453,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")

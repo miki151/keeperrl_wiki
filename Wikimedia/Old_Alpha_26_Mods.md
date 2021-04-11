@@ -4,7 +4,7 @@ permalink: Old_Alpha_26_Mods/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 =Download instructions=
 Alpha 26 has introduced new modding support. Download the zip files and copy them to your &quot;KeeperRL\data_free&quot; folder. To apply a mod, unzip it to &quot;data_free&quot; folder and replace any existing mod files that are already there. Restart KeeperRL for good measure. Leave the zip files in that &quot;data_free&quot;, so you can switch to any desired mod whenever you want to, just by extracting the zip file.
@@ -47,7 +47,7 @@ C:\Program Files (x86)\Steam\steamapps\common\KeeperRL\data_free
 
 7) Edit this page, and insert the link to your zip file in the &quot;Download mods for Alpha 26&quot; section
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Previous_Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
 
 Other items in this section
 -    [Old 5 Reasons For Using Customized Lapel Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
@@ -487,4 +487,4 @@ Other items in this section
 -    [Old Z-Level Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
 -    [Old Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
 -    [Old ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
--    [Previous Wiki](/keeperrl_wiki/Previous_Wiki "wikilink")
+-    [Wikimedia](/keeperrl_wiki/Wikimedia "wikilink")
