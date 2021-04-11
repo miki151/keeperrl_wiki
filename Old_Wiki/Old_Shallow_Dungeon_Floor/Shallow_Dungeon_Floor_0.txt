@@ -1,0 +1,9 @@
+= Stats =
+*Settlement: Mine Town
+*Tribal Loyalty: None
+*Building Style: Dungeon
+*Furniture:  Standard Furniture
+*Items:  Dungeon 
+*Inhabitants: 10-15 Bandit/Cyclops/Witch/Clay Golem/Iron Golem/Lava Golem/Fire Elemental/Earth Elemental/Air Elemental/Water Elemental/Gnome/Gnome Chief/Dwarf/Dwarf female/Jackal/Snake/Spider/Fly/Rat
+
+[[Category: Tribes]]

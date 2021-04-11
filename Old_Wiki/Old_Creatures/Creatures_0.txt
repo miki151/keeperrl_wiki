@@ -1,0 +1,10 @@
+Creates have the following stats:
+* Level
+* Attack
+* Defense
+* Accuracy
+* Strength
+* Dexterity
+* Speed
+* Gold
+* Skills

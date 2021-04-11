@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Dark Elf
+*Inhabitants: 3-7 Dark elf warriors
+*Race : dark elves
+*Building Style: Dungeon
+*Outside features: Dungeon surroundings
+*Furniture:  Standard Furniture
+*Notable discovery: False
+
+[[Category: Tribes]]

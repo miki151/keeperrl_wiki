@@ -1,0 +1,11 @@
+Your keeper will research once a library is built and is capable of cast a range of [[:Category: Spells |spells]].
+
+== Skills ==
+* [[Sorcery]] (basic)
+
+== Order Tasks ==
+* Training
+* Lab
+* Study
+
+[[Category: Creatures]]

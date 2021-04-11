@@ -1,0 +1,13 @@
+[[File:rat_lady.png|100px|link=]]
+
+= Base Stats =
+*Gender:FEMALE
+*Body: type = Humanoid MEDIUM 
+*DAMAGE 7
+*DEFENSE 7
+*Training Ability: MELEE 1
+
+=Encounters=
+*[[Rat people cave]]
+
+[[Category: Creatures]]

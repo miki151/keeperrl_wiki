@@ -1,0 +1,13 @@
+[[File:elementalist.png|100px|link=]] ''Major Boss
+
+*Spell_Damge:15
+*Defense:20
+*Damage:15
+*Body size:Large
+*Laboratory:1
+*Spell training maximum:9
+*Gender:Female
+*Fire Resistant:Yes
+*Magic Resistance:Yes
+
+[[Category:Creatures]]

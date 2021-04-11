@@ -1,0 +1,10 @@
+= Base Stats =
+*Defense:7
+*Damage:18
+*Body size:Medium
+*Weight:25
+*Attack:Fangs
+*Animal:Yes
+*Group:Pack
+
+[[Category: Creatures]]

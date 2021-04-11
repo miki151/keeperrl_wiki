@@ -1,0 +1,13 @@
+= Stats =
+*Settlement: Cave
+*Tribal Loyalty: Greenskin
+*Inhabitants: 4-8 [[Harpy]]
+*Building Style: Dungeon
+*Close To Player :
+*Furniture: Standard Furniture
+*Outside features: village surroundings 
+*Immigrant Interval :300 
+*Max Population:10 
+*Immigration:  Harpy archers frequency 1
+
+[[Category: Tribes]]

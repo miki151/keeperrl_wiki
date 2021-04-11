@@ -1,0 +1,40 @@
+=general rules=
+*The text files are editable in a text editor
+*Each text file is a set of tables containing a list of available game content
+*Multiple spaces and new lines between entries in the table are read as a single space
+
+=technology.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ {
+
+===The table of technologies in the game===
+*Each entry adds a new technology to the game.
+*The entry has two possible formats
+1) &quot;'''TechId'''&quot; {'''Description'''}
+Example:
+ &quot;alchemy&quot; { &quot;Build a laboratory and produce basic potions.&quot; }
+2) &quot;'''TechId1'''&quot; { &quot;'''Description'''&quot; {&quot;'''TechId2'''&quot;} }
+
+Where TechID1 is the new technology and TechId2 must be researched first to unlock it.
+Example:
+ &quot;alchemical conversion&quot; { &quot;Convert resources to and from gold.&quot; {&quot;alchemy&quot;} }
+
+===End the file===
+The file always begins like this:
+ }
+ }
+
+=build_menu.txt=
+
+=campaign_villains.txt=
+
+=immigration,txt=
+
+=player_creatures.txt=
+
+=workshops_menu.txt=
+ {{LeatherGloves} 1 WOOD 2}
+ {{HeavyClub}     5 WOOD 20 &quot;two-handed weapons&quot;}

@@ -1,0 +1,1 @@
+This reference data was taken from the Alpha 26 source code.

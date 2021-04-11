@@ -1,0 +1,16 @@
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Gnome
+*Inhabitants: 3-7 [[Gnome]]
+*Race : gnomes 
+*Building Style: Dungeon
+*Outside features: Dungeon surroundings
+*Furniture:  Standard Furniture
+*Notable discovery: False
+
+[[Category: Tribes]]

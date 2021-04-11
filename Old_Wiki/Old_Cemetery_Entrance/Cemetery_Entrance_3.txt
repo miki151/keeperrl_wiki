@@ -1,0 +1,13 @@
+[[File:zombie.png|100px|link=]]
+
+= Stats =
+*Settlement: Cemetery 
+*Inhabitants: 1 [[Zombie]]
+*Location Name : Cemetery 
+*Race: Undead 
+*Tribal Loyalty: None
+*Furniture: Graves  
+*Building Style: Brick 
+*Notable discovery: False
+
+[[Category: Tribes]]

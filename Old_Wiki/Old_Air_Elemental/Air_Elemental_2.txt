@@ -1,0 +1,10 @@
+[[File:air_element.png|100px|link=]
+
+*Body Size:Large
+*Defense:35
+*Damage:25
+*Flying:Yes
+*Ranged Resistance:Yes
+*Spell:Circular blast
+
+[[Category:Creatures]]

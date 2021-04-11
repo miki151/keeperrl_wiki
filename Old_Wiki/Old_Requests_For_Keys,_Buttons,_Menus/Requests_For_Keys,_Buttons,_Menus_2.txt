@@ -1,0 +1,3 @@
+*Click library, hold down shift, select a rectangle on the map with mouse - library with spaced shelves needs to be drawn (And not a solid block of shelves)
+
+*Rogue-like key set ie. W=up S=Down etc.

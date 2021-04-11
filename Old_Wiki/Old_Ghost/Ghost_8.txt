@@ -1,0 +1,23 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+*Spell damage:30
+*Defense:35
+*Body size:Large
+*Flying:yes
+*Magic Vulnerability:yes
+
+== Traits ==
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Courage|Courage]] : 10
+
+== Tasks ==
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.3
+* space usage : 1
+* required tiles, Ritual Room : 9
+
+[[Category:Creatures]]
+[[Category:Minions]]

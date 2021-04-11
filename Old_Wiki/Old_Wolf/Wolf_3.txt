@@ -1,0 +1,32 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 9
+* Strenght : 18
+* Dexterity : 17
+* Speed : 160
+* Weight : 35
+* Size : medium
+* Unarmed attackbonus : 12
+* Attack : 18
+* Defense : 18
+* Accuracy : 17
+* Salary : none
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+
+== Tasks ==
+* [[:Traits#Explore|Explore]] : Nocturnal
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 0.15
+* pack : 3 - 9
+
+[[Category:Creatures]]
+[[Category:Minions]]

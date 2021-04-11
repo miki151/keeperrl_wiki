@@ -1,0 +1,10 @@
+= Stats =
+*Settlement: Vault
+*Inhabitants: 8-9 adamantium golem fighters
+*Tribal loyalty: Ant
+*Race: adamantium golems
+*Sealed in
+*Surrounded With Resources: 3 extra adamantium ore patches
+*Building Style: Dungeon 
+
+[[Category: Tribes]]

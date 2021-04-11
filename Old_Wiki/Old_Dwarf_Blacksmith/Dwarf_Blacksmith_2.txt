@@ -1,0 +1,12 @@
+[[File:dwarf_blacksmith.png|100px|link=]]
+
+= Base Stats =
+*Defense:25
+*Damage:21
+*Body size:Medium
+*Weight:90
+*Skills: Forge 100%
+*Melee training maximum:2
+*Magic Vulnerability:Yes
+
+[[Category: Creatures]]

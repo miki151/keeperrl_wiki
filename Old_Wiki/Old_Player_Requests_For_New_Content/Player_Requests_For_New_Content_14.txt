@@ -1,0 +1,39 @@
+Michal has indicated that he is interested in producing new content and may adopt player ideas. This section is here to facilitate this.
+
+Please keep the standard rules about not submitting copyrighted content to the wiki. This includes any material of your own (we are submitting our ideas into the public domain for Michal to use under an open source license).
+
+Ideas for technology:
+* [[Requests for new technology]]
+
+Ideas for creatures:
+* [[Requests for new villains]]  (hostile)
+* [[Requests for new allies]]    (friendly)
+* [[Requests for new wildlife]]  (timid)
+* [[Requests for new minions]]   (obedient)
+
+Ideas for items:
+* [[Requests for new weapons]]
+* [[Requests for new armour]]
+* [[Requests for new jewellery]]
+* [[Requests for new unequipped items]]
+
+Ideas for minion features:
+* [[Requests for new spells]]
+* [[Requests for new traits]]
+* [[Requests for new tasks and skills]]
+
+Ideas for constructions:
+* [[Requests for new traps]]
+* [[Requests for new rooms]]
+* [[Requests for new installations]]
+
+There are no &quot;right&quot; or &quot;wrong&quot; values for the stats, but fill them in for creative thinking.
+
+
+
+Other idess that are not about content:
+* [[Requests for sound]]
+* [[Requests for graphics]]
+* [[Requests for game messages]]
+* [[Requests for screen layout]]
+* [[Requests for keys, buttons, menus]]

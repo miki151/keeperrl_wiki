@@ -1,0 +1,6 @@
+== Iron Spear ==
+ Damage: 4 - 8
+ Accuracy = 6
+ Attack type: Pierce
+ Weight: 5
+ Price: 70

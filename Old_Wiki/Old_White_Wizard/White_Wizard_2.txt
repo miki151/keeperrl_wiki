@@ -1,0 +1,13 @@
+[[File:white_wizard.png|100px|link=]]
+
+= Base Stats =
+*Skills: &quot;LABORATORY&quot; 0.2 
+*Spell Schools: &quot;mage&quot; 
+*Spells:  &quot;healing&quot; 
+*Attributes: DAMAGE 12 DEFENSE 25 SPELL_DAMAGE 25
+*Training Ability: SPELL 7 
+
+= Encounters =
+*[[Wizard tower]]
+
+[[Category: Creatures]]

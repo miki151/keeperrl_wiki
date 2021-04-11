@@ -1,0 +1,78 @@
+Please fill out the structure below (Example shown for skeletons)
+
+== Skeleton ==
+* Start level : 4
+* Strength : 10
+* Dexterity : 15
+* Speed : 80
+* Weight : 50
+* Size : medium
+* Unarmed attack bonus : 10
+* Attack : 10
+* Defence : 15
+* Accuracy : 15
+* Traits : Humanoid, Undead, Brainless, No corpse
+* Skills : Weapon Melee
+* Tasks: : Train, Sleep in graveyard
+* Attractions: Training room + graveyard
+* Concept: Undead with weapon skills. Better at fighting than vampires but no spells.
+* Purpose in game: Fill a gap in your undead army with weapon malee.
+* Optional features: One day, perhaps the different corpses would yield different skeletons
+* Discussion: There is already an unused skeleton sprite in the game. I think that this could be particularly interesting if you could only spawn skeletons from corpses but they didn't effect your unit count and couldn't level or use gear. Perhaps the level could be based on the level of the corpse they spawn from?
+
+== Sea Monster ==
+* Start level : 25
+* Strength : 30
+* Dexterity : 30
+* Speed : 100
+* Weight : 1000
+* Size : Huge
+* Unarmed attack bonus : 20
+* Attack : 10
+* Defence : 20
+* Accuracy : 15
+* Traits : Swimming, &lt;Doesn't leave water&gt;
+* Tasks: : None
+* Attractions: Squares boardering underground lakes and rivers
+* Concept: Sea monster from mythology.
+* Purpose in game: Excellent for defending a lake or river. No training needed. Starts level 25. Cannot leave the water.
+* Optional features: Can leave water for 1 square outside it
+* Discussion: Discuss the idea here.
+
+== Wall Monster ==
+* Start level : 15
+* Strength : 15
+* Dexterity : 15
+* Speed : 100
+* Weight : 1000
+* Size : Huge
+* Unarmed attack bonus : 15
+* Attack : 15
+* Defence : 30
+* Accuracy : 20
+* Traits : No corpse
+* Tasks: : None
+* Attractions: ?
+* Concept: A monster that lives in the dungeon wall and cannot leave the dungeon walls. Walks through rock. Cannot walk through space.
+* Purpose in game: A good monster for hurting things in narrow corridors.
+* Optional features: Higher or lower toughness, to balance the nurf of having to live inside the dungeon walls.
+* Discussion: Discuss the idea here.
+
+== Next monster (Copy this as a template) ==
+* Start level : ?
+* Strength : ?
+* Dexterity : ?
+* Speed : ?
+* Weight : ?
+* Size : ?
+* Unarmed attack bonus : ?
+* Attack : ?
+* Defence : ?
+* Accuracy : ?
+* Traits : ?
+* Tasks: : ?
+* Attractions: ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.

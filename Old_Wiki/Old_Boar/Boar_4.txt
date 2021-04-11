@@ -1,0 +1,14 @@
+[[File:boar.png|100px|link=]]
+'' Shy creatures that only fight when cornered.
+
+==Summary==
+Wild life that really only poses a threat if you frighten them at close quarters while exploring.
+
+*Defense:10
+*Damage:10
+*Body size:Medium
+*Weight:200
+*Animal:Yes
+*Chasing:No
+
+[[Category:Creatures]]

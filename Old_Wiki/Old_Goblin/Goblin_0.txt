@@ -1,0 +1,7 @@
+Goblins start at level 3
+
+== Skills ==
+* [[Disarm Traps]]
+
+[[Category: Creatures]]
+[[Category: Minions]]

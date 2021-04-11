@@ -1,0 +1,33 @@
+__NOTOC__
+''Bandits try to access your [[:Treasure_Room|treasure room]] to steal gold and then run away. They live in caves''
+== [[:Attributes]] ==
+''Base values''
+*Defense:13
+*Damage:15
+*Body size:Large
+*Melee training maximum:2
+
+== Combat Attributes ==
+''Base level with weapon''
+* Attack : 22 - 24
+
+== Skills ==
+* [[:Skills#Disarm_Traps|Disarm Traps]] (Older versions only)
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Inventory ==
+* [[:Weapons#Sword|Sword]]
+* 30% chance : 
+** [[:Consumables#Potion_of_Healing|Potion of healing]] : 4
+** [[:Consumables#Scroll_of_Teleport|Scroll of teleport]] : 1
+* 5% chance : 
+** [[:Weapons#Short_Bow|Short bow]]
+
+== Behavior ==
+Attack Trigger : Start attack when player has more than 300 gold.
+
+Goal : Steal gold from the [[:Treasure_Room|treasure room]].
+
+[[Category:Creatures]]

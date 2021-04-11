@@ -1,0 +1,30 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 4
+* Strenght : 14
+* Dexterity : 15
+* Speed : 80
+* Weight : 10
+* Size : large
+* Unarmed attackbonus : 3
+* Attack : 14
+* Defense : 14
+* Accuracy : 15
+* Salary : none
+
+== Traits ==
+* [[:Traits#Uncorporal|Uncorporal]]
+
+== Tasks ==
+* [[:Skills#Absporbtion|Consume]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.2
+* space usage : 4
+* required tiles
+** Ritual Room : 12
+
+[[Category:Creatures]]
+[[Category:Minions]]

@@ -1,0 +1,160 @@
+This Quick Start written against Alpha versions of KeeperRL.  Click &quot;Start here&quot; if you've never played before.
+
+
+== Start Here ==
+
+Download the free KeeperRL ZIP demo file. Unzip.  There is no install required.  The program &quot;keeper.exe&quot; is simply run in place.
+(Alternatively, purchase the graphical and audio version from Steam).
+# The Main Menu will come up.  The heading will be &quot;Choose your role&quot;.
+# If you want a dungeon-management-type game, choose &quot;Keeper&quot;.  If you want to explore the world solo, choose &quot;Adventurer&quot;.  This quick start guide will focus on Keeper mode. (That is the title of the game, after all!)
+# Leave the default settings (or change them if you want) and click on &quot;Done&quot;.
+
+The game world will be generated and you will now be launched into the overhead view.  Here you can start building your dungeon.
+These videos explain the basics of the game.
+*[[Video Tutorials From Nat20]]
+
+
+== Victory ==
+
+Claim victory by conquering all the local tribes.
+Next, finalize your defenses and upload your map, so that adventurers belonging to other players can then invade it.
+
+
+== Starting position ==
+
+You start with your [[keeper]] and 4 minion [[imp]]s. You will occasionally see text in red. These hints will provide you with ideas on what to do next.
+
+
+== Game options ==
+
+Press escape to view the game options. Save the game, abandon it or retire. Change graphics and sound etc.
+You can also pause the game at any time by pressing space. This will let you think and issue complex orders. If it looks like you are winning, you can increase the game speed to fast-forward it (until you are invaded).
+
+
+== Tabs ==
+
+The five menu tabs in the top left corner of the screen are as follows:
+
+* Construction (pickaxe icon)
+* Minions (horned face icon)
+* Research (book icon)
+* Tribes (weapons icon)
+* Help (question mark icon)
+
+== Resource stats ==
+
+
+Along the bottom are your resource stats:
+
+* Gold
+* Wood
+* Copper
+* Stone
+* Mana
+
+These [[resources]] are what is needed to build things in the dungeon. Mana is also used for researching technologies.
+
+
+== Building Your First Dungeon ==
+
+The main benefit of playing a keeper is that you can build a dungeon. Adventurers can only invade dungeons.
+
+The first thing to do is simply start digging!  On the top right are the various action icons.  The pickaxe icon (the leftmost one)
+gives you the orders you can give your imps.  The top one is called &quot;Dig or cut tree&quot;.  Select that one and have the imps start
+digging.
+
+You can be as creative as you want when it comes to designing the layout of your dungeon.  The imps dig fairly quickly if they are not mining
+ores; stick to the plain black area and they can dig large [[:Category:Rooms|rooms]] in a short time.  You can hold down shift with the mouse and draw out rectangles, too.
+
+
+== Construction ==
+
+Various [[constructions]] are possible. Construct items by clicking on the pickaxe icon. Select squares for your [[imp]]s to dig and cut. Assign dungeon squares for storage of [[resources]] and items. Build treasure rooms, dormitories, training rooms, libraries, workshops, forges, laboratories, jewellers, ritual rooms, beast lairs, graveyards, prisons and torture chambers. The selected construction will highlight in green. Click on map squares to give the orders.
+
+
+== Orders ==
+
+Use the orders menu from the construction tab to set guard posts, claim tiles, fetch items, prioritise tasks and remove construction. The selected option will hightlight in green. Click on the map squares to issue the orders.
+
+
+== Installations ==
+
+Some [[installations]] require research to do. Install doors, bridges, barricades, torches, eyeballs and your prisoner heads in like fashion. You can also install various [[traps]].
+
+
+== Building Rooms and Gathering Resources ==
+
+Typically the first thing I build is a storage room.  For my first storage room I usually go with a 10x20 rectangle.
+
+Once the room is dug out, designate it as a storage room by clicking the &quot;Storage&quot; icon under the orders menu, then mark out
+the space.  The floor will turn into black-and-white checkerboard pattern to let you know this is the storage area.
+
+Now that you have a storage room, you can have the imps start mining ores and cutting down trees.  Simply use the &quot;Dig or cut tree&quot;
+designation are dig out the areas with the various types of ores, and also mark trees.
+
+
+== Summoning Extra Imps ==
+
+Whenever you have enough mana, the [[keeper]] can summon more imps.  Simply click on the &quot;Summon&quot; icon and choose &quot;Summon imp&quot;.  Then click
+anywhere on the map to have the imp appear there.  I usually add 4 more imps, for a total of 8, very near the beginning of the game, because
+this greatly speeds up your ability to dig and gather [[resources]].  I then usually add 4 more later on in the game but 12 total seems
+like enough for me to get things done.  I'd rather save my mana for other things later.
+
+
+== Library and Research ==
+
+The next thing you probably want to build is a library.  The library is crucial because the [[keeper]] needs it to research any new skills.
+
+Have the imps dig out another room, usually at least 10x20 but it can be bigger.  Make sure you have some wood stockpiled as well.  Then
+simply build your library in that space from the orders menu.  You need a large library to research advanced skills and at this point
+wood is plentiful so go ahead and bild a large library, 10x10 at least.  The [[keeper]] will usually immediately move to the library and
+spend most of the time there.
+
+Now that the library is built you can start researching skills.  Under the &quot;Research&quot; menu, there is an item called &quot;Library&quot;.  Clicking
+on this brings up a list of all the skills the [[keeper]] has learned, and also the skills available to learn.  Some skills only become
+available by unlocking prerequisite skills, or by finding books in the world.
+
+The first technology I usually learn right away is crafting, because that is the skill needed to build anything else, like beds (which you will
+need when you start to build your army).  So learn the crafting skill by clicking on it and spending your mana.  You should have enough
+mana at this point.
+
+
+== Minions ==
+
+You need to build other [[:Category:Rooms|rooms]] to attract monsters into your dungeon. Some [[minions]] will set up home with you if you just give them a dormitory to rest in. Other monsters would like places to train, or build things. Build a graveyard to keep corpses and you may be able to raise the dead. Other types of undead will come to practice rituals in a ritual room.
+
+== Direct Control of a Minion ==
+
+Select the minions icon (the horned face) to see a list of your current types of minion and other minion information. Click on each type of minion to see a list of each individual creature and their level. Click on any individual creature to control them. There are a list of extra commands when inside a minion, such as casting [[spells]]. After taking over a minion's will, click &quot;u&quot; to return to the &quot;dark god&quot; mode. Note that while you are inside a minion, your vision is restricted to its vision.
+
+
+== Tribes ==
+
+Click on the weapons icon to see information about local tribes. Full conquest of all the tribes will allow you to retire victorious (only to be invaded by other players).
+
+
+== Treasure Room ==
+
+When you have dug out some gold, you can store it in a treasure room. Once the gold is collected, you can use it to pay your [[minions]]. If you run out of gold, your [[minions]] will get demotivated. In the worst case, they will simply lie around in bed all day until you have money to pay them. Most undead have little interest in wealth.
+
+
+== Invaders ==
+
+Rumours about your dungeon will spread as it grows. These will attract recruits but can also attract invaders. Invaders may be out to plunder your gold, gain combat experience or just to assassinate your [[keeper]]. Invaders may carry useful items to loot and can also help you gain combat experience. If you are overpowered by an invading force, such as a dragon you may need to evacuate your [[keeper]] out of a back door. Sometimes invaders may call off an assault.
+
+
+== Exploring the Map ==
+
+Directly control a minion by taking over its will. Explore the map using the arrow keys. Kill local monsters and tribes by commanding a party. New teams are set up by clicking &quot;New team&quot; on the [[minions]] tab. Then select individual creatures to add them to the team. Select the minion you want to lead your party and click command to control them. Think carefully before trying to loot a dragon's hoard or waking up a cyclops.
+
+
+== Local Tribes and Monsters ==
+
+The world you live in is inhabited by many [[:Category: Creatures | creatures]]. Typically, you can expect to meet bandits, dragons, dwarves, elves, lizardmen, humans, spiders, scorpions and gnomes. There are also stories about a crazy cyclops who lives in the mountains growing mushrooms. To win the game, you will need to wipe out all the forces of good (dwarves, elves, lizardmen and uncorrupted humanity). To do this, you will need to go on the offensive at some point by forming a team and controlling a minion directly. Some monsters that you meet will be pleased to join your forces. Others will be hostile to you and perhaps hostile to the other settlements.
+
+
+== Features added since Alpha 14 ==
+
+[[:Alpha15 Changelog|Alpha15]]
+
+[[:Category: Alpha16 | Alpha16]]

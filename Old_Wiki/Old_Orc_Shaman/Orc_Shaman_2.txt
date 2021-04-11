@@ -1,0 +1,39 @@
+__NOTOC__
+''Some potions and a good book and his day is complete.''
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 13
+* Dexterity : 11
+* Speed : 100
+* Weight : 100
+* Size : large
+* Unarmed attackbonus : 3
+* Attack : 13
+* Defense : 13
+* Accuracy : 11
+* Salary : 20
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Healing|Healing]]
+* [[:Skills#Sorcery|Sorcery]] : 0.7
+
+== Tasks ==
+''sorted by preference, study and lab are equal''
+* [[:Library|Study]]
+* [[:Laboratory|Lab]]
+* [[:Dormitory|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Dormitory|Dormitory]]
+* probability : 0.15
+* space usage : 1
+* required tiles
+** Library : 16
+** Laboratory : 9
+
+[[Category:Creatures]]
+[[Category:Minions]]

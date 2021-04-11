@@ -1,0 +1,22 @@
+__NOTOC__
+
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 2
+* Dexterity : 12
+* Speed : 80
+* Weight : 5
+* Size : small
+* Unarmed attackbonus : 5
+* Attack : 2
+* Defense : 2
+* Accuracy : 12
+
+== Traits ==
+* [[Traits#Animal|Animal]]
+* [[Traits#Courage|Courage]] : 100
+* [[Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+[[Category:Creatures]]

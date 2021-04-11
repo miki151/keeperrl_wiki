@@ -1,0 +1,8 @@
+*Body Size:Large
+*Weight:300
+*Defense:15
+*Damage:40
+*Ranged Resistance:Yes
+*Skill:Swimming
+
+[[Category:Creatures]]

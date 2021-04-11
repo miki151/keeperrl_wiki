@@ -1,0 +1,150 @@
+Tribes faced by players can sometimes have &quot;triggers&quot; which mean they are planning to attack the player's dungeon or castle. Types of triggers include greed for gold, excessive hostility, revenge for stealing from or killing tribe members, the population of your dungeon being threatening or seen as an easy target, provocation by hanging up executed prisoner heads and some other reasons.
+
+=Campaign configuration=
+
+The tribes faced in campaigns are configurable in campaign_villains.txt. The file looks like this:
+
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/campaign_villains.txt campaign_villains.txt]]
+
+The standard version of Keeper is configured like this:
+
+=Villains faced by evil keepers=
+
+==Main Villains faced by evil keepers==
+*[[Knights]]
+*[[Elves]]
+*[[Dwarves]]
+*[[Red dragon]]
+*[[Elementalist]]
+*[[Green dragon]]
+*[[Black Dragon]]
+*[[White Dragon]]
+*[[Main Lizardmen]]
+*[[Warriors]]
+*[[Demon den underground]]
+*[[Thieves]]
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Lesser Villains faced by evil keepers==
+*[[Ents]]
+*[[Driads]]
+*[[Cyclops]]
+*[[Shelob]]
+*[[Hydra]]
+*[[Unicorn Herd]]
+*[[Open ant nest]]
+*[[Cemetery]]
+
+==Tribes allied to evil keepers==
+*[[Ogre cave]]
+*[[Harpy cave]]
+*[[Sokoban reward]]
+*[[Dark Elves]]
+*[[Gnomes]]
+*[[Orc village]]
+
+=Villains faced by lawful keepers=
+
+==Major lawful enemies==
+*[[Red dragon]]
+*[[Green dragon]]
+*[[Black Dragon]]
+*[[White Dragon]]
+*[[Open ant nest]]
+*[[Dark Elves Enemy]]
+*[[Orc village]]
+*[[Demon den underground]]
+*[[Main Lizardmen]]
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Minor lawful enemies==
+*[[Shelob]]
+*[[Cyclops]]
+*[[Hydra]]
+*[[Cemetery]]
+*[[Ogre cave]]
+*[[Open ant nest]]
+*[[Harpy cave]]
+
+==Lawful Allies==
+*[[Dwarves]]
+*[[Teutons]]
+
+=Some note worthy Mini tribes=
+*[[Aggressive Bandits]]
+*[[Temple]]
+*[[Ruins]]
+*[[Dark Elves]]
+*[[Lizardman cottage]]
+*[[Kobold cave]]
+*[[Rat people cave]]
+*[[Human cottage]]
+*[[Elven Cottage]]
+*[[Dwarf cave]]
+*[[Sealed ant nest]]
+*[[Adamantium golems]]
+*[[Rat cave]]
+
+= Tribal loyalties =
+
+Each tribe has a tribal loyalty. The tribal loyalty determines which tribes are friendly to which. This matters most in single map games, where you can coax monsters into attacking each other (eg. get the red dragon to chase you past a castle full of knights). In campaign maps, there is also some possible in-fighting between the tribes on each map sector. When tribes that are hostile to each other attack you at the same time, they may kill each other instead of you.
+
+Players can be loyal to &quot;Evil&quot; or &quot;Lawful&quot;. Retired keepers are loyal to &quot;Retired&quot;. 
+
+Tribal loyalties are found in the source code here:
+
+[|https://github.com/miki151/keeperrl/blob/master/tribe.cpp]
+
+This is a grid showing friendships between tribes marked with an X. Note that &quot;hostile&quot; is the only tribe hostile itself. Hostile monsters of the same tribe will fight each other.
+
+{| class=&quot;wikitable sortable&quot;
+|-
+!Tribal Loyalty||Monster||Lizard||Pest||Wildlife||Elf||DarkElf||Human||Dwarf||Gnome||Lawful||Evil||Retired||Greenskin||Ant||Bandit||Hostile||Peaceful||Spider
+|- align=&quot;right&quot;
+|'''1.Monster'''    ||X||.||X||.||X||X||.||X||X||.||.||X||X||X||.||.||X||.
+|- align=&quot;right&quot;
+|'''2.Lizard'''     ||.||X||X||X||X||X||.||X||X||.||.||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''3.Pest'''       ||X||X||X||X||X||X||X||X||X||.||.||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''4.Wildlife'''   ||.||X||X||X||X||X||X||X||X||X||X||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''5.Elf'''        ||X||X||X||X||X||X||X||.||X||X||.||X||X||X||.||.||X||.
+|- align=&quot;right&quot;
+|'''6.DarkElf'''    ||X||X||X||X||X||X||.||.||X||.||X||X||X||X||.||.||X||.
+|- align=&quot;right&quot;
+|'''7.Human'''      ||.||.||X||X||X||.||X||X||X||X||.||X||X||.||.||.||X||.
+|- align=&quot;right&quot;
+|'''8.Dwarf'''      ||X||X||X||X||.||.||X||X||X||X||.||X||X||X||.||.||X||.
+|- align=&quot;right&quot;
+|'''9.Gnome'''      ||X||X||X||X||X||X||X||X||X||X||X||X||X||X||.||.||X||.
+|- align=&quot;right&quot;
+|'''10.Lawful'''    ||.||.||.||X||X||.||X||X||X||X||.||.||.||.||.||.||X||.
+|- align=&quot;right&quot;
+|'''11.Evil'''      ||.||.||.||X||.||X||.||.||X||.||X||.||X||.||X||.||X||.
+|- align=&quot;right&quot;
+|'''12.Retired'''   ||X||X||X||X||X||X||X||X||X||.||.||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''13.Greenskin''' ||X||X||X||X||X||X||X||X||X||.||X||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''14.Ant'''       ||X||X||X||X||X||X||.||X||X||.||.||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''15.Bandit'''    ||.||X||X||X||.||.||.||.||.||.||X||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''16.Hostile'''   ||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.
+|- align=&quot;right&quot;
+|'''17.Peaceful'''  ||X||X||X||X||X||X||X||X||X||X||X||X||X||X||X||.||X||.
+|- align=&quot;right&quot;
+|'''18.Spider'''    ||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||.||X
+|- align=&quot;right&quot;
+|}
+}
+
+= Tribe configuration =
+
+The tribe data is configurable and can be modded. The official configs are here:
+
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/enemies.txt enemies.txt]]
+
+
+[[Category:Creature Guide]]

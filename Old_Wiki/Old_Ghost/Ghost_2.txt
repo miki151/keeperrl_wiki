@@ -1,0 +1,14 @@
+Ghosts can't use equipment
+
+== Requirements ==
+* [[Ritual Room]]
+
+== Skills ==
+* [[Armless]]
+* [[Legless]]
+* [[Flying]]
+
+== Task Orders ==
+
+[[Category: Creatures]]
+[[Category: Minions]]

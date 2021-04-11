@@ -1,0 +1,32 @@
+==Ice Dragon==
+
+ Strength: 50
+ Dexterity: 25
+ Speed: 100
+ Unarmed damage: 15
+ Attack type: Eat
+ Weight: 1000
+ Size: HUGE
+ Features: Fire immunity, Flying
+ Level: 40
+ Attack: 30
+ Defence: 60
+ Accuracy: 30
+ Loot: 100-200 Gold
+ Possible attack triggers: Dungeon size
+
+== Next villain (Copy this as a template) ==
+ Strength: ?
+ Dexterity: ?
+ Speed: ?
+ Unarmed damage: ?
+ Attack type: ?
+ Weight: ?
+ Size: ?
+ Features: ?
+ Level: ?
+ Attack: ?
+ Defence: ?
+ Accuracy: ?
+ Loot: ?
+ Possible attack triggers: ?

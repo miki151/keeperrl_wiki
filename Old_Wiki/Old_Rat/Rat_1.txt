@@ -1,0 +1,16 @@
+= Base Stats =
+ Strenght: 2
+ Dexterity: 12
+ Speed: 180
+ Unarmed damage: 2
+ Size: SMALL
+ Weight: 1
+ Skill: swimming
+
+== Calculated Stats ==
+ Level: 1.0
+ Attack: 4
+ Defense: 2
+ Accuracy: 12
+
+[[Category: Creatures]]

@@ -1,0 +1,15 @@
+== Iron Spear ==
+ Damage: 4 - 8
+ Accuracy = 6
+ Attack type: Pierce
+ Weight: 5
+ Price: 70
+ Type: Two Handed
+
+== Next weapon (Copy this as a template) ==
+ Damage: ? - ?
+ Accuracy = ? - ?
+ Attack type: Cut, Pierce, Blunt
+ Weight: ?
+ Price: ?
+ Type: One handed/Two handed/Ranged

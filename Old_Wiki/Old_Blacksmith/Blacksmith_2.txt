@@ -1,0 +1,9 @@
+= Stats =
+*Settlement: Cottage
+*Tribal loyalty; Humanity
+*Inhabitants: [[Artisan Legend]] with 2-5 [[Knight]]/[[Archer]]
+*Location Named as: Town
+*Building style: Wood
+*Furniture: Forge  
+
+[[Category: Tribes]]

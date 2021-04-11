@@ -1,0 +1,12 @@
+A harpy is a large humanoid with 2 arms, 2 legs and 2 wings. It is fast, but weak and clumsy. Harpies start at level 4.
+
+== Requirements ==
+* A [[Succubus|succubus]] must give birth to a harpy.
+
+== Skills ==
+* [[Archery]]
+* [[Weapon Melee]]
+* [[Flying]]
+
+== Order Tasks ==
+* [[Training]]

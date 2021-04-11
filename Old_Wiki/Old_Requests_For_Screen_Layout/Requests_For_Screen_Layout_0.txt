@@ -1,0 +1,1 @@
+*Make minimap something you can turn off

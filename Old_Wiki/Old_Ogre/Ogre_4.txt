@@ -1,0 +1,14 @@
+An ogre is a large humanoid with 2 arms and 2 legs. It is strong and agile, but slow. Ogres start at level 12
+
+== Skills ==
+* [[Weapon Melee]]
+
+== Order Tasks ==
+* [[Training]]
+* [[Workshop]]
+* [[Forge]]
+* [[Lab]]
+* [[Jeweler]]
+
+[[Category:Creatures]]
+[[Category: Minions]]

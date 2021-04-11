@@ -1,0 +1,6 @@
+Holds your gold, ready for payday.
+==Tile Cost==
+5 wood per treasure chest.
+Each chest can hold unlimited gold pieces, so multiple chests are to spread the gold into different locations or just decoration.
+
+[[Category:Rooms]]

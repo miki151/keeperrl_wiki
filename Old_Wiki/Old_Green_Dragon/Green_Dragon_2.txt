@@ -1,0 +1,21 @@
+= Base Stats =
+ Strength: 40
+ Dexterity: 30
+ Speed: 90
+ Unarmed damage: 10
+ Attack type: Eat
+ Weight: 1000
+ Size: HUGE
+ Poison immunity
+ Flying
+
+= Calculated Stats =
+ Level: 38.33
+ Attack: 50
+ Defense: 40
+ Accuracy: 30
+
+== Inventory ==
+  Gold: 300-500
+
+[[Category: Creatures]]

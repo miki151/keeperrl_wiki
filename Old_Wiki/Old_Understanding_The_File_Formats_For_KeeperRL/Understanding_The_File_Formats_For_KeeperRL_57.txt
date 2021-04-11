@@ -1,0 +1,302 @@
+=general rules=
+*The text files are editable in a text editor
+*Each text file is a set of tables containing a list of available game content
+*Multiple spaces and new lines between entries in the table are read as a single space
+*Lines starting in a # are ignored and may contain useful comments
+
+=technology.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ {
+
+===The table of technologies in the game===
+*Each entry adds a new technology to the game.
+*The entry has two possible formats
+1) &quot;'''TechId'''&quot; {'''Description'''}
+Example:
+ &quot;alchemy&quot; { &quot;Build a laboratory and produce basic potions.&quot; }
+2) &quot;'''TechId1'''&quot; { &quot;'''Description'''&quot; {&quot;'''TechId2'''&quot;} }
+
+Where TechID1 is the new technology and TechId2 must be researched first to unlock it.
+Example:
+ &quot;alchemical conversion&quot; { &quot;Convert resources to and from gold.&quot; {&quot;alchemy&quot;} }
+
+===End the file===
+The file always begins like this:
+ }
+ }
+
+=workshops_menu.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ 
+*The format is constructed of sections, sub-sections and entries
+===Sections and subsections===
+*There can be as many sections as you want and later on any section can be assigned to player_characters.txt to give those characters the build menu sections they need.
+*There are 4 sub-sections below each section. These subsections are respectively for:
+#Workshop
+#Forge
+#Lab
+#Jeweller
+*Each subsection has as many entries as you want.
+
+Example of an empty section with all 4 subsections but no actual entries:
+ &quot;DwarvenCrafting&quot;
+ # Workshop
+ {
+ }
+ 
+ # Forge
+ {
+ }
+ 
+ # Lab
+ {
+ }
+ 
+ # Jeweller
+ 
+ {
+ }
+
+===Entries===
+*Each entry enables an item to be built in that workshop, forge, jewellers or lab.
+*The entry has two possible formats
+1) {{[[ItemTypes|ItemType]]} '''Speed''' [[ResourceIDs|ResourceID]] '''Amount'''}
+
+Example:
+ {{LeatherGloves} 1 WOOD 2}
+
+2) {{[[ItemTypes|ItemType]]} '''Speed''' [[ResourceIDs|ResourceID]] '''Amount''' &quot;'''TechID'''&quot;}
+
+Example:
+ {{HeavyClub} 5 WOOD 20 &quot;two-handed weapons&quot;}
+
+===End the file===
+The file always ends like this:
+ }
+
+=build_menu.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ 
+*The format is constructed of sections and entries
+
+===Sections===
+*The sections can be assigned later on in player_characters.txt to give any character the entries in that section, on their build menu
+*Each section begins with
+ {
+ &quot;'''SectionName'''&quot;
+*Each section ends with
+ }
+
+===Entries===
+*Each entry inside the section adds a menu item to a player's build menu
+*Each entry inside the section has a number of possible formats.
+*In brief the different formats are '''Dig''', '''Zone''', '''Furniture''', '''ClaimTile''', '''Dispatch''', '''Trap'''
+*There are two variants of the '''Furniture''' format, which are the most useful for modding.
+
+1) 
+ { Furniture {{ [[FurnitureTypes|FurnitureType]] } [[ResourceIDs|ResourceID]] 5 }   
+   &quot;'''MenuName'''&quot; &quot;'''MenuItem'''&quot; &quot;'''HelpTextHint'''&quot; }
+Example:
+ { Furniture {{ BRIDGE } WOOD 5 } &quot;Bridge&quot; &quot;Structure&quot; &quot;Build to pass over water of lava.&quot; }
+
+2)
+ { Furniture {{ [[FurnitureTypes|FurnitureType]] } [[ResourceIDs|ResourceID]] 5 }
+   &quot;'''MenuName'''&quot; &quot;'''MenuItem'''&quot; &quot;'''HelpTextHint'''&quot; 0
+   { TechId &quot;'''TechID'''&quot; } }
+Example:
+ { Furniture {{ TRAINING_IRON } IRON 12 }
+   &quot;Iron dummy&quot; &quot;Training room&quot; &quot;Train your minions' melee skills here.&quot; 0
+   { TechId &quot;iron working&quot; } }
+
+===End the file===
+The file always begins like this:
+ }
+
+=campaign_villains.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ 
+*The format is constructed of sections and entries
+
+===Sections===
+*Each section begins with
+ {
+*Each section ends with
+ }
+*There are 4 sections in the file. These sections are respectively for:
+#Evil keeper villains
+#Lawful keeper villains
+#Evil adventurer villains
+#Lawful adventurer villains
+*Section has as many entries as you want.
+
+Example of an empty file with all 4 sections but no actual entries:
+ #Evil keeper campaign
+ {
+ }
+ 
+ #Lawful keeper campaign
+ {
+ }
+ 
+ #Evil adventurer campaign
+ {
+ }
+ 
+ #Lawful adventurer campaign
+ {
+ }
+
+===Entries===
+*Each entry inside the section adds a possible villain or ally for a type of campaign  
+*Each entry inside the section has any number of entries in this format:
+ [[ViewIDs|ViewId]] [[EnemyIDs|EnemyID]] &quot;'''VillainName'''&quot; [[VillainTypes|VillainType]]
+Example:
+ DUKE4 KNIGHTS &quot;Knights&quot; MAIN
+
+===End the file===
+The file always begins like this:
+ }
+
+=immigration.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ 
+*The format is constructed of sections and entries
+
+===Sections===
+*The sections can be assigned later on in player_characters.txt to give any character the immigrants in that sections
+*Each section begins with
+ {
+ &quot;'''SectionName'''&quot;
+*Each section ends with
+ }
+
+===Entries===
+*Each entry inside the section adds a new type of immigrant
+*Each entry begins with
+ {
+*Each entry must specify the creature ID(s) for the immigrant(s):
+ ids = { [[CreatureIDs|CreatureId]] }
+Or:
+ ids = { [[CreatureIDs|CreatureId]] [[CreatureIDs|CreatureId]] }
+Or:
+ ids = { [[CreatureIDs|CreatureId]] [[CreatureIDs|CreatureId]] [[CreatureIDs|CreatureId]] }
+etc.
+Example:
+ ids = { IMP }
+*Each entry can specify any of the following:
+1)
+ traits = { [[TraitIDs|TraidID]] }
+Or:
+ traits = { [[TraitIDs|TraidID]] [[TraitIDs|TraidID]]}
+etc. Example:
+ traits = { WORKER NO_LIMIT NO_EQUIPMENT }
+2)
+ spawnLocation = [[FixedSpawnLocations|SpawnLocation]]
+etc. Example:
+ spawnLocation = NearLeader
+3) [[ImmigrationOptions|ImmigrationOption]]=='''Value'''
+
+Example:
+ noAuto = true
+4)
+ requirements = {[[ImmigrationRequirements|ImmigrationRequirent(s)]]}
+Example:
+ requirements = {{
+ 0.1 AttractionInfo 1 {FurnitureType FORGE FurnitureType WORKSHOP FurnitureType JEWELLER}}}
+5)
+ specialTraits = {[[specialTraitTypes|specialTrait(s)]]}
+
+Example:
+ specialTraits = {
+  { 0.03 { SkillId WORKSHOP LastingEffect INSANITY }}
+  { 0.03 { SkillId FORGE LastingEffect INSANITY }}}
+*Each entry ends with
+ }
+*Each section ends with
+ }
+
+===End the file===
+The file always ends like this:
+ }
+
+=player_creatures.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+*The format is constructed of 2 sections (keepers and adventures) and entries in both sections.
+*Each section begins with
+ {
+*Each section ends with
+ }
+
+===Keeper Entries===
+*Entries in the keeper section enable a new type of '''Keeper Class'''
+*The immigrants available from immigration.txt are specified
+*The technologies available from technology.txt are specified
+*The game menus available to the keeper class from build_menus.txt are specified
+*The items buildable in workshops from workshops_menu.txt are specified. 
+*The format for an entry is as follows:
+ {
+   creatureId = { [[CreatureIDs|CreatureIDMale]] [[CreatureIDs|CreatureIDFemale]] }
+   tribeAlignment = [[TribeAlignments|TribeAlignment]]
+   immigrantGroups = {&quot;'''ImmigrantSection1'''&quot; &quot;'''ImmigrantSection2'''&quot;...}
+   technology = {
+     &quot;'''TechID1'''&quot; &quot;'''TechID2'''&quot;...
+     }
+   intialTech = {
+     &quot;'''TechID1'''&quot; &quot;'''TechID2'''&quot;...
+     }
+   buildingGroups = {
+     {&quot;'''BuildMenuSection1'''&quot; &quot;'''BuildMenuSection2'''&quot;...}
+   }
+   workshopGroups = {
+     {&quot;'''WorkshopMenuSection1'''&quot; &quot;'''WorkshopMenuSection2'''&quot;...}
+   }
+   description = &quot;'''HelpText'''&quot;
+ }
+
+Example:
+ {
+   creatureId = { KEEPER_MAGE KEEPER_MAGE_F }
+   tribeAlignment = EVIL
+   immigrantGroups = {&quot;imps&quot; &quot;dark_keeper&quot;}
+   technology = {
+     &quot;alchemy&quot; &quot;advanced alchemy&quot; &quot;alchemical conversion&quot; &quot;humanoid mutation&quot; &quot;beast mutation&quot;
+     &quot;pig breeding&quot; &quot;iron working&quot; &quot;jewellery&quot; &quot;two-handed weapons&quot; &quot;traps&quot; &quot;archery&quot; &quot;sorcery&quot;
+     &quot;advanced sorcery&quot; &quot;magical weapons&quot; &quot;master sorcery&quot; &quot;demonology&quot;
+     }
+   initialTech = { &quot;sorcery&quot; }
+   buildingGroups = {
+     &quot;structure&quot; &quot;doors&quot; &quot;floors&quot; &quot;storage&quot; &quot;quarters&quot; &quot;library&quot; &quot;throne&quot; &quot;beds&quot; &quot;beast_cage&quot; &quot;pigsty&quot; &quot;coffins&quot;
+     &quot;training&quot; &quot;crafting&quot; &quot;demon_shrine&quot; &quot;prison&quot; &quot;orders&quot; &quot;installations&quot; &quot;magical_installations&quot; &quot;traps&quot;
+   }
+   workshopGroups = { &quot;basic&quot; &quot;traps&quot; }
+   description = &quot;Build and manage your dream dungeon, defend against raids, and attack your enemies!&quot;
+ }
+
+===Adventurers Entries===
+*Entries in the adventurer section enable a new type of '''Adventurer Class'''
+ { [[CreatureIDs|CreatureIDMale]] [[CreatureIDs|CreatureIDFemale]] } [[TribeAlignments|TribeAlignment]] &quot;'''HelpText'''&quot;
+
+Example:
+ { ADVENTURER ADVENTURER_F } LAWFUL &quot;Roam the land in search of adventures and loot!&quot;
+
+===End the file===
+The file always begins like this:
+ }

@@ -1,0 +1,20 @@
+== Explosion Trap ==
+* Build Cost: 100 mana
+* Damage: 15
+* Damage type: Physical
+* Special effects: Pushes invaders backwards, like the word-of-power spell
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.
+
+
+== Next Trap (Copy this as a template) ==
+* Build Cost: ?
+* Damage: ?
+* Damage type: (Physical/Fire/Poison/Other)
+* Special effects: ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.

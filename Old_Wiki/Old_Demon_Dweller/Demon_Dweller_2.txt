@@ -1,0 +1,17 @@
+[[File:Demon_dweller.png|100px|link=]] '' Soldiers of Demonshrine
+
+*Spell Damage:35
+*Defense:30
+*Damage 25
+*Body size:Large
+*Wings:Yes
+*Flying:Yes
+*Magic Resistance:Yes
+*Courage:Yes
+*Gender:Male
+*Spell:Blast
+*Group:Pack
+*Melee training maximum:4
+*Spell training maximum:4
+
+[[Category:Creatures]]

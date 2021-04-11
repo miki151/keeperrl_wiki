@@ -1,0 +1,85 @@
+=Forming a team=
+*Drag minions onto the &quot;New team&quot; option to form a new team.
+*Drag more minions onto the team that is formed.
+*When ready, select the team.
+*Choose a team member and click control to make them the leader.
+*To attack with the team leader, move them into an enemy.
+*Press f to fire arrows and then select the target
+*Click on items in inventory to use them, or throw them
+*Right click on enemies for other options, such as ordering troops to take humanoids prisoner.
+*Press t to travel around the campaign map.
+
+ [[List of shortcut keys | Shortcut_Keys#Minion_Control_Mode_and_Adventurer_mode]]
+
+=Some Team Roles to pick=
+
+Consider which of these roles you need to fill...
+
+==Attacker==
+
+*High damage and defence unit
+*Benefits from carrying melee resistance potions
+*Hit enemies with melee vulnerability potions for good measure
+*Needs a good melee weapon
+*Often best played as the team leader
+
+==Mage==
+*High spell damage skill
+*Mage weapon (like a staff) needed
+*Some decent spells needed
+
+==Archer==
+*High ranged damage unit
+*Needs a bow
+
+==Night Vision==
+*Gives your team the ability to shoot well at night
+*Also useful in large caves
+*Being able to see the enemy in the dark to prepare or avoid them
+*If necessary, can use night vision mushrooms
+
+==Elf vision or aerial vision==
+*Gives you line-of-sight past trees and some other barriers
+*Aim arrows at full range through a forest
+*See enemies before they see you
+*Shoot enemies before they see you
+
+==Disarming traps==
+*Very useful against enemy dungeons
+*Will see traps
+*Will disarm traps when you move into them
+
+==Healing others==
+*Needs to be able to train in the correct magic school
+*Needs to have the healing spells
+
+=Leader control mode=
+
+Leader control mode is 3 different modes.
+
+[[File:Team Control.png]]
+
+==Mode 1: Ignore enemies==
+*Stop your troops running off all over the place chasing enemies.
+*If you don't have this set, they will break ranks and charge at all enemies.
+
+==Mode 2: Stand ground==
+*Get your troops into a standing formation
+*Only the leader moves
+*Switch leader and position everything as you want it
+*Leave a defensive block at a useful place and attack with the leader.
+*Tell a healer or defensive block to stand ground in a safe place while the leader attacks. Then return to the healer to get healed.
+*As you come under attack you can switch leader and keep a defensive block.
+*The formation of the standing army is broken after they follow their leader again.
+
+==Mode 3: Neither Ignoring enemies nor standing ground==
+*Chase enemies
+*Good for mopping up fleeing enemies, if you don't want any to escape
+
+=Full control mode=
+*Control each unit in turn
+*Press &quot;w&quot; to wait until other units have moved
+*Requires patience
+
+[[Category: Keeper Mode]]
+[[Category : Gameplay]]

@@ -1,0 +1,3 @@
+Bandits try to access your [[Treasure_Room|treasure room]] to steal gold and then run away.
+
+[[Category: Enemies]]

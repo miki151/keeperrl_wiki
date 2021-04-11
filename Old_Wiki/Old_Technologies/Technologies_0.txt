@@ -1,0 +1,95 @@
+__NOTOC__
+
+== Technology tree ==
+'''[[#Crafting|Crafting]]
+: '''[[#Archery|Archery]]
+: '''[[#Traps|Traps]]
+: '''[[#Iron_Working|Iron working]]
+:: '''[[#Two-handed_Weapons| Two-handed weapons]]
+:: '''[[#Jewellery|Jewellery]]
+'''[[#Sorcery|Sorcery]]
+: '''[[#Advanced_Sorcery|Advanced sorcery]]
+:: '''[[#Master_Sorcery|Master sorcery]]
+'''[[#Alchemy|Alchemy]]
+: '''[[#Advanced_Alchemy|Advanced alchemy]]
+'''[[#Beast_Mutation|Beast mutation]]&lt;br&gt;
+'''[[#Humanoid_Mutation|Humanoid mutation]]}
+
+
+
+== Crafting ==
+* Cost : 40 mana
+* Unlocks :
+** [[:Installations#Door|Door]]
+** [[:Installations#Barricade|Barricade]]
+** [[:Manufactories#Workshop|Workshop]]
+
+== Archery ==
+''Requires crafting''
+* Cost : 100 mana
+* Unlocks :
+** [[:Weapons#Short_Bow|Bows]]
+** [[:Weapons#Arrows|Arrows]]
+
+== Traps ==
+''Requires crafting''
+* Cost : 100 mana
+* Unlocks :
+** [[:Traps|Traps]]
+
+== Iron Working ==
+''Requires crafting''
+* Cost : 60 mana
+* Unlocks :
+** [[:Manufactories#Forge|Forge]]
+
+== Two-handed Weapons ==
+''Requires iron working'' 
+* Cost : 100 mana
+* Unlocks :
+** [[:Weapons#Two-handed|Two-handed weapons]]
+
+== Jewellery == 
+''Requires iron working'' 
+* Cost : 200 mana
+* Unlocks :
+** [[:Manufactories#Jeweler|Jeweler]]
+
+== Alchemy ==
+* Cost : 80 mana
+* Unlocks :
+** [[:Manufactories#Laboratory|Laboratory]]
+** [[:Potions#Basic_Potions|Basic potions]]
+
+== Advanced Alchemy ==
+''Requires alchemy'' 
+* Cost : 200 mana or [[Consumables#Book_of_Avanced_Alchemy|Book of Advanced Alchemy]]
+* Unlocks :
+** [[:Potions#Advanced_Potions|Advanced Potions]]
+
+== Sorcery ==
+* Cost : 60 mana
+* Unlocks :
+** [[:Spells#Basic_Spells|Basic spells]]
+
+== Advanced Sorcery ==
+''Requires sorcery'' 
+* Cost : 120 mana
+* Unlocks :
+** [[:Spells#Basic_Spells|Advanced spells]]
+
+== Master Sorcery ==
+''Requires master sorcery'' 
+* Cost : 350 mana or [[Consumables#Book_of_Master_Sorcery|Book of Master Sorcery]]
+* Unlocks :
+** [[:Spells#Master_Spells|Master spells]]
+
+== Beast Mutation ==
+* Cost : 400 mana or [[Consumables#Book_of_Beast_Mutation|Book of Beast Mutation]]
+* Unlocks :
+** [[:Legendary_Beast|Legendary Beast]]
+
+== Humanoid Mutation ==
+* Cost : 400 mana or [[Consumables#Book_of_Humanoid_Mutation|Book of Humanoid Mutation]]
+* Unlocks :
+** [[:Legendary_Humanoid|Legendary Humanoid]]

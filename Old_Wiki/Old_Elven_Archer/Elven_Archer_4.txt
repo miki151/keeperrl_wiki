@@ -1,0 +1,23 @@
+[[File:elf_archer.png|100px|link=]] ''Deadly shooter
+
+= Base Stats =
+*Ranged Damage:25
+*Defense:12
+*Damage:18
+*Body size:Medium
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Elf Vision:Yes
+*Archery training maximum:3
+
+== Spells ==
+ Healing
+
+== Inventory ==
+ Elven Sword
+ Leather Armor
+ Short Bow
+ Arrow: 20-36
+ Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit
+
+[[Category: Creatures]]

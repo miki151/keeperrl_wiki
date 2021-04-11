@@ -1,0 +1,16 @@
+=Usage=
+Used to specify various immigration options.
+
+=Example from immigration.txt=
+From: [[Immigration.txt]]
+ '''noAuto''' = true
+ '''initialRecruitment''' = 4
+
+=Valid values=
+*invisible
+*noAuto
+*consumeIds
+*initialRecruitment
+*frequency
+
+[[Category: Modding Reference Data]]

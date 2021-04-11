@@ -1,0 +1,68 @@
+== Night vision ==
+* Magic school: Sorcery
+* Special powers: Temporarily lets you see in the dark
+* Cooldown : 30
+* Concept: Temporary night vision
+* Purpose in game: This may get you out of a tight spot or let you target enemies with a bow, which were normally not visible 
+* Optional features: Different magic school.
+
+== Undead cloud ==
+* Magic school: Master sorcery
+* Special powers: Surrounds the caster with a cloud of poisonous gas.
+* Cooldown : 500
+* Concept: Poison your foes using a cloud of death gas.
+* Purpose in game: A decent combat spell with a large cool-down 
+* Optional features: 
+1) Put it in a new necromancy school instead of the existing master sorcery school.
+New magic schools only accessible by finding a technology book.
+
+2) Give caster temporary poison resistence.
+* Discussion:
+
+== Dark Persuasion ==
+* Magic school: Master sorcery
+* Special powers: Turns hostile creatures neutral and neutral creatures friendly. Doesn't work on undead. Must be next to the creature. Small chance of success. The creature will use its turn to attack you if you fail. Tough creatures are even harder to persaude.
+* Cooldown : 3000 - once per day
+* Concept: Most creatures can be won over with magic and persistence. Don't be fooled though, it is hard work.
+* Purpose in game: Really cool to win over creatures that you normally would never get in your dungeon.
+* Optional features: Put it in a new psychic magic school instead of master sorcery.
+New magic schools only accessible by finding a technology book.
+* Discussion:
+
+== Grow trees ==
+* Magic school: Sorcery
+* Special powers: Create some trees nearby.
+* Cooldown : 150 and also costs some mana (unlike most spells)
+* Concept: Magic can grow trees if you know how to do it.
+* Purpose in game: Protect yourself from ranged attacks. Small source of wood.
+* Optional features: 
+Put it in a new nature school instead of the existing sorcery school.
+New magic schools only accessible by finding a technology book.
+* Discussion:
+
+== Change Places! ==
+* Magic school: Advanced Sorcery
+* Special powers: Swaps the positions of two team members
+* Cooldown : 150
+* Concept: Strategically repositioning team members
+* Purpose in game: Nothing else works like this
+* Optional features: Variants could also swap two enemy creatures, or just two of any creature
+* Discussion: 
+
+== Firestorm ==
+* Magic school: New magic school. &quot;Vengence&quot; perhaps.
+* Special powers: Blasts things nearby with a firestorm. Trees and bushes will catch fire. It will also burn you if you are not fire immune.
+* Cooldown : 500
+* Concept: Blast everything. Hurt friend and foe alike.
+* Purpose in game: More spell variety. Different monsters with different spells.
+* Optional features: The vengence techology and spell school could be for legendary humans not keepers. ie. They have different spells.
+* Discussion: Discuss the idea here.
+
+== Next spell (Copy this as a template) ==
+* Magic school: ?
+* Special powers: ?
+* Cooldown : ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.

@@ -1,0 +1,16 @@
+= Stats =
+*Settlement: Custom castle
+*Tribal Loyalty: Humanity
+*Inhabitants: Teuton boss leading 6-9 teutons plus 2-5 civilains and friar
+*Location Named as = Town
+*Race = Teutonic Knights
+*Stockpiles: 150 gold in treasure chests
+*Building Style: Brick
+*Furniture: Castle Furniture
+*Outside Features = castle surroundings 
+*Immigrant Interval: 300
+*Max Population: 14 with ghost Probability 10% spawnGhosts = 6 leaderAsFighter = true 
+*Immigration:  Teuton fighters  frequency 1  
+*AI: Min Assault Population = 0. Min Team Size: 5. Triggered by throne, implared heads, killed tribe members, coquering 3 other tribes, stolen items, proximity. Hold to ransom or else assassinate keeper.
+
+[[Category: Tribes]]

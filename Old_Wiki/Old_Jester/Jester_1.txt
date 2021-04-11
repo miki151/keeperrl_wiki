@@ -1,0 +1,6 @@
+*Defense:8
+*Damage:8
+*Body size:Large
+*Magic Resistance:Yes
+
+[[Category:Creatures]]

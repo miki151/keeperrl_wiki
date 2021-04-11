@@ -1,0 +1,5 @@
+*Defense:35
+*Spell Damage:100
+*Body size:Large
+
+[[Category:Creatures]]

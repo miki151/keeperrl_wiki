@@ -1,0 +1,12 @@
+[[File:husky.png|100px|link=]]
+
+= Base Stats =
+*Body: Four Legged MEDIUM
+*Weight: 25 
+*Attributes: DAMAGE 18 DEFENSE 7 
+
+= Encounters =
+*[[Eskimo Cottage]]
+*[[Eskimo village]]
+
+[[Category: Creatures]]

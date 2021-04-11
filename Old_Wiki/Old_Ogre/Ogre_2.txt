@@ -1,0 +1,7 @@
+Ogres start at level 12
+
+== Skills ==
+* [[Weapon Melee]]
+
+[[Category:Creatures]]
+[[Category: Minions]]

@@ -1,0 +1,16 @@
+[[Category:Rooms]]
+Description: ''Humanoid minions place their beds here.''
+
+This is the sleeping-place of:
+* [[Goblin|Goblins]]
+* [[Orc|Orcs]]
+* [[Orc Shaman|Orc Shamans]]
+* [[Ogre|Ogres]]
+* [[Harpy|Harpies]]
+
+== Attraction ==
+
+All Humanoids need a free space in the dorm for their bed to [[Immigration|immigrante]].
+
+==Tile Cost==
+10 Wood Planks

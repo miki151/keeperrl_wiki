@@ -1,0 +1,14 @@
+[[File:ada_golem.png|100px|link=]]
+
+*Defense:36
+*Damage:36
+*Melee Resistance:Yes
+*Slow:Yes
+*Body Size:Large
+*Fire Resistant:Yes
+
+==Summary==
+
+They appear on your dungeon map sector and guard all the adamantium ore. They will dig through and launch an attack against any keeper brave enough to dig the ore. They march slowly but persistently towards their enemy and once they get into melee combat are extremely dangerous, causing many new players to despair in humiliation.
+
+[[Category:Creatures]]

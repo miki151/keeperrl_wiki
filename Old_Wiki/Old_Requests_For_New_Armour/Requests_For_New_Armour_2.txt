@@ -1,0 +1,14 @@
+== Elven Steel War Helm ==
+*Defence: 6 - 10
+*Weight: 5
+*Price: 1000 gold
+*Type: Helmet
+*Special powers: None
+
+
+== Next armour (Copy this as a template) ==
+*Defence: ? - ?
+*Weight: ?
+*Price: ?
+*Type: (Helmet/Body/Gloves/Boots)
+*Special powers: ?

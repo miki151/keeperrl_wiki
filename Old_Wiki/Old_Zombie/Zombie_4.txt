@@ -1,0 +1,32 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 2
+* Strenght : 14
+* Dexterity : 13
+* Speed : 60
+* Weight : 100
+* Size : large
+* Unarmed attackbonus : 13
+* Attack : 14
+* Defense : 13
+* Accuracy : 13
+* Salary : none
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Undead|Undead]]
+* [[:Traits#Brainless|Brainless]]
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Graveyard|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+* probability : 0.5
+* corpse usage : 1
+
+[[Category:Creatures]]
+[[Category:Minions]]

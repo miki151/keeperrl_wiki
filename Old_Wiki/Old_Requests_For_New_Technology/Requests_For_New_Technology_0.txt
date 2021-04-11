@@ -1,0 +1,11 @@
+
+
+==Guilds==
+*Give creatures xp for doing their studying and crafting tasks
+*Levels earnt by studying and crafting could be 2 or 3 max
+
+==Debris Management==
+*Grant resource +1 stone for every tile mined by imps
+
+==Tyranny==
+*Imps get +40 speed and work faster

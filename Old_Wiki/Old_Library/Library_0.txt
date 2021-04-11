@@ -1,0 +1,5 @@
+Allows your keeper to research new tech
+==Tile Cost==
+20 wood
+==Efficiency==
+Yes

@@ -1,0 +1,5 @@
+Existing traits are:
+
+Animal, Blind, Brainless, Carry Anything, Courage, Explore, 
+Humanoid, Fire Creature, Flying, Not Breathing, Innocent,
+Poison Resistance, Stationary, Uncorporal, Undead

@@ -1,0 +1,23 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+*Spell damage:5
+*Defense:25
+*Body size:Large
+*Skill:Consumption
+
+== Traits ==
+* [[:Traits#Uncorporal|Uncorporal]]
+
+== Tasks ==
+* [[:Skills#Absorbtion|Absorb]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.2
+* space usage : 4
+* required tiles
+** Ritual Room : 12
+
+[[Category:Creatures]]
+[[Category:Minions]]

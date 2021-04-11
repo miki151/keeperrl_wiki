@@ -1,0 +1,23 @@
+[[File:jackal.png|100px|link=]] ''Weak aggressor
+
+== Base Stats ==
+
+*Defense:10
+*Damage:15
+*Body size:Small
+*Weight:10
+*Animal:Yes
+
+==Encounters==
+
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Very Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[White Dragon Dungeon Floor]]
+
+== Summary ==
+
+A weak opponent who is occasionally found in gnomish and dark elven dungeons. Easy enough to shoot down.
+
+[[Category:Creatures]]

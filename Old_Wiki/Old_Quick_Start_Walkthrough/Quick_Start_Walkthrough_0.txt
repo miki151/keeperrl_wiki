@@ -1,0 +1,5 @@
+This Quick Start written against KeeperRL Alpha 8.  Start here if you've never played before.
+
+- Download the KeeperRL ZIP
+- Unzip.  There is no install required.  The program &quot;keeper.exe&quot; is simply run in place.
+- The Main Menu will come up.  Choose &quot;New Game&quot;.

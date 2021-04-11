@@ -1,0 +1,8 @@
+[[File:temp.png|100px|link=]]
+
+*Defense:40
+*Damage:40
+*Melee Resistance:Yes
+*Body Size:Large
+
+[[Category:Creatures]]

@@ -1,0 +1,18 @@
+[[File:Dark_elf_lord.png|100px|link=]] '' Lord of his caves
+
+== Base Stats ==
+*22 damage
+*14 defense
+16 spell_damage
+Medium-size humanoid body
+Magic resistance
+Night Vision
+Sorcery Skill 1.0
+Heal self
+Heal other
+Speed self
+Defence bonus
+Damage bonus
+Blast
+
+[[Category:Creatures]]

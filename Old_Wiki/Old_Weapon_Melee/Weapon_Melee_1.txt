@@ -1,0 +1,3 @@
+Creature can fight with weapons.
+
+[[Category: Skills]]

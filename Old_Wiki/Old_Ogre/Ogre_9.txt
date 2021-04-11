@@ -1,0 +1,27 @@
+[[File:troll.png|100px|link=]] ''12 combat training levels
+
+An ogre is a large humanoid with 2 arms and 2 legs. It is strong and agile, but slow. Ogres start at level 12
+
+*Defense:18
+*Damage:18
+*Body size:Large
+*Weight:140
+*Magic Vulnerability:Yes
+*Workshop:0.5
+*Forge:0.5
+*Furnace:0.9
+*Melee training maximum:12
+
+
+== Skills ==
+* [[Weapon Melee]]
+
+== Order Tasks ==
+* [[Training]]
+* [[Workshop]]
+* [[Forge]]
+* [[Lab]]
+* [[Jeweler]]
+
+[[Category:Creatures]]
+[[Category: Minions]]

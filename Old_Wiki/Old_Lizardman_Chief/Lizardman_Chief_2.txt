@@ -1,0 +1,11 @@
+= Base Stats =
+*Damage:30
+*Body size:Medium
+*Poison Resistant:Yes
+*Defense:16
+*Attack:Poison
+*Fast:True
+*Melee training maximum:10
+*Courage:Yes
+
+[[Category: Creatures]]

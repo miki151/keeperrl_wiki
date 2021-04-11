@@ -1,0 +1,15 @@
+[[File:earthelemental.png|100px|link=]] ''Summoned near rock using magic
+
+==Base Stats==
+*Body Size:Large
+*Weight:500
+*Defense:25
+*Damage:30
+*Ranged Resistance:Yes
+
+==Summary==
+These elementals are summoned by spellcasters using the summon elemental spell. The Elementalist knows how to summon these creatures and will use them in an attack.
+
+Mind dead, cold and violent. At least they drop some stone when you kill them. You can farm them for stone although this is considered cheasing and it is tedious and not really necessary either.
+
+[[Category:Creatures]]

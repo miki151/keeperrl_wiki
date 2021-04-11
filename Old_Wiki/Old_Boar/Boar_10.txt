@@ -1,0 +1,14 @@
+[[File:boar.png|100px|link=]]
+'' Shy creatures that only fight when cornered.
+
+*Defense:10
+*Damage:10
+*Body size:Medium
+*Weight:200
+*Animal:Yes
+*Chasing:No
+
+==Summary==
+Boar really only pose a threat if you frighten them at close quarters while exploring. They do however, frighten imps. They are of no use to dungeons since they can neither be controlled nor recruited by keepers.
+
+[[Category:Creatures]]

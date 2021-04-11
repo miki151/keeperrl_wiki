@@ -1,0 +1,16 @@
+[[File:driad.png|100px|link=]] '' Tree dwellers
+
+= Base Stats =
+*Ranged Damage:25
+*Defense:14
+*Damage:6
+*Body size:Medium
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Elf Vision:Yes
+*Archery training maximum:4
+
+= Summary =
+These creatures are deadly with a bow and arrow. They can be taken prisoner using bats at night, so that you have the better vision compared to theirs. If you don't want prisoners, normally players will simply burn down their forest and plunder all the bows and corpses left over.
+
+[[Category:Creatures]]

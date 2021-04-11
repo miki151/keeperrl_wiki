@@ -1,0 +1,30 @@
+== Workshop Stand==
+Produces: first aid kits, bows, non-metal weapons, and traps
+
+=== Tile Cost ===
+* 15 Wood
+
+== Forge ==
+Requires [[Iron Working]] researched.
+
+Produces: all metal weapons and all metal armor
+
+=== Tile Cost ===
+* 15 Iron
+
+== Laboratory ==
+Requires [[Alchemy]] researched.
+
+Produces: magical potions
+
+=== Tile Cost ===
+* 15 Granite
+
+== Jeweler ==
+Requires [[Jewellery]]
+Produces: jewelry, magical rings, and amulets
+
+=== Tile Cost ===
+* 20 Wood
+
+[[Category: Rooms]]

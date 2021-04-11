@@ -1,0 +1,31 @@
+__NOTOC__
+''Summoned by [[:Spells#Fire_Sphere|fire sphere]] spell.''
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 5
+* Dexterity : 15
+* Speed : 100
+* Weight : 10
+* Size : large
+* Unarmed attackbonus : 10
+
+== Combat Attributes ==
+* Attack : 15
+* Defense : 5
+* Accuracy : 15
+
+== Body Parts ==
+* Heads : 0
+* Arms : 0
+* Legs : 0
+* Wings : 0
+
+== Traits ==
+* [[:Traits#Brainless|Brainless]]
+* [[:Traits#Fire_Creature|Fire Creature]]
+* [[:Traits#Flying|Flying]]
+* [[:Traits#Not_Breating|Not Breathing]]
+* [[:Traits#Uncorporal|Uncorporal]]
+
+[[Category:Creatures]]

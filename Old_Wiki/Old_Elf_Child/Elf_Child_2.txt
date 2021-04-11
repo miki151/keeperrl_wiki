@@ -1,0 +1,10 @@
+= Base Stats =
+*Damage:6
+*Body size:Small
+*Defense:6
+*Magic Resistance:Yes
+*Skill:Stealth
+*Spell:Heal Self
+*Elf Vision:Yes
+
+[[Category: Creatures]]

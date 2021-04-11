@@ -1,0 +1,19 @@
+[[File:donkey.png|100px|link=]] '' Farm animal
+
+== Base Stats==
+
+*Defense:7
+*Damage:10
+*Body size:Large
+*Weight:200
+*Animal:Yes
+*Chasing:No
+
+==Encounters==
+*[[Tutorial village]]
+
+== Summary ==
+This is just another innocent farm animal and will challenge only the weakest of opponents. However, these can sometimes be recruited by white knights for 50 gold to boost food production resulting in a +1 population cap bonus. If you do recruit them build your animal cages outside your dungeon area as large numbers of farm animals get in the way of running a keep.
+
+[[Category:Creatures]]
+[[Category:Recruits]]

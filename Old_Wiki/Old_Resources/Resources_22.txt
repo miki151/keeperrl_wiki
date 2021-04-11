@@ -1,0 +1,56 @@
+In KeeperRL the amount of resources you have is ''limited'': trees don't grow back, all ores are shown once you have researched all geology technologies. There is a ''possibly'' a little exception with [[:Resources#Gold|gold]].
+
+To gather resources you have to select them the ''Dig or cut tree'' tool. Your [[:Imp|imps]] will then start to harvest the resource and carry it to your [[:Storage|stockpiles]].
+
+[[File:Resources-Screenshot.png|500px|link=]]
+Left to right: Gold, wood, iron, stone, adamantium, mana
+
+== Gold ==
+''You get gold by mining gold veins.''
+
+You need to store gold pieces in a [[treasure chest]].
+
+Gold is used to build [[:Installations#Statue|statues]] and your [[:Throne|throne]] once you can. It is the only way to seriously increase your population cap. Hoarding too much gold will attract [[:Bandit|bandits]], and the throne itself makes your neighbors hate you more.
+
+You need gold to pay your working creatures.
+
+The alternative but surefire way of getting gold is by ''luring attackers'' into your keep and taking the ore from the bloody corpses, as they very often carry their purse with them. A defensive keep strategy will easily score a big gold count.
+
+== Wood ==
+''You get wood by chopping down trees or bushes.''
+
+The amount of wood planks per tile is: 
+* per Tree : 25-40
+* per Bush : 5-10
+
+Wood is used to build [[:Category:Rooms|rooms]] (around 2/3 of them) and [[:Installations|installations]], like [[:Installations#Door|doors]], [[:Installations#Bridge|bridges]], etc. It's the first resource you are gonna need as it takes 20 wood per [[:Library|library]] tile, enabling [[:Technologies|research]].
+
+Chopping down too many trees can summon a [[:Tree_Spirit|tree spirit]].
+
+== Iron ==
+''You get iron by mining ore veins.''
+
+The amount of iron ore per tile is : 18 - 40
+
+Iron is used to build [[:Category:Rooms|rooms]], usually with a military theme, such as the [[:Training Room|training room]], the [[:Manufactories#Forge|forge]], ect. Iron is quite common, you can usually get it in large amounts from the very beginning of the game.
+
+== Adamantium ==
+''You get adamantium by mining ore veins.''
+
+Adamantium is used to build special dummies and finer, sharper, better weapons and armour than iron. Naturally occurring veins are guarded by golems.
+
+== Stone ==
+''You get stone by mining granite veins.''
+
+The amount of stone per tile is : 18 - 40
+
+Stone is used to build 2 [[:Category:Rooms|rooms]]: the [[:Graveyard|graveyard]] and the [[:Manufactories#Laboratory|laboratory]].
+
+== Mana ==
+''You harvest mana by destroying an entire tribe
+
+Every creature studying gives you : 0.2 mana every 1.0 - 2.5 ticks depending on the creatures speed.
+
+The alternative, as they say, is to ''kill or torture something innocent''. While it is quite difficult to get [[:Prisoner|prisoners]] as you tend to maim or get maimed (which you would have to send [[:Prisoner#Tasks|from prison to the torture task]]), the regular killing of cows, children or even incoming attackers will probably be a good source of hard-earned mana, while also making you very much hated by the population.
+
+[[Category:Keeper Mode]]

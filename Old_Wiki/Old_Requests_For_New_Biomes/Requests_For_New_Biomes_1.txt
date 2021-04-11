@@ -1,0 +1,26 @@
+==Forest==
+*It is the existing biome
+*Trees
+*Grass and bushes
+*Tree spirits
+*Driads
+*Hills
+*Caves
+*Lakes
+*Rivers
+
+==Jungle==
+*Dense trees filling map
+*Paths through trees
+*Clearings
+*Huge rivers
+*Dangerous wildlife
+*Tigers
+*Elephants
+*Monkies
+*Rhinos
+
+==More biome Ideas==
+*background tiles
+*Features
+*Inhabitants

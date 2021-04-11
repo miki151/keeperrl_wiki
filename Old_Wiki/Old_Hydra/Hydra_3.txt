@@ -1,0 +1,11 @@
+[[File:hydra.png|100px|link=]] ''Poisonous boss
+
+*Defense:45
+*Damage:27
+*Body size:Large
+*Poison Resistant:Yes
+*Ranged Resistance:Yes
+*Attack:Poison
+*Skill:Swimming
+
+[[Category:Creatures]]

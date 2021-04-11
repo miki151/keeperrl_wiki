@@ -1,0 +1,12 @@
+[[File:rat_soldier.png|100px|link=]]
+
+= Base Stats =
+*Body: type = Humanoid MEDIUM 
+*DAMAGE 12
+*DEFENSE 10
+*Training Ability: MELEE 2
+
+=Encounters=
+*[[Rat people cave]] 
+
+[[Category: Creatures]]

@@ -1,0 +1,9 @@
+type = FullZLevel {								
+type = FullZLevel {	&quot;RAT_CAVE&quot;	2	4					
+type = FullZLevel {	&quot;RAT_PEOPLE_CAVE&quot;	3	7	0.3				
+type = FullZLevel {	&quot;BLACK_RATS&quot;	5			{ # adamantium, the ores are added automatically around the golems			
+type = FullZLevel {	&quot;ADA_GOLEMS&quot;	10						
+type = WaterZLevel {		7	10			&quot;WATER&quot;	 { # Total no of creatures on this level. All are hostile       	60
+type = WaterZLevel {		10			LAWFUL	&quot;MAGMA&quot;	 { count = {10 11} all = { 10 &quot;FIRE_ELEMENTAL&quot; 1 &quot;RED_DRAGON&quot; } }	60
+type = FullZLevel {	&quot;DARK_ELF_CAVE&quot;	5		0.6	EVIL			
+type = FullZLevel {	&quot;DWARF_CAVE&quot;	5		0.6

@@ -1,0 +1,10 @@
+*Ranged Damage:25
+*Defense:14
+*Damage:6
+*Body size:Medium
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Elf Vision:Yes
+*Archery training maximum:4
+
+[[Category:Creatures]]

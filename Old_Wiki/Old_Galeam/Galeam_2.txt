@@ -1,0 +1,11 @@
+[[File:galeam.png|100px|link=]] Often mistaken for a flying teapot
+
+= Base Stats =
+*Body: type = NonHumanoid SMALL
+*Material = SPIRIT
+*Wings: 2  
+*Attributes: DEFENSE 30 
+*Spells:  &quot;bolster&quot; &quot;rally&quot; 
+
+[[Category:Creatures]]
+[[Category:Recruits]]

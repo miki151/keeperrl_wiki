@@ -1,0 +1,65 @@
+= Good Characteristics =
+
+== Invisible ==
+
+Only visible to others through telepathy.
+
+== Panic ==
+
+A larger defence with reduced attack, combined with a lack of appetite for combat.
+
+== Enraged ==
+== Hallucinating ==
+== Damage bonus ==
+== Defense bonus ==
+== Sleep resistant ==
+== Speed bonus ==
+== Poison resistant ==
+== Fire resistant ==
+== Flying ==
+== Source of light ==
+== Source of darkness ==
+== Pregnant ==
+== Resistant to magical attacks ==
+== Resistant to melee attacks ==
+== Resistant to ranged attacks ==
+== Can see through trees ==
+== Can see in the dark ==
+== Regenerating ==
+== Aware of danger ==
+== Telepathic ==
+== Satiated ==
+== Rested ==
+== Peaceful ==
+
+= Bad Characteristics =
+
+== Poisoned ==
+
+== Bleeding ==
+
+== Sleeping ==
+
+== Entangled ==
+
+== Tied up ==
+
+== Slowed ==
+
+== Insane ==
+
+== Blind ==
+
+== Unconscious ==
+
+== Collapsed ==
+
+== Vulnerable to magical attacks ==
+
+== Vulnerable to melee attacks ==
+
+== Vulnerable to ranged attacks ==
+
+== Vulnerable to sunlight ==
+
+== Time Left to live ==

@@ -1,0 +1,8 @@
+= Stats =
+*Settlement: Tower
+*Inhabitants: 1-3 Air/Earth/Wind/Fire elementals
+*Tribal loyalty: Humanity
+*Building style: Brick 
+*Notable discovery: False
+
+[[Category: Tribes]]

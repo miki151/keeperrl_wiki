@@ -1,0 +1,20 @@
+[[File:ogre.png|100px|link=]]
+[[File:ogre.png|100px|link=]]
+[[File:ogre.png|100px|link=]]
+[[File:ogre.png|100px|link=]]
+[[File:ogre.png|100px|link=]]
+[[File:ogre.png|100px|link=]]
+
+= Stats =
+*Settlement: Cave
+*Tribal Loyalty: Greenskin
+*Inhabitants: 4-8 Ogres
+*Building Style: Dungeon
+*Close To Player
+*Furniture: Standard Furniture
+*Outside features: village surroundings 
+*Immigrant Interval :300 
+*Max Population:10 
+*Immigration: Ogre fighters frequency 1
+
+[[Category: Tribes]]

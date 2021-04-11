@@ -1,0 +1,9 @@
+*Defense:6
+*Damage:6
+*Body size:Small
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Night Vision:Yes
+*Skill:Stealth
+
+[[Category:Creatures]]

@@ -1,0 +1,8 @@
+[[File:cleric.png|100px|link=]] Almost certainly holier than thou, unless you are playing saint mod
+
+= Base Stats =
+*Skills: &quot;LABORATORY&quot; 0.4
+*Spell Schools: &quot;healer&quot;
+*Permanent Effects:DISTILLATION_SKILL 1 
+
+[[Category: Creatures]]

@@ -1,0 +1,79 @@
+[[Category: Items]]
+
+= Helmets =
+
+== Leather Helm ==
+ Defense: 0 - 2
+ Weight: 1.5
+ Price: 5
+
+== Iron Helm ==
+ Defense: 1 - 3
+ Weight: 4
+ Price: 40
+
+== Telepathy Helm ==
+ Defense: 0 - 2
+ Item effect: Telepathy
+ Weight: 1.5
+ Price: 340
+
+= Body Armor =
+
+== Robe ==
+ Defense: 0 - 2
+ Weight: 0.3
+ Price: 10
+
+== Leather Armor ==
+ Defense: 2 - 4
+ Weight: 7
+ Price: 20
+
+== Chain Armor ==
+ Defense: 4 - 6
+ Weight: 15
+ Price: 130
+
+= Gloves =
+
+== Leather Gloves ==
+ Defense: 0 - 2
+ Weight: 0.3
+ Price: 10
+
+== Dexterity Gloves ==
+ Defense: 0 - 2
+ Dexterity: 1 - 3
+ Weight: 0.3
+ Price: 120
+
+== Strength Gloves ==
+ Defense: 0 - 2
+ Strength: 1 - 3
+ Weight: 0.3
+ Price: 120
+
+= Boots =
+
+== Leather Boots ==
+ Defense: 0 - 2
+ Weight: 2
+ Price: 10
+
+== Iron Boots ==
+ Defense: 1 - 3
+ Weight: 4
+ Price: 40
+
+== Speed Boots ==
+ Defense: 0 - 2
+ Speed: 30
+ Weight: 2
+ Price: 360
+
+== Levitation Boots ==
+ Defense: 0 - 2
+ Item effect: Flying
+ Weight: 2
+ Price: 360

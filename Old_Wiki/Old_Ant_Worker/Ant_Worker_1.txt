@@ -1,0 +1,7 @@
+*Defense:16
+*Damage:16
+*Body size:Medium
+*Weight:10
+*Animal:Yes
+
+[[Category:Creatures]]

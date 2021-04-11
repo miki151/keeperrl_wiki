@@ -1,0 +1,14 @@
+=Stats =
+*Settlement Cottage: 
+*Tribal Loyalty: None
+*Race: Ruins
+*Not connected by road
+*Close To Player
+*Building Style: Ruins 
+*Immigrant Interval: 700 
+*Max Population:3
+*Conquer by destroying building 
+*Immigration: Lost souls disappearing during day.
+*Spawning: Inside Territory  
+
+[[Category: Tribes]]

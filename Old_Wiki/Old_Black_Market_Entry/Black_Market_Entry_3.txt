@@ -1,0 +1,10 @@
+= Stats =
+*Settlement: Mine Town
+*Tribal Loyalty: None
+*Building Style: Dungeon
+*Furniture:  Standard Furniture
+*Items: Digging Scroll    
+*Inhabitants: [[Witch]] 10-15 [[Bandit]]/[[Cyclops]]/[[Clay Golem]]/[[Iron Golem]]/[[Lava Golem]]/[[Fire elemental]]/[[Earth elemental]]/[[Air Elemental]]/[[Water Elemental]]/[[Gnome]]/[[Gnome Chief]]/[[Dwarf]]/[[Dwarf Female]]/[[Jackal]]/[[Snake]]/[[Spider]]/[[Fly]/[[Rat]]
+*Z-level connections: Bottom Level, Market entrance, followed by black market 30x20   
+
+[[Category: Tribes]]

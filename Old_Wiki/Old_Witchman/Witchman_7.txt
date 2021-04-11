@@ -1,0 +1,15 @@
+Witcher reference
+
+== Base Stats ==
+*Spell Damage:20
+*Defense:30
+*Damage:30
+*Body size:Large
+*Magic Resistance:Yes
+*Gender:Male
+
+== Summary ==
+
+Can be seen only in endless mode. They have very high damage and defense, allowing them to plow through most of your minions (some legendary creatures and converted creatures being the exception) fairly easily. Is worth taking prisoner and attempting to convert. 
+
+[[Category:Creatures]]

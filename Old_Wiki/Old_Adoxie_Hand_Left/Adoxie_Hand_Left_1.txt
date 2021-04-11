@@ -1,0 +1,10 @@
+[[File:adoxie_hand_left.png|100px|link=]]
+
+= Base Stats =
+*Body: NonHumanoid HUGE
+*DEFENSE 50 
+*SPELL_DAMAGE 60
+*Fist attack 
+
+*Spells:  &quot;haste&quot; 
+[[Category: Creatures]]

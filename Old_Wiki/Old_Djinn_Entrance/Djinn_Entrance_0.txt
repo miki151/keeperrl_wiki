@@ -1,0 +1,9 @@
+= Stats =
+*Settlement: Cave
+*Tribal Loyalty: None
+*Location Name :Maze 
+*Race: monsters 
+*Building Style: Sandstone 
+*Z-level connections: top level entrance, empty maze 20x20, at bottom Djinn in 20x20 maze
+
+[[Category: Tribes]]

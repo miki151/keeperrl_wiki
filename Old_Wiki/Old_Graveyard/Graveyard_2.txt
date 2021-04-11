@@ -1,0 +1,23 @@
+Description: ''Corpses are dragged here. Sometimes an undead creature makes their home here.''
+
+This is the dormitory of the undead:
+*[[Zombie|Zombies]]
+*[[Vampire|Vampires]]
+
+Imps bury the corpses of the dead here.
+
+== Attraction ==
+
+All undead need a free space for their grave and a fresh corpse in the graveyard to [[Immigration|spawn]].
+
+== Tile Cost ==
+20 Granite
+
+== Tips ==
+
+* Be careful of the '''infinite undead spawn'''! As you ''always'' need a free tile to pile up corpses, every now and then a [[:Zombie|zombie]] will pop if the population cap allows it. This can quickly deplete your [[:Resources#Granite|granite]] stocks, and build you an army of very slow warriors. If needed, a lemming death (control &gt; voluntary jump into water) can temporarily solve the problem. Alternatively, control an imp to get rid of the damn butchered things outside: no corpse, no new friend.
+* Always make a [[:Installations#Door|door]] to close up a room with corpses, such as the graveyard or the [[:Pigsty|pigsty]], to avoid the gas spread that can wound and poison your minions.
+
+[[Category: Alpha15]]
+[[Category: Keeper Mode]]
+[[Category: Rooms]]

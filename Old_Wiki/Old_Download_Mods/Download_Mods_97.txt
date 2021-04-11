@@ -1,0 +1,19 @@
+For Alpha 28 Mods go [[Alpha 28 Mods | Here]]
+
+For Alpha 27 Mods go [[Alpha 27 Mods | Here]]
+
+For Alpha 26 Mods go [[Alpha 26 Mods | Here]]
+
+=Alpha 29 download instructions=
+
+In Alpha 29, downloading mods is integrated with Steam workshop. When you start a new game, click &quot;mods&quot; and select the mod you wish to download!
+
+[[File:A30CharacterSelectionScreen.png|link=]]
+
+[[File:ActivateModScreen.png|link=]]
+
+= Alpha 29 upload instructions=
+
+Upload new mods...
+
+[[Category : Gameplay]]

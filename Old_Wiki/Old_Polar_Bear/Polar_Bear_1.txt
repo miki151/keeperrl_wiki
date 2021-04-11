@@ -1,0 +1,8 @@
+[[File:polar_bear.png|100px|link=]]
+
+= Base Stats =
+*Body: Four Legged MEDIUM weight = 2    
+*Attributes: DAMAGE 20 DEFENSE 18 
+*Permanent Effects: EXPLORE_CAVES_SKILL 1 
+
+[[Category: Creatures]]

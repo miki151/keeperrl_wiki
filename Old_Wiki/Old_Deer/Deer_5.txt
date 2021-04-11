@@ -1,0 +1,17 @@
+[[File:Deer.png|100px|link=]] '' Sometimes glimpsed running through the trees
+
+== Base Stats==
+*Defense:10
+*Damage:10
+*Body size:Large
+*Weight:400
+*Fast:True
+*Animal:Yes
+*Chasing:No
+
+==Summary==
+Fun to shoot down with a bow, if you can find them. They are a lot easier to spot from the air. Not a danger unless you blunder into one without any armour on. Imps don't like them much.
+
+Deer are naturally occurring wildlife that tend to be nervous and somewhat distant from dungeons and other settlements.
+
+[[Category:Creatures]]

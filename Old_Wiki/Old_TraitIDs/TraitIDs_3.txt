@@ -1,0 +1,20 @@
+=Usage=
+Used to specify what traits immigrants have
+
+=Example from immigration.txt=
+ traits = { FIGHTER NO_AUTO_EQUIPMENT }
+
+=Valid Values=
+*LEADER
+*FIGHTER
+*WORKER
+*PRISONER
+*NO_EQUIPMENT
+*NO_LIMIT
+*FARM_ANIMAL
+*SUMMONED
+*NO_AUTO_EQUIPMENT
+*DOESNT_TRIGGER
+*INCREASE_POPULATION
+
+[[Category: Modding Reference Data]]

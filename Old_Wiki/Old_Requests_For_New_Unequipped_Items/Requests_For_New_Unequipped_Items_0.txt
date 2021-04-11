@@ -1,0 +1,7 @@
+== Potion of garlic mixture ==
+*Weight: 0.3
+*Price: 50
+*Type: Potion
+*Thrown accuracy (potions only): 6
+*Spell triggered: None
+*Special Powers: Destroys vampires

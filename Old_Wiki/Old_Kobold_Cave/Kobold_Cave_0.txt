@@ -1,0 +1,9 @@
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Dwarf 
+*Inhabitants 3-7 kobolds
+*Race: kobolds 
+*Building Style: Dungeon
+*stockpiles: 60 minerals  
+
+[[Category: Tribes]]

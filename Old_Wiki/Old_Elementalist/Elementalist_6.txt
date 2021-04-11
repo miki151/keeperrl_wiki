@@ -1,0 +1,20 @@
+[[File:elementalist.png|100px|link=]] ''Major Boss
+
+
+== Base Stats ==
+*Spell_Damge:15
+*Defense:20
+*Damage:15
+*Body size:Large
+*Laboratory:1
+*Spell training maximum:9
+*Gender:Female
+*Fire Resistant:Yes
+*Magic Resistance:Yes
+
+==Summary==
+A major boss with one weakness. His elementals return to the ether when you kill him. That tends to be a whole lot easier, so try killing him on the open battlefield. If you meet him in his tower, you may find a load of elemental spirits that need dealing with first.
+
+This guy can be captured but doesn't learn any spells when you train him. To be frank the guy is not worth capturing alive and should just be killed. Still a major boss and can be painful when he attacks with his elementals.
+
+[[Category:Creatures]]

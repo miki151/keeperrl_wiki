@@ -1,0 +1,16 @@
+= Stats =
+*Settlement: Forrest village
+*Inhabitants: Elf Lord leading 6-9 elf archers plus 6-9 Woman/Children/Horses.
+*Location Named as: Town
+*Tribal loyalty: Elf
+*Race: Elves
+*Stockpiles: 100 gold in chests
+*Building Style: Wood
+*Loot: Tech Book of master sorcery
+*Furniture: Standard room furniture  
+*Immigrant Interval = 0
+*Max Population: 18
+*Immigration: Elf archer frequency 1  
+*AI: Min attack Population = 4. Min Team Size = 4. Triggers = Stolen Items. Assassinate the keeper without ransom. 
+
+[[Category: Tribes]]

@@ -1,0 +1,5 @@
+Your non-[[:Category: Beasts|beast]] [[:Category: Minions|minions]] will find solace here.
+==Tile Cost==
+10 wood
+
+[[Category:Rooms]]

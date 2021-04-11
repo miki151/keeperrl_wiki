@@ -1,0 +1,8 @@
+= Stats =
+*Settlement: Forest cottage 
+*Tribal Loyalty: Elf 
+*Inhabitants: Elf archer with 2-3 elves and 2-5 Children/horse/cow/dog
+ *Building Style: Wood
+*Furniture: Standard Furniture
+  
+[[Category: Tribes]]

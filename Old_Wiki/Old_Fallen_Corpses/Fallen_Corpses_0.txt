@@ -1,0 +1,7 @@
+= Stats =
+*Settlement: None
+*Tribal loyalty: None
+*Connected by Road: false
+*Items:  corpses with free loot  
+
+[[Category: Tribes]]

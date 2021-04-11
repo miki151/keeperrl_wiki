@@ -1,0 +1,4 @@
+Creatures are moddable from Alpha 27 onwards. You will need to locate the file for your local installation. Here is a link to the creatures configuration data file online:
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/creatures.txt creatures.txt]]
+
+Here is a list of standard creatures in a more readable format with extra information:

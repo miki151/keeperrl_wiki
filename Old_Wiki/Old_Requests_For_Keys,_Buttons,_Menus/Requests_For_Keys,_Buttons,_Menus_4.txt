@@ -1,0 +1,7 @@
+*Click library, hold down shift, select a rectangle on the map with mouse - library with spaced shelves needs to be drawn (And not a solid block of shelves)
+
+*Rogue-like key set ie. W=up S=Down etc.
+
+*Rogue-like key set, not just for map navigation, but for controlled character movement.
+
+*Ability to double-click on creatures in minions menu, and move to their position on the world map. (It helps to find your imps when they are performing jobs)

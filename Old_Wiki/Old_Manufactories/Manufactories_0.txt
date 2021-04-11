@@ -1,0 +1,13 @@
+Manufactories
+
+== Workshop ==
+Produces: first aid kits, bows, arrows, non-metal weapons, and traps
+
+== Forge ==
+Produces: all metal weapons and all metal armor
+
+== Laboratory ==
+Produces: magical potions
+
+== Jeweler ==
+Produces: jewelry, magical rings, and amulets

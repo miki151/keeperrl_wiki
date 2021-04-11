@@ -1,0 +1,75 @@
+The tribes faced in campaigns are partially configurable in campaign_villains.txt although new tribes cannot be modded by just changing campaign_villains.txt. The file looks like this:
+
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/campaign_villains.txt campaign_villains.txt]]
+ 
+=Villains faced by evil keepers=
+
+==Main Villains faced by evil keepers==
+*Knights
+*Elves
+*Dwarves
+*Red dragon
+*Elementalist
+*Green dragon
+*Lizardmen
+*Warriors
+*Demon den
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Lesser Villains faced by evil keepers==
+*Tree spirits
+*Driads
+*Cyclops
+*Giant spider
+*Hydra
+*Unicorn herd
+*Ants
+*Zombies
+
+==Tribes allied to evil keepers==
+*Ogres
+*Harpies
+*Legendary humanoid (Trapped in sokoban)
+*Dark elves
+*Gnomes
+*Greenskin village
+
+=Villains faced by lawful keepers=
+
+==Major lawful enemies==
+*Red dragon
+*Green dragon
+*Ants
+*Dark elves
+*Greenskin village
+*Demon lord
+*Lizardmen
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Minor lawful enemies==
+*Spider
+*Cyclops
+*Hydra
+*Zombies
+*Ogres
+*Ants
+*Harpies
+
+==Lawful Allies==
+*Dwarves
+
+=Mini tribes=
+*Temples
+*Ruins
+*Dark elves
+*Lizardmen
+*Kobolds
+*Rat king
+*Humans
+*Elves
+*Dwarves
+*Ants
+*Adamantium golems
+*Rats
+*Spiders
+*Evil keeper, allied vampires or ogres

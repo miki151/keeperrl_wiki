@@ -1,0 +1,10 @@
+=Usage=
+Used to specify where immigrants spawn
+
+=Valid Values=
+*NearLeader
+*Pregnancy
+*FurnitureType
+
+
+[[Category: Modding Reference Data]]

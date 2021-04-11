@@ -1,0 +1,36 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 10
+* Strenght : 20
+* Dexterity : 17
+* Speed : 70
+* Weight : 140
+* Size : large
+* Unarmed attackbonus : 6
+* Attack : 20
+* Defense : 20
+* Accuracy : 17
+* Salary : 40
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Weapon_Melee|Weapon Melee]] : 0.3
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Manufactories|Workshop]]
+* [[:Dormitory|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Dormitory|Dormitory]]
+* probability : 0.3
+* space usage : 3
+* required tiles
+** Training Room : 16
+
+[[Category:Creatures]]
+[[Category:Minions]]

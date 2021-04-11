@@ -1,0 +1,18 @@
+= Stats =
+*Settlement: Mine town
+*Tribal loyalty: Dwarf
+*Inhabitants: Dwarf baron leading 6-9 dwarves with a  base level increase of +10 melee. 3-5 females/rats and a dwarven blacksmith.
+*Location Named as: Town
+*Race: Dwarves
+*Building style: Dungeon
+*Stockpiles: 200 gold in treasure chests with 120 minerals
+*Shop Items: Dwarf Shop
+*Outside Features = dungeon surroundings.
+*Surrounded With Resources: 5
+*Furniture: Standard room furniture  
+*Immigrant Interval: 0
+*Max Population: 15
+*Immigration: Dwarven fighters frequency 1  
+*AI: Min Population 3. Min Team Size 4. Triggered by throne, impaled heads, killed tribe members, defeating 3 other tribes, stolen items, finishing off, proximity. Hold to ransom or am to kill 3 minions or keeper 
+
+[[Category: Tribes]]

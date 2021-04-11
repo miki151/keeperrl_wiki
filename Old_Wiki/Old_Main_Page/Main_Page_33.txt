@@ -1,0 +1,23 @@
+{| class=&quot;wikitable&quot; style=&quot;width: 60%;margin: 1em auto 1em auto;&quot;
+|-
+! style=&quot;width:50%&quot; | Getting Started
+! style=&quot;width:50%&quot; | Links
+|-
+| 
+* [[Quick Start Walkthrough]]
+* [[Video Tutorials From Nat20]]
+* [[Shortcut Keys]]
+| 
+*[http://keeperrl.com/ Main Site]
+*[http://keeperrl.com/smf/ Forum]
+|-
+! Important Concepts
+! Other
+|-
+|
+* [[:Category: Rooms | Rooms]]
+* [[:Category: Spells | Spells]]
+* [[:Category: Minions | Minions]]
+* [[:Category: Enemies | Enemies]]
+|
+|}

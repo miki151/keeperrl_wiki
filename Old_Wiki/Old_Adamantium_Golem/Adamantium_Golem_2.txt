@@ -1,0 +1,10 @@
+[[File:ada_golem.png|20px|link=]]
+
+*Defense:36
+*Damage:36
+*Melee Resistance:Yes
+*Slow:Yes
+*Body Size:Large
+*Fire Resistant:Yes
+
+[[Category:Creatures]]

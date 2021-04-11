@@ -1,0 +1,15 @@
+[[File:priest.png|100px|link=]] ''Human healer
+
+*Spell damage:27
+*Damage:15
+*Defense:15 
+*Body size:Large
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Spell:Speed Self
+*Defense Bonus:Yes
+*Spell:BLAST
+*Spell :Heal Other
+*Spell training maximum:2
+
+[[Category:Creatures]]

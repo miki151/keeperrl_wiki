@@ -1,0 +1,16 @@
+[[File:adoxie_priest.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+
+= Stats =
+*Settlement: Custom Adoxie Temple
+*Tribal Loyalty: None
+*Inhabitants: [[Adoxie Priest]] leading 4-5 [[Abomination]] plus 4 or 5 [[Child#Child_Prisoner|Child Prisoners]]
+*Building Style: Adoxie's Temple 
+*Immigrant Interval = 0
+*Max Population: 15 
+*Z-level connections: Top Level Dungeon entry,  40x30 dungeon, Black market entry, 3 more 40x30 dungeons. Adoxie's Temple 40x60 followed by an extra enemy DEATH  and then a hell dungeon 40x30.   
+
+[[Category: Tribes]]

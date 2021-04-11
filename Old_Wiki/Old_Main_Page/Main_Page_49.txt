@@ -1,0 +1,39 @@
+{| class=&quot;wikitable&quot; style=&quot;width: 60%;margin: 1em auto 1em auto;&quot;
+|-
+! style=&quot;width:50%&quot; | Getting Started
+! style=&quot;width:50%&quot; | Links
+|-
+| 
+* [[Quick Start Walkthrough]]
+* [[Video Tutorials From Nat20]]
+* [[Shortcut Keys]]
+| 
+* [http://keeperrl.com/ Main Site]
+* [http://keeperrl.com/smf/ Forum]
+* [http://github.com/miki151/keeperrl Source Code]
+|-
+! Important Concepts
+! Other
+|-
+| valign=&quot;top&quot; |
+* [[Keeper]]
+* [[Minions]]
+* [[:Category: Creatures | Creatures]]
+** [[:Attributes | Attributes ]]
+** [[:Experience | Experience ]]
+** [[:Skills | Skills]]
+** [[:Traits | Traits]]
+* [[:Spells | Spells]]
+* [[:Technologies | Technologies]]
+| valign=&quot;top&quot; |
+* [[:Resources | Resources]]
+* Constructions
+** [[:Category: Rooms | Rooms]]
+** [[:Installations | Installations]]
+** [[:Traps | Traps ]]
+* [[:Category: Items | Items]]
+** [[Weapons]]
+** [[Armor]]
+** [[Jewelry]]
+** [[Consumables]]
+|}

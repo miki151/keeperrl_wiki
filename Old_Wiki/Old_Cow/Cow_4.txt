@@ -1,0 +1,16 @@
+[[File:cow.png|100px|link=]]
+''Found on human farms
+
+=Summary=
+Very weak creatures when face with an army.
+
+= Base Stats =
+*Defense:7
+*Damage:10
+*Body size:Large
+*Weight:400
+*Animal:Yes
+*Chasing:No
+
+
+[[Category: Creatures]]

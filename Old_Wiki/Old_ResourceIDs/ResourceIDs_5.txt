@@ -1,0 +1,22 @@
+=Usage=
+Used to specify the costs of items to build and craft and the costs of recruitment
+
+=Example from build_menu.txt=
+ { Furniture {{ MOUNTAIN } '''STONE''' 5 } &quot;Soft rock&quot; &quot;Structure&quot; }
+
+=Example from workshop_menus.txt=
+ {{LeatherHelm} 1 '''WOOD''' 6}
+
+=Example from immigration.txt=
+ { 1.0 CostInfo '''GOLD''' 100 }
+
+=Valid values=
+*GOLD
+*WOOD
+*IRON
+*ADA
+*STONE
+*PRISONER_HEAD
+*CORPSE
+
+[[Category: Modding Reference Data]]

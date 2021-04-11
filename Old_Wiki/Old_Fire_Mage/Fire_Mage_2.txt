@@ -1,0 +1,11 @@
+= Base Stats =
+*Gender:FEMALE
+*Alignment:HUMANS
+*Body: type = Humanoid LARGE 
+*DAMAGE 12
+*DEFENSE 8
+*SPELL_DAMAGE 16
+*Training Ability: SPELL 9 
+*Spell Schools: &quot;fire&quot; 
+
+[[Category: Creatures]]

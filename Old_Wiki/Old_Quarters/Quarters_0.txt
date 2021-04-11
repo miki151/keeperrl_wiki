@@ -1,0 +1,3 @@
+Quarters are a way to set up places for creatures to go without them wandering half way across the map or mixing with creatures assigned to different quarters. There are up to 3 of these separate areas that can be used to keep your minions apart. 
+
+[[Category: Rooms]]

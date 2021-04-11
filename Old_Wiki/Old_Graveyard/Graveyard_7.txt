@@ -1,0 +1,24 @@
+Description: ''Spot for hauling dead bodies and for Undead creatures to sleep in.''
+
+This is the dormitory of the Undead: [[File:simplegraveyard.png|200px|thumb|right|A small Graveyard for Undead spawning and Corpse Collection.]]
+*[[Zombie|Zombies]]
+*[[Vampire|Vampires]] 
+*[[Skeletons|Skeletons]]
+
+Imps bury the corpses of the dead here.
+
+== Attraction ==
+
+All Undead need a free space for their grave and a fresh corpse in the Graveyard to [[Immigration|spawn]].
+
+== Tile Cost ==
+15 Granite
+
+== Tips ==
+
+*Undead will still make a Graveyard their home if there are bones collected on it.
+*Graveyards have no limit to the amount of bones that can be piled on them. If you don't need Undead and just need to store corpses, one Graveyard is sufficient.
+
+[[Category: Alpha24]]
+[[Category: Keeper Mode]]
+[[Category: Rooms]]

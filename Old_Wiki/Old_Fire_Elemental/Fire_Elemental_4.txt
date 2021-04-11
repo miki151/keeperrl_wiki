@@ -1,0 +1,24 @@
+[[File:fire_elemental.png|100px|link=]] ''Summoned near lava
+
+== Base Stats ==
+
+*Body Size:Large
+*Defense:30
+*Damage:20
+*Attack:Fire
+*Fire Resistant:Yes
+*Flying:Yes
+
+==Encounters==
+*[[Elementalist floor]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
+
+== Summary ==
+
+These can be summoned if the summoner is anywhere near a source of fire. They like burning things, so be careful with these. 
+
+[[Category:Creatures]]

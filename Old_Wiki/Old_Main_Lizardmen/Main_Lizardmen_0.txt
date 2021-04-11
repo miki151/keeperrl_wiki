@@ -1,0 +1,19 @@
+= Stats =
+*Settlement: Village
+*Tribal loyalty: Lizardmen
+*Inhabitants: Lizard Lord with 7-10 Lizardmen.
+*Location Named as: Town
+*Race: Lizardmen
+*Building Style = Mud
+*Loot = Tech Book humanoid mutation
+*Items: Good Mushrooms
+*Furniture: Standard room furniture
+*Outside Features: Village Surroundings 
+*Immigrant Interval:140
+*Max Population: 11 
+*Immigration: Lizardman fighters  frequency 1  
+*AI: Min Attack Population 4. Min Team Size 4. Triggered by Impaled heads, 2 conquered tribes, Keeper's power, Killed tribe members, finishing off the keeper, proximity, stolen items. Assassinate leader with no compromise.
+*Supplanted enemies: 10% found in supplanted elven villages
+*Biome: Desert
+ 
+[[Category: Tribes]]

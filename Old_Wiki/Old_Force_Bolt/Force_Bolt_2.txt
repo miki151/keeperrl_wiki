@@ -1,0 +1,4 @@
+Aimed spell, creatures in direction are thrown back and dealt damage 
+
+[[Category: Aimed Spells]]
+[[Category: Spells]]

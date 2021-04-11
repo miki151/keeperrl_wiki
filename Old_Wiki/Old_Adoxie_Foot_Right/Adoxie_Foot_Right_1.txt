@@ -1,0 +1,8 @@
+[[File:adoxie_foot_right.png|100px|link=]]
+
+= Base Stats =
+*Kick attack   
+*DAMAGE 30
+*DEFENSE SPELL_DAMAGE 30 
+*Spells: &quot;slow&quot; 
+[[Category: Creatures]]

@@ -1,0 +1,22 @@
+[[File:waterelement.png|100px|link=]] ''Summoned near water
+
+=Base Stats=
+*Body Size:Large
+*Weight:300
+*Defense:15
+*Damage:40
+*Ranged Resistance:Yes
+*Skill: Swimming
+
+==Encounters==
+*[[Elementalist floor]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
+
+=Summary=
+You can summon these near water using a summon elemental spell. They are dangerous and have a considerable damage stat. They cross water with ease, due to their liquid form.
+
+[[Category:Creatures]]

@@ -1,0 +1,24 @@
+[[File:Dark_elf_lord.png|100px|link=]] '' Lord of his caves
+
+== Base Stats ==
+*Spell Damage:16
+*Defense:14
+*Damage:22
+*Body size:Medium
+*Magic Resistance:Yes
+*Sorcery:1
+*Night Vision:Yes
+*Spell training maximum:4
+*Melee training maximum:4
+*Sorcery Skill 1.0
+
+== Spells ==
+*Heal self
+*Heal other
+*Speed self
+*Defence bonus
+*Damage bonus
+*Blast
+
+[[Category:Creatures]]
+[[Media:Example.ogg]]

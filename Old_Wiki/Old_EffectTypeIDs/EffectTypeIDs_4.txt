@@ -1,0 +1,34 @@
+=Usage=
+Used with [[ItemTypes]] to specify variations of items
+
+=Example from workshops_menus.txt=
+ {{Potion '''Heal'''} 4 GOLD 10 &quot;advanced alchemy&quot;}
+
+=Valid values=
+*Teleport
+*Heal
+*Fire
+*DestroyEquipment
+*EnhanceArmor
+*EnhanceWeapon
+*Suicide
+*EmitPoisonGas
+*CircularBlast
+*Deception
+*Summon
+*SummonElement
+*Acid
+*Alarm
+*TeleEnemies
+*SilverDamage
+*CurePoison
+*Lasting
+*Permanent
+*PlaceFurniture
+*Damage
+*InjureBodyPart
+*LooseBodyPart
+*RegrowBodyPart
+*DestroyWalls
+
+[[Category: Modding Reference Data]]

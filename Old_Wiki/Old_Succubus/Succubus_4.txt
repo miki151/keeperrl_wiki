@@ -1,0 +1,34 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 5
+* Dexterity : 15
+* Speed : 80
+* Weight : 10
+* Size : large
+* Body parts : 2 Wings
+* Unarmed attackbonus : 3
+* Attack : 5
+* Defense : 5
+* Accuracy : 15
+* Salary : none
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Tasks ==
+* [[:Skills#Copulate|Copulate]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.3
+* space usage : 2
+* required tiles
+** Ritual Room : 12
+
+[[Category:Creatures]]
+[[Category:Minions]]

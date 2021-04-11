@@ -1,0 +1,11 @@
+*Defense:25
+*Damage:21
+*Body size:Medium
+*Weight:90
+*Dwarves:&quot;&quot;dwarves&quot;&quot;
+*Skill:Navigational Digging
+*Workshop:0.5
+*Magic Vulnerability:Yes
+*Gender:Female
+
+[[Category:Creatures]]

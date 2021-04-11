@@ -1,0 +1,14 @@
+[[File:demon_lord.png|100px|link=]] '' Major Villain
+
+*Spell Damage:50
+*Defense:45
+*Damage:40
+*Body size:Large
+*Flying:Yes
+*Magic Resistance:Yes
+*Courage:Yes
+*Spell:Blast
+*Group:Pack
+*Spell training maximum:7
+
+[[Category:Creatures]]

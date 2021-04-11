@@ -1,0 +1,144 @@
+Stats: 
+ *Release date: 30th March 2019
+ *Last updated: 18th May 2019
+ *Download link: [[https://github.com/SoftMonster/KeeperRLMods/raw/master/Alpha27/Alpha27BonusFeaturesMod.zip Click here]]
+ *Author:[[User:Keeperman | Keeperman]]
+ *Contributors: Amaze
+ *[[Download Mods |Installation Instructions]]
+ *Feedback: Softmonstar@gmail.com
+ *About: Just want to share some of the fun with other players.
+
+=Version history=
+30th March 2019 - Version 0.1 - Initial release
+
+27th April 2019 - Version 1.0
+#Gave necromancers a very expensive regrowth potion.
+#Merged archer and thief adventurers into &quot;archer assassins&quot;
+#Added demon lord adventurer (easy).
+#Few extra tweaks.
+
+30th April 2019 - Version 1.1
+#Added one new tech tree, which contains three technologies: &quot;magic paper production&quot;, &quot;advanced inscription&quot;, and &quot;master inscription&quot;.
+#Added ability for keepers to create custom, powerful scrolls using a workshop; After having researching the apropriate technologies.
+
+7th May 2019 - Version 1.2
+*Added laboratory skill to vampire lord
+
+15th May 2019 - Version 1.3
+#Added craftable techbooks for dark keepers
+#Removed some of the navigational digging so minions don't dig up your dungeon so much
+#Make it so vampire lord keepers can brew regrowth of body parts quickly.
+
+18th May 2019 - Version 1.4
+*Fixed a bug introduced on version 1.3 that broke the download almost completely.
+
+=Keepers=
+*Keeper mage easy mode
+*Standard keeper mage
+*Keeper mage hard mode
+*Keeper dark knight
+*Keeper white knight
+*Gnome chief
+*Elementalist
+*Vampire Lord
+*Dwarf
+*Soft monster sandbox
+
+=Adventurers=
+*Vanilla adventurer
+*Dwarf baron
+*Cyclops
+*Minotaur
+*Knight
+*Warrior hero
+*Demon Lord
+*Cleric Hero
+*Wizard adventurer
+*Archer
+
+=Technologies=
+
+==Standard==
+*alchemy                   -Build a laboratory and produce basic potions.
+*advanced alchemy         -Produce more powerful potions.
+*alchemical conversion    -Convert resources to and from gold.
+*humanoid mutation        -Breed new, very powerful humanoid species.
+*beast mutation           -Breed new, very powerful beast species.
+*pig breeding             -Build a pigsty to feed your minions.
+*iron working             -Build a forge and produce metal weapons and armor.
+*jewellery                -Build a jeweler room and produce magical rings and amulets.
+*two-handed weapons       -Produce war hammers and battle axes.
+*traps                    -Produce traps in the workshop.
+*archery                  -Produce bows and arrows.
+*sorcery                  -Learn basic spells.
+*advanced sorcery         -Learn more advanced spells.
+*magical weapons          -Produce melee weapons that deal magical damage
+*master sorcery           -Learn the most powerful spells.
+*demonology               -Build demon shrines and attract demons.
+*dragon taming            -Summon a pet dragon through your dungeon portal (Mage keepers only).
+*demonic alliance         -Summon a demon lord through your dungeon portal (Mage keepers only).
+*minotaur mutation        -Give birth to a minotaur (Dark knight keepers only).
+*cyclops mutation         -Give birth to a cyclops  (Dark knight keepers only).
+*combat succubus          -Enable the newly recruited sucubbi to do combat. (Dark knight and mage keepers).
+*magic paper production   -Unlocks ability to produce basic scrolls on a workshop.
+*advanced inscription    -Unlocks ability to create more power scrolls.
+*master inscription    -Make overpowered scrolls.
+
+==Hard mode==
+*absorbtion               -Unlock dopplegangers (later game).
+
+==Necromancer==
+*zombie hoards            -Recruit zombie hoards. Required before learning vampire hoards.
+*mummy hoards             -Recruit hoards of mummies. Required before learning vampire hoards.
+*skeleton hoards          -Recruit skeleton hoards. Required before learning vampire hoards.
+*vampire hoards           -Recruit vampires hoards. 
+*lord of war              -Recruit the lord of war.
+*lord of magic            -Recruit the lord of magic.
+*lord of speed            -Recruit the lord of speed.
+*lord of resistance       -Recruit the lord of resistance.
+
+==Elementalist==
+*elite alchemy            -Produce the most powerful potions. 
+*basic forest magic       -Summon tree spirits.
+*basic earth magic        -Bring clay golems to life.
+*basic metalic magic      -Form iron golems from iron.
+*basic fire magic         -Summon fire spheres to make up the ranks in your army.
+*master forest magic      -Summon water elementals.          
+*master earth magic       -Recruit stone golems.             
+*master metalic magic     -Recruit adamantium golems.        
+*master fire magic        -Summon lava golems.               
+*elite forest magic       -Recruit air elementals.                       
+*elite earth magic        -Summon earth elementals.          
+*elite metalic magic      -Summon automatons.                
+*elite fire magic         -Summon fire elementals.           
+
+==Gnomeworld==
+*gnomish smithy           -Produce automatons.                                   
+*gnomish alchemy          -Produce special potions that are available to gnomes.    
+*gnomish jewellery        -Build a jeweler room and produce magical rings and amulets.
+
+==DwarvenStronghold==
+*redemption               -Convert the wicked by building torture tables.
+*basic nobility           -Recruit better dwarven warriors.
+*advanced nobility        -Recruit much better dwarven warriors.                   
+*elite nobility           -Recruit the best dwarven warriors.                        
+*marriage of convenience  -Recruit a dwarf baron.                                   
+*master jewellery         -Build the best jewellery.                               
+*dwarven alchemy          -Produce special potions.                               
+
+==White Knight Upgrades==
+*legendary heroes         -Recruit new and very powerful heroes.                   
+*royal jewellery          -Create powerful but expensive jewellery fit for nobility.   
+*unicorn taming           -Recruit unicorns.
+
+
+=Other changes=
+*More variety in z-levels
+*Dark knight and white knight have a faster start with better/extra peasants
+*The lizardlord has a scroll of summon snakes
+*The Duke spawns with a scroll of summon knight
+*The warrior tribe have shields
+*Demon dwellers are fast
+*Elementalists have some simple spells by default
+*Blind and collapsed zombies have other benefits to make up for their difficulties
+*Some keeper classes can craft tech books for 1000 gold.

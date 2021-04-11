@@ -1,0 +1,10 @@
+=Usage=
+Used to specify what types of attributes special immigrants may have
+
+=Valid values=
+*DAMAGE
+*SPELL_DAMAGE
+*RANGED_DAMAGE
+*DEFENCE
+
+[[Category: Modding Reference Data]]

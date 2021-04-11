@@ -1,0 +1,43 @@
+=Download instructions=
+Alpha 26 has introduced new modding support. Download the zip files and copy them to your &quot;KeeperRL\data_free&quot; folder. To apply a mod, unzip it to &quot;data_free&quot; folder and replace any existing mod files that are already there. Restart KeeperRL for good measure. Leave the zip files in that &quot;data_free&quot;, so you can switch to any desired mod whenever you want to, just by extracting the zip file.
+
+Enjoy!
+
+[[File:ApplyingModsUsingZipFiles.png|link=]]
+
+Above: What it might look like unzipping in Windows.
+
+Below: What the extract window might look like. Note: Do NOT extract to a new folder. Extract to &quot;data_free&quot; and overwrite.
+
+[[File:ExtractWindowForMods.png|link=]]
+
+=Downloads=
+
+==Download mods for Alpha 26==
+*[https://drive.google.com/open?id=1pWiv80uVOKxZrSLoMqUO5XWRpPOnOS7D Vanilla26] - Remove all mods from Alpha 26
+*[https://drive.google.com/open?id=1g-f0L5IsGJte_xuElV6h-y8z2QAxuXtt CyclopsAndBaron26] - Allow adventuring as a cyclops and a dwarf baron
+*[https://drive.google.com/open?id=1k5ltLK6vCcK2kvre6g_x-gmpE--LtS0G ExtraWorkshopItems26] - Allow crafting of robes, spears and enchantment scrolls in the workshop
+*[https://drive.google.com/open?id=1CfMBoCCerLKY6db_kujSo3zgFc0Or5tu PetDragon26] - Allow recruitment of a pet dragon after researching dragon taming
+*[ElementalistKeeeper26] - Full keeper mod for a very different style of play.
+
+==Download mods for Alpha 27==
+*Alpha 27 is not being developed yet
+
+=How to create your own mods on Alpha 26=
+1) Locate your game_config folder for KeeperlRL. For example, this folder may be here:
+
+
+C:\Program Files (x86)\Steam\steamapps\common\KeeperRL\data_free\game_config
+
+
+2) Edit the text files inside the game config folder to get the mod that you want. Look at the [[modding guide]] to help you.
+
+3) Zip up you game_config folder
+
+4) Rename the new zip file to something that represents your mod. eg. &quot;DwarvenKeepers26.zip&quot;
+
+5) Upload your zip file to google drive or other file hosting service
+
+6) Get a link for your zip file
+
+7) Edit this page, and insert the link to your zip file in the &quot;Download mods for Alpha 26&quot; section

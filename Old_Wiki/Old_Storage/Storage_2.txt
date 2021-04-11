@@ -1,0 +1,8 @@
+There are current 3 types of storage tile
+
+==Everything==
+Cost (0)
+==Material==
+Cost (0)
+==Equipment==
+Cost (0)

@@ -1,0 +1,13 @@
+[[File:szelob.png|100px|link=]] ''Spider boss
+
+*Defense38
+*Damage:40
+*Body size:Large
+*Weight:400
+*Legs:8
+*Poison Resistant:Yes
+*Ranged Resistance:Yes
+*Attack:Poison
+*Skill:Webs
+
+[[Category:Creatures]]

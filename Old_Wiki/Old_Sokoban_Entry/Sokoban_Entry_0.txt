@@ -1,0 +1,7 @@
+= Stats =
+*Settlement: Island vault door 
+*Building Style: Dungeon
+*Tribal Loyalty: None
+*Inhabitants: None
+
+[[Category: Tribes]]

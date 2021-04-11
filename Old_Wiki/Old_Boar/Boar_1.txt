@@ -1,0 +1,8 @@
+*Defense:10
+*Damage:10
+*Body size:Medium
+*Weight:200
+*Animal:Yes
+*Chasing:No
+
+[[Category:Creatures]]

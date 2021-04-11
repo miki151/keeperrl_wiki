@@ -1,0 +1,19 @@
+
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Duke</title>
+    <ns>0</ns>
+    <id>110</id>
+    <revision>
+      <id>273</id>
+      <timestamp>2015-02-03T22:10:03Z</timestamp>
+      <contributor>
+        <username>Cerbsen</username>
+        <id>15</id>
+      </contributor>
+      <comment>Created page with &quot;= Base Stats =  Strenght: 29  Dexterity: 21  Speed: 100  Unarmed damage: 8  Size: LARGE  Weight: 100  Creature skill: melee: 1.0  Creature effect: courage: 3  == Calculated St...&quot;</comment>
+      

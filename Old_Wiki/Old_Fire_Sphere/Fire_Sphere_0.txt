@@ -1,0 +1,17 @@
+= Base Stats =
+ Strenght: 5
+ Dexterity: 15
+ Speed: 100
+ Size: LARGE
+ Unarmed damage: 10
+ Weight: 10
+ Effect: flying
+ Effect: firecreature
+
+== Calculated Stats ==
+ Level: 1.0
+ Attack: 15
+ Defense: 5
+ Accuracy: 15
+
+[[Category: Creatures]]

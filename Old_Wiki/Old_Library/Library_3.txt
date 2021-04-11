@@ -1,0 +1,17 @@
+Description: ''Mana is regenerated here.''
+
+Allows your minions to research new Spells.
+
+The maximum amount of technologies the library can store is:
+ ([library tiles in dungeon] + 1) / 2
+
+Each creature studying in the library generates mana if in free play with the &quot;generate mana&quot; option ticked.
+ 
+
+==Tile Cost==
+20 wood
+
+==Efficiency==
+Yes
+
+[[Category: Rooms]]

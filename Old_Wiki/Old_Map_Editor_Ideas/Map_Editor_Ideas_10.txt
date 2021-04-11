@@ -1,0 +1,60 @@
+Hi,
+
+There is a possibility that Alpha 25 will include a map editor. Please provide your ideas here.
+*Please keep the standard rules about not submitting copyrighted content to the wiki. This includes any material of your own for which you want the copyright. (We are submitting our ideas into the public domain for Michal to use under an open source license) 
+
+Thanks!
+
+== Main menu screen ==
+*Play
+*Map Editor &lt;---(new, Goto Tribe Editor)
+*Settings
+*Hiscores
+*Credits
+*Quit
+
+== Tribe/villain editor ==
+Creating villains (type, name, description and stuff). Choosing villain triggers and attack strategy.
+*Tribe name
+*Tribe type (Main villain/Minor villain/Allies) Drop down list
+*Adventurer campaign alignment (main/minor/allies)
+*Tribe Icon (Select view ID from list to appear on campaign maps)
+*Triggers (Gold/Proximity/Throne/Theift/Tresspass)
+*Initial Biome (Grassland, Forest, Mountain, 100% Sand, 100% rock) drop down list
+*Generate map Button
+
+== Full Terrain editor ==
+*Currently selected tribe drop down
+*Place existing object (to be owned by current tribe)
+*Remove existing object
+(Reuse existing UI)
+*Claim tile (For currently selected tribe)
+(designating villain territory)
+*Add creature to current tribe
+(Summon creature with correct tribe ID)
+(placing creatures and assigning them to villain)
+*Retire map (upload it).
+
+== Creature editor ==
+*Rename
+*Banish
+*Control creature
+*Move it about
+*Summon equipment for creature
+*Add/Remove permanent effect (Drop down list)
+*Add/Remove skill (Drop down list)
+*Increase/Decrease stats (Click on stat)
+*Add/Remove spell (Click on spell)
+*Add/Remove training abilities (Click on training)
+*Edit AI (Leader/Fighter/Civilian/Prisoner)
+*Edit gender
+*Edit body size
+*Edit a creature's item (Click on it)
+
+== Item editor ==
+*Change name of item
+*Increase/Decrease item's attack (weapon)
+*Increase/Decrease item's defense (armour)
+*Edit lasting effect (ring, potion)
+*Edit effect (Mushroom, scroll)
+*Destroy item

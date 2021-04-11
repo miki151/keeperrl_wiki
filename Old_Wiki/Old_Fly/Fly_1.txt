@@ -1,0 +1,24 @@
+__NOTOC__
+''Summoned by [[:Spells#Summon_Insects|summon insects]] spell.''
+== [[:Attributes]] ==
+''Base values''
+*Defense:12
+*Damage:2
+*Body size:Small
+*Weight:0.1
+*Courage:Yes
+*Chasing:No
+*Animal:Yes
+
+== Body Parts ==
+* Heads : 1
+* Arms : 0
+* Legs : 6
+* Wings : 2
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Courage|Courage]] : 100
+* [[:Traits#Flying|Flying]]
+
+[[Category:Creatures]]

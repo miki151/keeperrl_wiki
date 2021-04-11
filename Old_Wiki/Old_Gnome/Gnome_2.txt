@@ -1,0 +1,7 @@
+= Base Stats =
+*Defense:13
+*Damage:12
+*Body size:Medium
+*Jeweler:0.5
+
+[[Category: Creatures]]

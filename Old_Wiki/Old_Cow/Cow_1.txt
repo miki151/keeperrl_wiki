@@ -1,0 +1,16 @@
+= Base Stats =
+ Strenght: 10
+ Dexterity: 12
+ Speed: 40
+ Size: LARGE
+ Unarmed damage: 0
+ Weight: 400
+ Creature effect: innocent
+
+== Calculated Stats ==
+ Level: 1.0
+ Attack: 10
+ Defense: 10
+ Accuracy: 12
+
+[[Category: Creatures]]

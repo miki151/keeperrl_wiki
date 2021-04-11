@@ -1,0 +1,40 @@
+__NOTOC__
+
+[[File:werewolf2.png|100px|link=]] ''Naturally regenerates health
+
+== [[:Attributes]] ==
+''Base values''
+*Defense:7
+*Damage:20
+*Body size:Large
+*Attack:Fangs
+*Attack:Claws
+*Animal:Yes
+*Night Vision:Yes
+*Skill:Stealth
+*Skills:Exploring at night
+*Magic Resistance:Yes
+*Regenerates:Yes
+*Melee training maximum:12
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+
+== Tasks ==
+* [[:Traits#Explore|Explore]] : Nocturnal
+* [[:Training_Room|Train]]
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 0.1
+* space usage : 4
+* required tiles
+** Training Room : 12
+
+[[Category:Creatures]]
+[[Category:Minions]]

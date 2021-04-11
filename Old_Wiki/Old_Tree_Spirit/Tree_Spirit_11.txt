@@ -1,0 +1,23 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+*Body Size:Huge
+*Defense:25
+*Damage:35
+*Elf Vision:Yes
+*Ranged Resistance:Yes
+*Slow:Yes
+
+== Summary ==
+These are the inhabitants of many a forest in our land. When they die, they leave behind wood that can be plundered. Because they are slow creatures, a tribe of tree spirits can be killed fairly easily by a well equipped werewolf, which can gain up to about 6 levels for it. They can be rather good xp.
+
+Tree spirits can be set on fire, and will actively seek out water to put it out.
+
+== Traits ==
+* [[Traits#Brainless|Brainless]]
+* [[Traits#Not_Breathing|not Breathing]]
+
+== Skills ==
+* [[:Skills#Elf_Vision|Elf Vision]]
+
+[[Category:Creatures]]

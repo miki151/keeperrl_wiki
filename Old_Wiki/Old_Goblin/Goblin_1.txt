@@ -1,0 +1,14 @@
+Goblins start at level 3
+
+== Order Tasks ==
+* Training
+* Workshop
+* Forge
+* Lab
+* Jeweler
+
+== Skills ==
+* [[Disarm Traps]]
+
+[[Category: Creatures]]
+[[Category: Minions]]

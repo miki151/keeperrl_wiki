@@ -1,0 +1,3 @@
+[[Category:Modding Guide]]
+
+There are a lot of special keywords to learn in KeeperRL modding. Someone should make a list of them here, sometime.

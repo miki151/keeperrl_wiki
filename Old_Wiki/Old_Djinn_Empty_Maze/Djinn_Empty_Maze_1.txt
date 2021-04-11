@@ -1,0 +1,9 @@
+= Stats =
+*Settlement: Cave
+*Tribal Loyalty: None
+*Location Name :Maze 
+*Race: monsters 
+*Building Style: Sandstone 
+*Inhabitants: None
+
+[[Category: Tribes]]

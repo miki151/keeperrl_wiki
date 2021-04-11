@@ -1,0 +1,17 @@
+[[File:sorcerer.png|100px|link=]]
+
+= Base Stats =
+*Alignment:HUMANS
+*Body: type = Humanoid LARGE 
+*DAMAGE 15
+*DEFENSE 25
+*SPELL_DAMAGE 35
+*Training Ability: SPELL 2
+*Spells:  &quot;advanced healing&quot; &quot;haste&quot; &quot;defense bonus&quot; &quot;directed blast&quot; &quot;magic missile&quot; 
+*MAGIC_RESISTANCE
+*FLYING
+
+= Encounters =
+*[[Thieves]]
+
+[[Category: Creatures]]

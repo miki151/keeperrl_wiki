@@ -1,0 +1,11 @@
+[[File:abomination.png|100px|link=]]
+
+= Base Stats =
+*Body: HUGE
+*DAMAGE 60
+*DEFENSE 40 
+
+= Encounters =
+*[[Adoxie Temple]]
+
+[[Category: Creatures]]

@@ -1,0 +1,12 @@
+*Defense:19
+*Damage:17
+*Body Size:Large
+*Melee Resistance:Yes
+*Slow:Yes
+*Defense:23
+*Damage:19
+*Body Size:Large
+*Melee Resistance:Yes
+*Slow:Yes
+
+[[Category:Creatures]]

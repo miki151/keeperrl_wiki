@@ -1,0 +1,35 @@
+__NOTOC__
+
+[[File:raven.png|100px|link=]] ''Daytime explorer. Fast!
+
+
+== [[:Attributes]] ==
+''Base values''
+*Defense:2
+*Damage:2
+*Body size:Small
+*Weight:0.5
+*Bird:True
+*Animal:Yes
+*Chasing:No
+*Courage:Yes
+*Fast:True
+*Skills:Exploring
+*Group:Flock
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Tasks ==
+* [[:Traits#Explore|Explore]]
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 1.0
+* Daytime
+
+[[Category:Creatures]]
+[[Category:Minions]]

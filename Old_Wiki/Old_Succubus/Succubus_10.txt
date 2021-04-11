@@ -1,0 +1,41 @@
+__NOTOC__
+
+[[File:succubussmall.png|100px|link=]] ''She's done it before (once)
+
+== [[:Attributes]] ==
+''Base values''
+*Damage:5
+*Body size:Large
+*Wings:Yes
+*Skill:Copulation
+*Attack:Peacefulness
+*Gender:Female
+*Courage:Yes
+
+== Summary ==
+She is the only creature capable of giving birth to legends. You need her in your dungeon to breed stuff, nasty stuff. Sometimes her children are insane and kill her during childbirth, she must have an unpleasant job but someone has to do it. She also keeps minions happy whilst trying to get pregnant.
+
+If you want her to give birth you will need to pay her in gold. Click on her demonspawn in the immigration panel. Her legendary creatures will be recruited into your dungeon much like other minions.
+
+== Technologies for breeding legends ==
+[[Humanoid Mutation]]
+[[Beast Mutation]]
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Tasks ==
+* [[:Skills#Copulate|Copulate]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.3
+* space usage : 2
+* required tiles
+** Ritual Room : 12
+
+[[Category:Creatures]]
+[[Category:Minions]]

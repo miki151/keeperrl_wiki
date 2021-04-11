@@ -1,0 +1,11 @@
+=Gaining familiarity with mods on KeeperRL=
+*The first recommendation is to get familiar with the existing modding system on KeeperRL
+*Read the [[Download_Mods]] section
+*Install some existing mods
+*Test them
+*Make some simple changes to the mod files.
+
+==Suggestions for simple changes to workshop.txt==
+*
+*
+*

@@ -1,0 +1,14 @@
+An orc is a large humanoid with 2 arms and 2 legs. It is strong, agile and fast. Orcs start at level 7
+
+== Skills ==
+* [[Weapon Melee]]
+
+== Task Orders ==
+* Training
+* Workshop
+* Forge
+* Lab
+* Jeweler
+
+[[Category:Creatures]]
+[[Category:Minions]]

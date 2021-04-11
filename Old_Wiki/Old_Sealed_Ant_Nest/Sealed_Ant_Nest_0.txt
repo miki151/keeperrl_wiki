@@ -1,0 +1,14 @@
+= Stats =
+*Settlement: Ant nest
+*Iinhabitants:  5-7 ant soldlier, 5-7 ant workers led by ant queen
+*Sealed in
+*Surrounded With Resources: 5
+*Tribal loyalty: ant
+*Race: ant
+*Building style: Dungeon 
+*Immigrant Interval:0
+*Max Population: 15 
+*Immigration:  Ant works and ant soldiers frequency 1  
+*AI: Miinimum Assault Population 1, Minimum Team Size 4. Triggered by killed tribe members. Assassinates your keeper. 
+
+[[Category: Tribes]]

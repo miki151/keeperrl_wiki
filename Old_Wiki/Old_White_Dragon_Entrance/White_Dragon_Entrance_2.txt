@@ -1,0 +1,7 @@
+= Stats =
+*Settlement: Cave
+*Tribal loyalty: Bandit
+*Building Style: Glacier
+*Inhabitants: 2-4 [[Rat]]    
+
+[[Category: Tribes]]

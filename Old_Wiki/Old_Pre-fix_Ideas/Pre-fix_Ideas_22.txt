@@ -1,0 +1,102 @@
+= Prefix Ideas =
+
+== Item Prefixes ==
+
+=== Effect based item pre-fixes ===
+
+Adding a LastingEffect to creature that equips item
+* Weapons of rage (rage effect if equipped)
+* Weapons of defence (DEF_Bonus)
+* Helms of elf vision
+* Helms of night vision
+* Rods of fire resistance
+* Rods of poison resistance
+* Helms of sleep resistance
+* Armours of ranged resistance
+* Gloves of damage (DAM_BONUS)
+* Robes of poison resistance
+
+=== Stat based item pre-fixes ===
+Item stats are adjusted
+* Hardened armours (+defence)
+* Sharp weapons (+damage)
+* Brutal blunt weapons (+damage)
+* Power rods (+spell damage)
+
+Hardened leather armour....
+Sharp sword....
+Brutal wooden club....
+Iron rod of power...
+
+=== Combat based item pre-fixes ===
+Weapons effect enemies when they hit:
+* Knife,sword of poisoning (causes poison)
+* Knife, sword, axe of bleeding
+* Swords of burning (fire)
+* Club, hammer of terror (causes panic)
+* Swords of silver
+* Hammers of crushing
+* Hammers of madness (causes insanity)
+* Club, knife of provocation (causes rage)
+* Club of blasting (causes circular blasts)
+* Club, knife of curses (causes temporary magic vulnerability using the LastingEffect)
+* Clubs, hammers of entanglement (Web)
+
+== Minion Prefixes ==
+
+=== Effect based minion pre-fixes ===
+
+Permanent lasting effect:
+Angry orc, winged imp.....
+*Angry - RAGE
+*Possessed - SPEED
+*Strong - DAM_BONUS
+*Tough  - DEF_BONUS
+*Crazy - HALLU
+*Blind - BLIND
+*Winged - FLYING
+*Insane - INSANITY
+*Shining - LIGHT_SOURCE
+*Evil - DARKNESS_SOURCE
+*Insomniac - SLEEP_RESISTANT
+*Unholy - REGENERATION (undead)
+*Telepathic - TELEPATHY
+
+=== Skill based minion pre-fixes ===
+
+Minion that has a skill. eg. Dark elf Assassin
+
+* Spy - AMBUSH
+* Swimmer - SWIMMING
+* Miner - DIGGING
+* Master Miner - NAVIGATION_DIGGING
+* Thief - DISARM_TRAPS
+* Assassin - STEALTH
+* Worker - WORKSHOP
+* Blacksmith - FORGE
+* Witch - LABORATORY
+* Jeweler - JEWELER
+* Explorer -  EXPLORE
+
+=== Intrinsic attack based minion pre-fixes ===
+
+Example: Poisonous bat
+
+* Poisonous - Fangs
+
+=== Equipment based minion pre-fixes ===
+
+eg. Wealthy Ogre
+
+* Wealthy - Comes with +5 gold
+* Aggressive - Comes with a sword
+* Respected - Comes with a chain mail
+* Intelligent - Comes with a random scroll
+* Weird - Comes with 3 or 4 mushrooms
+
+=== Special minion pre-fixes ===
+
+*Faster training
+*Extra happy/sad
+*Makes other minions happy/sad
+*Makes enemies more hostile/peaceful (triggers)

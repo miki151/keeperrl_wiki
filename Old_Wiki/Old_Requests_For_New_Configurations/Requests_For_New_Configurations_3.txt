@@ -1,0 +1,20 @@
+=New maps from existing monsters and tiles=
+
+==Three cyclops==
+*In one cave
+*Main villain
+
+==The forty thieves==
+*Map full of bandits, treasure and traps.
+*Hostile legendary humanoid boss
+*Major villain map
+
+==Wolfville==
+*Buildings
+*Shop
+*Cages
+*Werewolves
+*Wolves
+*Hostile
+*Becomes an ally after accepting demands for gold
+*Recruitment and trading when an ally

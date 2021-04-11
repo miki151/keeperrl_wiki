@@ -1,0 +1,22 @@
+[[File:peasantkid.png|100px|link=]]
+''Stealthy
+
+==Summary==
+Peasant children are stealthy and make good food for dopplegangers. Evil keepers love to have an extensive child labour program. Modern, progressive dictators really care a lot about providing employment to vulnerable orphans.
+
+== Base Stats ==
+*Damage:8
+*Body size:Medium
+*Defense:8
+*Skill:Stealth
+
+=Child Prisoner=
+*Damage:2
+*Body size:Medium
+*Entangled:Yes
+*Blind:Yes
+*Defense:2
+
+Don't absorb the spider food unless you want a blind doppleganger. These children are stored for eating and are actually beyond help, even if you are playing a character that cares about morality. Sorry.
+
+[[Category:Creatures]]

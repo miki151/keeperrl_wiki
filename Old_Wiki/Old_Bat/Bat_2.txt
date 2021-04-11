@@ -1,0 +1,35 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 3
+* Dexterity : 16
+* Speed : 150
+* Weight : 1
+* Size : small
+* Unarmed attackbonus : 2
+* Attack : 3
+* Defense : 3
+* Accuracy : 16
+* Salary : none
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+
+== Tasks ==
+* [[:Traits#Explore|Explore]] : Caves
+* [[:Traits#Explore|Explore]] : Nocturnal
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 1.0
+* Nighttime
+
+[[Category:Creatures]]
+[[Category:Minions]]

@@ -1,0 +1,8 @@
+*Defense:7
+*Damage:10
+*Body size:Medium
+*Minion Food:Yes
+*Chasing:No
+*Animal:Yes
+
+[[Category:Creatures]]

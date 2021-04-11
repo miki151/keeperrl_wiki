@@ -1,0 +1,14 @@
+[[File:kobold.png|100px|link=]]
+[[File:kobold.png|100px|link=]]
+[[File:kobold.png|100px|link=]]
+[[File:kobold.png|100px|link=]]
+
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Dwarf 
+*Inhabitants 3-7 [[kobold]]
+*Race: kobolds 
+*Building Style: Dungeon
+*stockpiles: 60 minerals  
+
+[[Category: Tribes]]

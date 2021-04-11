@@ -1,0 +1,6 @@
+== Amulet of Teleportation ==
+ Weight: 0.3
+ Armour : 0
+ Price: 300
+ Type: Amulet
+ Special Powers: Randomly casts the teleport spell while worn.

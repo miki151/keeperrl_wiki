@@ -1,0 +1,5 @@
+Enabled researching: Iron Working, Traps, and Archery
+
+Unlocks: Workshop, Door, Barricade
+
+[[Category: Advances]]

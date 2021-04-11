@@ -1,0 +1,38 @@
+__NOTOC__
+[[File:goblin.png|100px|link=]] ''Really likes crafting things.''
+
+== [[:Attributes]] ==
+*Defense:13
+*Damage:12
+*Body size:Medium
+*Skill:Disarming traps
+*Laboratory:0.3
+*Workshop:0.9
+*Forge:0.9
+*Jeweler:0.9
+*Furnace:0.9
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Disarm_Traps|Disarm traps]]
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Manufactories|Workshops]]
+* [[:Training_Room|Train]]
+* [[:Laboratory|Laboratory]]
+* [[:Dormitory|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Dormitory|Dormitory]]
+* probability : 1
+* space usage : 1
+* required tiles
+** Workshop : 12
+** Jeweler : 9
+** Forge : 9
+
+[[Category:Creatures]]
+[[Category:Minions]]

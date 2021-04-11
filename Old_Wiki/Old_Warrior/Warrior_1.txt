@@ -1,0 +1,20 @@
+= Base Stats =
+ Strenght: 23
+ Dexterity: 16
+ Speed: 100
+ Unarmed damage: 3
+ Size: LARGE
+ Weight: 100
+ Creature skill: meele weapons: 0.3
+
+== Calculated Stats ==
+ Level: 12.5
+ Attack: 26
+ Defense: 23
+ Accuracy: 16
+
+== Inventory ==
+ Club
+ Leather_Armor
+ Gold: 10-20
+[[Category: Creatures]]

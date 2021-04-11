@@ -1,0 +1,6 @@
+=Usage=
+Used to specify.
+
+=Valid values=
+
+[[Category: Modding Reference Data]]

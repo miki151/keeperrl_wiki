@@ -1,0 +1,31 @@
+=build_menu.txt=
+
+=campaign_villains.txt=
+
+=immigration,txt=
+
+=player_creatures.txt=
+
+=technology.txt=
+
+==Begin the file==
+The file always begins like this:
+ {
+ {
+
+==The table of technologies in the game==
+*Each line adds a new technology to the game.
+*The line has two possible formats
+1) &quot;'''TechId'''&quot; {'''Description'''}
+Example:
+ &quot;alchemy&quot; { &quot;Build a laboratory and produce basic potions.&quot; }
+2) &quot;''TechId(New tech)'''&quot; { &quot;''Description'''&quot; {&quot;'''TechId (prerequisite for research it)'''&quot;} }
+Example:
+ &quot;alchemical conversion&quot; { &quot;Convert resources to and from gold.&quot; {&quot;alchemy&quot;} }
+
+==End the file==
+The file always begins like this:
+ }
+ }
+
+=workshops_menu.txt=

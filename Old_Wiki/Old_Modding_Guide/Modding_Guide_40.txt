@@ -1,0 +1,7 @@
+Last updated in Alpha 26 (Somewhat behind).
+
+There are 4 parts to this modding guide:
+#[[Gaining familiarity with mods on KeeperRL]]
+#[[Understanding the file formats for KeeperRL]]
+#[[:Category: Modding Reference Data | Available reference data for modding KeeperRL]]
+#[[Official Game Configs]]

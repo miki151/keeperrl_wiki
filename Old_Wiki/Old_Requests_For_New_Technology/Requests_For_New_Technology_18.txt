@@ -1,0 +1,43 @@
+==Tyranny==
+*Cost: 500 mana
+*Benefit: Imps get +20 speed to work faster
+
+==Guilds==
+*Cost: 700 mana
+*Benefit: Give creatures xp for doing their studying and crafting tasks (Levels earnt by studying and crafting could be 2 or 3 max)
+
+==Stone laying==
+*Cost: 1000 mana
+*Benefit: Filling in dungeon tiles no longer costs stone. Make that wonder dungeon you always wanted to make without worrying about running out.
+
+==Call to arms==
+*Cost: 1000 mana
+*Benefit: Idle Minions automatically craft their own items and pay for it from their own pocket. However, this production is very slow.
+*Discussion: Some people prefer this style of play to the production queues.
+
+==Debris Management==
+*Cost: 2000 mana
+*Benefit: Grant resource +20 stone for every 100 tiles mined by imps. Stone is left in a pile on dungeon floor for collection.
+
+==Salaries==
+*Cost: 5000 mana
+*Benefit: Population cap maxed out at 100 but minions need paying every day. If you run out of gold they refuse to do any tasks.
+*Discussion: Some players liked the old salary system. Perhaps make them happy :)
+
+==Settlements (Campaign mode only)==
+*Cost: 5000 mana
+*Benefit: Plant a settlement on a different map tile in the world map.
+*Discussion: Some players have asked for this, but I heard it is technically difficult
+
+==Provocation==
+*Cost: 1000 mana
+*Benefit: Give every hostile tribe on the map a new attack trigger
+
+==Slave Labour==
+*Cost: 500 mana
+*Benefit: Make prisoners craft things for you (unlock a crafting task)
+
+==Adventurers==
+*Cost: 1000 mana
+*Benefit: Get access to the adventurer class as a minion.
+*Adventurers do not train or learn magic, but can level up from level 3 to level 40 by fighting real enemies in combat. Great rogue-like unit.

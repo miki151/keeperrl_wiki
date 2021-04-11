@@ -1,0 +1,36 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+* Level : 8
+* Strenght : 17
+* Dexterity : 17
+* Speed : 100
+* Weight : 100
+* Size : large
+* Unarmed attackbonus : 2
+* Attack : 17
+* Defense : 17
+* Accuracy : 17
+* Salary : none
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Undead|Undead]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+* [[:Skills#Sorcery|Sorcery]] : 0.1
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Library|Study]]
+* [[:Graveyard|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+* probability : 0.3
+* corpse usage : 1
+
+[[Category:Creatures]]
+[[Category:Minions]]

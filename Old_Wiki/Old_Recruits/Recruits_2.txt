@@ -1,0 +1,41 @@
+== White Knight Recruits ==
+
+{| class=&quot;wikitable sortable&quot;
+|-
+!||Defense||Damage||Spell Damage||Ranged Damage||Training||Specials
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Keeper|White Knight Keeper]]
+||16||20||0||0||Melee 12+Spell 3||Forge. Avatar. Not warlock.
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Peasant]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[gnome]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[knight]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[priest]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[jester]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[dog]]
+||7||18||0||0||None||Fangs, animal
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[donkey]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[cow]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[goat]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[horse]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant. Not dark knight
+|}
+
+== List of white knight recruits ==

@@ -1,0 +1,12 @@
+=Usage=
+Used to specify whether it is a requirement to have a particular technology or a particular dungeon level to build items from the build menu
+
+=Example from build_menu.txt=
+ { Furniture {{ JEWELLER } WOOD 12 } &quot;Jeweller&quot; &quot;Crafting&quot;
+     &quot;Produces magical rings and amulets.&quot; 0 { '''TechId''' &quot;jewellery&quot; }}
+
+=Valid values=
+*TechId
+*DungeonLevel
+
+[[Category: Modding Reference Data]]

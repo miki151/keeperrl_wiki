@@ -1,0 +1,17 @@
+[[File:knight.png|100px|link=]] ''Melee combat expert
+
+= Base Stats =
+*Defense:28
+*Damage:36
+*Body size:Large
+*Melee training maximum:4
+*Melee Resistance:Yes
+
+== Inventory ==
+ Sword
+ Chain armor
+ Leather Boots
+ Potion of Healing |OR| First Aid Kit
+ Gold: 30-80
+
+[[Category: Creatures]]

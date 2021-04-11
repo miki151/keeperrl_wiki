@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Gnome
+*Inhabitants: 3-7 Gnomes
+*Race : gnomes 
+*Building Style: Dungeon
+*Outside features: Dungeon surroundings
+ Furniture:  Standard Furniture
+*Notable discovery: False
+
+[[Category: Tribes]]

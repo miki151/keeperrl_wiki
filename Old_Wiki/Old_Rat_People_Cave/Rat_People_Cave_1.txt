@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Vault
+*Building Style: Dungeon
+*Tribal Loyalty: None
+*Inhabitants: [[Rat King]] plus 2-5 [[Rat Soldiers]] plus 2-5 [[Rat Woman|females]]/[[Rat]]
+*Close To Player
+*Sealed off from outside world
+*AI: Assassinate keeper
+*Notable discovery: False
+
+[[Category: Tribes]]

@@ -1,0 +1,19 @@
+=Usage=
+Used to determine what special immigrants will appear
+
+=Example from Immigration.txt=
+From: [[Immigration.txt]]
+
+ specialTraits = {
+   { 0.03 { '''AttrBonus''' SPELL_DAMAGE 4 AttrBonus DEFENSE -4}}
+   { 0.05 { '''ExtraTraining''' SPELL 2}}
+   { 0.02 { '''LastingEffect''' HATE_UNDEAD }}
+   }
+
+=Valid values=
+*[[AttrBonuses|AttrBonus]]
+*[[ExtraTrainingIDs|ExtraTraining]]
+*[[LastingEffects|LastingEffect]]
+*[[SkillIDs|SkillID]]
+
+[[Category:Modding Reference Data]]

@@ -1,0 +1,9 @@
+[[File:iron_golem.png|100px|link=]] ''Walking iron
+
+*Defense:30
+*Damage:23
+*Melee Resistance:Yes
+*Slow:Yes
+*Body Size:Large
+
+[[Category:Creatures]]

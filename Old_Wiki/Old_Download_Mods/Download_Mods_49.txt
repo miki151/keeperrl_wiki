@@ -1,0 +1,23 @@
+=Downloads=
+
+==Download mods for Alpha 27==
+* New mods for Alpha 27 should be coming this weekend :)
+
+=How to create your own mods on Alpha 27=
+1) Locate your game_config folder for KeeperlRL. For example, this folder may be here:
+
+C:\Program Files (x86)\Steam\steamapps\common\KeeperRL\data_free\game_config
+
+2) Copy and rename the &quot;vanilla&quot; folder to reflect your new mod
+
+2) Edit the text files inside your mod folder to get the mod that you want. Look at the [[modding guide]] to help you.
+
+3) Zip up your mod folder
+
+4) Rename the new zip file to something that represents your mod. eg. &quot;DwarvenKeepers27.zip&quot;
+
+5) Upload your zip file to google drive or other file hosting service
+
+6) Get a link for your zip file
+
+7) Edit this page, and insert the link to your zip file in the &quot;Download mods for Alpha 27&quot; section

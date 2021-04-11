@@ -1,0 +1,10 @@
+[[File:yellow_dragon.png|100px|link=]]
+
+= Base Stats =
+*Body: Four Legged HUGE WINGSx2
+*Bite attack
+*Drops: Yellow Dragon Scales
+*Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;acid stream&quot;
+*Permanent Effects: RANGED_VULNERABILITY 1 
+
+[[Category: Creatures]]

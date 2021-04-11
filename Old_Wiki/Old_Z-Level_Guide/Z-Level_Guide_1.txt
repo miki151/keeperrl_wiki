@@ -1,0 +1,22 @@
+{| class=&quot;wikitable sortable&quot;
+|-
+!||Inhabitants||Starts at Depth||Ends at depth||Attack chance||Landscape
+|- align=&quot;right&quot;
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|None|1|Never|None|Resources\river\lava
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Rats|2|4|None|Resources\river\lava
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Rat People|3|7|30%|Resources\river\lava
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Plagued Rats|5|Never|None|Resources\river\lava
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Water Creatures|7|10|None|Underground sea
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Lava Creatures|10|Never|None|Underground magma sea
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Dark Elves|5|Never|60%|Resources\river\lava
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|Dwarves|5|Never|60%|Resources\river\lava
+|- align=&quot;right&quot;
+|}

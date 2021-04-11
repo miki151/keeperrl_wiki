@@ -1,0 +1,8 @@
+=== Training ===
+* Use wooden, iron and adamantium dummies to train in melee combat
+* Use wooden, iron and gold bookcases to train in magic combat
+* Use the archery targets to train ranged combat up to the creatures maximum level
+
+=== Killing an enemy ===
+*Kill enemies to gain experience
+*The tougher the monster you kill compared to you, the greater the experience is worth

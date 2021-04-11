@@ -1,0 +1,28 @@
+[[File:black_dragon.png|100px|link=]]
+''Blind but telepathic.
+
+= Base Stats =
+*Body: FourLegged HUGE 2-WINGS HEAD
+*Bite_attack
+*Drops: BlackDragonScales 
+*DAMAGE 45
+*DEFENSE 47 
+
+*Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;black dragon blindness&quot;
+*RANGED_VULNERABILITY
+*BLIND
+*TELEPATHY
+
+[[Category: Creatures]]
+
+= Tribe Stats =
+*Settlement: Cave
+*Inhabitants: Lone black dragon
+*Race = dragon
+*Tribal loyalty: None
+*Building style: Dungeon
+*Items: Dragon cave
+*AI: Triggers on Enemy Population 22, 3 conquered tribes, Stolen Items, Finishing Off keeper, proximity. Kill 12 minions or keeper. 
+*Supplanted enemies: 100% found in supplanted knights, dwarves, green dragon caves or warrior castles
+
+[[Category: Tribes]]

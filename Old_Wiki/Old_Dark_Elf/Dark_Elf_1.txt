@@ -1,0 +1,9 @@
+*Defense:6
+*Damage:14
+*Body size:Medium
+*Magic Resistance:Yes
+*Skill:Swimming
+*Spell:Heal Self
+*Night Vision:Yes
+
+[[Category:Creatures]]

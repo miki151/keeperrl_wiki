@@ -1,0 +1,13 @@
+peasantkid.png
+''Stealthy
+
+==Summary==
+Peasant children are stealthy and make good food for dopplegangers.
+
+= Base Stats =
+*Damage:8
+*Body size:Medium
+*Defense:8
+*Skill:Stealth
+
+[[Category:Creatures]]

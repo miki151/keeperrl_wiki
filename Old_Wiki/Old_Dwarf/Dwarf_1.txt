@@ -1,0 +1,23 @@
+= Base Stats =
+ Strenght: 21
+ Dexterity: 16
+ Speed: 80
+ Unarmed damage: 3
+ Size: MEDIUM
+ Weight: 90
+
+== Calculated Stats ==
+ Level: 10.83
+ Attack: 21 + WeaponBonusRange
+ Defense: 21 + ArmorBonusRange
+ Accuracy: 16 + WeaponBonusRange
+
+== Inventory ==
+ Battle Axe |OR| War Hammer
+ Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit
+ Chain_armor
+ 50% Chance: Iron helm
+ 30% Chance: Iron boots
+ Gold: 10-30
+
+[[Category: Creatures]]

@@ -1,0 +1,73 @@
+== Creature Level ==
+A creatures level is calculated from its strength and dexterity.
+
+ Level = max[1.0, 10 * ((STRENGTH / 12) - 1) + 10 * ((DEXTERITY / 12) - 1)]
+
+== Attribute Gains ==
+A creature can get attribute gains by training or killing an enemy.
+
+Possible attribute gains are:
+* Strenght bonus
+* Dexterity bonus
+* Speed bonus
+
+The displayed value of an attribute is the sum of its ''baseValue'', its ''bonusValue'' and ''item/spell bonuses''.
+* ''baseVale'' is the one from the minions [[:Orc#Attributes|base values]].
+* ''bonusValue'' is the bonus from training and fighting.
+
+
+=== Training ===
+----
+Approximately every (2.5 * Speed / 100) ticks spend training a minion triggers an attribute gain.&lt;br&gt;
+Each time an attribute gain occurs a random attribute (either strength, dexterity or speed with equal chances) is increased.&lt;br&gt;
+The maxiumum amount an attribute can increase is 99.99%
+
+'''Attribute gain formula'''
+ attributeBonus = attributeBonus + [ (attributeBaseValue - arributeBonus) * 0.001 * (roomEfficiency / 100) ]
+
+'''Attribute bonus in a 100% efficieny room'''
+{| class=&quot;wikitable&quot;
+|- align=&quot;center&quot;
+|align=&quot;left&quot;|Attribute gains 
+|110||225||360||510||690||925||1200||1600||2300||8800
+|- align=&quot;center&quot;
+|align=&quot;left&quot;|Attribute bonus 
+|10%||20%||30%||40%||50%||60%||70%||80%||90%||99.99%
+|}
+
+'''Example'''
+
+A minion training in a 100% efficiency room with :  
+* strength : 15
+* dexterity : 10
+* speed : 100
+* level : 1
+has got 680 strength, 720 dexterity and 700 speed gains. Its new attribute values are.
+* strength (15 + 7.4) : 22.4
+* dexterity (10 + 5.1) : 15.1
+* speed (100 + 50.3) : 150.3
+* level : 11
+
+
+=== Killing an enemy ===
+----
+When a creature kills an enemy, the creatures level is increased based on the level difference to the victim and its attributes are raised accordingly.
+
+'''Level bonus'''
+{| class=&quot;wikitable&quot;
+|- align=&quot;center&quot;
+|align=&quot;left&quot;|Level difference
+|MIN||-7||-6||-5||-4||-3||-2||-1||0||1||2||3||4||5||6||7||8||MAX
+|- align=&quot;center&quot;
+|align=&quot;left&quot;|Level bonus
+|0.05||0.05||0.13||0.27||0.40||0.54||0.67||0.81||0.94||1.08||1.21||1.35||1.48||1.62||1.75||1.89||2.00||2.00
+|}
+
+'''Attribute bonus'''
+
+After calculating the level difference the following happens
+# remember the current level as ''oldLevel''
+# a random attribute [[:Experience#Attribute_Gains|bonusValue]] (either strength, dexterity or speed with equal chances) is increased by a certain amount
+# calculate the value of the ''newLevel'' based on the attribute increase(s) 
+# check if the ''newLevel'' is equal or larger then the ''oldLevel'' plus the ''level bonus''.
+# if the ''newLevel'' is not equal or larger start again with step 2

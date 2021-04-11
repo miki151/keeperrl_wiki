@@ -1,0 +1,19 @@
+[[File:peasant.png|100px|link=]]
+[[File:peasant.png|100px|link=]]
+[[File:peasant.png|100px|link=]]
+[[File:peasantkid.png|100px|link=]]
+[[File:dog.png|100px|link=]]
+[[File:cow.png|100px|link=]]
+[[File:horse.png|100px|link=]]
+
+= Stats =
+*Settlement: Cottage
+*Tribal Loyalty: Humanity
+*Crops Distance: 13 
+*Inhabitants 2-4 [[Peasant]]. 3-7 [[Child]]/[[Dog]]/[[Cow]]/[[Horse]]
+*Race: humans 
+*Building Style: Wood
+*Furniture: Standard Furniture
+*Guardian: Witchman 
+
+[[Category: Tribes]]

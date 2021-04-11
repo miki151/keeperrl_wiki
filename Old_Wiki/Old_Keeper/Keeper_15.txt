@@ -1,0 +1,27 @@
+__NOTOC__
+[[File:keeper.png|100px|link=]][[File:keeper_female.png|100px|link=]] ''Player's avatar (Spell caster)
+[[File:Keeper_knight.png|100px|link=]][[File:Keeper_knight.png|100px|link=]] ''Player's avatar (Physical combat)
+
+The Keeper (male or female) is the most valuable entity, if the keeper dies the game is lost.
+
+== [[:Attributes]] ==
+''Base values''
+*Spell Damage:20
+*Defense:12
+*Damage:12
+*Body size:Large
+*Gender:Male
+*Sorcery:0.2
+*Laboratory:0.2
+*Melee training maximum:7
+*Spell training maximum:12
+*Spell:Heal Self
+
+== Traits ==
+* [[Traits#Humanoid|Humanoid]]
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Library|Study]]
+* [[:Training_Room|Train]]
+[[Category:Creatures]]

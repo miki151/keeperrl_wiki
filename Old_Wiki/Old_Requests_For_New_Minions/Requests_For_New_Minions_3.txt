@@ -1,0 +1,39 @@
+Please fill out the structure below (Shown for skeletons)
+
+== Skeleton ==
+* Start level : 4
+* Strength : 10
+* Dexterity : 15
+* Speed : 80
+* Weight : 50
+* Size : medium
+* Unarmed attack bonus : 10
+* Attack : 10
+* Defence : 15
+* Accuracy : 15
+* Traits : Humanoid, Undead, Brainless, No corpse
+* Tasks: : Train, Sleep in graveyard
+* Attractions: Training room + graveyard
+* Concept:
+* Purpose in game:
+* Optional features:
+* Discussion:
+
+== Next monster (Copy this as a template) ==
+* Start level : ?
+* Strength : ?
+* Dexterity : ?
+* Speed : ?
+* Weight : ?
+* Size : ?
+* Unarmed attack bonus : ?
+* Attack : ?
+* Defence : ?
+* Accuracy : ?
+* Traits : ?
+* Tasks: : ?
+* Attractions: ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.

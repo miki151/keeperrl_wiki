@@ -1,0 +1,12 @@
+[[File:nomad_child.png|100px|link=]]
+
+= Base Stats =
+*Alignment: Humanity
+*Body: type = Humanoid MEDIUM 
+*Attributes: DAMAGE 8 DEFENSE 8 
+*Permanent Effects: CROPS_SKILL 1 
+
+= Encounters =
+*[[Nomad Cottage]]
+
+[[Category: Creatures]]

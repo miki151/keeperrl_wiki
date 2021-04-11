@@ -1,0 +1,20 @@
+= Base Stats =
+*Ranged Damage:30
+*Defense:22
+*Damage:17
+*Body size:Large
+*Archery training maximum
+
+== Summary ==
+Best ranged fighter in the game. You come up against these human archers when attacking castles. You are likely to get shot down if you are careless when approaching them.
+
+== Inventory ==
+ Short Bow
+ Knife
+ Leather Armor
+ Leather Boots
+ Potion of Healing
+ Gold
+
+[[Category:Creatures]]
+[[Category:Recruits]]

@@ -1,0 +1,14 @@
+Holds your gold
+* Each chest can hold unlimited gold pieces, so multiple chests are able to spread the gold into different locations or just provide decoration.
+* Treasure chests are built from the storage menu.
+
+==Tile Cost==
+[[File:treasurydeco.png|100px|link=]] ''5 wood per treasure chest
+
+==Usage==
+Treasure chests empty as gold is used:
+*Building statues, carpets, demonshrines.
+*Recruitment of special units
+*Creatures in older versions of KeeperRL used to require salaries, but this is no longer the case.
+
+[[Category:Rooms]]

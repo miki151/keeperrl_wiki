@@ -1,0 +1,87 @@
+Tribes faced by players can sometimes have &quot;triggers&quot; which mean they are planning to attack the player's dungeon or castle. Types of triggers include greed for gold, excessive hostility, revenge for stealing from or killing tribe members, the population of your dungeon being threatening or seen as an easy target, provocation by hanging up executed prisoner heads and some other reasons.
+
+The tribes faced in campaigns are partially configurable in campaign_villains.txt although new tribes cannot be added by just changing campaign_villains.txt. The file looks like this:
+
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/campaign_villains.txt campaign_villains.txt]]
+
+The standard version of Keeper is configured like this (at the time of writing - April 2019):
+
+=Villains faced by evil keepers=
+
+==Main Villains faced by evil keepers==
+*Knights
+*Elves
+*Dwarves
+*Red dragon
+*Elementalist
+*Green dragon
+*Lizardmen
+*Warriors
+*Demon den
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Lesser Villains faced by evil keepers==
+*Tree spirits
+*Driads
+*Cyclops
+*Giant spider
+*Hydra
+*Unicorn herd
+*Ants
+*Zombies
+
+==Tribes allied to evil keepers==
+*Ogres
+*Harpies
+*Legendary humanoid (Trapped in sokoban)
+*Dark elves
+*Gnomes
+*Greenskin village
+
+=Villains faced by lawful keepers=
+
+==Major lawful enemies==
+*Red dragon
+*Green dragon
+*Ants
+*Dark elves
+*Greenskin village
+*Demon lord
+*Lizardmen
+*Other enemy keepers and dungeons of other players that have been uploaded
+
+==Minor lawful enemies==
+*Spider
+*Cyclops
+*Hydra
+*Zombies
+*Ogres
+*Ants
+*Harpies
+
+==Lawful Allies==
+*Dwarves
+
+=Mini tribes=
+*Bandits
+*Temples with a priest
+*Ruins with ghosts
+*Dark elves
+*Lizardmen
+*Kobolds
+*Rat king
+*Humans
+*Elves
+*Dwarves
+*Ants
+*Adamantium golems
+*Rats
+*Spiders
+*Evil keeper, allied vampires or ogres
+
+The tribe data is configurable and can be modded. The official configs are here:
+
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/enemies.txt enemies.txt]]
+
+
+[[Category:Creature Guide]]

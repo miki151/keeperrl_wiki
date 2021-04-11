@@ -1,0 +1,1 @@
+All pages placed here have had their contents checked for their validity as of the alpha15 version of KeeperRL.

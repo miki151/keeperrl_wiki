@@ -1,0 +1,6 @@
+*Defense:13
+*Damage:12
+*Body size:Medium
+*Skill:Swimming
+
+[[Category:Creatures]]

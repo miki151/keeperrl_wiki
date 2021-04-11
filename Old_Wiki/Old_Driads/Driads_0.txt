@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Forest 
+*Inhabitants: 7-10 Driads
+*Tribal Loyalty: None
+*Race: Dryads 
+*Building Style: Wood
+*Immigrant Interval : 300
+*Max Population: 10 
+*Immigration: Driads frequency 1
+
+[[Category: Tribes]]

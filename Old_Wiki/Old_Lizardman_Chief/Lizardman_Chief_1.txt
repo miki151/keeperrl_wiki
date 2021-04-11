@@ -1,0 +1,19 @@
+= Base Stats =
+ Strenght: 21
+ Dexterity: 28
+ Speed: 140
+ Unarmed damage: 7
+ Attack type: Bite
+ Attack effect: Poison
+ Size: MEDIUM
+ Weight: 60
+ Creature skill: poison immunity
+ Creature skill: courage: 3.0
+
+== Calculated Stats ==
+ Level: 20
+ Attack: 28
+ Defense: 21
+ Accuracy: 28
+
+[[Category: Creatures]]

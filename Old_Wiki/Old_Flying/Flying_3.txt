@@ -1,0 +1,4 @@
+#REDIRECT [[Traits#Flying]]
+A creature with flying can move over ground and water and can see through trees.
+
+[[Category: Traits]]

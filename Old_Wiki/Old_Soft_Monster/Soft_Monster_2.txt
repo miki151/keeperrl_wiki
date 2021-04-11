@@ -1,0 +1,6 @@
+*Defense:25
+*Damage:45
+*Body size:Large
+*Courage:No
+
+[[Category:Creatures]]

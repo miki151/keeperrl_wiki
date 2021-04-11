@@ -1,0 +1,44 @@
+== White Knight Recruits ==
+
+{| class=&quot;wikitable sortable&quot;
+|-
+!||Defense||Damage||Spell Damage||Ranged Damage||Training||Specials
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Keeper|White Knight Keeper]]
+||16||20||0||0||Melee 12+Spell 3||Forge. Avatar.
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Peasant]]
+||15||5||0||0||None||Construction, digging, no equipment or chasing, fast and poison resistant
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Archer]]
+||10||10||0||10||Ranged 7+Melee 3||
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Gnome]]
+||15||5||0||0||None||jewellery?
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Knight]]
+||16||14||0||0||None||fighting training
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Priest]]
+||15||5||0||0||None||magic training
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Jester]]
+||8||8||0||0||None||entertainer
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Dog]]
+||7||18||0||0||None||Fangs, animal, doesn't require population slot
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Donkey]]
+||7||10||0||0||None||animal, increases maximum population 
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Cow]]
+||7||10||0||0||None||animal, increases maximum population
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Goat]]
+||7||10||0||0||None||animal, increases maximum population
+|- align=&quot;right&quot;
+|align=&quot;left&quot;|[[Horse]]
+||7||16||0||0||None||animal, increases maximum population
+|}
+
+== List of white knight recruits ==

@@ -1,0 +1,12 @@
+
+{| 
+| -
+! Key
+! Command
+| -
+| a
+| Open [[Orders]] Menu
+| -
+| s
+| Build [[Storage]]
+|}

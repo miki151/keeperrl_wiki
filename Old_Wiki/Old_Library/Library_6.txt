@@ -1,0 +1,17 @@
+[[File:library_wood.png|100px|link=]] [[File:library_iron.png|100px|link=]] [[File:library_gold.png|100px|link=]]
+''Allows your minions to research new Spells.
+*Each creature studying in the library generates experience if in free play with the &quot;generate mana&quot; option ticked.
+*Efficiency is needed to study quickly.
+
+=Library Furniture=
+
+==Wooden bookcase==
+*Basic spells, slower research
+
+==Iron bookcase==
+*Basic and intermediate spells, average speed research
+
+==Golden bookcase==
+*Basic, intermediate and advanced spells, faster research
+
+[[Category: Rooms]]

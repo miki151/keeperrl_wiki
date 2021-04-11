@@ -1,0 +1,14 @@
+Ogres start at level 12
+
+== Skills ==
+* [[Weapon Melee]]
+
+== Order Tasks ==
+* [[Training]]
+* [[Workshop]]
+* [[Forge]]
+* [[Lab]]
+* [[Jeweler]]
+
+[[Category:Creatures]]
+[[Category: Minions]]

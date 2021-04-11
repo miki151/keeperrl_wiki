@@ -1,0 +1,11 @@
+=Usage=
+Used to specify what category a villain will appear as on a campaign map.
+
+=Valid values=
+*MAIN
+*LESSER
+*ALLY
+
+=Valid values=
+
+[[Category: Modding Reference Data]]

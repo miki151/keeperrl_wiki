@@ -1,0 +1,10 @@
+Creatures have the following stats:
+* Stength
+* Dexterity
+* Speed
+* Level
+* Attack
+* Defense
+* Skills
+* Effects
+* Inventory

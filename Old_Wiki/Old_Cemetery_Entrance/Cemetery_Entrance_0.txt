@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Cemetery 
+*Inhabitants: Lone Zombie
+Location Name : Cemetery 
+*Race: Undead 
+*Tribal Loyalty: None
+*Furniture: Graves  
+*Building Style: Brick 
+*Notable discovery: False
+
+[[Category: Tribes]]

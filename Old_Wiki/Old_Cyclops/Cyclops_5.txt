@@ -1,0 +1,23 @@
+*Defense:40
+*Damage:34
+*Body size:Large
+*Ranged Resistance:Yes
+*Melee training maximum:5
+
+= Calculated Stats =
+ Level: 34.16
+ Attack: 45
+ Defense: 35
+ Accuracy: 30
+
+= Inventory =
+ Heavy Club
+ Gold
+
+= Attack Trigger =
+Proximity
+
+== Goal ==
+ Kill at least 4 creatures.
+
+[[Category: Creatures]]

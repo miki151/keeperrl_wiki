@@ -1,0 +1,6 @@
+[[File:floor.png|100px|link=]]
+''Leisure zones are set up for creatures to go there When they aren't busy. Leisure zones are coloured slightly differently.
+
+Without quarters assigned, minions may hang about in random places or wander your dungeon aimlessly.
+
+[[Category: Rooms]]

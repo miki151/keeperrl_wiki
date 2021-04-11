@@ -1,0 +1,4 @@
+There are a few two types of player characters as follows:
+
+* [[Keeper | Keepers ]]
+* [[Adventurer | Adventurers]]

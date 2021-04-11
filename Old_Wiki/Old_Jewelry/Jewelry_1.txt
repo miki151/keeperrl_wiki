@@ -1,0 +1,44 @@
+[[Category: Items]]
+
+= Rings =
+
+== Ring of Poison Resistance ==
+ Grants poison immunity
+ Weight: 0.05
+ Price: 200
+
+== Ring of Fire Resistance ==
+ Grants fire immunity.
+ Weight: 0.05
+ Price: 200
+
+== Ring of Magic Resistance ==
+
+== Ring of Wakefulness ==
+
+== Ring of Satiation ==
+
+= Amulets =
+
+== Amulet of Warning ==
+ Description: Warns about dangerous beasts and enemies.
+ Weight: 0.3
+ Price: 220
+
+== Amulet of Healing ==
+ Description: Slowly heals all wounds.
+ Health: 0.05 per Tick
+ Weight: 0.3
+ Price: 300
+
+== Amulet of Defense ==
+ Description: Increases the toughness of your skin and flesh, making you harder to wound.
+ Defense: 2 - 4
+ Weight: 0.3
+ Price: 300
+
+== Amulet of Night Vision ==
+
+== Amulet of Elf Vision ==
+
+== Amulet of Regeneration ==

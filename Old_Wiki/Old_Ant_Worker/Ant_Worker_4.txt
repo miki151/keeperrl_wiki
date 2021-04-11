@@ -1,0 +1,13 @@
+[[File:antwork.png|100px|link=]]
+
+*Defense:16
+*Damage:16
+*Body size:Medium
+*Weight:10
+*Animal:Yes
+
+==Summary==
+
+They live in mountains, often near resources. They tend to leave the fighting to their ant warrior brothers. They are cowardly but ugly giant creatures that can do a bit of damage if cornered.
+
+[[Category:Creatures]]

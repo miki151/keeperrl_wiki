@@ -1,0 +1,10 @@
+= Stats =
+*Settlement: Forest cottage
+*Tribal Loyalty: Lizardman
+*Inhabitants: 2-3 lizardmen
+*Race:  lizardmen 
+*Building Style: Wood
+*Furniture: Standard Furniture
+*Supplanted enemies:100% found on supplanted elven cottage
+
+[[Category: Tribes]]

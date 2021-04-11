@@ -1,0 +1,10 @@
+= Stats =
+*Settlement: Ant nest
+*Inhabitants Ant queen with 5-7 ant workers and 5-7 ant soldiers
+*Surround With Resources: 5
+*Tribal loyalty = ant
+*Race: ant
+*Building style: Dungeon 
+*Supplanted enemies: 10% Supplanted dwarven mintown 
+
+[[Category: Tribes]]

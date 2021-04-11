@@ -1,0 +1,10 @@
+Wolf
+
+Arrives as a pack of 5 wolves (4 are level 9 and 1 level 11)
+
+== Skills ==
+* [[Night Vision]]
+
+[[Category:Beasts]]
+[[Category:Creatures]]
+[[Category:Minions]]

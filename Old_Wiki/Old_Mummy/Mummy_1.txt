@@ -1,0 +1,10 @@
+*Spell Damage:10
+*Defense:14
+*Damage:15
+*Body Size:Large
+*Ranged Resistance:Yes
+*Slow:Yes
+*Melee training maximum:3
+*Spell training maximum:3
+
+[[Category:Creatures]]

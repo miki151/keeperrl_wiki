@@ -1,0 +1,17 @@
+=Doors=
+
+==Stone door==
+*Stength: Better than wood
+*Cost: 20 stone 
+
+==Iron door==
+*Stength: Better than stone
+*Cost: 20 iron
+
+==Steel door==
+*Stength: Better than Iron
+*Cost: 20 steel 
+
+==Magic door==
+*Stength: Better than steel
+*Cost: 20 mana

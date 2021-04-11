@@ -1,0 +1,15 @@
+=Usage=
+Used to determine what is required before an immigrant will be willing to settle in your dungeon
+
+=Valid values=
+*ExponentialCost 
+*FurnitureType
+*MinTurnRequirement
+*ItemIndex
+*CostInfo
+*SunlightState
+*RecruitmentInfo
+*TechId
+*Pregnancy
+
+[[Category: Modding Reference Data]]

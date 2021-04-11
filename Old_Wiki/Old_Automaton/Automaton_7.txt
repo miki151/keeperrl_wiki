@@ -1,0 +1,12 @@
+[[File:automaton.png|100px|link=]]
+''Disloyal but deadly
+
+*Defense:40
+*Damage:40
+*Melee Resistance:Yes
+*Body Size:Large
+
+==Summary==
+Built with magic material, once created, these huge monsters attack both friend and foe alike. Sometimes sold by gnomes, a great work of manufacture with an added element of anarchy and rebellion. Best used by taking the items to an enemy base and then setting them off to go on their emotionless rampage.
+
+[[Category:Creatures]]

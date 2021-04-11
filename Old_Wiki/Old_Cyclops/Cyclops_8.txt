@@ -1,0 +1,19 @@
+[[File:cyclops.png|100px|link=]]
+
+*Defense:40
+*Damage:34
+*Body size:Large
+*Ranged Resistance:Yes
+*Melee training maximum:5
+
+= Inventory =
+ Heavy Club
+ Gold
+
+= Attack Trigger =
+Proximity
+
+== Goal ==
+ Kill creatures.
+
+[[Category: Creatures]]

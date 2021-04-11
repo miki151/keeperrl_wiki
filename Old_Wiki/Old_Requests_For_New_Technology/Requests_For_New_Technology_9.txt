@@ -1,0 +1,19 @@
+==Tyranny==
+*Cost: 500 mana
+*Benefit: Imps get +20 speed and work faster
+
+==Guilds==
+*Cost: 700 mana
+*Benefit: Give creatures xp for doing their studying and crafting tasks (Levels earnt by studying and crafting could be 2 or 3 max)
+
+==Stone laying==
+*Cost: 1000 mana
+*Benefit: Filling in dungeon tiles no longer costs stone
+
+==Call to arms==
+*Cost: 1000 mana
+*Benefit: Idle Minions automatically craft their own items and pay for it from their own pocket. However, this production is very slow.
+
+==Debris Management==
+*Cost: 2000 mana
+*Benefit: Grant resource +20 stone for every t0 tiles mined by imps. Stone is left in a pile on dungeon floor for collection.

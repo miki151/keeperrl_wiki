@@ -1,0 +1,8 @@
+Existing skills are: Absorption, Ambush, Archery, Construction, Copulate, Disarm Traps, Elf Vision, Healing, Knife Throwing, Night Vision, Sorcery, Stealing, Swimming, Unarmed Melee, Weapon Melee
+
+Tasks include: Training, sleeping, eating, studying, crafting, whipping, sitting on the throne.
+
+==New studying and crafting==
+*Change to studying and crafting tasks
+*Can earn the creature xp
+*Levels earnt by studying and crafting could be 2 or 3 max

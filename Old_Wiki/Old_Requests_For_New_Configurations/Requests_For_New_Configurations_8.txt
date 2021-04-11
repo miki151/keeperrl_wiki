@@ -1,0 +1,23 @@
+Use this page for new maps made from existing monsters and tiles.
+
+=Main Villains=
+
+==Three cyclops==
+*Cave
+*Inhabited by 3 cyclops
+*More mushrooms than normal
+*3 Chests containing random goodies
+
+==The forty thieves==
+*Large/Complex cave maze dungeon
+*Map full of bandits, treasure and traps.
+*Hostile legendary humanoid boss
+
+==Wolfville==
+*Buildings
+*Shop
+*Cages
+*Werewolves
+*Wolves
+*Hostile to both keepers and adventurers
+*Legendary beast boss

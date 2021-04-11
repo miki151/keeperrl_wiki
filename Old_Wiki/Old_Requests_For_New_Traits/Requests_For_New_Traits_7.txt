@@ -1,0 +1,66 @@
+Existing traits are:
+
+Animal, Blind, Brainless, Carry Anything, Courage, Explore, 
+Humanoid, Fire Creature, Flying, Not Breathing, Innocent,
+Poison Resistance, Stationary, Uncorporal, Undead
+
+=Equipment Limitation=
+References:
+*http://keeperrl.com/forums/topic/some-thoughts-about-equipment/
+
+==No Armour==
+*Purpose: Prevent wearing of armour by some creatures.
+*Suggested creatures: Ogre, Harpy
+*Reasoning: Ogre is too large, Harpy is odd-shaped.
+
+==No Two Handed==
+*Purpose: Prevent wielding two handed
+*Suggested creatures: Harpy
+*Reasoning: Too heavy to wield for flying creature
+
+==No Heavy Armour==
+*Purpose: Prevent wearing metal armour
+*Suggested creatures: Orc shaman and Vampires
+*Reasoning: Not suitable for creatures that want to use magic
+
+==No ranged weapon==
+*Purpose: Prevent use of ranged weapons
+*Suggested creatures: Zombies
+*Reasoning: They just aren't clever enough to do this
+
+=Miscellaneous=
+
+==Paralysis Immunity==
+*Purpose: This monster can't be stunned
+*Suggested creatures: Elementals and automations
+*Reasoning: These monsters are not biological, so do not get paralysed.
+
+==Invisibile==
+*Purpose: Get attacked by invisible monsters sometimes. Perhaps have a minion type like ghosts who can scout invisibly.
+*Suggested creatures: New villain? How about ghosts, they are under powered at the moment?
+*Reasoning: Some monsters are just invisible by nature
+
+==Telepathic==
+*Purpose: Some monsters can still see you when you are invisible
+*Suggested creatures: The elementalist might be telepathic
+*Reasoning: Some creatures would be telepathic by nature and not need a telepathy helm.
+
+== Pack Leader / Pack Member ==
+*Purpose: Unit will gain global stat boost (maybe just morale) if its pack leader is present
+*Suggested creatures: wolves, werewolves, other bestial units; humanoids can act as pack leaders
+*Reasoning: rudimentary interaction between units
+
+== Loner / Gregarious ==
+*Purpose: Unit's morale will be severely hampered / boosted in the presence of allies (and vice versa)
+*Suggested creatures: legendary humanoids
+*Reasoning: forces player to use unit in team or alone
+
+== Leader ==
+*Purpose: Unit will only fight if it is allowed to be the leader of a team
+*Suggested creatures: humanoids
+*Reasoning: forces player to control team with certain unit
+
+== Pass through walls ==
+* Purpose: Can walk deep into rock and right through walls.
+* Suggested creatures: Ghosts
+* Reasoning: Buff Ghosts.

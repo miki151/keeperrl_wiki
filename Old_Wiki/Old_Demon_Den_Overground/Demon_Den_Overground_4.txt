@@ -1,0 +1,18 @@
+[[File:ghost.png|100px|link=]]
+[[File:ghost.png|100px|link=]]
+
+= Stats =
+*Settlement: Village
+*Tribal loyalty: None
+*Inhabitants: 2-3 [[Lost Soul]]
+*Building Style = Dungeon surface
+*Location Name: Darkshrine Town
+*Race = ghosts
+*Furniture =  Dungeon surroundings  
+*Notable discovery: False
+*Supplanted enemies: 100% supplanted knights 
+
+=Encounters==
+*Z-level connections: Top level over ground, with the demon den in a 30x30 maze below. 
+
+[[Category: Tribes]]

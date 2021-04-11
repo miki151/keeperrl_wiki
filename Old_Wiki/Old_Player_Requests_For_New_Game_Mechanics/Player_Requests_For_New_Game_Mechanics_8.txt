@@ -1,0 +1,39 @@
+= Game Mechanics =
+
+==Ideas that are not about content==
+* [[Requests for screen layout]]
+* [[Requests for keys, buttons, menus]]
+* [[Requests for Resource collection mechanics]]
+* [[Requests for Immigration mechanics]]
+* [[Requests for World map mechanics]]
+
+== Guard Duty ==
+How about putting minions like orcs and ogres or any combat minion on guard duty.
+The minion stands their and attacks when within a given range.
+The minion can still sleep/eat but guard duty overrides other jobs.
+
+== Wandering Enemies ==
+Not so much as a request for new villains, but for more wandering enemies to attack your lair/keep. Currently, if I stay in my keep and not attack, I can build up to tier 3 dummies and have my minions almost maxxed without being attacked once. I usually reach that point around turn 17000. I'm thinking that wandering enemies attacking around every 1000 turns and have their level/difficulty increase like every 2000 turns. You can use an uploaded player's adventurers as a wandering enemy. Just a thought.
+
+
+== Crafting Requirements ==
+
+I think it would be more fun if you were not able to build absolutely everything as soon as a certain tech-level was unlocked.  Rather, mana could unlock the ability to construct furniture, but the instructions/recipes to craft individual items would have to be discovered in scrolls or books (in the same way that the Beast and Humanoid mutations must be discovered).  Items would still cost time and resource to produce like they do now. I argue for this feature because I think it would add a little bit of variety to each game by forcing the player to be more careful with certain types of equipment while being less so with others.
+
+==  Crafting Materials == 
+
+Specific items and furniture could include crafting materials that you can loot from bodies or bases as a specific subset of objects such as cloth, essences, gems, etc.  In order not to make the UI cumbersome it could be added as a materials inventory and storing this stuff in crates altogether rather than creating visual resources for each at first.  When minions return from raids the keeper could state &quot;now we can make X&quot; on a quick popup.  This mechanic would 'encourage' the player to go out and risk the army to get the good stuff or create great amounts of wealth to attract bigger raids that could yield nicer loot.
+
+== Revamped Mining and Base construction (for Campaign Mode only) ==
+
+
+- Digging time is drastically increased
+
+- Stone is yielded from digging out tunnels instead of being discovered by geology
+
+- Each creature has its own &quot;room&quot; (where a room is a continuous space separated from other spaces by doors).
+
+- The maximum room size must be upgraded (i.e., through reinforcing walls).
+
+== Possible Endless Mode Implementation ====
+The map is not one large map and instead laid out like the campaign. When a main villain or a lesser villain is killed, a new enemy moves into a blank tile on the map with a notification that &quot;X build a settlement&quot; or &quot;Megazoid the Dragon moved in.&quot; This new enemy behaves like the existing enemies.

@@ -1,0 +1,8 @@
+=Usage=
+Used to determine what special immigrants will appear
+
+=Valid values=
+*[[AttrBonuses|AttrBonus]]
+*ExtraTraining
+*[[LastingEffectIDs|LastingEffect]]
+*[[SkillIDs|SkillID]]

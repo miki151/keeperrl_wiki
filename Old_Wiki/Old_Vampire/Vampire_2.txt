@@ -1,0 +1,34 @@
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+*Spell Damage:17
+*Defense:17
+*Damage:17
+*Body Size:Large
+*Sorcery:0.1
+*Night Vision:Yes
+*Ranged Resistance:Yes
+*Melee training maximum:7
+*Spell training maximum:7
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Undead|Undead]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+* [[:Skills#Sorcery|Sorcery]] : 0.1
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Library|Study]]
+* [[:Graveyard|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+* probability : 0.3
+* corpse usage : 1
+
+[[Category:Creatures]]
+[[Category:Minions]]

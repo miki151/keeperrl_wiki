@@ -1,0 +1,20 @@
+= Prefix Ideas =
+
+== Item Prefixes ==
+
+=== Effect based item pre-fixes ===
+
+=== Stat based item pre-fixes ===
+
+=== Combat based item pre-fixes ===
+
+
+== Minion Prefixes ==
+
+=== Effect based minion pre-fixes ===
+
+=== Stat based minion pre-fixes ===
+
+=== Intrinsic based minion pre-fixes ===
+
+=== Equipment based minion pre-fixes ===

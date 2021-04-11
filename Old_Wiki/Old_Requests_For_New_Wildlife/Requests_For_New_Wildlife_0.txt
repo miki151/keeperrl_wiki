@@ -1,0 +1,12 @@
+ == Eagle ==
+ * Level : 15
+ * Strength : 10
+ * Dexterity : 30
+ * Speed : 130
+ * Weight : 500
+ * Size : Medium
+ * Unarmed attack bonus : 10
+ * Attack : 10
+ * Defence : 10
+ * Accuracy : 20
+ * Traits : Animal, Flying, Wings

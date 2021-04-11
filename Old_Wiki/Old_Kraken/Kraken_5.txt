@@ -1,0 +1,8 @@
+[[File:krakenhead.png|100px|link=]][[File:krakenland.png|100px|link=]][[File:krakenland.png|100px|link=]] ''Entangling water monster
+
+*Attributes:Kraken stats
+
+=Summary=
+Lives in lakes and rivers and entangles passers-by. Krakens are the only multi-tile monster being made of a head and tentacles with a submerged and invisible body. You may need to kill the head with a specially chosen flying unit because normally the tentacles just keep coming and often there can be no escape.
+
+[[Category: Creatures]]

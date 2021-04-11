@@ -1,0 +1,57 @@
+=general rules=
+*The text files are editable in a text editor
+*Each text file is a set of tables containing a list of available game content
+*Multiple spaces and new lines between entries in the table are read as a single space
+
+=technology.txt=
+
+===Begin the file===
+The file always begins like this:
+ {
+ {
+
+===The table of technologies in the game===
+*Each entry adds a new technology to the game.
+*The entry has two possible formats
+1) &quot;'''TechId'''&quot; {'''Description'''}
+Example:
+ &quot;alchemy&quot; { &quot;Build a laboratory and produce basic potions.&quot; }
+2) &quot;'''TechId1'''&quot; { &quot;'''Description'''&quot; {&quot;'''TechId2'''&quot;} }
+
+Where TechID1 is the new technology and TechId2 must be researched first to unlock it.
+Example:
+ &quot;alchemical conversion&quot; { &quot;Convert resources to and from gold.&quot; {&quot;alchemy&quot;} }
+
+===End the file===
+The file always begins like this:
+ }
+ }
+
+=workshops_menu.txt=
+*The format is constructed of sections, sub-sections and entries
+*There can be as many sections as you want and later on, each section can be used in player_characters.txt to give those characters the build menu sections they need.
+*There are 4 sub-sections below each section. These subsections are respectively for:
+##Workshop
+##Forge
+##Lab
+##Jeweller
+*Each subsection has as many entries as you want.
+*Each entry enables an item to be built in that workshop, forge, jewellers or lab.
+*The entry has two possible formats
+1) {{[[ItemTypes|ItemType]]} '''Speed''' [[ResourceIDs|ResourceID]] '''Amount'''}
+
+Example:
+ {{LeatherGloves} 1 WOOD 2}
+
+2) {{[[ItemTypes|ItemType]]} '''Speed''' [[ResourceIDs|ResourceID]] '''Amount''' &quot;'''TechID'''&quot;}
+
+Example:
+ {{HeavyClub} 5 WOOD 20 &quot;two-handed weapons&quot;}
+
+=build_menu.txt=
+
+=campaign_villains.txt=
+
+=immigration,txt=
+
+=player_creatures.txt=

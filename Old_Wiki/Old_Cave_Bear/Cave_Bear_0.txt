@@ -1,0 +1,6 @@
+Cave Bear
+
+Standard beast minion whose AI prefers exploring caves
+
+[[Category:Beasts]]
+[[Category:Minions]]

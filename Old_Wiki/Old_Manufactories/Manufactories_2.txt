@@ -1,0 +1,20 @@
+== Workshop ==
+Requires [[Crafting]] researched.
+
+Produces: first aid kits, bows, arrows, non-metal weapons, and traps
+
+== Forge ==
+Requires [[Iron Working]] researched.
+
+Produces: all metal weapons and all metal armor
+
+== Laboratory ==
+Requires [[Alchemy]] researched.
+
+Produces: magical potions
+
+== Jeweler ==
+Requires [[Jewellery]]
+Produces: jewelry, magical rings, and amulets
+
+[[Category: Rooms]]

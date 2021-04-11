@@ -1,0 +1,11 @@
+= Stats =
+*Settlement: Small village
+*Tribal loyalty = Humanity
+*Inhabitants: 2-4 peasant fighters plus 3-7 children/horses/dogs/pigs/cows/donkeys
+*Race = Human
+*Building Style: Wood
+*Stockpiles: Gold in treasure chests
+*Crops Distance: 16
+*Furniture: Standard room furniture  
+
+[[Category: Tribes]]

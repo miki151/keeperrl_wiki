@@ -1,0 +1,41 @@
+==Ice Dragon==
+
+*Strength: 50
+*Dexterity: 25
+*Speed: 100
+*Unarmed damage: 15
+*Attack type: Eat
+*Weight: 1000
+*Size: HUGE
+*Features: Fire immunity, Flying
+*Level: 40
+*Attack: 30
+*Defence: 60
+*Accuracy: 30
+*Loot: 100-200 Gold
+*Possible attack triggers: Dungeon size
+*Concept: The ice dragon has a larger defence than other dragons, but a weaker attack.
+*Purpose in game: More variety in types of dragons on maps
+*Optional features: Perhaps one day it could breathe ice.
+*Discussion: Discuss the idea here.
+
+
+== Next villain (Copy this as a template) ==
+*Strength: ?
+*Dexterity: ?
+*Speed: ?
+*Unarmed damage: ?
+*Attack type: ?
+*Weight: ?
+*Size: ?
+*Features: ?
+*Level: ?
+*Attack: ?
+*Defence: ?
+*Accuracy: ?
+*Loot: ?
+*Possible attack triggers: ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.

@@ -1,0 +1,1 @@
+In the latest versions of KeeperRL, rooms are constructed by placing furniture and building floors and providing lightening using torches.

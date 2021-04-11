@@ -1,0 +1,7 @@
+= Base Stats =
+*Damage:8
+*Body size:Medium
+*Defense:8
+*Skill:Stealth
+
+[[Category:Creatures]]

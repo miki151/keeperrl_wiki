@@ -1,0 +1,8 @@
+*Defense:2
+*Damage:2
+*Body size:Small
+*Weight:3
+*Minion Food:Yes
+*Slow:Yes
+
+[[Category:Creatures]]

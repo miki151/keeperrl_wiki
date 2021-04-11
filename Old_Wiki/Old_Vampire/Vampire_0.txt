@@ -1,0 +1,12 @@
+A vampire is a large and undead humanoid with 2 arms and 2 legs. It is strong, agile and fast. A vampire starts at level 10.
+
+== Skills ==
+* [[Night Vision]]
+* [[Sorcery]] (basic)
+
+== Order Tasks ==
+* [[Training]]
+* [[Study]]
+
+[[Category: Creatures]]
+[[Category: Minions]]
