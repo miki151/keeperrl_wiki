@@ -1,0 +1,36 @@
+---
+title: Vampire Lord 5
+permalink: Vampire_Lord_5/
+layout: wiki
+---
+[[File:vampirelord.png|100px|link=]] ''Powerful when converted
+
+== Base Stats==
+*Spell Damage:27
+*Defense:17
+*Damage:17
+*Body Size:Large
+*Night Vision:Yes
+*Sorcery:0.5
+*Melee training maximum:12
+*Spell training maximum:12
+*Flying:Yes
+*Ranged Resistance:Yes
+*Fire Resistant:Yes
+*Spells:Random
+
+==Summary==
+A powerful vampire who has no fear of sunlight, being surrounded by an aura of darkness. Not all vampires can fly but vampire lords invariably do. They can train a lot of levels in your dungeon and come with various spells. You find them in coffins in cemeteries and need some torture to persuade them to join you.
+
+After studying they have the best spells in the game and they can also train using training dummies. They can level up even further by killing enemies in combat. They are very powerful if you take care of them but do tend to lose limbs a bit easily.
+
+[[Category:Creatures]]
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire_Lord](/keeperrl_wiki/Old_Vampire_Lord "wikilink")
+
+Other items in this section
+-    [Vampire Lord 0](/keeperrl_wiki/Vampire_Lord_0 "wikilink")
+-    [Vampire Lord 1](/keeperrl_wiki/Vampire_Lord_1 "wikilink")
+-    [Vampire Lord 2](/keeperrl_wiki/Vampire_Lord_2 "wikilink")
+-    [Vampire Lord 3](/keeperrl_wiki/Vampire_Lord_3 "wikilink")
+-    [Vampire Lord 4](/keeperrl_wiki/Vampire_Lord_4 "wikilink")

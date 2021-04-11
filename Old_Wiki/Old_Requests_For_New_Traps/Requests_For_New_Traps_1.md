@@ -1,0 +1,78 @@
+---
+title: Requests For New Traps 1
+permalink: Requests_For_New_Traps_1/
+layout: wiki
+---
+== Explosion Trap ==
+* Build Cost: 100 mana
+* Damage: 15
+* Damage type: Physical
+* Special effects: Pushes invaders backwards, like the word-of-power spell
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.
+
+
+== Next Trap (Copy this as a template) ==
+* Build Cost: ?
+* Damage: ?
+* Damage type: (Physical/Fire/Poison/Other)
+* Special effects: ?
+* Concept: What is the basic concept behind this?
+* Purpose in game: What makes this thing unique?
+* Optional features: What other things could be added to make it even better?
+* Discussion: Discuss the idea here.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Traps](/keeperrl_wiki/Old_Requests_For_New_Traps "wikilink")
+
+Other items in this section
+-    [Requests For New Traps 0](/keeperrl_wiki/Requests_For_New_Traps_0 "wikilink")
+-    [Requests For New Traps 10](/keeperrl_wiki/Requests_For_New_Traps_10 "wikilink")
+-    [Requests For New Traps 11](/keeperrl_wiki/Requests_For_New_Traps_11 "wikilink")
+-    [Requests For New Traps 12](/keeperrl_wiki/Requests_For_New_Traps_12 "wikilink")
+-    [Requests For New Traps 13](/keeperrl_wiki/Requests_For_New_Traps_13 "wikilink")
+-    [Requests For New Traps 14](/keeperrl_wiki/Requests_For_New_Traps_14 "wikilink")
+-    [Requests For New Traps 15](/keeperrl_wiki/Requests_For_New_Traps_15 "wikilink")
+-    [Requests For New Traps 16](/keeperrl_wiki/Requests_For_New_Traps_16 "wikilink")
+-    [Requests For New Traps 17](/keeperrl_wiki/Requests_For_New_Traps_17 "wikilink")
+-    [Requests For New Traps 18](/keeperrl_wiki/Requests_For_New_Traps_18 "wikilink")
+-    [Requests For New Traps 19](/keeperrl_wiki/Requests_For_New_Traps_19 "wikilink")
+-    [Requests For New Traps 2](/keeperrl_wiki/Requests_For_New_Traps_2 "wikilink")
+-    [Requests For New Traps 20](/keeperrl_wiki/Requests_For_New_Traps_20 "wikilink")
+-    [Requests For New Traps 21](/keeperrl_wiki/Requests_For_New_Traps_21 "wikilink")
+-    [Requests For New Traps 22](/keeperrl_wiki/Requests_For_New_Traps_22 "wikilink")
+-    [Requests For New Traps 23](/keeperrl_wiki/Requests_For_New_Traps_23 "wikilink")
+-    [Requests For New Traps 24](/keeperrl_wiki/Requests_For_New_Traps_24 "wikilink")
+-    [Requests For New Traps 25](/keeperrl_wiki/Requests_For_New_Traps_25 "wikilink")
+-    [Requests For New Traps 26](/keeperrl_wiki/Requests_For_New_Traps_26 "wikilink")
+-    [Requests For New Traps 27](/keeperrl_wiki/Requests_For_New_Traps_27 "wikilink")
+-    [Requests For New Traps 28](/keeperrl_wiki/Requests_For_New_Traps_28 "wikilink")
+-    [Requests For New Traps 29](/keeperrl_wiki/Requests_For_New_Traps_29 "wikilink")
+-    [Requests For New Traps 3](/keeperrl_wiki/Requests_For_New_Traps_3 "wikilink")
+-    [Requests For New Traps 30](/keeperrl_wiki/Requests_For_New_Traps_30 "wikilink")
+-    [Requests For New Traps 31](/keeperrl_wiki/Requests_For_New_Traps_31 "wikilink")
+-    [Requests For New Traps 32](/keeperrl_wiki/Requests_For_New_Traps_32 "wikilink")
+-    [Requests For New Traps 33](/keeperrl_wiki/Requests_For_New_Traps_33 "wikilink")
+-    [Requests For New Traps 34](/keeperrl_wiki/Requests_For_New_Traps_34 "wikilink")
+-    [Requests For New Traps 35](/keeperrl_wiki/Requests_For_New_Traps_35 "wikilink")
+-    [Requests For New Traps 36](/keeperrl_wiki/Requests_For_New_Traps_36 "wikilink")
+-    [Requests For New Traps 37](/keeperrl_wiki/Requests_For_New_Traps_37 "wikilink")
+-    [Requests For New Traps 38](/keeperrl_wiki/Requests_For_New_Traps_38 "wikilink")
+-    [Requests For New Traps 39](/keeperrl_wiki/Requests_For_New_Traps_39 "wikilink")
+-    [Requests For New Traps 4](/keeperrl_wiki/Requests_For_New_Traps_4 "wikilink")
+-    [Requests For New Traps 40](/keeperrl_wiki/Requests_For_New_Traps_40 "wikilink")
+-    [Requests For New Traps 41](/keeperrl_wiki/Requests_For_New_Traps_41 "wikilink")
+-    [Requests For New Traps 42](/keeperrl_wiki/Requests_For_New_Traps_42 "wikilink")
+-    [Requests For New Traps 43](/keeperrl_wiki/Requests_For_New_Traps_43 "wikilink")
+-    [Requests For New Traps 44](/keeperrl_wiki/Requests_For_New_Traps_44 "wikilink")
+-    [Requests For New Traps 45](/keeperrl_wiki/Requests_For_New_Traps_45 "wikilink")
+-    [Requests For New Traps 46](/keeperrl_wiki/Requests_For_New_Traps_46 "wikilink")
+-    [Requests For New Traps 47](/keeperrl_wiki/Requests_For_New_Traps_47 "wikilink")
+-    [Requests For New Traps 48](/keeperrl_wiki/Requests_For_New_Traps_48 "wikilink")
+-    [Requests For New Traps 49](/keeperrl_wiki/Requests_For_New_Traps_49 "wikilink")
+-    [Requests For New Traps 5](/keeperrl_wiki/Requests_For_New_Traps_5 "wikilink")
+-    [Requests For New Traps 6](/keeperrl_wiki/Requests_For_New_Traps_6 "wikilink")
+-    [Requests For New Traps 7](/keeperrl_wiki/Requests_For_New_Traps_7 "wikilink")
+-    [Requests For New Traps 8](/keeperrl_wiki/Requests_For_New_Traps_8 "wikilink")
+-    [Requests For New Traps 9](/keeperrl_wiki/Requests_For_New_Traps_9 "wikilink")

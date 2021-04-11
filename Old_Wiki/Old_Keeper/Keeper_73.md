@@ -1,0 +1,163 @@
+---
+title: Keeper 73
+permalink: Keeper_73/
+layout: wiki
+---
+__NOTOC__
+
+The Keeper (male or female) is the most valuable entity, if the keeper dies the game is lost.
+
+The playable classes are moddable. The official configuration is found [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/keeper_creatures.txt here]
+
+== Warlock Class ==
+[[File:Keeper_west.png|100px|link=]] [[File:Keeper_female_west.png|100px|link=]] ''Player's avatar (Warlock class)
+''Base values''
+*Spell Damage:20
+*Defense:12
+*Damage:12
+*Body size:Large
+*Gender:Male
+*Sorcery:0.2
+*Laboratory:0.2
+*Melee training maximum:7
+*Spell training maximum:12
+*Spell:Heal Self
+*Immigration: [[:Category: Minions | Imps + Evil Minions]]
+
+ A keeper that specializes in the magic arts.
+ Get a nice variety of spells later on.
+
+== Dark Knight Class ==
+[[File:Keeper_knight_west.png|100px|link=]] [[File:Keeper_knight_female_west.png|100px|link=]] ''Player's avatar (Fighter class)
+''Base values''
+*Defense:16
+*Damage:20
+*Body size:Large
+*Gender:Male\Female
+*Melee training maximum:12
+*Spell training maximum:3
+*Spell:Heal Self
+*Skill:Forge 20%
+*Immigration: [[:Category: Minions | Imps+ Evil Minions]]
+
+ Get a quick start to the game with impressive melee skills.
+ Get a weapon and iron working from the start. Still get limited magic skills.
+ It is somewhat easier to survive early on.
+
+== White Knight Class ==
+[[File:white_knight_west.png|100px|link=]] [[File:white_knight_female_west.png|100px|link=]] ''Player's avatar (Fighter class)
+''Base values''
+*Defense:16
+*Damage:20
+*Body size:Large
+*Gender:Male\Female
+*Melee training maximum:12
+*Spell training maximum:1
+*Spell:Heal Self
+*Skill:Forge 20%
+*Immigration: [[:Category: Recruits | Peseants + &quot;Good&quot; recruits]]
+
+ Fight the forces of evil. Recruit heroic knights, priests and archers.
+ Tap into a readily available supply of peaseant workers.
+ Farm livestock to support a larger population.
+
+=Gnome Tribe=
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+*Build automatons instead of recruiting immigrants
+*Start with 4 equal gnome keepers
+
+== Uploaded mods for new keeper classes ==
+
+===Bonus mod===
+* Necromancer
+* Dwarf
+* Hard mode
+* Easy mode
+* Elementalist
+* Gnomes
+* Sandbox
+* Dark Elves
+
+ There are many other mods to try out.
+
+[[Download Mods]]
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Keeper](/keeperrl_wiki/Old_Keeper "wikilink")
+
+Other items in this section
+-    [Keeper 0](/keeperrl_wiki/Keeper_0 "wikilink")
+-    [Keeper 1](/keeperrl_wiki/Keeper_1 "wikilink")
+-    [Keeper 10](/keeperrl_wiki/Keeper_10 "wikilink")
+-    [Keeper 11](/keeperrl_wiki/Keeper_11 "wikilink")
+-    [Keeper 12](/keeperrl_wiki/Keeper_12 "wikilink")
+-    [Keeper 13](/keeperrl_wiki/Keeper_13 "wikilink")
+-    [Keeper 14](/keeperrl_wiki/Keeper_14 "wikilink")
+-    [Keeper 15](/keeperrl_wiki/Keeper_15 "wikilink")
+-    [Keeper 16](/keeperrl_wiki/Keeper_16 "wikilink")
+-    [Keeper 17](/keeperrl_wiki/Keeper_17 "wikilink")
+-    [Keeper 18](/keeperrl_wiki/Keeper_18 "wikilink")
+-    [Keeper 19](/keeperrl_wiki/Keeper_19 "wikilink")
+-    [Keeper 2](/keeperrl_wiki/Keeper_2 "wikilink")
+-    [Keeper 20](/keeperrl_wiki/Keeper_20 "wikilink")
+-    [Keeper 21](/keeperrl_wiki/Keeper_21 "wikilink")
+-    [Keeper 22](/keeperrl_wiki/Keeper_22 "wikilink")
+-    [Keeper 23](/keeperrl_wiki/Keeper_23 "wikilink")
+-    [Keeper 24](/keeperrl_wiki/Keeper_24 "wikilink")
+-    [Keeper 25](/keeperrl_wiki/Keeper_25 "wikilink")
+-    [Keeper 26](/keeperrl_wiki/Keeper_26 "wikilink")
+-    [Keeper 27](/keeperrl_wiki/Keeper_27 "wikilink")
+-    [Keeper 28](/keeperrl_wiki/Keeper_28 "wikilink")
+-    [Keeper 29](/keeperrl_wiki/Keeper_29 "wikilink")
+-    [Keeper 3](/keeperrl_wiki/Keeper_3 "wikilink")
+-    [Keeper 30](/keeperrl_wiki/Keeper_30 "wikilink")
+-    [Keeper 31](/keeperrl_wiki/Keeper_31 "wikilink")
+-    [Keeper 32](/keeperrl_wiki/Keeper_32 "wikilink")
+-    [Keeper 33](/keeperrl_wiki/Keeper_33 "wikilink")
+-    [Keeper 34](/keeperrl_wiki/Keeper_34 "wikilink")
+-    [Keeper 35](/keeperrl_wiki/Keeper_35 "wikilink")
+-    [Keeper 36](/keeperrl_wiki/Keeper_36 "wikilink")
+-    [Keeper 37](/keeperrl_wiki/Keeper_37 "wikilink")
+-    [Keeper 38](/keeperrl_wiki/Keeper_38 "wikilink")
+-    [Keeper 39](/keeperrl_wiki/Keeper_39 "wikilink")
+-    [Keeper 4](/keeperrl_wiki/Keeper_4 "wikilink")
+-    [Keeper 40](/keeperrl_wiki/Keeper_40 "wikilink")
+-    [Keeper 41](/keeperrl_wiki/Keeper_41 "wikilink")
+-    [Keeper 42](/keeperrl_wiki/Keeper_42 "wikilink")
+-    [Keeper 43](/keeperrl_wiki/Keeper_43 "wikilink")
+-    [Keeper 44](/keeperrl_wiki/Keeper_44 "wikilink")
+-    [Keeper 45](/keeperrl_wiki/Keeper_45 "wikilink")
+-    [Keeper 46](/keeperrl_wiki/Keeper_46 "wikilink")
+-    [Keeper 47](/keeperrl_wiki/Keeper_47 "wikilink")
+-    [Keeper 48](/keeperrl_wiki/Keeper_48 "wikilink")
+-    [Keeper 49](/keeperrl_wiki/Keeper_49 "wikilink")
+-    [Keeper 5](/keeperrl_wiki/Keeper_5 "wikilink")
+-    [Keeper 50](/keeperrl_wiki/Keeper_50 "wikilink")
+-    [Keeper 51](/keeperrl_wiki/Keeper_51 "wikilink")
+-    [Keeper 52](/keeperrl_wiki/Keeper_52 "wikilink")
+-    [Keeper 53](/keeperrl_wiki/Keeper_53 "wikilink")
+-    [Keeper 54](/keeperrl_wiki/Keeper_54 "wikilink")
+-    [Keeper 55](/keeperrl_wiki/Keeper_55 "wikilink")
+-    [Keeper 56](/keeperrl_wiki/Keeper_56 "wikilink")
+-    [Keeper 57](/keeperrl_wiki/Keeper_57 "wikilink")
+-    [Keeper 58](/keeperrl_wiki/Keeper_58 "wikilink")
+-    [Keeper 59](/keeperrl_wiki/Keeper_59 "wikilink")
+-    [Keeper 6](/keeperrl_wiki/Keeper_6 "wikilink")
+-    [Keeper 60](/keeperrl_wiki/Keeper_60 "wikilink")
+-    [Keeper 61](/keeperrl_wiki/Keeper_61 "wikilink")
+-    [Keeper 62](/keeperrl_wiki/Keeper_62 "wikilink")
+-    [Keeper 63](/keeperrl_wiki/Keeper_63 "wikilink")
+-    [Keeper 64](/keeperrl_wiki/Keeper_64 "wikilink")
+-    [Keeper 65](/keeperrl_wiki/Keeper_65 "wikilink")
+-    [Keeper 66](/keeperrl_wiki/Keeper_66 "wikilink")
+-    [Keeper 67](/keeperrl_wiki/Keeper_67 "wikilink")
+-    [Keeper 68](/keeperrl_wiki/Keeper_68 "wikilink")
+-    [Keeper 69](/keeperrl_wiki/Keeper_69 "wikilink")
+-    [Keeper 7](/keeperrl_wiki/Keeper_7 "wikilink")
+-    [Keeper 70](/keeperrl_wiki/Keeper_70 "wikilink")
+-    [Keeper 71](/keeperrl_wiki/Keeper_71 "wikilink")
+-    [Keeper 72](/keeperrl_wiki/Keeper_72 "wikilink")
+-    [Keeper 8](/keeperrl_wiki/Keeper_8 "wikilink")
+-    [Keeper 9](/keeperrl_wiki/Keeper_9 "wikilink")

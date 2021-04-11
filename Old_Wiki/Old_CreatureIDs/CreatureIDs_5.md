@@ -1,0 +1,156 @@
+---
+title: CreatureIDs 5
+permalink: CreatureIDs_5/
+layout: wiki
+---
+=Usage=
+Used to specify what keepers and adventurers appear in games and also what immigrants appear in games.
+
+=Example from player_creatures.txt=
+From: [[Player_Creatures.txt]]
+ creatureId = { '''KEEPER_MAGE KEEPER_MAGE_F''' }
+
+=Example from immigration.txt=
+ ids = { '''IMP''' }
+
+=Valid values=
+*KEEPER_MAGE
+*KEEPER_MAGE_F
+*KEEPER_KNIGHT
+*KEEPER_KNIGHT_F
+*ADVENTURER
+*ADVENTURER_F
+*GOBLIN
+*ORC
+*ORC_SHAMAN
+*HARPY
+*SUCCUBUS
+*DOPPLEGANGER
+*BANDIT
+*SPECIAL_BLBN
+*SPECIAL_BLBW
+*SPECIAL_BLGN
+*SPECIAL_BLGW
+*SPECIAL_BMBN
+*SPECIAL_BMBW
+*SPECIAL_BMGN
+*SPECIAL_BMGW
+*SPECIAL_HLBN
+*SPECIAL_HLBW
+*SPECIAL_HLGN
+*SPECIAL_HLGW
+*SPECIAL_HMBN
+*SPECIAL_HMBW
+*SPECIAL_HMGN
+*SPECIAL_HMGW
+*GHOST
+*UNICORN
+*SPIRIT
+*LOST_SOUL
+*GREEN_DRAGON
+*RED_DRAGON
+*CYCLOPS
+*DEMON_DWELLER
+*DEMON_LORD
+*MINOTAUR
+*HYDRA
+*SHELOB
+*SPIDER_FOOD
+*WITCH
+*WITCHMAN
+*CLAY_GOLEM
+*STONE_GOLEM
+*IRON_GOLEM
+*LAVA_GOLEM
+*ADA_GOLEM
+*AUTOMATON
+*FIRE_ELEMENTAL
+*WATER_ELEMENTAL
+*EARTH_ELEMENTAL
+*AIR_ELEMENTAL
+*ENT
+*ANGEL
+*ZOMBIE
+*VAMPIRE
+*VAMPIRE_LORD
+*MUMMY
+*SKELETON
+*GNOME
+*GNOME_CHIEF
+*DWARF
+*DWARF_FEMALE
+*DWARF_BARON
+*KOBOLD
+*IMP
+*OGRE
+*CHICKEN
+*PRIEST_PLAYER
+*KNIGHT_PLAYER
+*JESTER_PLAYER
+*DUKE_PLAYER
+*ARCHER_PLAYER
+*GNOME_PLAYER
+*PESEANT_PLAYER
+*PRIEST
+*KNIGHT
+*JESTER
+*DUKE
+*ARCHER
+*PESEANT
+*PESEANT_PRISONER
+*CHILD
+*SHAMAN
+*WARRIOR
+*LIZARDMAN
+*LIZARDLORD
+*ELEMENTALIST
+*ELF
+*ELF_ARCHER
+*ELF_CHILD
+*ELF_LORD
+*DARK_ELF
+*DARK_ELF_WARRIOR
+*DARK_ELF_CHILD
+*DARK_ELF_LORD
+*DRIAD
+*HORSE
+*COW
+*PIG
+*GOAT
+*DONKEY
+*JACKAL
+*DEER
+*BOAR
+*FOX
+*RAVEN
+*VULTURE
+*WOLF
+*WEREWOLF
+*DOG
+*DEATH
+*FIRE_SPHERE
+*KRAKEN
+*BAT
+*SNAKE
+*CAVE_BEAR
+*SPIDER
+*FLY
+*RAT
+*SOFT_MONSTER
+*ANT_WORKER
+*ANT_SOLDIER
+*ANT_QUEEN
+*SOKOBAN_BOULDER
+*HALLOWEEN_KID
+
+[[Category: Modding Reference Data]]
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_CreatureIDs](/keeperrl_wiki/Old_CreatureIDs "wikilink")
+
+Other items in this section
+-    [CreatureIDs 0](/keeperrl_wiki/CreatureIDs_0 "wikilink")
+-    [CreatureIDs 1](/keeperrl_wiki/CreatureIDs_1 "wikilink")
+-    [CreatureIDs 2](/keeperrl_wiki/CreatureIDs_2 "wikilink")
+-    [CreatureIDs 3](/keeperrl_wiki/CreatureIDs_3 "wikilink")
+-    [CreatureIDs 4](/keeperrl_wiki/CreatureIDs_4 "wikilink")
+-    [CreatureIDs 6](/keeperrl_wiki/CreatureIDs_6 "wikilink")
