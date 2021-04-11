@@ -1,34 +1,29 @@
 ---
-title: Main Page 354
-permalink: Main_Page_354/
+title: Main Page 247
+permalink: Main_Page_247/
 layout: wiki
 ---
+
+
 {| class=&quot;wikitable&quot; style=&quot;width: 100%;margin: 1em auto 1em auto;&quot;
 !&lt;br/&gt;&lt;br/&gt;&lt;font size=14&gt;&lt;u&gt;Welcome to the&lt;br/&gt;&lt;br/&gt;
 KeeperRL community&lt;/u&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
 
 [http://keeperrl.com/ KeeerRL Main Site]
 
-[https://keeperrl.com/category/News/ Official development news.]
+[http://steamcommunity.com/app/329970 The KeeperRL community on Steam]
 
-[http://steamcommunity.com/app/329970 KeeperRL gaming community on Steam]
+[http://keeperrl.com/Forum Forum]
 
-[https://discord.gg/XZfCCs5 Live Discord chat for KeeperRL]
+[https://discord.gg/XZfCCs5 Official Discord for KeeperRL]
 
-[http://keeperrl.com/Forum Official discussion forum]
+[https://www.facebook.com/keeperrl KeeperRL on Facebook]
 
-[https://www.reddit.com/r/Keeperrl Karma points for KeeperRL on Reddit]
+[https://twitter.com/keeperRL KeeperRL on Twitter]
 
-[https://www.facebook.com/keeperrl KeeperRL friend network on Facebook]
+ Latest popular feature: [https://steamcommunity.com/app/329970/workshop/ Steam workshop integration] [[File:new.png|link=]]
 
-[https://twitter.com/keeperRL KeeperRL gossip on Twitter]
-
-[http://www.roguebasin.com/index.php?title=KeeperRL KeeperRL RogueBasin Home]
-
- Latest popular feature (Alpha 31) October 2020: [https://steamcommunity.com/games/329970/announcements/detail/2907595185824499748 Warlord Mode] [[File:new.png|link=]]
 |}
-
-A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
 
 [[File:Keeper_east.png|100px|link=]] [[File:Keeper_knight_female_west.png|right|100px|link=]]
 
@@ -42,15 +37,15 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 * [[Roguelike Realtime Strategy Concept]] 
 * [[Campaign mode|Campaign mode vs Single Map]]
 * [[Endless Waves of Invaders]]
-* [[Team Strategy]]
+* [[Team Strategies]]
 * [[YouTube Videos]]
 * [[Shortcut Keys]]
 * [[Player ideas, requests and contributions]]
 * [http://github.com/miki151/keeperrl Source Code]
 * [https://steamcommunity.com/app/329970/workshop/ Steam workshop]
+* [[Modding guide|Modding Guide]]
+* [[FAQ]]
 |
-* [[:Category: Alpha31 | Alpha31]] | Warlord Mode
-* [[:Category: Alpha30 | Alpha30]] | Gnome Keepers\Many Mods at once
 * [[:Category: Alpha29 | Alpha29]] | Steam workshop integration
 * [[:Category: Alpha28 | Alpha28]] | Explosion of free game content
 * [[:Category: Alpha27 | Alpha27]] | Z-Levels
@@ -60,6 +55,11 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 * [[:Category: Alpha23 | Alpha23]] | Endless mode
 * [[:Category: Alpha22 | Alpha22]] | Tutorial
 * [[:Category: Alpha21 | Alpha21]] | Immigration system upgraded
+* [[:Category: Alpha20 | Alpha20]] | Production queues
+* [[:Category: Alpha19 | Alpha19]] | In game message boards
+* [[:Category: Alpha18 | Alpha18]] | Fight other retired offline keepers
+* [[:Category: Alpha17 | Alpha17]] | Minion menu system upgraded
+* [[:Category: Alpha16 | Alpha16]] | Filling in tunnels
 |-
 ! [[:Category: Creature Guide | Creature Guide]]
 ! [[:Category: Dungeon Guide | Dungeon Guide]]
@@ -92,58 +92,9 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 ** [[Jewelry]]
 ** [[Consumables]]
 ** [[Miscellaneous_Items]]
-* [[Z-Level Guide]]
-|}
-[[File:red_dragon.png|100px||centre|link=]]
-{| class=&quot;wikitable&quot; style=&quot;width: 40%;margin: 1em auto 1em auto;&quot;
-! [[:Category: Modding Guide | Modding Guide]]
-|}
-{| class=&quot;wikitable&quot; style=&quot;width: 40%;margin: 1em auto 1em auto;&quot;
-|[[:Download_Mods | Download Mods]]
-|-
-|[[Gaining_familiarity_with_mods_on_KeeperRL | Modding Tutorial ]]
-|-
-|[[:Official_Game_Configs | Offical Game Configs (&quot;Vanilla&quot;) ]]
-|-
-|}
-[[File:library_wood.png|100px||centre|link=]]
-{| class=&quot;wikitable&quot; style=&quot;width: 60%;margin: 1em auto 1em auto;&quot;
-! [[:FAQ]]
-|}
-{| class=&quot;wikitable&quot; style=&quot;width: 60%;margin: 1em auto 1em auto;&quot;
-|Developer||'''[https://keeperrl.com/development-team/ Michał Brzozowski]
-|-
-|Theme||'''Fantasy
-|-
-|Genre||'''[[Roguelike_Realtime_Strategy_Concept|Integrated RTS and Roguelike]]
-|-
-|Influences||'''Dungeon Keeper, Nethack, and Dwarf Fortress
-|-
-|Released||'''Nov 05 2013
-|-
-|Version distributed freely||'''[https://keeperrl.com/download/ Full version presented in ASCII]
-|-
-|Version you pay for||'''[https://keeperrl.com/download/  Full version presented with graphics and sound]
-|-
-|Charity scheme||'''[https://steamcommunity.com/app/329970/discussions/0/1470841629666482168/ Full graphics version can be provided for making eligible wildlife donations]
-|-
-|Release phase||'''Alpha (but extremely addictive!)
-|-
-|Code||'''[http://github.com/miki151/keeperrl Open source C++ under GPL license]
-|-
-|Modding support||'''[[Official_Game_Configs|Extensive modding support]]
-|-
-|Operating systems||'''Windows, Linux, Mac
-|-
-|Approximate Game Length||'''10 hours
-|-
-|Site||'''http://keeperrl.com/
-|-
 |}
 
 [[File:Keeper_knight_east.png|100px|link=]] [[File:Keeper_female_west.png|right|100px|link=]]
-
-Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can [https://keeperrl.com/download/ download] for free.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Main_Page](/keeperrl_wiki/Old_Main_Page "wikilink")
 
@@ -313,7 +264,6 @@ Other items in this section
 -    [Main Page 244](/keeperrl_wiki/Main_Page_244 "wikilink")
 -    [Main Page 245](/keeperrl_wiki/Main_Page_245 "wikilink")
 -    [Main Page 246](/keeperrl_wiki/Main_Page_246 "wikilink")
--    [Main Page 247](/keeperrl_wiki/Main_Page_247 "wikilink")
 -    [Main Page 248](/keeperrl_wiki/Main_Page_248 "wikilink")
 -    [Main Page 249](/keeperrl_wiki/Main_Page_249 "wikilink")
 -    [Main Page 25](/keeperrl_wiki/Main_Page_25 "wikilink")
@@ -432,6 +382,7 @@ Other items in this section
 -    [Main Page 351](/keeperrl_wiki/Main_Page_351 "wikilink")
 -    [Main Page 352](/keeperrl_wiki/Main_Page_352 "wikilink")
 -    [Main Page 353](/keeperrl_wiki/Main_Page_353 "wikilink")
+-    [Main Page 354](/keeperrl_wiki/Main_Page_354 "wikilink")
 -    [Main Page 355](/keeperrl_wiki/Main_Page_355 "wikilink")
 -    [Main Page 356](/keeperrl_wiki/Main_Page_356 "wikilink")
 -    [Main Page 36](/keeperrl_wiki/Main_Page_36 "wikilink")

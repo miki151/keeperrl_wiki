@@ -1,6 +1,6 @@
 ---
-title: Main Page 354
-permalink: Main_Page_354/
+title: Main Page 351
+permalink: Main_Page_351/
 layout: wiki
 ---
 {| class=&quot;wikitable&quot; style=&quot;width: 100%;margin: 1em auto 1em auto;&quot;
@@ -25,7 +25,8 @@ KeeperRL community&lt;/u&gt;&lt;/font&gt;&lt;br/&gt;&lt;br/&gt;
 
 [http://www.roguebasin.com/index.php?title=KeeperRL KeeperRL RogueBasin Home]
 
- Latest popular feature (Alpha 31) October 2020: [https://steamcommunity.com/games/329970/announcements/detail/2907595185824499748 Warlord Mode] [[File:new.png|link=]]
+ Latest popular feature (Alpha 31) October 2020: [Warlord Mode] [[File:new.png|link=
+https://steamcommunity.com/games/329970/announcements/detail/2907595185824499748 ]]
 |}
 
 A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
@@ -49,7 +50,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 * [http://github.com/miki151/keeperrl Source Code]
 * [https://steamcommunity.com/app/329970/workshop/ Steam workshop]
 |
-* [[:Category: Alpha31 | Alpha31]] | Warlord Mode
+* [[:Category: Alpha31 | Alpha31]] | Information not available yet.
 * [[:Category: Alpha30 | Alpha30]] | Gnome Keepers\Many Mods at once
 * [[:Category: Alpha29 | Alpha29]] | Steam workshop integration
 * [[:Category: Alpha28 | Alpha28]] | Explosion of free game content
@@ -60,6 +61,11 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 * [[:Category: Alpha23 | Alpha23]] | Endless mode
 * [[:Category: Alpha22 | Alpha22]] | Tutorial
 * [[:Category: Alpha21 | Alpha21]] | Immigration system upgraded
+* [[:Category: Alpha20 | Alpha20]] | Production queues
+* [[:Category: Alpha19 | Alpha19]] | In game message boards
+* [[:Category: Alpha18 | Alpha18]] | Fight other retired offline keepers
+* [[:Category: Alpha17 | Alpha17]] | Minion menu system upgraded
+* [[:Category: Alpha16 | Alpha16]] | Filling in tunnels
 |-
 ! [[:Category: Creature Guide | Creature Guide]]
 ! [[:Category: Dungeon Guide | Dungeon Guide]]
@@ -429,9 +435,9 @@ Other items in this section
 -    [Main Page 349](/keeperrl_wiki/Main_Page_349 "wikilink")
 -    [Main Page 35](/keeperrl_wiki/Main_Page_35 "wikilink")
 -    [Main Page 350](/keeperrl_wiki/Main_Page_350 "wikilink")
--    [Main Page 351](/keeperrl_wiki/Main_Page_351 "wikilink")
 -    [Main Page 352](/keeperrl_wiki/Main_Page_352 "wikilink")
 -    [Main Page 353](/keeperrl_wiki/Main_Page_353 "wikilink")
+-    [Main Page 354](/keeperrl_wiki/Main_Page_354 "wikilink")
 -    [Main Page 355](/keeperrl_wiki/Main_Page_355 "wikilink")
 -    [Main Page 356](/keeperrl_wiki/Main_Page_356 "wikilink")
 -    [Main Page 36](/keeperrl_wiki/Main_Page_36 "wikilink")
