@@ -3,11 +3,44 @@ title: Old Shaman
 permalink: Old_Shaman/
 layout: wiki
 ---
+[[File:shaman.png|100px|link=]] ''Tribal wizard
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Spell Damage:30
+*Defense:19
+*Damage:27
+*Body size:Large
+*Magic Resistance:Yes
+*Courage:Yes
+*Spell:Heal Self
+*Spell:Speed Self
+*Defense Bonus:Yes
+*Spell:Summon Spirit
+*Spell:Blast
+*Spell:Heal Other
+*Sorcery:1
+*Spell training maximum:5
 
+=Encounters=
+*[[Warriors]]
 
-This article has gone missing.
+==Summary==
+Spell casters with powerful sorcery skills. Worth capturing to put in your dungeon if you have a spare place. After training they can be good at magic damage.
+
+== Spells ==
+ Healing
+ Speed
+ Strength Bonus
+ Summon Spirit
+ Stun Ray
+ Blast
+
+== Inventory ==
+ Club
+ Leather_Armor
+ Gold
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +129,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,30 @@ title: Old Demon Dweller
 permalink: Old_Demon_Dweller/
 layout: wiki
 ---
+[[File:Demon_dweller.png|100px|link=]] '' Soldiers of Demonshrine
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats==
+*Spell Damage:35
+*Defense:30
+*Damage 25
+*Body size:Large
+*Wings:Yes
+*Flying:Yes
+*Magic Resistance:Yes
+*Courage:Yes
+*Gender:Male
+*Spell:Blast
+*Group:Pack
 
+==Encounters==
+*[[Demon den underground]]
 
-This article has gone missing.
+==Summary==
+These demons are dwellers of the tribe of Demonshrine and are provoked to war by building demon altars. It is sometimes worth leaving their demon lord alone, so that you can farm the demon dwellers for their gold as they immigrate to Demonshrine and then proceed to attack your dungeon. 
+
+It is frustrating for many wicked dictators that this evil power is fiercely loyal to their demon lord. You can't convert or recruit them. While you may respect their wickedness you need to understand that they are all rivals who must be mercilessly crushed.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +115,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

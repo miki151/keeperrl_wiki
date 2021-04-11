@@ -3,11 +3,15 @@ title: Old Cleric
 permalink: Old_Cleric/
 layout: wiki
 ---
+[[File:cleric.png|100px|link=]] Almost certainly holier than thou, unless you are playing saint mod
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Skills: &quot;LABORATORY&quot; 0.4
+*Spell Schools: &quot;healer&quot;
+*Permanent Effects:DISTILLATION_SKILL 1 
 
-
-This article has gone missing.
+[[Category:Creatures]]
+[[Category:Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +100,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Construction](/keeperrl_wiki/Old_Construction "wikilink")

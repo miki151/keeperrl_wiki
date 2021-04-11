@@ -3,11 +3,92 @@ title: Old Campaign Villains.txt
 permalink: Old_Campaign_Villains.txt/
 layout: wiki
 ---
+ # Villains for evil keepers
+ {
+  # Line goes like this:
+  # ViewId EnemyId Villain-name Villain-type
+  DUKE4 KNIGHTS &quot;Knights&quot; MAIN
+  ELF_LORD ELVES &quot;Elves&quot; MAIN
+  DWARF_BARON DWARVES &quot;Dwarves&quot; MAIN
+  RED_DRAGON RED_DRAGON &quot;Red dragon&quot; MAIN
+  ELEMENTALIST ELEMENTALIST &quot;Elementalist&quot; MAIN
+  GREEN_DRAGON GREEN_DRAGON &quot;Green dragon&quot; MAIN
+  LIZARDLORD LIZARDMEN &quot;Lizardmen&quot; MAIN
+  SHAMAN WARRIORS &quot;Warriors&quot; MAIN
+  DEMON_LORD DEMON_DEN &quot;Demon den&quot; MAIN
+  
+  ENT ENTS &quot;Tree spirits&quot; LESSER
+  DRIAD DRIADS &quot;Driads&quot; LESSER
+  CYCLOPS CYCLOPS &quot;Cyclops&quot; LESSER
+  SHELOB SHELOB &quot;Giant spider&quot; LESSER
+  HYDRA HYDRA &quot;Hydra&quot; LESSER
+  UNICORN UNICORN_HERD &quot;Unicorn herd&quot; LESSER
+  ANT_QUEEN ANTS_OPEN &quot;Ants&quot; LESSER
+  #ZOMBIE CEMETERY &quot;Zombies&quot; LESSER
+ 
+  UNKNOWN_MONSTER OGRE_CAVE &quot;Unknown&quot; ALLY
+  UNKNOWN_MONSTER HARPY_CAVE &quot;Unknown&quot; ALLY
+  UNKNOWN_MONSTER SOKOBAN &quot;Unknown&quot; ALLY
+  DARK_ELF_LORD DARK_ELVES &quot;Dark elves&quot; ALLY
+  GNOME_BOSS GNOMES &quot;Gnomes&quot; ALLY
+  ORC_CAPTAIN ORC_VILLAGE &quot;Greenskin village&quot; ALLY
+ }
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+ # Villains for lawful keepers
+ {
+  RED_DRAGON RED_DRAGON &quot;Red dragon&quot; MAIN
+  GREEN_DRAGON GREEN_DRAGON &quot;Green dragon&quot; MAIN
+  SHELOB SHELOB &quot;Giant spider&quot; MAIN
+  ANT_QUEEN ANTS_OPEN &quot;Ants&quot; MAIN
+  DARK_ELF_LORD DARK_ELVES &quot;Dark elves&quot; MAIN
+  ORC_CAPTAIN ORC_VILLAGE &quot;Greenskin village&quot; MAIN
+  DEMON_LORD DEMON_DEN &quot;Demon den&quot; MAIN
+  LIZARDLORD LIZARDMEN &quot;Lizardmen&quot; MAIN
+ 
+  SHELOB SHELOB &quot;Giant spider&quot; LESSER
+  CYCLOPS CYCLOPS &quot;Cyclops&quot; LESSER
+  HYDRA HYDRA &quot;Hydra&quot; LESSER
+  ZOMBIE CEMETERY &quot;Zombies&quot; LESSER
+  OGRE OGRE_CAVE &quot;Ogres&quot; LESSER
+  HARPY HARPY_CAVE &quot;Harpies&quot; LESSER
+  ANT_QUEEN ANTS_OPEN &quot;Ants&quot; LESSER
+ 
+  DWARF_BARON DWARVES &quot;Dwarves&quot; ALLY
+ }
+
+ # Villains for evil adventurers
+ {
+  DUKE4 KNIGHTS &quot;Knights&quot; MAIN
+  ORC_CAPTAIN ORC_VILLAGE &quot;Greenskins village&quot; ALLY
+ }
+
+ # Villains for lawful adventurers
+ {
+  RED_DRAGON RED_DRAGON &quot;Red dragon&quot; MAIN
+  GREEN_DRAGON GREEN_DRAGON &quot;Green dragon&quot; MAIN
+  SHELOB SHELOB &quot;Giant spider&quot; MAIN
+  ANT_QUEEN ANTS_OPEN &quot;Ants&quot; MAIN
+  DARK_ELF_LORD DARK_ELVES &quot;Dark elves&quot; MAIN
+  ORC_CAPTAIN ORC_VILLAGE &quot;Greenskin village&quot; MAIN
+  DEMON_LORD DEMON_DEN &quot;Demon den&quot; MAIN
+  LIZARDLORD LIZARDMEN &quot;Lizardmen&quot; MAIN
+ 
+  BANDIT BANDITS &quot;Bandits&quot; LESSER
+  CYCLOPS CYCLOPS &quot;Cyclops&quot; LESSER
+  HYDRA HYDRA &quot;Hydra&quot; LESSER
+  ZOMBIE CEMETERY &quot;Zombies&quot; LESSER
+  OGRE OGRE_CAVE &quot;Ogres&quot; LESSER
+  HARPY HARPY_CAVE &quot;Harpies&quot; LESSER
+  ANT_QUEEN ANTS_OPEN &quot;Ants&quot; LESSER
+ 
+  DUKE4 KNIGHTS &quot;Knights&quot; ALLY
+  ELF_LORD ELVES &quot;Elves&quot; ALLY
+  DWARF_BARON DWARVES &quot;Dwarves&quot; ALLY
+  LIZARDLORD LIZARDMEN &quot;Lizardmen&quot; ALLY
+ }
 
 
-This article has gone missing.
+[[Category:OfficialAlpha26GameConfigs]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +176,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

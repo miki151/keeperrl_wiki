@@ -3,11 +3,38 @@ title: Old Cyclops
 permalink: Old_Cyclops/
 layout: wiki
 ---
+[[File:cyclops.png|100px|link=]]
+''A nasty minor boss
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:40
+*Damage:34
+*Body size:Large
+*Ranged Resistance:Yes
+*Melee training maximum:5
 
 
-This article has gone missing.
+= Summary =
+Cyclops are tough minor villains. Although one of the smaller bosses, often attacks earlier in the game. Once captured torture for a chance at getting a very solid fighter. He gets very paranoid when your dungeon size is too large, so if you are next to a cyclops, try to stay small and stealthy until you have overpowered him. His paranoia is made worse by a lifetime of substance abuse. He feels lonely without his mushrooms.
+
+= Strategy =
+Cyclops get very threatened when they see the size of a dungeon growing in population. If you are near a local cyclops, try to avoid him and keep your population low. Never steal his mushrooms or grow a rowdy army until you want to take him out. Order your troops to capture him and surround him with a large army to take him down. Don't waste your time shooting him with arrows, since he is very resistant to them. He is a powerful asset if converted to your side through torture. Your imps can put him on a torture table and poke his eye with needles, and if you can break him withiout killing him, he will join forces with you as a minion. You will need to take him alive through.
+
+= Inventory =
+ Heavy Club
+ Gold
+
+[[Category: Creatures]]
+
+= Tribal Stats =
+*Settlement: Cave
+*Inhabitants: Lone cyclops    
+*Race: Cyclops 
+*Tribal Loyalty: Hostile 
+*Building Style: Dungeon
+*Items: Good Mushrooms  
+*AI: Triggered by population 13, aim to kill 4 keeper minions or the keeper
+
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +123,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

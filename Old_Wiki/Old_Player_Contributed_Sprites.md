@@ -3,11 +3,19 @@ title: Old Player Contributed Sprites
 permalink: Old_Player_Contributed_Sprites/
 layout: wiki
 ---
+* This page is for linking to google drives that contain free to use sprites for KeeperRL mods and any KeeperRL related content. Do not use these for anything non-KeeperRL related. The Imps will get mad.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Use of sprites found on this page =
 
+* Please only include sprites that you wish to donate to the KeeperRL community.
+* Modders will be expecting to be able to use these sprites in their mods.
+* Explicitly, do not include anything you have no right to donate.
 
-This article has gone missing.
+= Logodum's drive =
+ * https://drive.google.com/drive/folders/1xAREQCthYSxtGOca6fo1D9j9C3d-nCYb?usp=sharing
+
+= Bathunter's drive = 
+ * https://drive.google.com/open?id=11BhwnAyK4h4X5H4J0dAV0uwyaEtu8KwG
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

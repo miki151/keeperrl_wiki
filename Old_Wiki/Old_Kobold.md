@@ -3,11 +3,22 @@ title: Old Kobold
 permalink: Old_Kobold/
 layout: wiki
 ---
+[[File:kobold.png|100px|link=]] ''Little guys with spears
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats==
 
+*Defense:13
+*Damage:12
+*Body size:Medium
+*Skill:Swimming
 
-This article has gone missing.
+==Encounters==
+*[[Kobold cave]]
+
+==Summary==
+They usually wield spears. Once you have swords, these creatures should rarely cause you trouble, since they have weak combat stats. When they are next to water they often flee across the lake or river since they are expert swimmers.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +107,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

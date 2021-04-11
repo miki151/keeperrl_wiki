@@ -3,11 +3,34 @@ title: Old Elf Archer
 permalink: Old_Elf_Archer/
 layout: wiki
 ---
+= Base Stats =
+ Strenght: 11
+ Dexterity: 17
+ Speed: 120
+ Unarmed damage: 3
+ Size: MEDIUM
+ Weight: 50
+ Creature effect: innocent
+ Creature effect: elf vision (look&amp;shoot through trees)
+ Creature skill: archery: 1.0
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Calculated Stats ==
+ Level: 3.33
+ Attack: 18-21
+ Defense: 13-15
+ Accuracy: 21-23
 
+== Spells ==
+ Healing
 
-This article has gone missing.
+== Inventory ==
+ Elven Sword
+ Leather Armor
+ Short Bow
+ Arrow: 20-36
+ Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +119,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

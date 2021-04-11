@@ -3,11 +3,26 @@ title: Old Elf Child
 permalink: Old_Elf_Child/
 layout: wiki
 ---
+[[File:elf_child.png|100px|link=]] ''Stealthy
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Damage:6
+*Body size:Small
+*Defense:6
+*Magic Resistance:Yes
+*Skill:Stealth
+*Spell:Heal Self
+*Elf Vision:Yes
 
+==Encounters==
+*[[Elves]]
+*[[Elven Cottage]] ‎
 
-This article has gone missing.
+== Summary ==
+
+Elf Children can provide a good line of sight for parties, being able to see through trees. They sometimes become food for dopplegangers who can gain stealth, elf vision and magic resistance. They are not high in demand though. Keepers can usually find better alternatives, so they are captured when you have spare space in your prison and want help with haulage and mining work. They often just get put to the sword instead.
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

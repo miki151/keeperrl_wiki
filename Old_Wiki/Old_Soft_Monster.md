@@ -3,11 +3,22 @@ title: Old Soft Monster
 permalink: Old_Soft_Monster/
 layout: wiki
 ---
+[[File:softmonster.png|100px|link=]] ''Rare &quot;thing&quot; that lives in dungeons
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
+*Defense:25
+*Damage:45
+*Body size:Large
+*Courage:No
 
+==Encounters==
+*[[Deep Dungeon Floor]]
+*[[Very Deep Dungeon Floor]]
 
-This article has gone missing.
+== Summary ==
+It is said that there was a keeper who knew the creator of this universe. He only wanted to help, but as a gift he was turned into a cuddly toy and thrown in a dark elf dungeon. Before you feel sorry for him, he sees it as a great honor.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +107,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,30 @@ title: Old Dog
 permalink: Old_Dog/
 layout: wiki
 ---
+[[File:dog.png|100px|link=]] '' Killer of the unarmed
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:7
+*Damage:18
+*Body size:Medium
+*Weight:25
+*Attack:Fangs
+*Animal:Yes
+*Group:Pack
 
+==Encounters==
+*[[Tutorial village]]
+*[[Human cottage]]
+*[[Elven Cottage]]
 
-This article has gone missing.
+== Summary ==
+
+Easy to kill with a weapon, having a low defense. They are unable to compete with armoured and armed units. However, they have a relatively high damage and once they sink their teeth into you can do some harm to the careless.
+
+Man's best friend but a keeper's enemy. Unless you are playing as a white knight you will either let them be or fight them. White knights get to recruit dogs for free and without paying for a population point. A small pack of dogs can help to swell an army somewhat.
+
+[[Category: Creatures]]
+[[Category: Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +115,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

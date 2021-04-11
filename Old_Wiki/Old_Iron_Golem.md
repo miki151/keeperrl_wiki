@@ -3,11 +3,28 @@ title: Old Iron Golem
 permalink: Old_Iron_Golem/
 layout: wiki
 ---
+[[File:iron_golem.png|100px|link=]] ''Walking iron
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats==
 
+*Defense:30
+*Damage:23
+*Melee Resistance:Yes
+*Slow:Yes
+*Body Size: Large
 
-This article has gone missing.
+==Encounters==
+
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
+
+==Summary==
+A weaker cousin of the adamantium golems. They are rarely seen unless you play endless mode or enter the dark elf or gnome dungeons. Hand to hand combat is not really recommended, if you are having trouble with them. Arrows and magic at range are best.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +113,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

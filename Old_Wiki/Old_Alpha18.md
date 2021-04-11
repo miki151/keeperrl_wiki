@@ -3,11 +3,28 @@ title: Old Alpha18
 permalink: Old_Alpha18/
 layout: wiki
 ---
+Alpha 18 was released in May 2016. The major changes are as follows:
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+* Campaign mode, including Keeper vs Keeper battles!
+* Added geology tech, now used to uncover ores.
+* Added command to switch team leader.
+* Menu to choose new team leader when current one is killed.
+* New attack trigger to finish off the player after a lost battle.
+* Added a task for Keeper to sit on throne (and generate mana).
+* Flying creatures can no longer fly over Sokoban holes.
+* Made doors lockable when outside of buildings tab.
+* Keeper’s full title is displayed in combat messages.
+* Tasks window has a scrollbar.
+* Made hint about [new team] button more clear.
+* Minimap UI gets a border.
+* Fixed crash when trying to whip a pig.
+* Fixed UI crash involving dropping multiple items.
+* Fixed UI crash involving all team members getting killed.
+* Fixed UI crash caused by uninitialized variable.
+* Fixed message bug about praying to a web instead of breaking free.
+* KeeperRL is ported to the Visual Studio C++ compiler, which means better error reporting and possible Steamworks integration
 
-
-This article has gone missing.
+[[Category : Game versions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +112,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,29 @@ title: Old Eskimo Cottage
 permalink: Old_Eskimo_Cottage/
 layout: wiki
 ---
+[[File: &quot;eskimo&quot; .png|100px|link=]]
+[[File: &quot;eskimo&quot; .png|100px|link=]]
+[[File: &quot;eskimo&quot; .png|100px|link=]]
+[[File:eskimo_child.png|100px|link=]]
+[[File:eskimo_child.png|100px|link=]]
+[[File:eskimo_child.png|100px|link=]]
+[[File:eskimo_child.png|100px|link=]]
+[[File:husky.png|100px|link=]]
+[[File:husky.png|100px|link=]]
+[[File:husky.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
-
-
-This article has gone missing.
+= Stats =
+*Settlement: Cottage
+*Tribal Loyalty: Humanity
+*Crops Distance: No crops
+*Inhabitants 2-4 [[Eskimo]]. 5-10 [[Eskimo Child]]/[[Husky]]
+*Race: humans 
+*Building Style: Snow
+*Furniture: Standard Furniture
+*Outside features: Snow Furniture
+*Guardian: Witchman 
+ 
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

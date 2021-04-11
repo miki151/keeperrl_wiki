@@ -3,11 +3,41 @@ title: Old Fly
 permalink: Old_Fly/
 layout: wiki
 ---
+__NOTOC__
+[[File:fly.png|100px|link=]] ''Distraction during combat
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== [[:Attributes]] ==
+''Base values''
+*Defense:12
+*Damage:2
+*Body size:Small
+*Weight:0.1
+*Courage:Yes
+*Chasing:No
+*Animal:Yes
 
+==Encounters==
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+== Summary ==
+Summoned by [[:Spells#Summon_Insects|summon insects]] spell. These creatures are nothing but a distraction, but they are a good distraction. They buzz in the faces of enemies obscuring their vision until the invader is forced to swat them away. All the while, you jab at the unfortunate intruder with swords and arrows. They are not a bad deal.
+
+== Body Parts ==
+* Heads : 1
+* Arms : 0
+* Legs : 6
+* Wings : 2
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Courage|Courage]] : 100
+* [[:Traits#Flying|Flying]]
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

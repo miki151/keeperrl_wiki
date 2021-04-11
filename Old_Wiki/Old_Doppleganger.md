@@ -3,11 +3,55 @@ title: Old Doppleganger
 permalink: Old_Doppleganger/
 layout: wiki
 ---
+__NOTOC__
+[[File:doppleganger.png|100px|link=]] '' Absorber of bodies
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== [[:Attributes]] ==
+''Base values''
+*Spell damage:5
+*Defense:25
+*Body size:Large
+*Skill:Consumption
 
+==Summary==
 
-This article has gone missing.
+This creature is famous for its ability to absorb other dungeon inhabitants and so doing, gain many of their characteristics and skills. They start off fairly weak but power up as they absorb other prisoners and minions. Try not to absorb things with negative characteristics since the likely outcome is that your doppleganger will exhibit those traits as well.
+
+Victims to consider absorbing include:
+
+*Imps (Speed, carry capacity)
+*Ravens(Speed, flying)
+*Bats (Night vision, flying)
+*Werewolves (Regeneration, night vision)
+*Goblins (Disarming)
+*Knights (Melee resistance)
+*Archers (Archery)
+*Cyclops (Max out defense and damage)
+*Skeletons (Ranged resistance)
+*2 headed orc (Extra helmet)
+
+It is necessary to practice a lot of rituals at a demon altar to get a doppleganger. 3 spare demon shrines are required and the technology &quot;demonology&quot;. This stacks up to being quite a demanding list of requirements.
+
+Dopplegangers have a maximum stat cap and cannot cast spells, so never become a complete replacement for other minions. In ancient times gone past they single-handedly destroyed everything on the map.
+
+These demons are among the most understanding of your cause. They are loyal to helping you destroy the world and crush it before you. They cause little or no trouble in your dungeon unless they absorb insanity or hatred from one of the other inhabitants.
+
+Absorbing is done by clicking absorb and selecting a victim from a list. It can also be done by pressing &quot;a&quot; when next to your target in minion control mode.
+
+== Traits ==
+* [[:Traits#Uncorporal|Uncorporal]]
+
+== Tasks ==
+* [[:Skills#Absorbtion|Absorb]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* probability : 0.2
+* required tiles
+**Demon Shrine  : 4
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +140,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

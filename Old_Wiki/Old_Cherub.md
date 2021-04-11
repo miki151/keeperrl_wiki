@@ -3,11 +3,17 @@ title: Old Cherub
 permalink: Old_Cherub/
 layout: wiki
 ---
+[[File:cherub.png|100px|link=]] Cute or annoying?
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Body type = Humanoid MEDIUM
+*Material = SPIRIT
+*Wings: 2  
+*Attributes: DEFENSE 5 RANGED_DAMAGE 20 
+*Permanent Effects: SPEED 1 
 
-
-This article has gone missing.
+[[Category:Creatures]]
+[[Category:Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +101,7 @@ Other items in this section
 -    [Old Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

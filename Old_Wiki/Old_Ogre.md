@@ -3,11 +3,41 @@ title: Old Ogre
 permalink: Old_Ogre/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:troll.png|100px|link=]] ''12 combat training levels
 
+== Base Stats ==
+*Defense:18
+*Damage:18
+*Body size:Large
+*Weight:140
+*Magic Vulnerability:Yes
+*Workshop:0.5
+*Forge:0.5
+*Furnace:0.9
+*Melee training maximum:12
 
-This article has gone missing.
+=Encounters=
+*[[Orc village]]
+*[[Ogre cave]]
+*[[Dark mage]]
+
+== Summary ==
+An ogre is a large humanoid with 2 arms and 2 legs. It is strong and agile, but vulnerable to magic. Otherwise, it is better at fighting than most orcs.
+
+== Skills ==
+* [[Weapon Melee]]
+
+== Order Tasks ==
+* [[Training]]
+* [[Workshop]]
+* [[Forge]]
+* [[Lab]]
+* [[Jeweler]]
+
+[[Category:Creatures]]
+[[Category: Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

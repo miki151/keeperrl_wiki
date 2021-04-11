@@ -3,11 +3,34 @@ title: Old Elf
 permalink: Old_Elf/
 layout: wiki
 ---
+[[File:elf.png|100px|link=]] ''Not generally dangerous
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:6
+*Damage:14
+*Body size:Medium
+*Spell:Heal Self
+*Jeweler:0.9
+*Spell training maximum:1
+*Elf Vision:Yes
 
+==Encounters==
+*[[Elves]]
+*[[Elven Cottage]] 
 
-This article has gone missing.
+==Summary==
+Elf vision does offer an advantage when captured and converted and they have good jewelry skill. However, they are not the best of their kind and ordinary elves such as these are not any use as archers. Often slaughtered without thought by keepers.
+
+The best use is perhaps as a lookout during daylight hours in a small team where they can utilise their elf vision.
+
+Elves do not assault dungeons and in that regard claim the moral high ground. However, they are not pacifists and defend their forests with zeal.
+
+== Spells ==
+ Healing
+
+== Inventory ==
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +119,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

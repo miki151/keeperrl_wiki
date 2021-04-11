@@ -3,11 +3,41 @@ title: Old EffectTypeIDs
 permalink: Old_EffectTypeIDs/
 layout: wiki
 ---
+=Usage=
+Used with [[ItemTypes]] to specify variations of items
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from workshop_menu.txt=
+From: [[Workshops_Menu.txt]]
+ {{Potion '''Heal'''} 4 GOLD 10 &quot;advanced alchemy&quot;}
 
+=Valid values=
+*Teleport
+*Heal
+*Fire
+*DestroyEquipment
+*EnhanceArmor
+*EnhanceWeapon
+*Suicide
+*EmitPoisonGas
+*CircularBlast
+*Deception
+*Summon
+*SummonElement
+*Acid
+*Alarm
+*TeleEnemies
+*SilverDamage
+*CurePoison
+*Lasting
+*Permanent
+*PlaceFurniture
+*Damage
+*InjureBodyPart
+*LooseBodyPart
+*RegrowBodyPart
+*DestroyWalls
 
-This article has gone missing.
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

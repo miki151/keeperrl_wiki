@@ -3,11 +3,24 @@ title: Old Ant Worker
 permalink: Old_Ant_Worker/
 layout: wiki
 ---
+[[File:antwork.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:16
+*Damage:16
+*Body size:Medium
+*Weight:10
+*Animal:Yes
 
+==Encounters==
+*[[Sealed ant nest]]
+*[[Small sealed ant nest]]
+*[[Open ant nest]]
 
-This article has gone missing.
+==Summary==
+
+They live in mountains, often near resources. They tend to leave the fighting to their ant warrior brothers. They are cowardly but ugly giant creatures that can do a bit of damage if cornered. It is a shame that you cannot just boil a kettle and pour the bubbling water down their hole.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +108,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

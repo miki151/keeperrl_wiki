@@ -3,11 +3,12 @@ title: Old Creatures
 permalink: Old_Creatures/
 layout: wiki
 ---
+Creatures are moddable from Alpha 27 onwards. You will need to locate the file for your local installation. Here is a link to the creatures configuration data file online:
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/creatures.txt creatures.txt]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Here is a list of standard creatures in a more readable format with extra information:
 
-
-This article has gone missing.
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +97,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

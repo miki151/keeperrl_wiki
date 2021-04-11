@@ -3,11 +3,19 @@ title: Old Ritual Room
 permalink: Old_Ritual_Room/
 layout: wiki
 ---
+[[File:demon_shrine.png|100px|link=]]
+''Demons love gold (but so do you, so how many shrines can you afford?)
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Build a ritual room that attracts demonic inhabitants to your Dungeon by placing demon shrines:
+*[[Ghost]]
+*[[Succubus]]
+*[[Doppleganger]]
 
+*30 gold per shrine
+*Requirement: [[Technologies#Demonology | Demonology]]
 
-This article has gone missing.
+[[Category:Rooms]]
+[[Category: Keeper Mode]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

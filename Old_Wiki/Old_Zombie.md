@@ -3,11 +3,44 @@ title: Old Zombie
 permalink: Old_Zombie/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:zombie.png|100px|link=]] ''Invasion fodder
 
+== [[:Attributes]] ==
+''Base values''
+*Defense:17
+*Damage:14
+*Body Size:Large
+*Ranged Resistance:Yes
+*Slow:Yes
+*Melee training maximum:3
 
-This article has gone missing.
+== Summary ==
+
+Zombies are the stupidest minion and unfortunately often arrive slow or crippled from their previous life. In their favour, they can block enemies for a number of turns before they are dismembered.
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Undead|Undead]]
+* [[:Traits#Brainless|Brainless]]
+
+== Tasks ==
+''Sorted by preference, topmost is more likely to be done.''
+* [[:Training_Room|Train]]
+* [[:Graveyard|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+* probability : 0.5
+* corpse usage : 1
+
+== Encounters ==
+*[[Cemetery]]
+*[[Cemetery Entrance]]
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +129,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

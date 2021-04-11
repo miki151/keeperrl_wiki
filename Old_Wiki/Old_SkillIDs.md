@@ -3,11 +3,36 @@ title: Old SkillIDs
 permalink: Old_SkillIDs/
 layout: wiki
 ---
+=Usage=
+Used to specify what special skills immigrants may have.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from immigration.txt=
+From: [[Immigration.txt]]
+ { 0.03 { SkillId '''WORKSHOP''' LastingEffect INSANITY }}
 
+=Valid values=
+*AMBUSH
+*STEALING
+*SWIMMING
+*DIGGING
+*NAVIGATION_DIGGING
+*DISARM_TRAPS
+*SORCERY
+*CONSUMPTION
+*COPULATION
+*CROPS
+*SPIDER
+*STEALTH
+*WORKSHOP
+*FORGE
+*LABORATORY
+*JEWELER
+*FURNACE
+*EXPLORE
+*EXPLORE_NOCTURNAL
+*EXPLORE_CAVES
 
-This article has gone missing.
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +121,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

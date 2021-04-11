@@ -3,11 +3,30 @@ title: Old Fire Elemental
 permalink: Old_Fire_Elemental/
 layout: wiki
 ---
+[[File:fire_elemental.png|100px|link=]] ''Summoned near lava
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
 
+*Body Size:Large
+*Defense:30
+*Damage:20
+*Attack:Fire
+*Fire Resistant:Yes
+*Flying:Yes
 
-This article has gone missing.
+==Encounters==
+*[[Elementalist floor]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
+
+== Summary ==
+
+These can be summoned if the summoner is anywhere near a source of fire. They like burning things, so be careful with these. 
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +115,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

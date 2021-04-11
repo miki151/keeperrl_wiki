@@ -3,11 +3,67 @@ title: Old Resources
 permalink: Old_Resources/
 layout: wiki
 ---
+In KeeperRL the amount of resources you have is theoretically infinite, trees don't grow back, but you can dig down for more resources into the z-levels. Underground treeshrooms provide a source of wood. Also iron, stone, gold and lower down adamantium. Through the use of alchemy [[: Resources#Gold|gold]] can be turned it into other materials. Invaders carry gold into your dungeons. Even so, you will be short of resources at times depending on the sort of game you are playing.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+The number of resources in the mountains can be configured/modded in resources.txt. The file looks like this:
+ [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/resources.txt resources.txt]]
 
+To gather resources you have to select them the ''Dig or cut tree'' tool. Your [[: Imp|imps]] will then start to harvest the resource and carry it to your [[: Storage|stockpiles]].
 
-This article has gone missing.
+[[File:Resources-Screenshot.png|500px|link=]]
+Left to right: Gold, wood, iron, adamantium, stone
+
+== Gold ==
+''You get gold by mining gold veins.''
+
+You need to store gold pieces in a [[treasure chest]].
+
+Gold is used to build [[:Installations#Statue|statues]]. It is the only way to seriously increase your population cap. Hoarding too much gold will attract [[: Bandit|bandits]], and the throne itself makes your neighbors hate you more.
+
+The alternative but a surefire way of getting gold is by ''luring attackers'' into your keep and taking the ore from the bloody corpses, as they very often carry their purse with them. A defensive keep strategy will easily score a big gold count.
+
+== Wood ==
+''You get wood by chopping down trees or bushes.''
+
+The amount of wood planks per tile is more from trees than from bushes.
+
+Wood is used to build [[:Category:Rooms|rooms]] (around 2/3 of them) and [[:Installations|installations]], like [[:Installations#Door|doors]], [[:Installations#Bridge|bridges]], etc. It's the first resource you are gonna need as it takes some wood per [[:Library|library]] bookcase.
+
+== Iron ==
+''You get iron by mining ore veins.''
+
+The amount of iron ore per tile is randomized somewhat.
+
+Iron is used to build [[:Category: Rooms|rooms]], usually with a military theme, such as the [[: Training Room|training room]], the [[: Manufactories#Forge|forge]].
+
+== Adamantium ==
+''You get adamantium by mining ore veins.''
+
+Adamantium is used to build special dummies and finer, sharper, better weapons and armor than iron. Naturally occurring veins are guarded by underground golems that will wreck an unsuspecting keeper or dwarfs. To get some you will need to dig down deep into the z-levels or convert resources into adamantium.
+
+== Stone ==
+''You get stone by mining granite veins.''
+
+Stone is used to build 2 [[:Category:Rooms|rooms]]: the [[:Graveyard|graveyard]] and the [[:Manufactories#Laboratory|laboratory]].
+It is needed for flooring.
+
+== Hidden resources ==
+
+There are 3 main types of hidden resources, which cannot be seen along the bottom of the game window.
+
+===Prisoner Heads===
+You get prisoner heads by executing prisoners.
+These are used to hang up outside your dungeon to provoke the self-righteous into getting squashed by your boulder traps :) You consume them by placing the prisoner head installations.
+
+===Corpses===
+You get corpses by gathering the remains of dead creatures.
+Corpses are used to raise undead when placed in a graveyard. They are consumed whenever recruiting an undead unit.
+
+===Demon/Angel Peity===
+Gathered by worshiping shrines. More of it is required to get top tier Demon/Angels.
+
+[[Category: Keeper Mode]]
+[[Category: Dungeon Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +152,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

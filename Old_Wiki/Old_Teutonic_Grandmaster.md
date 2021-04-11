@@ -3,11 +3,29 @@ title: Old Teutonic Grandmaster
 permalink: Old_Teutonic_Grandmaster/
 layout: wiki
 ---
+[[File:teuton_boss.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
 
+*Alignment: Humanity
+*Body: Humanoid LARGE 
+*Attributes: DAMAGE 41 DEFENSE 33
+*Training Ability: MELEE 4 
+*Permanent Effects: MELEE_RESISTANCE 1 
+*Spell school: Healing
 
-This article has gone missing.
+= Encounters =
+*[[Teutons]]
+
+= Inventory =
+ Sword
+ Chain armor
+ Leather Boots
+ Potion of Healing |OR| First Aid Kit
+ Gold: 30-80
+ Glyph of audience
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

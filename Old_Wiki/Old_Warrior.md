@@ -3,11 +3,26 @@ title: Old Warrior
 permalink: Old_Warrior/
 layout: wiki
 ---
+[[File:warrior.png|100px|link=]] ''Tribal warrior
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:19
+*Damage:29
+*Body size:Large
+*Melee training maximum:5
+*Workshop:0.3
 
+= Encounters =
+*[[Warriors]]
 
-This article has gone missing.
+= Summary =
+Armed humans, these guys are quite tough and often worth capturing. If you can persuade them to join your dungeon on the torture table, they can train further and greatly benefit from being provided with proper equipment.
+
+= Inventory =
+ Club
+ Leather_Armor
+ Gold
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

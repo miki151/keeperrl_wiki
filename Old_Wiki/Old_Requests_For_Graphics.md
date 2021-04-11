@@ -3,11 +3,12 @@ title: Old Requests For Graphics
 permalink: Old_Requests_For_Graphics/
 layout: wiki
 ---
+*Host texture packs on Steam workshop
+*Make furniture items rotatable(just a visual effect)
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Materials =
 
-
-This article has gone missing.
+I wasn't sure where to add this, so I hope this will be alright. Regarding room types I think being able to change the material of the walls would be a nice addition. Right now you have soft or hard stone, and you can't replace the hard stone alone, it creates inconsistency when trying to rebuild some areas or add new tunnels/rooms manually. If there were certain other wall types or even an option to paint over or texture over them with wallpapers, dungeons would feel more coherent in their design. As much as I prefer form over function, small inconsistencies like that just look out of place when building. -FPD
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +97,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

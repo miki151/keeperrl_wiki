@@ -3,11 +3,54 @@ title: Old Orc Mage
 permalink: Old_Orc_Mage/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:orcshaman.png|100px|link=]] ''Minion mage
 
+Some potions and a good book and his day is complete.
 
-This article has gone missing.
+==Encounters==
+*[[Evil temple]]
+*[[Dark mage]]
+
+==Summary==
+
+Basic spell caster minion that you can recruit early on. A good choice of healer for your teams. Later on they learn more advanced spells and can occasionally get excited and set alight to your library, or perhaps worse - set alight to the forest near your dungeon base, giving you a wood shortage.
+
+== [[:Attributes]] ==
+''Base values''
+*Spell Damage:16
+*Defense:8
+*Damage:12
+*Body size:Large
+*Sorcery:0.7
+*Laboratory:0.7
+*Melee training maximum:4
+*Spell training maximum:7
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Healing|Healing]]
+* [[:Skills#Sorcery|Sorcery]] : 0.7
+
+== Tasks ==
+''sorted by preference, study and lab are equal''
+* [[:Library|Study]]
+* [[:Laboratory|Lab]]
+* [[:Dormitory|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Dormitory|Dormitory]]
+* probability : 0.15
+* space usage : 1
+* required tiles
+** Library : 16
+** Laboratory : 9
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +139,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

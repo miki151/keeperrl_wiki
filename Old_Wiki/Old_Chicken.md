@@ -3,11 +3,20 @@ title: Old Chicken
 permalink: Old_Chicken/
 layout: wiki
 ---
+[[File:chicken.png|100px|link=]]
+''Strangely absent.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:2
+*Damage:2
+*Body size:Small
+*Weight:3
+*Minion Food:Yes
+*Slow:Yes
 
+==Summary==
+Chickens look like they are extinct (not in the game?). Perhaps like the dodo, they were just too tasty and too pathetic to survive in a hungry world.
 
-This article has gone missing.
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +104,7 @@ Other items in this section
 -    [Old Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

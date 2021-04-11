@@ -3,11 +3,40 @@ title: Old Storage
 permalink: Old_Storage/
 layout: wiki
 ---
+=Treasure Chest=
+*Holds your gold
+* Each chest can hold unlimited gold pieces, so multiple chests are able to spread the gold into different locations or just provide decoration.
+* Treasure chests are built from the storage menu.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Tile Cost==
+[[File:treasurydeco.png|100px|link=]] ''5 wood per treasure chest
 
+==Usage==
+Treasure chests empty as gold is used:
+*Building statues, carpets, demonshrines.
+*Recruitment of special units
+*Creatures in older versions of KeeperRL used to require salaries, but this is no longer the case.
 
-This article has gone missing.
+=Other storage=
+
+There are currently 2 other types of storage tiles: ''material'', which store [[:Resources|resources]], ''equipment'' which store [[:Category:Items|items]]
+
+Storage tiles are free to build and have no upper limit.
+*&lt;span style=&quot;color:#0f0&quot;&gt;Material stockpiles are coloured green&lt;/span&gt;
+*&lt;span style=&quot;color:#0000ff&quot;&gt;Equipment stockpiles are coloured blue&lt;/span&gt;
+
+== The [[:Graveyard|graveyard]] stockpile ==
+[[File:gravedeco.png|100px|link=]] ''Corpses
+
+While it certainly is the resting place of many of our [[:Traits#Undead|undead]] friends, it is also a the stockpile for corpses, which means you should always have free tile for the lovely bones.
+
+== Tips ==
+There seems to be no upper limit to what a tile can store, which means that 1 tile of ''everything'' can virtually hold... everything.
+
+You can use this trick for a single [[:Graveyard|graveyard]] tile, provided you are ready to see your graveyard disappear if you have room in your population cap and a zombie feels like joining. Alternatively you can always have 2, and make it grow with every joiner without risking a rotting accident in your keep. 
+
+[[Category:Keeper Mode]]
+[[Category:Rooms]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +125,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

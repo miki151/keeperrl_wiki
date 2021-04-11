@@ -3,11 +3,20 @@ title: Old Boar
 permalink: Old_Boar/
 layout: wiki
 ---
+[[File:boar.png|100px|link=]]
+'' Shy creatures that only fight when cornered.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:10
+*Damage:10
+*Body size:Medium
+*Weight:200
+*Animal:Yes
+*Chasing:No
 
+==Summary==
+Boar really only pose a threat if you frighten them at close quarters while exploring. They do however, frighten imps, so if you see them you may as well kill them. They are of no use to dungeons since they can neither be controlled nor recruited by keepers.
 
-This article has gone missing.
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

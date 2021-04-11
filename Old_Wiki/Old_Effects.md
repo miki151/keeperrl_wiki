@@ -3,11 +3,52 @@ title: Old Effects
 permalink: Old_Effects/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Fire ==
+''Creatures are burnt by the fire.''
 
+* weapon attack type
+** damage : 6.0 * 0.5 / victimStrength
 
-This article has gone missing.
+* other source
+** damage : 6.0 * 1.0 / victionStrength
+
+== Panic ==
+
+== Poison ==
+''You feel poison flowing in your veins.''
+
+* weapon attack type
+** duration : 20 ticks
+** damage : 1.0 / 60
+
+* other source / spells / [[:Lizardman|lizardman]]
+** duration : 60 ticks
+** damage : 1.0 / 60
+
+== Poison Gas ==
+
+* gas trap
+** bleed(amount / double(getAttr(AttrType::STRENGTH)));
+
+== Silver ==
+''Undead creatures are hurt by the silver.''
+
+* random damage : 0.0 - 0.15
+
+== Stun ==
+''Creature is stunned.''
+
+* weapon attack type
+** duration : 1 tick
+
+* other source / spells
+** duration : 7 ticks
+
+== Sunlight ==
+
+* 10% chance per tick for undead to crumble to dust.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +137,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

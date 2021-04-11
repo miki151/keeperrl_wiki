@@ -3,11 +3,31 @@ title: Old Dark Elf
 permalink: Old_Dark_Elf/
 layout: wiki
 ---
+[[File:Dark_elf.png|100px|link=]] '' Citizens of the dark elf caves found in the mountains.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
 
+*Defense:6
+*Damage:14
+*Body size:Medium
+*Magic Resistance:Yes
+*Skill:Swimming
+*Spell:Heal Self
+*Night Vision:Yes
 
-This article has gone missing.
+==Encounters==
+
+*[[Dark Elves]]
+*[[Dark Elves Enemy]]
+*[[Dark elf cave]]
+
+== Summary ==
+
+These weak fighters build deep multi-level dungeons where interesting creatures often dwell. At the bottom of their dungeons, you should expect to find a base where tougher warriors and the dark elf lord are found.
+
+These creatures are notoriously cruel and can be recruited into your dungeon for a bit of gold where they can share in the pleasure of destroying humanity and other inferior animals.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +116,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

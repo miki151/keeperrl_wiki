@@ -3,11 +3,32 @@ title: Old Minotaur
 permalink: Old_Minotaur/
 layout: wiki
 ---
+[[File:minotaur.png|100px|link=]] ''Sometimes lives under castles
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
+*Defense:45
+*Damage:35
+*Ranged Resistance:Yes
+*Body size:Large
+*Melee training maximum:5
+
+== Summary ==
+These mighty creatures tend to attack mid\late game in endless mode. If it is at all possible to take them alive for recruitment, it is really a very good idea. Minotaur have also been known to turn up in mazes below human castles on a campaign map.
+
+[[Category:Creatures]]
+
+= Tribe Stats =
+*Settlement: Cave
+*Tribal loyalty: None
+*Inhabitants: Lone minotaur
+*Location Name: Maze
+*Race: monster
+*Furniture: Standard room furniture
+*Building style: Brick
+*Z-level connections: Top Level Knights with extra level below containing minotaur in 40x40 maze.
 
 
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +117,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

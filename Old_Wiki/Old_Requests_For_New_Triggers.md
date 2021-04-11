@@ -1,13 +1,51 @@
----
+=Requests for new triggers=
+Use this page to add ideas for what makes a type of monster attack you.
+
+----
 title: Old Requests For New Triggers
 permalink: Old_Requests_For_New_Triggers/
 layout: wiki
----
+----
+*Description:
+*Creatures:
+*Invader's target:
+----
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Disillusionment==
+*Some allied creatures could become disillusioned if you don't recruit them. They might eventually turn hostile.
+*Ogres
+*Target Keeper
+
+==Assassination==
+*Having a legendary beast or legendary humanoid could cause some righteous creatures to try and assassinate it.
+*Knights, Dwarves
+*Target a legendary beast or humanoid
+
+==Arson==
+*Some creatures just want to set fire to things. It is compulsive...apparently.
+*Elementalist
+*Target keeper's library
+
+==Betrayal==
+*Some creatures that begin as allies will turn hostile if you attack them. They may even assault your base.
+*Dark elves, Gnomes
+*Target Keeper
+
+==Greed==
+*Some creatures want your gold and not just gold but also an artefact, rare items, any jewellery
+*Green dragon, Red dragon
+*Target gold or target artefact. Target wearer if artefact is worn. Pick up full inventory of loot if possible. From corpses if necessary.
+
+==Defend the forest==
+*Some creatures will bring you to justice after chopping 30,000 wood.
+*Elves, Driads, Tree spirits
+*Target keeper
 
 
-This article has gone missing.
+==Vampiric Influence==
+*Description: If you are a Vampire Lord and you go out and Feed or Turn NPC villagers into Vampires,Eventually the offended race will send Vampire Hunters to try and kill you and any vampires in your forces. 
+*Creatures: Any Humanoid Race
+*Invader's target: The Keeper Vampire Lord
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +134,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

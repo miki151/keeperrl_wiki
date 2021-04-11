@@ -3,11 +3,26 @@ title: Old Morale
 permalink: Old_Morale/
 layout: wiki
 ---
+= The Effect of Morale =
+*Enables legendary craftsmen to forge using glyphs
+*Increased bravery in battle
+*Increases training speed
+*Increases study speed
+*Increased productivity in workshops, forges, laboratory and jewellers
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Methods of Gaining Morale =
+*Sleeping in luxury
+*Love with a succubus
+*Eating
+*Winning in combat
+*Living in a dungeon with good flooring
+*Living in a dungeon with good lighting
+*Keeper not banishing minions
+*The whipping post (a gentle reminder to look happy)
+*Entertainment from other minions
+ Note that morale can turn negative if minions are not looked after as above, causing cowardice and poor productivity.
 
-
-This article has gone missing.
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

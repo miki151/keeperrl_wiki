@@ -3,11 +3,38 @@ title: Old Dwarves
 permalink: Old_Dwarves/
 layout: wiki
 ---
+[[File:dwarfboss.png|100px|link=]]
+[[File:dwarf_blacksmith.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:dwarf_f.png|100px|link=]]
+[[File:dwarf_f.png|100px|link=]]
+[[File:rat.png|100px|link=]]
+[[File:rat.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Mine town
+*Tribal loyalty: Dwarf
+*Inhabitants: [[Dwarf Baron]] leading 6-9 [[Dwarf]] with a base level increase of +10 melee. 3-5 [[Dwarf Female]]/[[Rat]] and a [[Dwarf Blacksmith]].
+*Location Named as: Town
+*Race: Dwarves
+*Building style: Dungeon
+*Stockpiles: 200 gold in treasure chests with 120 minerals
+*Shop Items: Dwarf Shop
+*Outside Features = dungeon surroundings.
+*Surrounded With Resources: 5
+*Furniture: Standard room furniture  
+*Immigrant Interval: 0
+*Max Population: 15
+*Immigration: Dwarven fighters frequency 1  
+*AI: Min Population 3. Min Team Size 4. Triggered by throne, impaled heads, killed tribe members, defeating 3 other tribes, stolen items, finishing off, proximity. Hold to ransom or am to kill 3 minions or keeper 
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +123,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

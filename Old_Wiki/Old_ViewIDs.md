@@ -3,11 +3,140 @@ title: Old ViewIDs
 permalink: Old_ViewIDs/
 layout: wiki
 ---
+=Usage=
+Used to specify the appearance of villains and allies on the campaign map
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from campaign_villains.txt=
+From: [[Campaign_Villains.txt]]
+ '''ANT_QUEEN''' ANTS_OPEN &quot;Ants&quot; MAIN
 
+=Valid values=
+*PLAYER
+*PLAYER_F
+*KEEPER
+*KEEPER_F
+*RETIRED_KEEPER
+*RETIRED_KEEPER_F
+*ELF
+*ELF_WOMAN
+*ELF_ARCHER
+*ELF_CHILD
+*ELF_LORD
+*DARK_ELF
+*DARK_ELF_WOMAN
+*DARK_ELF_WARRIOR
+*DARK_ELF_CHILD
+*DARK_ELF_LORD
+*DEMON_DWELLER
+*DEMON_LORD
+*DRIAD
+*LIZARDMAN
+*LIZARDLORD
+*GNOME
+*GNOME_BOSS
+*KOBOLD
+*DWARF
+*DWARF_FEMALE
+*DWARF_BARON
+*SHOPKEEPER
+*IMP
+*PRISONER
+*OGRE
+*UNICORN
+*CHICKEN
+*GREEN_DRAGON
+*RED_DRAGON
+*CYCLOPS
+*MINOTAUR
+*SOFT_MONSTER
+*HYDRA
+*SHELOB
+*WITCH
+*WITCHMAN
+*GHOST
+*SPIRIT
+*KNIGHT
+*PRIEST
+*DUKE
+*JESTER
+*ARCHER
+*PESEANT
+*PESEANT_WOMAN
+*CHILD
+*SHAMAN
+*WARRIOR
+*ORC
+*ORC_CAPTAIN
+*ORC_SHAMAN
+*HARPY
+*SUCCUBUS
+*DOPPLEGANGER
+*BANDIT
+*CLAY_GOLEM
+*STONE_GOLEM
+*IRON_GOLEM
+*LAVA_GOLEM
+*ADA_GOLEM
+*AUTOMATON
+*ELEMENTALIST
+*FIRE_ELEMENTAL
+*WATER_ELEMENTAL
+*EARTH_ELEMENTAL
+*AIR_ELEMENTAL
+*ENT
+*ANGEL
+*ZOMBIE
+*SKELETON
+*VAMPIRE
+*VAMPIRE_LORD
+*MUMMY
+*HORSE
+*COW
+*PIG
+*DONKEY
+*GOAT
+*JACKAL
+*DEER
+*BOAR
+*FOX
+*BEAR
+*WOLF
+*WEREWOLF
+*DOG
+*BAT
+*RAT
+*SPIDER
+*FLY
+*ANT_WORKER
+*ANT_SOLDIER
+*ANT_QUEEN
+*SNAKE
+*VULTURE
+*RAVEN
+*GOBLIN
+*KRAKEN_HEAD
+*KRAKEN_LAND
+*KRAKEN_WATER
+*FIRE_SPHERE
+*DEATH
+*SPECIAL_BLBN
+*SPECIAL_BLBW
+*SPECIAL_BLGN
+*SPECIAL_BLGW
+*SPECIAL_BMBN
+*SPECIAL_BMBW
+*SPECIAL_BMGN
+*SPECIAL_BMGW
+*SPECIAL_HLBN
+*SPECIAL_HLBW
+*SPECIAL_HLGN
+*SPECIAL_HLGW
+*SPECIAL_HMBN
+*SPECIAL_HMBW
+*SPECIAL_HMGN
+*SPECIAL_HMGW
 
-This article has gone missing.
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +225,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

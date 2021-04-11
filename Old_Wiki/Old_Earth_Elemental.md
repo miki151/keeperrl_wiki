@@ -3,11 +3,29 @@ title: Old Earth Elemental
 permalink: Old_Earth_Elemental/
 layout: wiki
 ---
+[[File:earthelemental.png|100px|link=]] ''Summoned near rock using magic
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats==
+*Body Size:Large
+*Weight:500
+*Defense:25
+*Damage:30
+*Ranged Resistance: Yes
 
+==Encounters==
+*[[Elementalist floor]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+==Summary==
+These elementals are summoned by spellcasters using the summon elemental spell. The Elementalist knows how to summon these creatures and will use them in an attack.
+
+Mind dead, cold and violent. At least they drop some stone when you kill them. You can farm them for stone although this is considered cheasing and it is tedious and not really necessary either.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

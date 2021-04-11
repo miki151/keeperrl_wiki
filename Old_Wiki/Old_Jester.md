@@ -3,11 +3,19 @@ title: Old Jester
 permalink: Old_Jester/
 layout: wiki
 ---
+== Base Stats ==
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:8
+*Damage:8
+*Body size:Large
+*Magic Resistance:Yes
 
+== Summary ==
 
-This article has gone missing.
+Nobody really knows who this character is, what he does, what he looks like or where to find him. But if you do find out, please do let us know.
+
+[[Category:Creatures]]
+[[Category:Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

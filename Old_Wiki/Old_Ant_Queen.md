@@ -3,11 +3,25 @@ title: Old Ant Queen
 permalink: Old_Ant_Queen/
 layout: wiki
 ---
+[[File:antq.png|100px|link=]]
+''A minor boss.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:26
+*Damage:30
+*Body size:Medium
+*Weight:10
+*Attack:Poison
+*Animal:Yes
 
+==Encounters==
+*[[Sealed ant nest]]
+*[[Open ant nest]]
 
-This article has gone missing.
+==Summary==
+
+Larger ant colonies are led by an ant queen, more powerful than her minions. They have been known to launch huge counter attacks after their territory is invaded. Her forces may invade by breaking through stone to launch a surprise attack. These monsters are perversely large and unpleasant, carrying a poison attack and capable of causing serious physical harm. However, unlike their tiny cousins, a common giant ant nest has a countable number of inhabitants and after the death of the queen ant, may start to dwindle in number.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +109,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

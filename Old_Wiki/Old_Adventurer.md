@@ -3,11 +3,34 @@ title: Old Adventurer
 permalink: Old_Adventurer/
 layout: wiki
 ---
+[[File:adventurer.png|100px|link=]] [[File:adventurer_female.png|100px|link=]]
+''They face the world alone but the glory is theirs alone.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:20
+*Damage:15
+*Body size:Large
+*Gender:Male
+*Skill:Ambush
+*Melee training maximum:16
+*Spell training maximum:16
+*Archery training maximum:16
 
+==Summary==
 
-This article has gone missing.
+Men and women brave enough to assault all evil across the land. Players have the option of becoming adventurers themselves and abandoning the management of other troops and dungeons or tribes in [[How_to_win_as_an_adventurer!!! | Adventure Mode]]
+
+In adventure mode adventurers can also level up by defeating tribes although they lose the ability to study or train combat in a dungeon. Increasing your spell level gives you new spells normally.
+
+Keepers actually quite like adventurers. Why? Because their petty quest for self glory leads them to invade dungeons (only if you have endless invasions enabled). They can be taken alive and tortured until they inevitably crack and surrender to the dark side or else face death on the torture table. They actually make quite good fighters for your cause if you teach them the stupidity of trying to be a hero.
+
+==Other adventurers==
+
+Other adventurer classes can be modded. The official game configs only have one entry (here):
+
+https://github.com/miki151/keeperrl/tree/master/data_free/game_config/adventurer_creatures.txt
+
+[[Category:Creatures]]
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +118,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

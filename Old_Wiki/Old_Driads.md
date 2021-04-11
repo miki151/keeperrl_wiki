@@ -3,11 +3,26 @@ title: Old Driads
 permalink: Old_Driads/
 layout: wiki
 ---
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
+[[File:driad.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Forest 
+*Inhabitants: 7-10 [[Driad]]
+*Tribal Loyalty: None
+*Race: Dryads 
+*Building Style: Wood
+*Immigrant Interval : 300
+*Max Population: 10 
+*Immigration: Driads frequency 1
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

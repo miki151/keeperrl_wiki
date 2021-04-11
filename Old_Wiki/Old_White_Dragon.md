@@ -3,11 +3,29 @@ title: Old White Dragon
 permalink: Old_White_Dragon/
 layout: wiki
 ---
+[[File:white_dragon.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Body: Four Legged HUGE WINGS:2 HEAD
+*Bite attack
+*Drops: WhiteDragonScales
+*Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;ice cone&quot;
+*RANGED_VULNERABILITY
+*COLD_RESISTANT 
 
+[[Category: Creatures]]
 
-This article has gone missing.
+= Tribe Stats =
+*Settlement: Cave
+*Inhabitants: Lone white dragon
+*Race: dragon
+*Tribal loyalty: None
+*Building Style: Dungeon
+*Items: Dragon Cave  
+*AI: Triggers on Enemy Population 22, 3 conquered tribes, Stolen Items, Finishing Off keeper, proximity. Kill 12 minions or keeper. 
+*Supplanted enemies: 10% found in supplanted knights, dwarves, elementalist or green dragon 
+
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

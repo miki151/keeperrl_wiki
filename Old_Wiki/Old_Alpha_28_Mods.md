@@ -3,11 +3,21 @@ title: Old Alpha 28 Mods
 permalink: Old_Alpha_28_Mods/
 layout: wiki
 ---
+=Alpha 28 download instructions=
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+In Alpha 28, downloading mods is very simple. When you start a new game, click &quot;mods&quot; and select the mod you wish to download!
 
+[[File:InGameModDownloads.png|link=]]
 
-This article has gone missing.
+= Alpha 28 upload instructions=
+
+Upload new mods here:
+
+http://keeperrl.com/~retired/28/upload_mod.html
+
+= Alpha 28 bonus mod =
+
+11 new campaign enemies, over 100 new creatures, 5 new keeper classes, easy and hard mode, 40 new techs, new traps, spells and adventurer classes.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +105,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

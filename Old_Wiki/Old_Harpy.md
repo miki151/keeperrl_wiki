@@ -3,11 +3,50 @@ title: Old Harpy
 permalink: Old_Harpy/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:harpy.png|100px|link=]] ''Winged killer
 
+== [[:Attributes]] ==
+''Base values''
+*Ranged Damage:15
+*Defense:16
+*Damage:13
+*Body size:Large
+*Wings:Yes
+*Laboratory:0.3
+*Gender:Female
+*Melee training maximum:4
+*Archery training maximum:7
 
-This article has gone missing.
+==Encounters==
+*[[Harpy cave]]
+*[[Dark mage]]
+
+== Summary ==
+Winged combat units specializing in ranged damage. They tend to do well on the open battlefield where they offer a good line of sight during daylight hours and an ability to shoot down on enemies from above. Also decent at defending dungeons especially in long corridors with lighting.
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+
+== Skills ==
+* [[:Skills#Weapon_Melee|Weapon Melee]] : 0.3
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Manufactories|Workshop]]
+* [[:Dormitory|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Dormitory|Dormitory]]
+* probability : 0.3
+* space usage : 3
+* required tiles
+** Training Room : 16
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +135,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

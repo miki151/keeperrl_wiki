@@ -3,11 +3,19 @@ title: Old White Wizard
 permalink: Old_White_Wizard/
 layout: wiki
 ---
+[[File:white_wizard.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Skills: &quot;LABORATORY&quot; 0.2 
+*Spell Schools: &quot;mage&quot; 
+*Spells:  &quot;healing&quot; 
+*Attributes: DAMAGE 12 DEFENSE 25 SPELL_DAMAGE 25
+*Training Ability: SPELL 7 
 
+= Encounters =
+*[[Wizard tower]]
 
-This article has gone missing.
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

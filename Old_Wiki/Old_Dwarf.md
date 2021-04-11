@@ -3,11 +3,46 @@ title: Old Dwarf
 permalink: Old_Dwarf/
 layout: wiki
 ---
+[[File:Dwarf.png|100px|link=]] '' An armoured fighter
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:25
+*Damage:21
+*Body size:Medium
+*Weight:90
+*Skill:Navigational Digging
+*Forge:0.8
+*Furnace:0.8
+*Melee training maximum:2
+*Magic Vulnerability:Yes
 
+==Encounters==
+*[[Dwarf cave]]
+*[[Dwarves]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+== Summary ==
+You don't have to be tall to be dangerous. Shorter but stout cousins to the human race. Sturdy opponents not to be underestimated early in the game.
+
+You need to get used to the idea that a dwarf wielding a battle axe with armor, boots and helmet really can wipe the floor with a small party of fully armed orcs. You will need something stronger to deal with them, so don't go running in and steal their stuff straight away.
+
+Dwarves are expert diggers and will dig into your dungeon when provoked making them more dangerous if you do not take the fight to them first. For this reason, avoid triggering them by staying away from the green &quot;?&quot; symbols in the mountains until you recruit and train a band of ogres and make yourself iron armor. To work out exactly where the dwarf tribe is on your starter map, recruit a cave bear that will hunt them out anonymously for you so that they don't start attacking your base in revenge.
+
+They can be looted for some decent early game armor but also make excellent captive miners. They are numerous creatures with small settlements dotted about in a lot of places. You can build some nice prisons for them and they may resolve your mining requirements for the rest of the game.
+
+== Inventory ==
+ Battle Axe |OR| War Hammer
+ Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit
+ Chain_armor
+ 50% Chance: Iron helm
+ 30% Chance: Iron boots
+ Gold
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +131,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

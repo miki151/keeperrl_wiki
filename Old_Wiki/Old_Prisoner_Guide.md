@@ -3,11 +3,52 @@ title: Old Prisoner Guide
 permalink: Old_Prisoner_Guide/
 layout: wiki
 ---
+=Taking prisoners=
+*You need to click on an opponent and click &quot;order capture&quot;
+*Next you need to knock the prisoner out (defeat them as you would normally)
+*You may need to defeat the whole tribe before you can take the prisoners, if they are on enemy soil.
+*Defeated enemies show a white &quot;S&quot; over their image
+*When you return to your dungeon map, the prisoners will appear in the recruits panel with any special requirements such as needing a [[prison]] for them
+*Prisoners that are left injured for too long will die, so you need to get them in time.
+ Take prisoners to use as slaves or to convert to your cause.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Converting prisoners=
+*You need torture tables, a population slot and a suitable prisoner to convert.
+*Not having a population slot will leave a prisoner's torture task greyed out.
+*Change the prisoners activity to being tortured
+*Once they are tied to the torture table their activity will go idle but you will see the &quot;tied up&quot; status in red with a timer
+*Failure chance is 50%, which means they die without converting to your dungeon
+*Sometimes, nobody is available to torture them and they may go back to prison.
+ Converted prisoners will join your dungeon, keeping their previous stats and characteristics
 
+=Best types of prisoners to torture= 
+*[[Cyclops]] make excellent fighters when fully equipped
+*The [[Vampire Lord]] is a powerful spell caster
+*[[Elven Archer|Elven archers]] and [[Driad|driads]] are better archers than you can recruit, so they are often worth it
+*[[dwarf|Dwarves]] make excellent diggers in your mines
+*[[knight|Knights]] have melee resistance
+*[[Archer|Human archers]] are the best archers.
+*Most bosses are worth it, so [[Elf Lord]], [[Dwarf Baron]] and the [[Duke]]
+*Lizardmen have a speed bonus and an optional poison +8 attack unarmed. However, as the black knight keeper, their speed bonus also make them very reliable workers if you decide to keep them as prisoners. 
+*The [[elementalist]] sucks, he can't even summon elementals, so don't bother with him
+*You aren't likely to find a [[minotaur]] (sometimes they live below castles and they are powerful)
+*The [[lizardman chief]] is a bit special
+*[[warrior|Warriors]] from the Viking tribe are very good
+*When you come up against enemy keepers, some of the minions will be better than yours if you can get them
+*You can capture and convert enemy [[keeper|keepers]]
+*In endless mode, always take any prisoners you can get, because they will be buffed
+ Basically, you can (and should) capture any powerful humanoid to try and convert them through torture.
 
-This article has gone missing.
+=Looking after prisoners=
+*If you don't mind looking after prisoners, you can keep them as slaves to build, dig and mine for you.
+*Prisoners will try and escape if there are too many of them and you do not have enough population to keep them living in fear.
+*[[Wolf|Wolves]] are good at looking after prisoners because you can get a whole pack of them for 1 population slot
+*Sometimes executing prisoners is a good idea, if you have too many and want to provoke the self righteous by displaying your prisoner heads outside your dungeon.
+ Try not to capture more prisoners than you can look after.
+ If prisoners show signs of rebellion, torture some or send some to the gallows.
+
+[[Category: Keeper Mode]]
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +137,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

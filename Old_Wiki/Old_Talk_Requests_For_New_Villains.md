@@ -3,11 +3,7 @@ title: Old Talk Requests For New Villains
 permalink: Old_Talk_Requests_For_New_Villains/
 layout: wiki
 ---
-
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
-
-
-This article has gone missing.
+Not so much as a request for new villains, but for more wandering enemies to attack your lair/keep.  Currently, if I stay in my keep and not attack, I can build up to tier 3 dummies and have my minions almost maxxed without being attacked once.  I usually reach that point around turn 17000.  I'm thinking that wandering enemies attacking around every 1000 turns and have their level/difficulty increase like every 2000 turns.  You can use an uploaded player's adventurers as a wandering enemy.  Just a thought.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +92,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,17 @@ title: Old Items
 permalink: Old_Items/
 layout: wiki
 ---
+There are different categories of items available. Weapons can be equipped in your hand. Armor is worn on the feet, body, hands and head. Magic jewelry is normally worn on the fingers or around the neck. Consumables, first aid kits and scrolls etc. cannot be equipped.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+All manner of some items are possible (eg. Potions) The basic set of items is moddable in items.txt. Official configs can be found [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/items.txt here]
 
+Monsters drop their kit when they die. Monster drops are moddable and these days, the official configs are seen inside the creatures file:[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/creatures.txt here].
 
-This article has gone missing.
+Items can be found in chests and by exploring. This is moddable. The official configs are [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/item_lists.txt here].
+
+ In Alpha 27 onwards, equipment can be upgraded using glyphs and with a legendary craftmaster and offer many different special powers.
+
+[[Category: Dungeon Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +102,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

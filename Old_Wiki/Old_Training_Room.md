@@ -3,11 +3,35 @@ title: Old Training Room
 permalink: Old_Training_Room/
 layout: wiki
 ---
+Train your creatures
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:train_wood.png|100px|link=]] [[File:train_iron.png|100px|link=]] [[File:train_steel.png|100px|link=]] [[File:archery_range.png|100px|link=]]
+''Turn your misfits into a mighty army.
 
+=Available furniture=
 
-This article has gone missing.
+==Wooden dummy==
+*Basic combat training
+*Cost: 12 wood
+
+==Iron dummy==
+*Medium combat training
+*Cost: 12 iron
+*It requires [[Technologies#Iron working | Iron Working]]
+
+==Adamantium dummy==
+*Advanced combat training
+*Cost: 12 adamantium
+*It requires [[Technologies#Iron working | Iron Working]]
+
+==Archery target==
+*Training in archery
+*Cost: 12 wood
+*It requires [[Technologies#Archery | Archery]]
+*It requires some empty space in front of the targets.
+
+[[Category: Rooms]]
+[[Category: Keeper Mode]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +120,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

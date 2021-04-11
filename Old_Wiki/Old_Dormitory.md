@@ -3,11 +3,32 @@ title: Old Dormitory
 permalink: Old_Dormitory/
 layout: wiki
 ---
+[[File:bed1.png|100px|link=]] [[File:bed2.png|100px|link=]] [[File:bed3.png|100px|link=]]
+''Humanoid minions sleep on their beds.''
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+A dormitory is the sleeping-place of:
+* [[Goblin|Goblins]]
+* [[Orc|Orcs]]
+* [[Orc Shaman|Orc Shamans]]
+* [[Ogre|Ogres]]
+* [[Harpy|Harpies]]
+* Lots of different types of humanoid prisoners if they convert
+* White Knight humanoid recruits
 
+There are 3 different quality of beds that influence creature morale.
+*Basic bed - lowest for morale
+*Fine bed - medium for morale
+*Luxurious bed - improves morale a lot
 
-This article has gone missing.
+== Attraction ==
+
+All Humanoids need a free bed to [[Immigration|immigrate]].
+
+==Tile Cost==
+12 Wood Planks (more expensive beds cost stone and gold instead).
+
+[[Category:Rooms]]
+[[Category: Keeper Mode]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +117,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

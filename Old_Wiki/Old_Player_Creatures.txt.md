@@ -3,11 +3,69 @@ title: Old Player Creatures.txt
 permalink: Old_Player_Creatures.txt/
 layout: wiki
 ---
+ # Keepers
+ {
+   {
+  creatureId = { KEEPER_MAGE KEEPER_MAGE_F }
+  tribeAlignment = EVIL
+  immigrantGroups = {&quot;imps&quot; &quot;dark_keeper&quot;}
+  technology = {
+   &quot;alchemy&quot; &quot;advanced alchemy&quot; &quot;alchemical conversion&quot; &quot;humanoid mutation&quot; &quot;beast mutation&quot;
+   &quot;pig breeding&quot; &quot;iron working&quot; &quot;jewellery&quot; &quot;two-handed weapons&quot; &quot;traps&quot; &quot;archery&quot; &quot;sorcery&quot;
+   &quot;advanced sorcery&quot; &quot;magical weapons&quot; &quot;master sorcery&quot; &quot;demonology&quot;
+  }
+  initialTech = { &quot;sorcery&quot; }
+  buildingGroups = {
+   &quot;structure&quot; &quot;doors&quot; &quot;floors&quot; &quot;storage&quot; &quot;quarters&quot; &quot;library&quot; &quot;throne&quot; &quot;beds&quot; &quot;beast_cage&quot; &quot;pigsty&quot; &quot;coffins&quot;
+   &quot;training&quot; &quot;crafting&quot; &quot;demon_shrine&quot; &quot;prison&quot; &quot;orders&quot; &quot;installations&quot; &quot;magical_installations&quot; &quot;traps&quot;
+  }
+  workshopGroups = { &quot;basic&quot; &quot;traps&quot; }
+  description = &quot;Build and manage your dream dungeon, defend against raids, and attack your enemies!&quot;
+   }
+   {
+  creatureId = { KEEPER_KNIGHT KEEPER_KNIGHT_F }
+  tribeAlignment = EVIL
+  immigrantGroups = {&quot;peseant_prisoners&quot; &quot;dark_keeper&quot;}
+  technology = {
+   &quot;alchemy&quot; &quot;advanced alchemy&quot; &quot;alchemical conversion&quot; &quot;humanoid mutation&quot; &quot;beast mutation&quot;
+   &quot;pig breeding&quot; &quot;iron working&quot; &quot;jewellery&quot; &quot;two-handed weapons&quot; &quot;traps&quot; &quot;archery&quot; &quot;sorcery&quot;
+   &quot;advanced sorcery&quot; &quot;magical weapons&quot; &quot;master sorcery&quot; &quot;demonology&quot;
+  }
+  initialTech = { &quot;iron working&quot; }
+  buildingGroups = {
+   &quot;structure&quot; &quot;doors&quot; &quot;floors&quot; &quot;storage&quot; &quot;quarters&quot; &quot;library&quot; &quot;throne&quot; &quot;beds&quot; &quot;beast_cage&quot; &quot;pigsty&quot; &quot;coffins&quot;
+   &quot;training&quot; &quot;crafting&quot; &quot;demon_shrine&quot; &quot;prison&quot; &quot;orders&quot; &quot;installations&quot; &quot;magical_installations&quot; &quot;traps&quot;
+  }
+  workshopGroups = { &quot;basic&quot; &quot;traps&quot; }
+  description = &quot;Build and manage your dream dungeon, defend against raids, and attack your enemies!&quot;
+   }
+   {
+  creatureId = { KEEPER_KNIGHT_WHITE KEEPER_KNIGHT_WHITE_F }
+  tribeAlignment = LAWFUL
+  immigrantGroups = {&quot;peseants&quot; &quot;white_keeper&quot;}
+  technology = {
+   &quot;alchemy&quot; &quot;advanced alchemy&quot; &quot;alchemical conversion&quot;
+   &quot;pig breeding&quot; &quot;iron working&quot; &quot;jewellery&quot; &quot;two-handed weapons&quot; &quot;archery&quot; &quot;sorcery&quot;
+   &quot;advanced sorcery&quot; &quot;magical weapons&quot; &quot;master sorcery&quot;
+  }
+  initialTech = { &quot;archery&quot; }
+  buildingGroups = {
+   &quot;structure&quot; &quot;doors&quot; &quot;floors&quot; &quot;storage&quot; &quot;quarters&quot; &quot;library&quot; &quot;throne&quot; &quot;beds&quot; &quot;beast_cage&quot;
+   &quot;pigsty&quot; &quot;training&quot; &quot;crafting&quot; &quot;prison&quot; &quot;orders&quot; &quot;installations&quot;
+  }
+  workshopGroups = { &quot;basic&quot; }
+  description = &quot;Build and manage your dream dungeon, defend against raids, and attack your enemies!&quot;
+   }
+ }
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+ # Adventurers
+ {
+  # CreatureId                     TribeAlignment 
+  { ADVENTURER ADVENTURER_F }      LAWFUL             &quot;Roam the land in search of adventures and loot!&quot;
+ }
 
 
-This article has gone missing.
+[[Category:OfficialAlpha26GameConfigs]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +154,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

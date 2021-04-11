@@ -3,11 +3,28 @@ title: Old Water Elemental
 permalink: Old_Water_Elemental/
 layout: wiki
 ---
+[[File:waterelement.png|100px|link=]] ''Summoned near water
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Base Stats=
+*Body Size:Large
+*Weight:300
+*Defense:15
+*Damage:40
+*Ranged Resistance:Yes
+*Skill: Swimming
 
+==Encounters==
+*[[Elementalist floor]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+=Summary=
+You can summon these near water using a summon elemental spell. They are dangerous and have a considerable damage stat. They cross water with ease, due to their liquid form.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +113,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

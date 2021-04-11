@@ -3,11 +3,40 @@ title: Old Graveyard
 permalink: Old_Graveyard/
 layout: wiki
 ---
+[[File:gravedeco.png|100px|link=]] [[File:coffin1.png|100px|link=]] [[File:coffin2.png|100px|link=]] [[File:coffin3.png|100px|link=]]
+''Spot for hauling dead bodies and for Undead creatures to sleep in.''
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+The undead require two types of furniture:
+*Gravestones - a place to put bones where undead can spawn
+*Coffins - a place for undead to sleep
 
+There are 3 different quality of coffins, the more expensive ones improving morale when sleeping inside:
+*Basic coffin - lowest for morale
+*Fine coffin - medium for morale
+*Luxurious coffin - improves morale a lot
 
-This article has gone missing.
+This is the dormitory of the Undead:
+*[[Zombie|Zombies]]
+*[[Vampire|Vampires]] 
+*[[Skeleton|Skeletons]]
+*[[Mummy|Mummies]]
+
+Imps bury the corpses of the dead in the graveyard.
+
+== Attraction ==
+
+All undead need a free space in a grave and a fresh corpse to [[Immigration|spawn]]. The coffins will usually also be required before they can be recruited.
+
+== Tile Cost ==
+* 15 Stone per gravestone
+* Wood, stone or gold to build the coffins.
+
+== Tips ==
+
+*Graves have no limit to the amount of bones that can be piled on them. If you don't need Undead and just need to store corpses, one mass grave is sufficient.
+
+[[Category: Keeper Mode]]
+[[Category: Rooms]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +125,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

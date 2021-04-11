@@ -3,11 +3,33 @@ title: Old Unicorn
 permalink: Old_Unicorn/
 layout: wiki
 ---
+[[File:unicorn.png|100px|link=]] ''Woodland herds
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats ==
 
+*Spell Damage:20
+*Defense:20
+*Damage:16
+*Body size:Large
+*Body parts:Horse
+*Ranged Resistance:Yes
+*Magic Resistance:Yes
+*Attack:Horn
+*Courage:Yes
+*Spell:Heal Self
+*Spell:Heal other
+*Spell:Summon Spirit
+*Group:Herd
+*Animal:Yes
 
-This article has gone missing.
+= Encounters =
+*[[Unicorn Herd]]
+
+== Summary ==
+
+They live in herds and are surprisingly tough, summoning the aid of ancient spirits when under assault. They are intelligent animals and can also heal themselves. They sport a poisonous horn and resist both arrows and magics. Kill the unicorns and their summoned spirits will depart.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +118,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

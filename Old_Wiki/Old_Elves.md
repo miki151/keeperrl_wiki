@@ -3,11 +3,38 @@ title: Old Elves
 permalink: Old_Elves/
 layout: wiki
 ---
+[[File:elf_lord.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf_archer.png|100px|link=]]
+[[File:elf.png|100px|link=]]
+[[File:elf.png|100px|link=]]
+[[File:elf.png|100px|link=]]
+[[File:elf_child.png|100px|link=]]
+[[File:elf_child.png|100px|link=]]
+[[File:horse.png|100px|link=]]
+[[File:horse.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Forrest village
+*Inhabitants: [[Elf Lord]] leading 6-9 [[Elven Archer]] plus 6-9 [[Elf|Woman]]/[[Elf Child|Children]]/[[Horse]].
+*Location Named as: Town
+*Tribal loyalty: Elf
+*Race: Elves
+*Stockpiles: 100 gold in chests
+*Building Style: Wood
+*Loot: Tech Book of master sorcery
+*Furniture: Standard room furniture  
+*Immigrant Interval = 0
+*Max Population: 18
+*Immigration: Elf archer frequency 1  
+*AI: Min attack Population = 4. Min Team Size = 4. Triggers = Stolen Items. Assassinate the keeper without ransom. 
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +123,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,27 @@ title: Old Soldier Ant
 permalink: Old_Soldier_Ant/
 layout: wiki
 ---
+[[File:antw.png|100px|link=]] ''Poisonous ant warriors
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
 
+*Defense:20
+*Damage:30
+*Skill:Navigational Digging
+*Body size:Medium
+*Weight:10
+*Attack:Poison
+*Animal:Yes
 
-This article has gone missing.
+==Encounters==
+
+*[[Sealed ant nest]]
+*[[Open ant nest]]
+
+== Summary ==
+They like to dig through rock into dungeons and poison enemies. You may want to take the fight to them, before they dig up your dungeon walls. You need to avoid the green &quot;?&quot; symbols that are in the mountains, so that you don't disturb them. Then, get something that hits hard like an vampire, fully trained and kitted up. (Vampires are poison resistant and can learn spells too, although lose limbs from time to time). Ogres with poison resistant rings also work OK. 
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +112,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,31 @@ title: Old Vulture
 permalink: Old_Vulture/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:vulture.png|100px|link=]] ''Food scavenger
 
+== [[:Attributes]] ==
+''Base values''
+*Defense:12
+*Damage:2
+*Body size:Small
+*Weight:5
+*Bird:True
+*Animal:Yes
+*Chasing:No
+*Courage:Yes
 
-This article has gone missing.
+== Summary ==
+These creatures watch us from the skies and come down to feed on corpses as soon as they think they are out of reach. You can use them as target practice with the bow, but they offer little experience.
+
+== Traits ==
+* [[Traits#Animal|Animal]]
+* [[Traits#Courage|Courage]] : 100
+* [[Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +116,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

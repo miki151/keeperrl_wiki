@@ -3,11 +3,25 @@ title: Old Donkey
 permalink: Old_Donkey/
 layout: wiki
 ---
+[[File:donkey.png|100px|link=]] '' Farm animal
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats==
 
+*Defense:7
+*Damage:10
+*Body size:Large
+*Weight:200
+*Animal:Yes
+*Chasing:No
 
-This article has gone missing.
+==Encounters==
+*[[Tutorial village]]
+
+== Summary ==
+This is just another innocent farm animal and will challenge only the weakest of opponents. However, these can sometimes be recruited by white knights for 50 gold to boost food production resulting in a +1 population cap bonus. If you do recruit them build your animal cages outside your dungeon area as large numbers of farm animals get in the way of running a keep.
+
+[[Category:Creatures]]
+[[Category:Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +110,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

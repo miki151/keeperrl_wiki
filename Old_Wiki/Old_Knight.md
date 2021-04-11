@@ -3,11 +3,40 @@ title: Old Knight
 permalink: Old_Knight/
 layout: wiki
 ---
+[[File:knight.png|100px|link=]] ''Melee combat expert
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
+*Defense:28
+*Damage:36
+*Body size:Large
+*Melee training maximum:4
+*Melee Resistance:Yes
 
+==Encounters==
+*[[Village]]
+*[[Knights]]
+*[[Blacksmith]]
 
-This article has gone missing.
+== Knight Recruits (White Knight Keeper) ==
+*Damage 16
+*Defense 14
+*Melee training maximum 7 
+*Worskhop
+*Forge
+*Note: No melee resistance
+
+== Summary ==
+Knights are rock hard hand-to-hand fighting units. When equipped with a decent weapon and good armour, even more so. They are great to capture and convert. They also provide the opportunity to give melee resistance when absorbed by a doppleganger, although you will be tempted to use them as warriors in their own right. These are usually end-game heroes, so don't be surprised if your large band of ogres and orcs get slaughtered like sheep. You will probably need something special to take these out.
+
+== Inventory ==
+ Sword
+ Chain armor
+ Leather Boots
+ Potion of Healing |OR| First Aid Kit
+ Gold: 30-80
+
+[[Category: Creatures]]
+[[Category: Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +125,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

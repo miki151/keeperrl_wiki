@@ -3,11 +3,41 @@ title: Old Skeleton
 permalink: Old_Skeleton/
 layout: wiki
 ---
+[[File:skeleton.png|100px|link=]] ''Undead minion
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== [[:Attributes]] ==
 
+''Base values''
+*Ranged Damage:5
+*Defense:13
+*Damage:17
+*Body Size:Large
+*Ranged Resistance:Yes
+*Melee training maximum:3
+*Archery training maximum:4
 
-This article has gone missing.
+==Summary==
+A cheap unit with fair attack and defense, does well in in shoot out with ranged resistance and ranged damage bonus.
+
+Unlike other Undead this minion is not weak against sunlight and is delightfully expendable.  Do you have extra weapons and gear you will never use late game?  Grab a skeleton, load your little buddy up, and go attack something with no regrets when he dies.  Well dies again.  This can expose new parts of the map, trigger traps your nicer minions might break a nail on and possibly even kill a thing or two!  He doesn't mind.  Look at that happy toothy grin!
+
+== Traits ==
+
+* [[:Traits#Undead|Undead]]
+* [[:Traits#Poison Resistance|Poison Resistant]]
+* [[:Traits#Fire Resistant|Fire Resistant]]
+* [[:Traits#Ranged Resistance|Ranged Resistance]]
+
+== Tasks ==
+''Sorted by preference, topmost is more likely done.''
+* [[:Training_Room|Train]]
+* [[:Graveyard|Sleep]]
+
+== [[:Minions|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

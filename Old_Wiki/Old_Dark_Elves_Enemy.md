@@ -3,11 +3,37 @@ title: Old Dark Elves Enemy
 permalink: Old_Dark_Elves_Enemy/
 layout: wiki
 ---
+[[File:Dark_elf_lord.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf_warrior.png|100px|link=]]
+[[File:Dark_elf.png|100px|link=]]
+[[File:Dark_elf.png|100px|link=]]
+[[File:Dark_elf_kid.png|100px|link=]]
+[[File:Dark_elf_kid.png|100px|link=]]
+[[File:Dark_elf_kid.png|100px|link=]]
+[[File:Rat.png|100px|link=]]
+[[File:Rat.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
-
-
-This article has gone missing.
+= Stats =
+*Settlement: Mine Town
+*Tribal Loyalty: Dark Elf
+*Inhabitants: [[Dark elf lord]] leading 6-9 [[Dark elf warrior]] with  Base Level Increase (+10 spell, +10 Melee) plus 6-9 [[Dark_elf|Women]]/[[Dark_elf_child|Children]]/[[Rat]]
+*Location Named as : Town
+*Race : Dark elves
+*Building Style: Dungeon
+*Outside features: Dungeon surroundings
+*Furniture:  Standard Furniture
+*Immigrant Interval: 0
+*Max Population: 15 
+*Immigration: Dark elf warrior  frequency: 1  
+*Z-level connections: Top Level: Dark elf entry, 2-4 60x40 Dungeon layers, 1-2 60x40 Deep dungeon layers, main enemy 60x40 Mine town   
+  
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +122,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

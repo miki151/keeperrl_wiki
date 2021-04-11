@@ -3,11 +3,36 @@ title: Old Dwarf Baron
 permalink: Old_Dwarf_Baron/
 layout: wiki
 ---
+[[File:dwarfboss.png|100px|link=]] '' King under the mountain
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:32
+*Damage 28
+*Body size:Medium
+*Weight:120
+*Skill:Navigational Digging
+*Melee training maximum:10
+*Magic Vulnerability:Yes
+*Courage:Yes
 
+==Encounters==
+*[[Dwarves]]
 
-This article has gone missing.
+== Summary ==
+
+The most dangerous of all dwarves. Not to be messed with. Worth hitting with magic if possible. He looks not unlike his tribesmen, so make sure you pick him out of the crowd and take the necessary care. If you can convert this guy, he is a serious asset to your dungeon, so you may want to risk trying to take him alive and putting him to the torture table for some education.
+
+The dwarf baron is head of a large tribe of dwarves and a main villain in many games. Because his troops can tunnel during invasions, try to be the aggressor and defeat him in one shot. If he counter attacks he may seriously mess up your neat little dungeon.
+
+== Inventory ==
+ Artifact war hammer |OR| battle axe
+ Scroll of Teleport |OR| Potion of Healing |OR| First Aid Kit
+ Chain armor
+ Iron helm
+ Iron boots
+ Gold
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +121,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

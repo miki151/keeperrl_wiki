@@ -3,11 +3,30 @@ title: Old Lava Golem
 permalink: Old_Lava_Golem/
 layout: wiki
 ---
+[[File:lava_golem.png|100px|link=]] ''Fiery
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
 
+*Defense:36
+*Damage:26
+*Melee Resistance:Yes
+*Slow:Yes
+*Body Size:Large
+*Attack:Fire
+*Fire Resistant:Yes
 
-This article has gone missing.
+==Encounters==
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Very Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[White Dragon Dungeon Floor]]
+
+== Summary ==
+
+Lava golems are the little brother of adamantium golems, not as tough in most ways and more often found alone. What makes them more dangerous is that they tend to set things on fire.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +115,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

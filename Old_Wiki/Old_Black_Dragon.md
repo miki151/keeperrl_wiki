@@ -3,11 +3,39 @@ title: Old Black Dragon
 permalink: Old_Black_Dragon/
 layout: wiki
 ---
+[[File:black_dragon.png|100px|link=]]
+''Blind but telepathic.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Body: FourLegged HUGE 2-WINGS HEAD
+*Bite_attack
+*Drops: BlackDragonScales 
+*DAMAGE 45
+*DEFENSE 47 
 
+*Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;black dragon blindness&quot;
+*RANGED_VULNERABILITY
+*BLIND
+*TELEPATHY
 
-This article has gone missing.
+= Strategy =
+*This monster has a very powerful mass blind spell
+*Telepathy will help
+*You can also send in one small minion and trigger the spell while your main army stands their ground. When the spell wears off go charging in (The spell has a cooldown)
+
+[[Category: Creatures]]
+
+= Tribe Stats =
+*Settlement: Cave
+*Inhabitants: Lone black dragon
+*Race = dragon
+*Tribal loyalty: None
+*Building style: Dungeon
+*Items: Dragon cave
+*AI: Triggers on Enemy Population 22, 3 conquered tribes, Stolen Items, Finishing Off keeper, proximity. Kill 12 minions or keeper. 
+*Supplanted enemies: 100% found in supplanted knights, dwarves, green dragon caves or warrior castles
+
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +123,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

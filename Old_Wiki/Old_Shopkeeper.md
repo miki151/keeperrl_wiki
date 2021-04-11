@@ -3,11 +3,17 @@ title: Old Shopkeeper
 permalink: Old_Shopkeeper/
 layout: wiki
 ---
+[[File:shopkeeper.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Body: Humanoid LARGE 
+*Attributes: DAMAGE 17 DEFENSE 20 
 
+= Summary =
 
-This article has gone missing.
+Shopkeepers are usually found in the bottom of allied dungeons in Keeper mode, and you can buy their wares. At the point you find them, they don't pose a threat as they're armed with normal swords and they start off docile.
+
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +102,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

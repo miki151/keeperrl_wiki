@@ -3,11 +3,19 @@ title: Old Prisoner
 permalink: Old_Prisoner/
 layout: wiki
 ---
+Since Alpha 24 prisoners keep their stats after being captured. They do however gain new tasks and traits:
+[[Prisoner guide]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Traits ==
+* [[Traits#Humanoid|Humanoid]]
+* [[Traits#Poison_Resistance|Poison resistance]]
 
+== Tasks ==
+* [[:Torture_Room|Torture]]
+* [[:Installations#Prisoner_Head|Exectute]]
 
-This article has gone missing.
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +104,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

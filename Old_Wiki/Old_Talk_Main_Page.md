@@ -3,11 +3,23 @@ title: Old Talk Main Page
 permalink: Old_Talk_Main_Page/
 layout: wiki
 ---
+Is there a place where this Wiki shows some depth? KeeperRL's big brother Dwarf Fortress made a point of having a well-organised, community supported wiki and it makes a world of difference when you play:
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+* Learning curve! At this point let's not expect everything to be perfect, but common gameplay and your usual tricks ''should be documented''.
+* Where are we now? I strongly suggest '''categorizing pages with version number''', cause most of them have outdated / mixed content. [https://www.mediawiki.org/wiki/Help:Categories Some help about categories].
 
+I could not find a talk page here so I'm waiting for suggestions, otherwise I guess I'll just start organizing stuff around. Let's talk!
 
-This article has gone missing.
+'''Enabling upload and linking of images would be great. I tried to add a picture of my Graveyard to the Graveyard page but the upload gives me an error every time.'''
+
+==Wiki Updated August 2018==
+
+*Should be less out of date.
+*Image uploads are now enabled.
+
+Thanks for your help. I'm on discord a lot if you want to chat.
+
+Soft Monster
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +108,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,28 @@ title: Old Vampire Lord
 permalink: Old_Vampire_Lord/
 layout: wiki
 ---
+[[File:vampirelord.png|100px|link=]] ''Powerful when converted
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats==
+*Spell Damage:27
+*Defense:17
+*Damage:17
+*Body Size:Large
+*Night Vision:Yes
+*Sorcery:0.5
+*Melee training maximum:12
+*Spell training maximum:12
+*Flying:Yes
+*Ranged Resistance:Yes
+*Fire Resistant:Yes
+*Spells:Random
 
+==Summary==
+A powerful vampire who has no fear of sunlight, being surrounded by an aura of darkness. Not all vampires can fly but vampire lords invariably do. They can train a lot of levels in your dungeon and come with various spells. You find them in coffins in cemeteries and need some torture to persuade them to join you.
 
-This article has gone missing.
+After studying they have the best spells in the game and they can also train using training dummies. They can level up even further by killing enemies in combat. They are very powerful if you take care of them but do tend to lose limbs a bit easily.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +113,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

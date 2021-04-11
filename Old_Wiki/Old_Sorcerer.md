@@ -3,11 +3,23 @@ title: Old Sorcerer
 permalink: Old_Sorcerer/
 layout: wiki
 ---
+[[File:sorcerer.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Alignment:HUMANS
+*Body: type = Humanoid LARGE 
+*DAMAGE 15
+*DEFENSE 25
+*SPELL_DAMAGE 35
+*Training Ability: SPELL 2
+*Spells:  &quot;advanced healing&quot; &quot;haste&quot; &quot;defense bonus&quot; &quot;directed blast&quot; &quot;magic missile&quot; 
+*MAGIC_RESISTANCE
+*FLYING
 
+= Encounters =
+*[[Thieves]]
 
-This article has gone missing.
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +108,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

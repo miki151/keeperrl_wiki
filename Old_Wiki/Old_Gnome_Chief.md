@@ -3,11 +3,26 @@ title: Old Gnome Chief
 permalink: Old_Gnome_Chief/
 layout: wiki
 ---
+[[File:gnome_chief.png|100px|link=]] ''Lord of his own dungeon
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:16
+*Damage:15
+*Body size:Medium
+*Jeweler:1
 
+==Encounters==
+*[[Gnomes]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Very Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+== Summary ==
+
+They are excellent at making good jewelry quickly and settle as tribes in random dungeons found in the mountains. Keepers that can't be bothered to make peace with the little folk are often accustomed to over-powering them and taking them back to the dungeon in chains. Otherwise, the dungeons are quite interesting and can contain rare items and monsters. To be honest the Gnome Chief is a weak trophy, but it is always fun to twist his ears.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,38 @@ title: Old Thieves
 permalink: Old_Thieves/
 layout: wiki
 ---
+[[File:thief_leader.png|100px|link=]]
+[[File:sorcerer.png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
+[[File: thief .png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Castle 
+*Tribal Loyalty: Humanity
+*Building Style: Sandstone wall
+*Inhabitants: [[Thief Leader]] with 8-14 [[Thief]] + [[Sorcerer]]
+*Location Named as :Town
+*Race: thieves
+*Stockpiles: 160 gold in chests
+*Furniture: Standard Furniture
+*Outside features: Bleeding Totem 
+*Immigrant Interval :300 
+*Max Population:10 g
+*Immigration: Thief frequency 1
+*AI: Min attack Population :3. Min Team Size :5. Triggered by throne, impaled heads, killed tribe members, 2 other tribes defeated, stolem items, proximity, finishing off. Hold to ransom or else assassinate keeper.
+*Biomes: Desert 
+*Other enemy: Djinn Entrance
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +123,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

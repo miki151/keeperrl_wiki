@@ -3,11 +3,40 @@ title: Old Imp
 permalink: Old_Imp/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:imp.png|100px|link=]] ''Warlock's best workers
 
+==Summary==
 
-This article has gone missing.
+Your workforce for resource gathering, construction and hauling jobs. Imps can carry an almost unlimited amount of weight.  They are also adorable and fantastic for scouting if you have four or less as the first four cost nothing to replace. Imps are cowards though and run away from their own shadows half the time, even when it can't be bothered to give chase.
+
+== Spawning Cost (gold) ==
+The first four imps are always free. After that they cost an increasing amount of gold to summon.
+
+== [[:Attributes]] ==
+''Base values''
+*Defense:15
+*Damage:5
+*Body size:Small
+*Skill:No carry limits
+*Courage:Yes
+*Chasing:No
+*Equipment:No
+*Skill:Construction
+*Digging:0.4
+*Poison Resistant:Yes
+*Fast:True
+
+== Traits ==
+* [[Traits#Humanoid|Humanoid]]
+* [[Traits#Poison_Resistance|Poison resistance]]
+* [[Traits#Courage|Courage]] : 0.1
+
+== Skills ==
+* [[Skills#Construction|Construction]]
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +125,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

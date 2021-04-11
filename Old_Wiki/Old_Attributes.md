@@ -3,11 +3,55 @@ title: Old Attributes
 permalink: Old_Attributes/
 layout: wiki
 ---
+__NOTOC__
+== Ranged Damage ==
+''Defines the chance of a successful ranged attack and dodging.''
+* Is equal to intrinsic ranged damage + ranged training + (weapon) ranged damage.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Spell Damage ==
+''Defines the chance of a successful magic attack and dodging.''
+* Is equal to intrinsic spell damage + spell training + (weapon) spell damage.
 
+== Melee Damage ==
+''Affects if and how much damage is dealt in combat.''
+* Is equal to intrinsic damage + melee training + (weapon) damage.
 
-This article has gone missing.
+== Defense ==
+''Affects if and how much damage is taken in combat.''
+* Is equal to intrinsic defence + melee training + armor value.
+
+== Inventory Limit ==
+''The maxiumum amount of weight you can carry.''
+
+== Size ==
+''Affects which body parts are hit in combat.''
+
+== Speed ==
+''Affects how much time every action takes.''
+
+== Unarmed damage ==
+''Damage bonus if not wearing any weapon''
+
+== Weight ==
+''The weight of creatures dead body''
+
+== Calculation of actual combat damage ==
+
+ Def = targets def * ( 0.95 ^ TimesHitThisTurn ) #the stuff in parenthesis = 1 If this is the first time this target has been hit this turn
+ Attack = attackers strength 
+ Ratio = Attack / Def
+ if Ratio &lt;= 0.6:
+    No damage Delt
+  if Ratio &gt;= 2.2:
+    Insta-kill
+  otherwise:
+    if Ratio &lt;= 1 then:
+        Damage = 0.3 * (Ratio - 0.6)
+    if not:
+        Damage = 0.733 * (Ratio - 1.0)
+  #Please note that damage is a percentage
+
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +139,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

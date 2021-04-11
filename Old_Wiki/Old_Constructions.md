@@ -3,11 +3,14 @@ title: Old Constructions
 permalink: Old_Constructions/
 layout: wiki
 ---
+To manage your dungeon, you can ask your imps and recruited volunteers (prisoners) to construct rooms, install features and set traps. This is a game about building a dungeon after all.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+However, there is a type of &quot;Furniture&quot; in KeeperRL that includes landscape such as trees, water and other naturally occurring structures. Enemy tribes often have their own unique furniture. All types of furniture can be modded and the vanilla game contains probably about 100 different types and are not documented here. But the configuration file that defines all types of furniture in the official release is found here:
 
+ https://github.com/miki151/keeperrl/tree/master/data_free/game_config/furniture.txt
 
-This article has gone missing.
+[[Category: Keeper Mode]]
+[[Category: Dungeon Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +99,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,34 @@ title: Old Child
 permalink: Old_Child/
 layout: wiki
 ---
+[[File:peasantkid.png|100px|link=]]
+''Stealthy
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Summary==
+Peasant children are stealthy and make good food for dopplegangers. Evil keepers love to have an extensive child labour program. Modern, progressive dictators really care a lot about providing employment to vulnerable orphans.
 
+== Base Stats ==
+*Damage:8
+*Body size:Medium
+*Defense:8
+*Skill:Stealth
 
-This article has gone missing.
+== Encounters ==
+*[[Tutorial village]]
+*[[Village]]
+*[[Adoxie Temple]]
+*[[Human cottage]]
+
+= Child Prisoner =
+*Damage:2
+*Body size:Medium
+*Entangled:Yes
+*Blind:Yes
+*Defense:2
+
+Don't absorb the spider food unless you want a blind doppleganger. These children are stored for eating and are actually beyond help, even if you are playing a character that cares about morality. Sorry.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +118,7 @@ Other items in this section
 -    [Old Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

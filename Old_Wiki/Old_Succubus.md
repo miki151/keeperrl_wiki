@@ -3,11 +3,48 @@ title: Old Succubus
 permalink: Old_Succubus/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:succubussmall.png|100px|link=]] ''She's done it before (once)
 
+== [[:Attributes]] ==
+''Base values''
+*Damage:5
+*Body size:Large
+*Wings:Yes
+*Skill:Copulation
+*Attack:Peacefulness
+*Gender:Female
+*Courage:Yes
 
-This article has gone missing.
+=Encounters=
+*[[Wizard tower]]
+
+== Summary ==
+She is the only creature capable of giving birth to legends. You need her in your dungeon to breed stuff, nasty stuff. Sometimes her children are insane and kill her during childbirth, she must have an unpleasant job but someone has to do it. She also keeps minions happy whilst trying to get pregnant.
+
+If you want her to give birth you will need to pay her in gold. Click on her demonspawn in the immigration panel. Her legendary creatures will be recruited into your dungeon much like other minions.
+
+== Technologies for breeding legends ==
+*[[Technologies#Humanoid Mutation | Humanoid Mutation]]
+*[[Technologies#Beast Mutation | Beast Mutation]]
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Tasks ==
+* [[:Skills#Copulate|Copulate]]
+* [[:Ritual_Room|Ritual]]
+
+== [[:Immigration|Attraction]] ==
+* You need two spare demon shrines
+* You need to practice demon rituals (assign the rituals task to some of your minions and earn power)
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +133,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

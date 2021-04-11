@@ -3,11 +3,17 @@ title: Old Halloween Kid
 permalink: Old_Halloween_Kid/
 layout: wiki
 ---
+[[File:halloween_kid1.png|100px|link=]] ''Trick or Treat?
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Defense:8
+*Damage:8
+*Body size:Medium
 
+==Summary==
 
-This article has gone missing.
+A seasonal visitor. For some reason he thinks he can march up to your dungeon and threaten you with a rotten egg or putting dirt through your letter box. Never mind eh?
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +102,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

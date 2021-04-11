@@ -3,11 +3,29 @@ title: Old Experience
 permalink: Old_Experience/
 layout: wiki
 ---
+== Training ==
+* Use wooden, iron and adamantium dummies to train in melee combat.
+* Use wooden, iron and gold bookcases to train in magic combat.
+* Use the archery targets to train ranged combat up to the creature's maximum level.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Training efficiency ==
+*Gold carpeting provides the best efficiency.
+*Stone flooring is good efficiency and is not flammable.
+*Wooden flooring is cheap and ugly and burns.
+*Good lighting increases efficiency.
+*Monsters are unable to train to the highest levels without the better dummies and bookcases.
+*Archery targets require sufficient space to allow training.
 
+== Killing an enemy ==
+*Kill enemies to gain experience.
+*Your minions, and Keeper, will gain a minimum of 0.02 experience for each creature killed.
+*Enemies that are tougher than you will gain you extra experience for the kill, sometimes rather a lot
+*Every 1.0 experience causes the creature to level up and will increase your combat abilities
+*Combat experience acts independently of training experience and you can have both without decreasing the other
+*Each creature has a maximum amount of training experience available and also a maximum amount of combat experience available
+*Not all creatures can train or gain new combat experience
 
-This article has gone missing.
+[[Category:Creature Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

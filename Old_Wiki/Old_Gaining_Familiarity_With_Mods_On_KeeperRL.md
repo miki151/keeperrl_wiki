@@ -3,11 +3,125 @@ title: Old Gaining Familiarity With Mods On KeeperRL
 permalink: Old_Gaining_Familiarity_With_Mods_On_KeeperRL/
 layout: wiki
 ---
+==Modding tutorial for KeeperRL (Overview) ==
+*The first recommendation is to get familiar with the existing modding system on KeeperRL
+*There are two types of mods on KeeperRL
+**Local mods (Edit the [[Official_Game_Configs | official game files]] locally) - Can't be uploaded onto the Web. Easier to learn for beginners.
+**Web mods (Write new mod files that modify, replace or append to the official game files) - Slightly tougher but you can upload them for other players to use.
+*Make some simple changes to the vanilla files, that is the official files (Try some of the suggestions below) and test the changes. Vanilla configs are found under &quot;KeeperRL\datafree\gamedata\*.txt&quot;
+ Note, when changing vanilla configs you need to back them up in case you damage them.
+ If the worst happens, delete KeeperRL and reinstall it.
+*After learning to do local mods, install some existing Web Mods
+*Test them
+*Start writing your own Web mods
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Suggestions for simple changes to workshops_menu.txt==
+Locate workshops_menu.txt. It should look like [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/workshops_menu.txt this linked file, which is found in the vanilla configs folder].
 
+===Remove wooden staffs from the workshop===
+Delete the line containing:
+ WoodenStaff
+under the 
+ &quot;basic&quot;
+ {
+  &quot;WORKSHOP&quot;
+section.
 
-This article has gone missing.
+===Reduce the cost of golden staffs===
+In the line containing
+ GoldenStaff
+under the
+ &quot;basic&quot; section under the
+   &quot;FORGE&quot; subsection
+change the numbers in that line.
+
+===Sell rings of invisibility instead of wakefulness===
+Change the line containing
+ RESTED
+in the
+ &quot;JEWELER&quot; subsection.
+Change it to
+ INVISIBLE
+
+===Change the conversion exchange rate for resources===
+In the
+ &quot;LABORATORY&quot; section
+experiment with changing the numbers (hint: look for the lines mentioning alchemical conversion).
+
+==Suggestions for simple changes to technology.txt==
+Locate technology.txt. It should look like [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/technology.txt this]
+
+===Include a mention of heavy wooden clubs for the two-handed weapon tech===
+Change the line containing
+ two-handed weapons
+and edit the description text.
+
+===Remove the requirement for researching advanced sorcery before demonology===
+Change the line containing:
+ &quot;demonology&quot;
+and delete this part:
+ {&quot;advanced sorcery&quot;}
+
+==Suggestions for simple changes to keeper_creatures.txt==
+
+===Make it impossible for mages to get the archery technology===
+Change lines for dark mages containing:
+ &quot;archery&quot;
+Remove the text
+ &quot;archery&quot;
+
+==Suggestions for simple changes to immigration.txt==
+Locate immigration.txt. It should look like [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/immigration.txt this]
+
+===Allow recruitment of gnomes===
+Find the
+ &quot;dark_keeper&quot;
+section. Look at the block where:
+ ids = { &quot;GOBLIN&quot; }
+Change it to:
+ ids = { &quot;GOBLIN&quot; &quot;GNOME&quot; }
+
+===Recruiting all goblins without any insanity===
+In that section, remove the text:
+ Lasting { INSANITY }
+Wherever it is found.
+
+==Suggestions for simple changes to campaign_villains.txt==
+Locate campaign_villains.txt. It should look like [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/campaign_villains.txt this]
+
+===Remove all green dragons from keeper campaigns===
+Delete all lines containing the text:
+ &quot;green_dragon&quot;
+
+===Remove all red dragons from keeper campaigns===
+Delete all lines containing the text:
+ &quot;red_dragon&quot;
+
+==Suggestions for simple changes build_menu.txt==
+Locate build_menu.txt. It should look like [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/build_menu.txt this]
+
+===Make it free to fill in stone blocks===
+On line filling in blocks change the text:
+ &quot;STONE&quot; 5
+to
+ &quot;STONE&quot; 0
+(hint: it is in the &quot;structure&quot; section).
+
+===Allow building of iron training rooms without the iron working tech===
+On line for building iron dummies remove the text:
+ { TechId &quot;iron working&quot; }
+
+==Setting your own targets==
+*Set yourself some simple targets for local modding.
+*Look at some of the other moddable text files. Gain familiarity.
+*After that, download a web mod and try and understand how it works.
+*After that hack the web mod (You can hack any of mine, I don't mind - SoftMonster 17.09.2020 - but parallel uploads could become annoying)
+*After that write your own web mod from scratch and upload it for the player community to show you the respect you deserve!
+
+Good luck!
+ Softmonster 17.09.2020 (Alpha 30)
+
+[[Category : Modding Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +210,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,22 @@ title: Old Throne
 permalink: Old_Throne/
 layout: wiki
 ---
+[[File:throne.png|100px|link=]] ''I'm the king of the castle, you are the dirty rascal!
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+This construction can only be built once. It immediately adds 10 to your population cap, and makes the other tribes hate you more. But they're probably just jealous.
 
+After you upload a sucessful dungeon, enemy players that sit upon your throne will summon all your remaining forces for the final battle. This is more fun than having to hunt down every last creature and the odds of the defender winning the fight are usually better, so this is good for all sides and much encouraged.
 
-This article has gone missing.
+Keepers can be instructed to sit on their thrones once they have one.
+
+== Requirements ==
+Your dungeon needs to be at least level 10.
+
+== Cost ==
+500 gold.
+
+[[Category: Keeper Mode]]
+[[Category: Rooms]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +107,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

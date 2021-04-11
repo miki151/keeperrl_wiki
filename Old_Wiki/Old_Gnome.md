@@ -3,11 +3,35 @@ title: Old Gnome
 permalink: Old_Gnome/
 layout: wiki
 ---
+[[File:gnome.png|100px|link=]] ''Dungeon dwellers
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Defense:13
+*Damage:12
+*Body size:Medium
+*Jeweler:0.5
 
+=Recruitable gnomes=
+*Defense:10
+*Damage:10
+*Jewellery
+*Workshop
+*Forging
+*Laboratory
+=Encounters=
+*[[Gnomes]]
+*[[Gnome entrance]]
+*[[Shallow Dungeon Floor]]
+*[[Deep Dungeon Floor]]
+*[[Black Market Entry]]
+*[[Very Deep Dungeon Floor]]
+*[[White Dragon Dungeon Floor]]
 
-This article has gone missing.
+= Summary =
+Their main benefit is that they build multi-level dungeons that attract some interesting monsters.
+
+[[Category: Creatures]]
+[[Category: Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +120,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

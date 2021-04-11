@@ -3,11 +3,59 @@ title: Old Jewelry
 permalink: Old_Jewelry/
 layout: wiki
 ---
+[[Category: Items]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Jewellery is found in the dungeons of enemy keepers, sometimes in chests and usually craftable using gold in jewellery rooms.
 
+= Rings =
 
-This article has gone missing.
+== Ring of Poison Resistance ==
+ Grants poison immunity
+ Weight: 0.05
+ Price: 200
+
+== Ring of Fire Resistance ==
+ Grants fire immunity.
+ Weight: 0.05
+ Price: 200
+
+== Ring of Magic Resistance ==
+ Description: Resist magic attacks better
+
+== Ring of Wakefulness ==
+ Description: Resist sleep attacks
+
+== Ring of Satiation ==
+ Description: Removes the desire to eat and also gives a defence bonus
+
+==Ring of magical damage ==
+ It takes your normal melee damage.
+ Then, before the hit lands on your enemy, it's converted into magical damage, for the purposes of applying resistances and vulnerability.
+
+= Amulets =
+
+== Amulet of Warning ==
+ Description: Warns about dangerous beasts and enemies.
+ Weight: 0.3
+ Price: 220
+
+== Amulet of Regeneration ==
+ Description: Slowly heals all wounds.
+ Health: 0.05 per Tick
+ Weight: 0.3
+ Price: 300
+
+== Amulet of Defense ==
+ Description: Increases the toughness of your skin and flesh, making you harder to wound.
+ Defense: 2 - 4
+ Weight: 0.3
+ Price: 300
+
+== Amulet of Night Vision ==
+ Description: See in the dark
+
+== Amulet of Elf Vision ==
+ Description: See through trees
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +144,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

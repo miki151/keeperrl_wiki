@@ -3,11 +3,23 @@ title: Old Gnome Entrance
 permalink: Old_Gnome_Entrance/
 layout: wiki
 ---
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
+[[File:gnome.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Gnome
+*Inhabitants: 3-7 [[Gnome]]
+*Race : gnomes 
+*Building Style: Dungeon
+*Outside features: Dungeon surroundings
+*Furniture:  Standard Furniture
+*Notable discovery: False
+*Z-level connections: Top Level: Gnome entry followed by 60x40 shallow dungeon, then 1-2 60x40 dungeon, Then Main Enemy 60x40 Mine Town
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +108,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

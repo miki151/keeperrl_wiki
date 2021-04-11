@@ -3,11 +3,23 @@ title: Old Deer
 permalink: Old_Deer/
 layout: wiki
 ---
+[[File:Deer.png|100px|link=]] '' Sometimes glimpsed running through the trees
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats==
+*Defense:10
+*Damage:10
+*Body size:Large
+*Weight:400
+*Fast:True
+*Animal:Yes
+*Chasing:No
 
+==Summary==
+Fun to shoot down with a bow, if you can find them. They are a lot easier to spot from the air. Not a danger unless you blunder into one without any armour on. Imps don't like them much.
 
-This article has gone missing.
+Deer are naturally occurring wildlife that tend to be nervous and somewhat distant from dungeons and other settlements.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +108,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

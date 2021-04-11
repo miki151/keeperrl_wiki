@@ -3,11 +3,26 @@ title: Old Dwarf Cave
 permalink: Old_Dwarf_Cave/
 layout: wiki
 ---
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:Dwarf.png|100px|link=]]
+[[File:dwarf_f.png|100px|link=]]
+[[File:dwarf_f.png|100px|link=]]
+[[File:dwarf_f.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Small Mine Town
+*Tribal Loyalty: Dwarf
+*Inhabitants: 2-5 [[Dwarf|Dwarven warrior]] plus 2-5 [[Dwarf Female]]
+*Race: Dwarf 
+*Building Style:Dungeon
+*Stockpiles: 60 minerals 
+*Outside features: Dungeon surroundings
+*Furniture: Standard Furniture
+*Surrounded With Resources: 6 
+*AI: Triggered by killed tribe members and stolen items. Hold to ransom or assinate keeper
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +111,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

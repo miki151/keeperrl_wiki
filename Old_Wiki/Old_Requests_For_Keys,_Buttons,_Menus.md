@@ -3,11 +3,13 @@ title: Old Requests For Keys, Buttons, Menus
 permalink: Old_Requests_For_Keys,_Buttons,_Menus/
 layout: wiki
 ---
+*Click library, hold down shift, select a rectangle on the map with mouse - library with spaced shelves needs to be drawn (And not a solid block of shelves)
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Rogue-like key set ie. W=up S=Down etc.
 
+*Rogue-like key set, not just for map navigation, but for controlled character movement.
 
-This article has gone missing.
+*Ability to double-click on creatures in minions menu, and move to their position on the world map. (It helps to find your imps when they are performing jobs)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +98,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

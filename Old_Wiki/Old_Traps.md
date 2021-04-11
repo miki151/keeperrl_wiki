@@ -3,11 +3,50 @@ title: Old Traps
 permalink: Old_Traps/
 layout: wiki
 ---
+__NOTOC__
+''All traps require [[Technologies#Traps|traps]] technology.
+* Traps are made in [[:Manufactories#Workshop|workshops]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Terror trap ==
+''Causes the trespasser to [[:Effects#Panic|panic.]]''
+* Duration : 15 ticks.
+* Causes creature to flee in terror.
 
+== Gas trap ==
+''Releases a cloud of [[:Effects#Poison_Gas|poison gas]].''
+* Gas slowly spreads to nearby tiles.
+* As the gas spreads it become diluted and deals less damage.
 
-This article has gone missing.
+== Alarm trap ==
+''Summons all minions.''
+* Wakes up all minions.
+* Minions move towards the alarm.
+
+== Web trap ==
+''Immobilises the trespasser for some time.''
+{| class=&quot;wikitable&quot; style=&quot;text-align:right&quot;
+|-
+|style=&quot;text-align:left&quot;|victim strength
+|5||10||15||20||25||30||35||40||45||50
+|-
+|style=&quot;text-align:left&quot;|entangled time
+|27||25||22||20||17||15||12||10||7||5
+|-
+|}
+
+== Boulder trap ==
+''Causes a huge boulder to roll towards the enemy.''
+* Boulder kills every creature in it path.
+* Boulder range : 8 tiles.
+* Boulder direction change : 3 times.
+
+== Surprise trap ==
+''Teleports nearby minions to deal with the trespasser.''
+* Teleports minions in 8 tiles range near the enemy.
+
+[[Category : Constructions]]
+[[Category : Rooms]]
+[[Category: Keeper Mode]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +135,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,33 @@ title: Old Ghost
 permalink: Old_Ghost/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:ghost.png|100px|link=]] ''Makes enemies insane
+
+== [[:Attributes]] ==
+''Base values''
+*Spell damage:30
+*Defense:35
+*Body size:Large
+*Flying:yes
+*Magic Vulnerability:yes
+
+== Summary ==
+In some earlier versions, these creatures could hit multiple times and turn invisible bringing an entire army into madness. Perhaps one of the gods were angry because lately they die as they strike their targets and always remain visible. Other than that, sending an enemy insane is still a great way to severely weaken your enemies.
+
+Hostile ghosts are often found near ruins and will easily turn some of your minions insane if travelling past them at night. This causes infighting in your team and is dangerous. As of Alpha 28 there's a bug preventing one from destroying the walls of the ruins they spawn in, but you can wall off the ruins to prevent them from possessing anyone in your part of the map.
+
+== Traits ==
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Courage|Courage]] : 10
+
+== Tasks ==
+* [[:Ritual_Room|Ritual]]
 
 
-This article has gone missing.
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +118,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

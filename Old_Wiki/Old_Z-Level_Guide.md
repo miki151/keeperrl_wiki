@@ -3,11 +3,47 @@ title: Old Z-Level Guide
 permalink: Old_Z-Level_Guide/
 layout: wiki
 ---
+Z-Levels are opened up when building a down staircase from your dungeon.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+ Note that the map is 3D and has a vertical axis, which can be viewed one 2D cross section at a time.
+
+You may only build one down staircase and that staircase will link to the middle of the next z-level. Portals do not work across z-levels. In this regard, z-levels are not done in the same way as certain other games (including Dwarf Fortress). 
+
+The current vanilla configuration is found here:
+
+ [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/zlevels.txt Vanilla Z-Level Configuration]
+
+This is the current vanilla configuration shown as a table.
+
+{| class=&quot;wikitable sortable&quot;
+|-
+!Inhabitants||Starts at Depth||Ends at depth||Attack chance||Landscape
+|- align=&quot;right&quot;
+|None||1||Never||None||Resources\river\lava
+|- align=&quot;right&quot;
+|Rats||2||4||None||Resources\river\lava
+|- align=&quot;right&quot;
+|Rat People||3||7||30%||Resources\river\lava
+|- align=&quot;right&quot;
+|Plagued Rats||5||Never||None||Resources\river\lava
+|- align=&quot;right&quot;
+|Water Creatures||7||10||None||Underground sea
+|- align=&quot;right&quot;
+|Lava Creatures||10||Never||None||Underground magma sea
+|- align=&quot;right&quot;
+|Adamantium Golems||10||Never||None||Resources\river\lava
+|- align=&quot;right&quot;
+|Dark Elves (for lawful keepers)||5||Never||60%||Resources\river\lava
+|- align=&quot;right&quot;
+|Dwarves (for evil keepers)||5||Never||60%||Resources\river\lava
+|- align=&quot;right&quot;
+|}
+
+You can keep digging down forever.
 
 
-This article has gone missing.
+[[Category: Keeper Mode]]
+[[Category: Dungeon Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +132,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

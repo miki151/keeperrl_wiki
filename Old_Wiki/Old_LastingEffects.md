@@ -3,11 +3,83 @@ title: Old LastingEffects
 permalink: Old_LastingEffects/
 layout: wiki
 ---
+=Usage=
+#Used with [[ItemTypes]] to specify variations of those items
+#Used to define special traits for immigrants.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from workshops_menu.txt=
+From: [[Workshops_Menu.txt]]
+ {{Potion Lasting '''SLOWED'''}               2        GOLD 2}
+ {{Potion Lasting '''SLEEP'''}                2        GOLD 2}
+ {{Potion Lasting '''POISON_RESISTANT'''}     4        GOLD 6}
+ {{Potion Lasting '''SPEED'''}                4        GOLD 6}
+ {{Potion Lasting '''TELEPATHY'''}            4        GOLD 6}
+ {{Potion Lasting '''REGENERATION'''}         4        GOLD 8}
+ {{Potion Lasting '''POISON'''}               4        GOLD 8}
+ {{Potion Lasting '''FLYING'''}               4        GOLD 8}
 
+=Example from immigration.txt=
+From: [[Immigration.txt]]
+ specialTraits = {
+ { 0.03 { AttrBonus SPELL_DAMAGE 7 LastingEffect '''INSANITY'''}}
+ { 0.10 { ExtraTraining SPELL 4}}
+ { 0.05 { SkillId LABORATORY }}
+ { 0.10 { LastingEffect '''MAGIC_RESISTANCE''' }}
+ { 0.02 { LastingEffect '''HATE_ELVES''' }}
+ { 0.02 { LastingEffect '''HATE_HUMANS''' }}
 
-This article has gone missing.
+=Valid values=
+*SLEEP
+*PANIC
+*RAGE
+*SLOWED
+*SPEED
+*DAM_BONUS
+*DEF_BONUS
+*BLEEDING
+*HALLU
+*BLIND
+*INVISIBLE
+*POISON
+*ENTANGLED
+*TIED_UP
+*STUNNED
+*POISON_RESISTANT
+*FIRE_RESISTANT
+*FLYING
+*COLLAPSED
+*INSANITY
+*PEACEFULNESS
+*LIGHT_SOURCE
+*DARKNESS_SOURCE
+*PREGNANT
+*SLEEP_RESISTANT
+*MAGIC_RESISTANCE
+*MELEE_RESISTANCE
+*RANGED_RESISTANCE
+*MAGIC_VULNERABILITY
+*MELEE_VULNERABILITY
+*RANGED_VULNERABILITY
+*ELF_VISION
+*NIGHT_VISION
+*REGENERATION
+*WARNING
+*TELEPATHY
+*SUNLIGHT_VULNERABLE
+*SATIATED
+*RESTED
+*SUMMONED
+*HATE_DWARVES
+*HATE_UNDEAD
+*HATE_HUMANS
+*HATE_GREENSKINS
+*HATE_ELVES
+*FAST_CRAFTING
+*FAST_TRAINING
+*SLOW_CRAFTING
+*SLOW_TRAINING
+
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +168,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,43 @@ title: Old Raven
 permalink: Old_Raven/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:raven.png|100px|link=]] ''Daytime explorer. Fast!
 
+== [[:Attributes]] ==
+''Base values''
+*Defense:2
+*Damage:2
+*Body size:Small
+*Weight:0.5
+*Bird:True
+*Animal:Yes
+*Chasing:No
+*Courage:Yes
+*Fast:True
+*Skills:Exploring
+*Group:Flock
 
-This article has gone missing.
+== Summary ==
+It provides a fantastic line of sight during daylight hours and for that reason is a good creature to have in your party, especially against elves and dryads. At night it is not so good. It is often used as food for dopplegangers to provide them with the ability to fly and travel fast.
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Tasks ==
+* [[:Traits#Explore|Explore]]
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 1.0
+* Daytime
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +128,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

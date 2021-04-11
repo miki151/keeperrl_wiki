@@ -3,11 +3,68 @@ title: Old EnemyIDs
 permalink: Old_EnemyIDs/
 layout: wiki
 ---
+=Usage=
+Used to specify which enemies appear on campaign maps as either major enemies, lesser enemies or allies.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from campaign_villains.txt=
+From: [[Campaign_Villains.txt]]
 
+ DUKE4 '''KNIGHTS''' &quot;Knights&quot; MAIN
+ ELF_LORD '''ELVES''' &quot;Elves&quot; MAIN
+ DWARF_BARON '''DWARVES''' &quot;Dwarves&quot; MAIN
+ RED_DRAGON '''RED_DRAGON''' &quot;Red dragon&quot; MAIN
+ ELEMENTALIST '''ELEMENTALIST''' &quot;Elementalist&quot; MAIN
+ GREEN_DRAGON '''GREEN_DRAGON''' &quot;Green dragon&quot; MAIN
+ LIZARDLORD '''LIZARDMEN''' &quot;Lizardmen&quot; MAIN
+ SHAMAN '''WARRIORS''' &quot;Warriors&quot; MAIN
+ DEMON_LORD '''DEMON_DEN''' &quot;Demon den&quot; MAIN
 
-This article has gone missing.
+=Valid values=
+*KNIGHTS
+*WARRIORS
+*DWARVES
+*ELVES
+*ELEMENTALIST
+*ELEMENTALIST_ENTRY
+*LIZARDMEN
+*RED_DRAGON
+*GREEN_DRAGON
+*MINOTAUR
+*VILLAGE
+*BANDITS
+*NO_AGGRO_BANDITS
+*COTTAGE_BANDITS
+*ENTS
+*DRIADS
+*CYCLOPS
+*SHELOB
+*HYDRA
+*KRAKEN
+*ANTS_OPEN
+*ANTS_CLOSED
+*ANTS_CLOSED_SMALL
+*CEMETERY
+*CEMETERY_ENTRY
+*DARK_ELVES
+*DARK_ELVES_ENTRY
+*GNOMES
+*GNOMES_ENTRY
+*OGRE_CAVE
+*HARPY_CAVE
+*DEMON_DEN_ABOVE
+*DEMON_DEN
+*ORC_VILLAGE
+*SOKOBAN
+*SOKOBAN_ENTRY
+*WITCH
+*DWARF_CAVE
+*KOBOLD_CAVE
+*HUMAN_COTTAGE
+*UNICORN_HERD
+*ELVEN_COTTAGE
+*ADA_GOLEMS
+
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +153,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

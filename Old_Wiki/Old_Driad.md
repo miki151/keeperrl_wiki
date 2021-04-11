@@ -3,11 +3,29 @@ title: Old Driad
 permalink: Old_Driad/
 layout: wiki
 ---
+[[File:driad.png|100px|link=]] '' Tree dwellers
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Ranged Damage:25
+*Defense:14
+*Damage:6
+*Body size:Medium
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Elf Vision:Yes
+*Archery training maximum:4
 
+==Encounters==
+*[[Driads]]
 
-This article has gone missing.
+= Summary =
+These creatures are deadly with a bow and arrow. They can be taken prisoner at night using a team with bats, so that you have the better vision compared to theirs. If you don't want to take prisoners, normally players will simply burn down their forest and plunder all the bows and corpses left over.
+
+They may appear to be a force for goodness in the world. While it is true that they never assault dungeons or keeps, the reality is that they shoot down tresspassers like they are judge, jury and executioner. Justice is not really their thing.
+
+You can get them in your dungeon by twisting their brains in torture and are brilliant archers but terrible melee fighters. 
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

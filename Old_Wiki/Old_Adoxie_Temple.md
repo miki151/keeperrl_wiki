@@ -3,11 +3,26 @@ title: Old Adoxie Temple
 permalink: Old_Adoxie_Temple/
 layout: wiki
 ---
+[[File:adoxie_priest.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:abomination.png|100px|link=]]
+[[File:peasantkid.png|100px|link=]]
+[[File:peasantkid.png|100px|link=]]
+[[File:peasantkid.png|100px|link=]]
+[[File:peasantkid.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Stats =
+*Settlement: Custom Adoxie Temple
+*Tribal Loyalty: None
+*Inhabitants: [[Adoxie Priest]] leading 4-5 [[Abomination]] plus 4 or 5 [[Child#Child_Prisoner|Child Prisoners]]
+*Building Style: Adoxie's Temple 
+*Immigrant Interval = 0
+*Max Population: 15 
+*Z-level connections: Top Level Dungeon entry,  40x30 dungeon, Black market entry, 3 more 40x30 dungeons. Adoxie's Temple 40x60 followed by an extra enemy DEATH  and then a hell dungeon 40x30.   
 
-
-This article has gone missing.
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +110,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

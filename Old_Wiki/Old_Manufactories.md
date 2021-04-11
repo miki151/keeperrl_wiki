@@ -3,11 +3,32 @@ title: Old Manufactories
 permalink: Old_Manufactories/
 layout: wiki
 ---
+[[File:workshop.png|100px|link=]] [[File:forge.png|100px|link=]] [[File:labdeco.png|100px|link=]] [[File:jewelerdeco.png|100px|link=]]
+''Different manufactories produce different items.''
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Often, these are placed in separate locations:
 
+== Workshop ==
+*Produces: first aid kits, bows, non-metal weapons, and traps
+*Tile Cost: 15 Wood
 
-This article has gone missing.
+== Forge ==
+*Requires [[Technologies#Iron_Working | Iron Working]] researched.
+*Produces: all metal weapons and all metal armor
+*Tile Cost: 20 Iron
+
+== Laboratory ==
+*Requires [[Technologies#Alchemy | Alchemy]] researched.
+*Produces: magical potions
+*Tile Cost: 10 stone
+
+== Jeweller ==
+*Requires [[Technologies#Jewellery | Jewellery]]
+*Produces: jewelry, magical rings, and amulets
+*Tile Cost: 12 Wood
+
+[[Category: Rooms]]
+[[Category: Keeper Mode]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +117,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

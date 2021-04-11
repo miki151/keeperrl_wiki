@@ -3,11 +3,41 @@ title: Old Witch
 permalink: Old_Witch/
 layout: wiki
 ---
+[[File:witch.png|100px|link=]] ''Not always visible
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+= Base Stats =
+*Spell Damage:20
+*Defense:14
+*Damage:14
+*Body size:Medium
+*Gender:Female
+*Laboratory:0.7
+*Spell training maximum:4
 
+==Summary==
+Rarely seen outside the endless mode and the single map mode. She has a lot of potions and tends to go invisible and then hit you with thrown potion bottles.
 
-This article has gone missing.
+== Inventory ==
+ Knife
+ Potion of Healing
+ Potion of Sleep
+ Potion of Slowness
+ Potion of Blindness
+ Potion of Invisibility
+ Potion of Poison
+ Potion of Speed
+
+= Tribal Stats =
+*Settlement: Cottage 
+*Tribal Loyalty: None
+*Inhabitants: Lone witch
+*Race: Witch 
+*Building Style: Wood
+*Loot: Tech Book advanced alchemy
+*Furniture: Witch Inside  
+
+[[Category: Tribes]]
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

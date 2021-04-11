@@ -3,11 +3,31 @@ title: Old Tree Spirit
 permalink: Old_Tree_Spirit/
 layout: wiki
 ---
+[[File:Ent.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+__NOTOC__
+== [[:Attributes]] ==
+''Base values''
+*Body Size:Huge
+*Defense:25
+*Damage:35
+*Elf Vision:Yes
+*Ranged Resistance:Yes
+*Slow:Yes
 
+== Summary ==
+These are the inhabitants of many a forest in our land. When they die, they leave behind wood that can be plundered. Because they are slow creatures, a tribe of tree spirits can be killed fairly easily by a well equipped werewolf, which can gain up to about 6 levels for it. They can be rather good xp.
 
-This article has gone missing.
+Tree spirits can be set on fire, and will actively seek out water to put themselves out.
+
+== Traits ==
+* [[Traits#Brainless|Brainless]]
+* [[Traits#Not_Breathing|not Breathing]]
+
+== Skills ==
+* [[:Skills#Elf_Vision|Elf Vision]]
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +116,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

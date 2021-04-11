@@ -3,11 +3,22 @@ title: Old Angel
 permalink: Old_Angel/
 layout: wiki
 ---
+[[File:angel.png|100px|link=]]
+''Agent of holiness
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
 
+*Damage:30
+*Spell Damage:20
+*Defense:22
+*Body Size:Large
 
-This article has gone missing.
+==Summary==
+
+There is a chance to spawn them when you desecrate altars. They carry swords and glyphs. They are not baby girls with wings and can actually do some damage with their swords if you get caught out by them (after murdering the local priest and drawing dirty pictures on his altar, grow up!).
+
+[[Category:Creatures]]
+[[Category:Recruits]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +106,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

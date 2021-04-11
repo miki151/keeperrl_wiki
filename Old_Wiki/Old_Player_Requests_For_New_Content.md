@@ -3,11 +3,64 @@ title: Old Player Requests For New Content
 permalink: Old_Player_Requests_For_New_Content/
 layout: wiki
 ---
+Michal has indicated that he is interested in producing new content and may adopt player ideas. This section is here to facilitate this.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+*Please keep the standard rules about not submitting copyrighted content to the wiki. This includes any material of your own  for which you want the copyright. (We are submitting our ideas into the public domain for Michal to use under an open source license)
+
+Thanks!
+
+References: http://steamcommunity.com/app/329970/discussions/0/133256240734014200/
+
+Please just edit the the correct Wiki page and feel free to try the templates. Fill those out as best you can and post them underneath existing stuff.
+The big strength of wikis is the ability to collaborate. The templates are there to provoke ideas and structure the ideas (making them easier to implement). Try not to remove ideas that have already been written down, as this is probably counter-productive.
 
 
-This article has gone missing.
+= Game Content =
+
+==Ideas for technology==
+* [[Requests for new technology]]
+
+==Ideas for creatures==
+References: http://keeperrl.com/forums/topic/ideas-for-new-creatures/
+
+* [[Requests for new villains]]  (hostile)
+* [[Requests for new allies]]    (friendly)
+* [[Requests for new wildlife]]  (timid)
+* [[Requests for new minions]]   (obedient)
+
+==Ideas for items==
+* [[Requests for new weapons]]
+* [[Requests for new armour]]
+* [[Requests for new jewellery]]
+* [[Requests for new unequipped items]]
+
+==Ideas for creature features==
+* [[Requests for new spells]]
+* [[Requests for new traits]]
+* [[Requests for new tasks and skills]]
+* [[Requests for new triggers]]
+
+==Ideas for constructions==
+* [[Requests for new traps]]
+* [[Requests for new rooms]]
+* [[Requests for new installations]]
+
+==Ideas for game maps==
+* [[Requests for new biomes]]
+* [[Requests for new configurations]]
+
+==Ideas for alternative keeper characters ==
+* [[Alternative keeper characters]]
+
+==Requests for look and feel of the game==
+* [[Requests for sound]]
+* [[Requests for graphics]]
+* [[Requests for game messages]]
+
+= Game Mechanics has its own page=
+* [[Player requests for new game mechanics]]
+
+There may be some overlap between changing what the game contains (game content) and changing the way the game is designed (game mechanics).
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +149,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

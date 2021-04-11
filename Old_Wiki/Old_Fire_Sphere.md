@@ -3,11 +3,35 @@ title: Old Fire Sphere
 permalink: Old_Fire_Sphere/
 layout: wiki
 ---
+__NOTOC__
+[[File:fire_sphere.png|100px|link=]] ''From magic spells
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Summoned by [[:Spells#Fire_Sphere|fire sphere]] spell.
+== [[:Attributes]] ==
+''Base values''
+*Defense:15
+*Damage:5
+*Small:Body::Size::SMALL
+*Fire Resistant:Yes
+*Flying:Yes
 
+== Summary ==
+They burn friends and foes and set things alight. You can summon them using magic to help you in difficult situations.
 
-This article has gone missing.
+== Body Parts ==
+* Heads : 0
+* Arms : 0
+* Legs : 0
+* Wings : 0
+
+== Traits ==
+* [[:Traits#Brainless|Brainless]]
+* [[:Traits#Fire_Creature|Fire Creature]]
+* [[:Traits#Flying|Flying]]
+* [[:Traits#Not_Breathing|Not Breathing]]
+* [[:Traits#Uncorporal|Uncorporal]]
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +120,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

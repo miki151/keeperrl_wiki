@@ -3,11 +3,41 @@ title: Old Illusion
 permalink: Old_Illusion/
 layout: wiki
 ---
+__NOTOC__
+''Summoned by [[:Spells#Deception|deception]] spell.''
+A copy of the caster used to distract enemies.
+The creature that summoned the illusions views them as transparent to differentiate between themselves and the illusions.
+To other creatures(that did not summon the illusions) they appear the same as the caster.
+== [[:Attributes]] ==
+''Base values''
+* Level : 1
+* Strenght : 1
+* Dexterity : 1
+* Speed : 100
+* Weight : 11
+* Size : large
+* Unarmed attackbonus : 20
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Combat Attributes ==
+* Attack : 21
+* Defense : 1
+* Accuracy : 1
 
+== Body Parts ==
+* Heads : 1
+* Arms : 2
+* Legs : 2
+* Wings : 0
 
-This article has gone missing.
+== Traits ==
+* [[:Traits#Blind|Blind]]
+* [[:Traits#Flying|Flying]]
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Not_Breathing|Not Breathing]]
+* [[:Traits#Uncorporal|Uncorporal]]
+* [[:Traits#Stationary|Stationary]]
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +126,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

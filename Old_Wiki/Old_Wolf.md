@@ -3,11 +3,44 @@ title: Old Wolf
 permalink: Old_Wolf/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:wolf.png|100px|link=]] ''Arrive in packs
 
+== [[:Attributes]] ==
+''Base values''
+*Defense:11
+*Damage:18
+*Body size:Medium
+*Weight:35
+*Attack:Fangs
+*Attack:Claws
+*Animal:Yes
+*Night Vision:Yes
+*Group:Pack
+*Skills:Exploring at night
 
-This article has gone missing.
+== Summary ==
+
+Wolf packs count as only one population point and are useful for managing dungeon security (keeping the prisoners subdued). They also form teams naturally and roam the local countryside at night killing farmers and the like.
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+
+== Tasks ==
+* [[:Traits#Explore|Explore]] : Nocturnal
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 0.15
+* pack : 3 - 9
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +129,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

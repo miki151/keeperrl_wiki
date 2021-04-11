@@ -3,11 +3,47 @@ title: Old BuiltinLayoutIDs
 permalink: Old_BuiltinLayoutIDs/
 layout: wiki
 ---
+=Usage=
+Used in conjunction with enemy IDs to generate a tribe layout from the builtin layout library
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from enemies.txt (vanilla game configs)=
 
+&lt;code&gt;
+  &quot;TUTORIAL_VILLAGE&quot;
+  {
+  settlement = {
+    type = Builtin SMALL_VILLAGE
+    tribe = HUMAN
+&lt;/code&gt;
 
-This article has gone missing.
+=Valid values=
+*VILLAGE
+*SMALL_VILLAGE,
+*FORREST_VILLAGE
+*FOREST
+*EMPTY
+*CASTLE
+*CASTLE2
+*COTTAGE
+*FORREST_COTTAGE
+*TOWER
+*TEMPLE
+*MINETOWN
+*ANT_NEST
+*SMALL_MINETOWN
+*VAULT
+*CAVE
+*SPIDER_CAVE
+*ISLAND_VAULT
+*ISLAND_VAULT_DOOR
+*CEMETERY
+*SWAMP
+*MOUNTAIN_LAKE
+
+==Values taken from settlement_info.h (source code)==
+From: [[settlement_info.h]]
+
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +131,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

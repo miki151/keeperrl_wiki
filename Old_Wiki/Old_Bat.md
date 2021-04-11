@@ -3,11 +3,48 @@ title: Old Bat
 permalink: Old_Bat/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:bat.png|100px|link=]]
+''They like to explore
 
+== [[:Attributes]] ==
+''Base values''
+*Body size:Small
+*Weight:1
+*Defense:16
+*Damage:3
+*Attack:Fangs
+*Animal:Yes
+*Chasing:No
+*Courage:Yes
+*Night Vision:Yes
+*Skill:Exploring at night
+*Skill:Explore caves
 
-This article has gone missing.
+==Summary==
+Bats provide superior line of site to parties, having both night vision and flight. They are ideal for teaming up with ground units. They are most useful against elves and driads. They are natural animals and are sometimes found in caves, but others can be recruited as immigrants at night time from the local forest. They are not especially wicked and have no magic ability but can be controlled by keepers, they mostly just come in handy in raiding parties. When not under the Keeper's control, they tend to fly out at night and explore.
+
+== Traits ==
+* [[:Traits#Animal|Animal]]
+* [[:Traits#Flying|Flying]]
+* [[:Attributes#Body_Parts|Body parts]] : 2 Wings
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+
+== Tasks ==
+* [[:Traits#Explore|Explore]] : Caves
+* [[:Traits#Explore|Explore]] : Nocturnal
+* [[:Beast_Lair|Lair]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[:Beast_Lair|Beast Lair]]
+* probability : 1.0
+* Nighttime
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -95,6 +132,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

@@ -3,11 +3,27 @@ title: Old Dark Elf Child
 permalink: Old_Dark_Elf_Child/
 layout: wiki
 ---
+[[File:Dark_elf_kid.png|100px|link=]] '' Stealthy
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+== Base Stats ==
+*Defense:6
+*Damage:6
+*Body size:Small
+*Magic Resistance:Yes
+*Spell:Heal Self
+*Night Vision:Yes
+*Skill:Stealth
 
+==Encounters==
+*[[Dark Elves]]
+*[[Dark Elves Enemy]]
 
-This article has gone missing.
+== Summary ==
+Children of the dark elf community. They have little redeeming features except for night vision, stealth and magic resistance, that can be absorbed by dopplegangers.
+
+They are reportedly ugly and have terrible manners (ugly is the new cute). If you are an enemy of dark elves then you can capture and convert them but honestly you are better off adopting someone else.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +112,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

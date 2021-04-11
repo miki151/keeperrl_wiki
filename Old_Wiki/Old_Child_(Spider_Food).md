@@ -1,15 +1,11 @@
 ---
-title: Old Quarters
-permalink: Old_Quarters/
+title: Old Child (Spider Food)
+permalink: Old_Child_(Spider_Food)/
 layout: wiki
 ---
-[[File:floor.png|100px|link=]]
-''Different quarters are coloured differently (but this was hard to show in an image).
+#REDIRECT [[Child]]
 
-Quarters are a way to set up places for creatures to go without them wandering half way across the map or mixing with creatures assigned to different quarters. There are up to 3 of these separate areas that can be used to keep your minions apart. 
-
-[[Category: Rooms]]
-[[Category: Keeper Mode]]
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -98,7 +94,6 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
--    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")
@@ -310,6 +305,7 @@ Other items in this section
 -    [Old Prison](/keeperrl_wiki/Old_Prison "wikilink")
 -    [Old Prisoner](/keeperrl_wiki/Old_Prisoner "wikilink")
 -    [Old Prisoner Guide](/keeperrl_wiki/Old_Prisoner_Guide "wikilink")
+-    [Old Quarters](/keeperrl_wiki/Old_Quarters "wikilink")
 -    [Old Quick Start Walkthrough](/keeperrl_wiki/Old_Quick_Start_Walkthrough "wikilink")
 -    [Old Rat](/keeperrl_wiki/Old_Rat "wikilink")
 -    [Old Rat Cave](/keeperrl_wiki/Old_Rat_Cave "wikilink")

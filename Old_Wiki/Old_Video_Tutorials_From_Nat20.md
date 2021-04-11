@@ -1,13 +1,20 @@
----
-title: Old Video Tutorials From Nat20
-permalink: Old_Video_Tutorials_From_Nat20/
-layout: wiki
----
+There are better links available, If anyone would update.
+-------------------------------------------
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+Old&lt;----
+
+[https://www.youtube.com/watch?v=U5SQ2IHgFaw Understanding the Basics] (Alpha 10) Note that this was many releases ago.
+
+Here is a series of videos where I explain in real time how to play 
+
+For some reason the wiki wont let me put links in anymore, I got new vids on the same channel from the other links.
 
 
-This article has gone missing.
+
+
+Older&lt;----  
+
+[https://www.youtube.com/watch?v=sJPriZG976M How to Build a Functional Dungeon] (Alpha 9)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +103,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

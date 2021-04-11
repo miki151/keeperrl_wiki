@@ -3,11 +3,33 @@ title: Old Shelob
 permalink: Old_Shelob/
 layout: wiki
 ---
+[[File:szelob.png|100px|link=]] ''Spider boss
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats==
+*Defense38
+*Damage:40
+*Body size:Large
+*Weight:400
+*Legs:8
+*Poison Resistant:Yes
+*Ranged Resistance:Yes
+*Attack:Poison
+*Skill:Webs
 
+==Summary==
+A boss monster that is only found in mountain caves. It eats children, but sadly has no interest in becoming a dungeon minion of yours. They tend to live with a few of their young and spin webs everywhere that tangle up intruders. Bring something poison resistant.
 
-This article has gone missing.
+[[Category:Creatures]]
+
+= Tribe Stats =
+*Settlement: Cave
+*Tribal Loyalty: Spider 
+*Inhabitants: Spider plus 4-6 baby spiders/child prisoners    
+*Race: Giant spider 
+*Building Style: Dungeon
+*Supplanted enemies: 10% appear in supplanted Dwarf Cave or Kobold Cave
+ 
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +118,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

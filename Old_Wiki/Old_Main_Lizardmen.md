@@ -3,11 +3,35 @@ title: Old Main Lizardmen
 permalink: Old_Main_Lizardmen/
 layout: wiki
 ---
+[[File:lizardlord.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
+[[File:lizardman.png|100px|link=]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
-
-
-This article has gone missing.
+= Stats =
+*Settlement: Village
+*Tribal loyalty: Lizardmen
+*Inhabitants: [[Lizardman Chief]] with 7-10 [[Lizardman]].
+*Location Named as: Town
+*Race: Lizardmen
+*Building Style = Mud
+*Loot = Tech Book humanoid mutation
+*Items: Good Mushrooms
+*Furniture: Standard room furniture
+*Outside Features: Village Surroundings 
+*Immigrant Interval:140
+*Max Population: 11 
+*Immigration: Lizardman fighters  frequency 1  
+*AI: Min Attack Population 4. Min Team Size 4. Triggered by Impaled heads, 2 conquered tribes, Keeper's power, Killed tribe members, finishing off the keeper, proximity, stolen items. Assassinate leader with no compromise.
+*Supplanted enemies: 10% found in supplanted elven villages
+*Biome: Desert
+ 
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +120,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

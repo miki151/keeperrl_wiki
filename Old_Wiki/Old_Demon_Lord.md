@@ -3,11 +3,29 @@ title: Old Demon Lord
 permalink: Old_Demon_Lord/
 layout: wiki
 ---
+[[File:demon_lord.png|100px|link=]] '' Major Villain
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+==Base Stats==
+*Spell Damage:50
+*Defense:45
+*Damage:40
+*Body size:Large
+*Flying:Yes
+*Magic Resistance:Yes
+*Courage:Yes
+*Spell:Blast
+*Group:Pack
+*Spell training maximum:7
 
+==Encounters==
+*[[Demon den underground]]
 
-This article has gone missing.
+==Summary==
+The lord of Demonshrine and deadly with magic. When provoked by building altars to other demons, he may order assaults on your dungeon. Keep him happy until you are ready for a visit, or take the battle to him and destroy Demonshrine and its inhabitants.
+
+The problem with this guy is that he wants to be the boss. He will never bow the knee to your superiority. His pride is very great and he despetately needs to be humiliated by a powerful army to discover that he is not as special as he thinks. He will not convert to your dungeon.
+
+[[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +114,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

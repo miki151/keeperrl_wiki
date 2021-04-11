@@ -3,11 +3,31 @@ title: Old ResourceIDs
 permalink: Old_ResourceIDs/
 layout: wiki
 ---
+=Usage=
+Used to specify the costs of items to build and craft and the costs of recruitment
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+=Example from build_menu.txt=
+From: [[Build_Menu.txt]]
+ { Furniture {{ MOUNTAIN } '''STONE''' 5 } &quot;Soft rock&quot; &quot;Structure&quot; }
 
+=Example from workshop_menus.txt=
+From: [[Workshops_Menu.txt]]
+ {{LeatherHelm} 1 '''WOOD''' 6}
 
-This article has gone missing.
+=Example from immigration.txt=
+From: [[Immigration.txt]]
+ { 1.0 CostInfo '''GOLD''' 100 }
+
+=Valid values=
+*GOLD
+*WOOD
+*IRON
+*ADA
+*STONE
+*PRISONER_HEAD
+*CORPSE
+
+[[Category: Modding Reference Data]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +116,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

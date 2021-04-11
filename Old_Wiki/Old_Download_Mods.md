@@ -3,11 +3,25 @@ title: Old Download Mods
 permalink: Old_Download_Mods/
 layout: wiki
 ---
+For Alpha 28 Mods go [[Alpha 28 Mods | Here]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+For Alpha 27 Mods go [[Alpha 27 Mods | Here]]
 
+For Alpha 26 Mods go [[Alpha 26 Mods | Here]]
 
-This article has gone missing.
+=Download instructions from Alpha 29 onwards=
+
+In Alpha 29 onwards, downloading mods is integrated with Steam workshop. When you start a new game, click &quot;mods&quot; and select the mod you wish to download!
+
+[[File:A30CharacterSelectionScreen.png|link=]]
+
+[[File:ActivateModScreen.png|link=]]
+
+= Upload instructions=
+
+You can upload new mods from the screen above.
+
+[[Category : Modding Guide]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +110,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")

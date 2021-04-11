@@ -3,11 +3,48 @@ title: Old Vampire
 permalink: Old_Vampire/
 layout: wiki
 ---
+__NOTOC__
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
+[[File:vampire.png|100px|link=]] ''Undead spell-caster minion
 
+== [[:Attributes]] ==
+''Base values''
+*Spell Damage:17
+*Defense:17
+*Damage:17
+*Body Size:Large
+*Sorcery:0.1
+*Night Vision:Yes
+*Ranged Resistance:Yes
+*Melee training maximum:7
+*Spell training maximum:7
 
-This article has gone missing.
+== Summary ==
+A good early game spell caster with complimentary combat skills. Poison resistance provides an advantage against ants. They are useful inside your dungeon against invaders, especially knights and golems that have a resistance to melee attacks but can be hurt using magic. They are not recommended to travel far with since they crumble to dust in sunlight and it isn't pretty.
+
+When facing these in enemy dungeons, can be damaged using silver swords and sometimes tempted out into an open battlefield where they forget the time and can meet the sunrise.
+
+== Traits ==
+* [[:Traits#Humanoid|Humanoid]]
+* [[:Traits#Undead|Undead]]
+
+== Skills ==
+* [[:Skills#Night_Vision|Night Vision]]
+* [[:Skills#Sorcery|Sorcery]] : 0.1
+
+== Tasks ==
+''sorted by preference, topmost is more likely done''
+* [[:Training_Room|Train]]
+* [[:Library|Study]]
+* [[:Graveyard|Sleep]]
+
+== [[:Immigration|Attraction]] ==
+* dorm : [[Graveyard|Graveyard]]
+* probability : 0.3
+* corpse usage : 1
+
+[[Category:Creatures]]
+[[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")
 
@@ -96,6 +133,7 @@ Other items in this section
 -    [Old Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
 -    [Old Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
 -    [Old Child](/keeperrl_wiki/Old_Child "wikilink")
+-    [Old Child (Spider Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
 -    [Old Child ](/keeperrl_wiki/Old_Child_ "wikilink")
 -    [Old Clay Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
 -    [Old Cleric](/keeperrl_wiki/Old_Cleric "wikilink")
