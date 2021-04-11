@@ -3,6 +3,9 @@ title: Soft Monster 6
 permalink: Soft_Monster_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soft_Monster](/keeperrl_wiki/Old_Soft_Monster "wikilink")
+
 [[File:softmonster.png|100px|link=]] ''Rare &quot;thing&quot; that lives in dungeons
 
 == Base Stats ==

@@ -3,6 +3,9 @@ title: Fly 3
 permalink: Fly_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fly](/keeperrl_wiki/Old_Fly "wikilink")
+
 __NOTOC__
 [[File:fly.png|100px|link=]] ''Distraction during combat
 

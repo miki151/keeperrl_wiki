@@ -3,6 +3,9 @@ title: Dark Elves 0
 permalink: Dark_Elves_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elves](/keeperrl_wiki/Old_Dark_Elves "wikilink")
+
 = Stats =
 *Settlement: Mine Town
 *Tribal Loyalty: Dark Elf

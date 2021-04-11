@@ -3,6 +3,9 @@ title: Dwarf Cave 4
 permalink: Dwarf_Cave_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Cave](/keeperrl_wiki/Old_Dwarf_Cave "wikilink")
+
 [[File:Dwarf.png|100px|link=]]
 [[File:Dwarf.png|100px|link=]]
 [[File:Dwarf.png|100px|link=]]

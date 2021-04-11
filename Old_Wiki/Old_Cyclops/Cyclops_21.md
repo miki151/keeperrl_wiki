@@ -3,6 +3,9 @@ title: Cyclops 21
 permalink: Cyclops_21/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cyclops](/keeperrl_wiki/Old_Cyclops "wikilink")
+
 [[File:cyclops.png|100px|link=]]
 ''A nasty minor boss
 

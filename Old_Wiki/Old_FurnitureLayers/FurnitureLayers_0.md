@@ -3,6 +3,9 @@ title: FurnitureLayers 0
 permalink: FurnitureLayers_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FurnitureLayers](/keeperrl_wiki/Old_FurnitureLayers "wikilink")
+
 =Usage=
 Used to specify.
 

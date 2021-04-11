@@ -3,6 +3,9 @@ title: Constructions 3
 permalink: Constructions_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")
+
 #REDIRECT [[Category: Constructions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")

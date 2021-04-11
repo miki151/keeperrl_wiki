@@ -3,6 +3,9 @@ title: Mini Lizardmen 0
 permalink: Mini_Lizardmen_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mini_Lizardmen](/keeperrl_wiki/Old_Mini_Lizardmen "wikilink")
+
 = Stats =
 *Settlement: Cottage
 *Tribal loyalty: Lizardmen

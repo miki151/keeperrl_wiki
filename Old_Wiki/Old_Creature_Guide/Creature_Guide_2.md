@@ -3,6 +3,9 @@ title: Creature Guide 2
 permalink: Creature_Guide_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creature_Guide](/keeperrl_wiki/Old_Creature_Guide "wikilink")
+
 Full guide to creatures in the world of KeeperRL. (Or return to [[Main Page]] )
 
 [[Category:Main Page]]

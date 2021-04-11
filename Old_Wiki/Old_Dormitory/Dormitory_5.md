@@ -3,6 +3,9 @@ title: Dormitory 5
 permalink: Dormitory_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dormitory](/keeperrl_wiki/Old_Dormitory "wikilink")
+
 [[Category:Rooms]]
 Description: ''Humanoid minions place their beds here.''
 

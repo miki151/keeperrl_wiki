@@ -3,6 +3,9 @@ title: Rooms 0
 permalink: Rooms_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rooms](/keeperrl_wiki/Old_Rooms "wikilink")
+
 List of rooms
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rooms](/keeperrl_wiki/Old_Rooms "wikilink")

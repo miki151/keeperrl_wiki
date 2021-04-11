@@ -3,6 +3,9 @@ title: Orders 2
 permalink: Orders_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orders](/keeperrl_wiki/Old_Orders "wikilink")
+
 The Orders menu contains the following tabs:
 
 *Claim Tile &lt;br&gt;

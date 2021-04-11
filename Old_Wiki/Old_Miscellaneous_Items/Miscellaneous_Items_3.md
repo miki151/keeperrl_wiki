@@ -3,6 +3,9 @@ title: Miscellaneous Items 3
 permalink: Miscellaneous_Items_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Miscellaneous_Items](/keeperrl_wiki/Old_Miscellaneous_Items "wikilink")
+
 =Odd items=
 
 There are a lot of odd items in the game. Some listed here.

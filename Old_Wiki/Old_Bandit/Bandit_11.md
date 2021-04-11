@@ -3,6 +3,9 @@ title: Bandit 11
 permalink: Bandit_11/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bandit](/keeperrl_wiki/Old_Bandit "wikilink")
+
 __NOTOC__
 ''Bandits try to access your [[:Treasure_Room|treasure room]] to steal gold and then run away. They live in caves''
 == [[:Attributes]] ==

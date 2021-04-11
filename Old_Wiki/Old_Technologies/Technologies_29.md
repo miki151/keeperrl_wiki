@@ -3,6 +3,9 @@ title: Technologies 29
 permalink: Technologies_29/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Technologies](/keeperrl_wiki/Old_Technologies "wikilink")
+
 __NOTOC__
 
 == Technology tree ==

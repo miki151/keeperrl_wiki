@@ -3,6 +3,9 @@ title: LeisureZone 3
 permalink: LeisureZone_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_LeisureZone](/keeperrl_wiki/Old_LeisureZone "wikilink")
+
 [[File:floor.png|100px|link=]]
 ''Leisure zones are set up for creatures to go there When they aren't busy. Leisure zones are coloured slightly differently.
 

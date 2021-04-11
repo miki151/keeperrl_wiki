@@ -3,6 +3,9 @@ title: LastingEffects 4
 permalink: LastingEffects_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_LastingEffects](/keeperrl_wiki/Old_LastingEffects "wikilink")
+
 =Usage=
 Used with [[ItemTypes]] to specify variations of those items
 

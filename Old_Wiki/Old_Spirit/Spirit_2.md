@@ -3,6 +3,9 @@ title: Spirit 2
 permalink: Spirit_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spirit](/keeperrl_wiki/Old_Spirit "wikilink")
+
 __NOTOC__
 
 [[File:spirit.png|100px|link=]] ''Summoned proctor

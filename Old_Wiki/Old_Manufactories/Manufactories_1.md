@@ -3,6 +3,9 @@ title: Manufactories 1
 permalink: Manufactories_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 Manufactories
 
 == Workshop ==

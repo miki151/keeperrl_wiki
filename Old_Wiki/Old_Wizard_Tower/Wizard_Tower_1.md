@@ -3,6 +3,9 @@ title: Wizard Tower 1
 permalink: Wizard_Tower_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wizard_Tower](/keeperrl_wiki/Old_Wizard_Tower "wikilink")
+
 = Stats =
 *Settlement: type: Custom wizard tower 
 *Inhabitants: [[White wizard]] with 5-7 [[Succubus]]

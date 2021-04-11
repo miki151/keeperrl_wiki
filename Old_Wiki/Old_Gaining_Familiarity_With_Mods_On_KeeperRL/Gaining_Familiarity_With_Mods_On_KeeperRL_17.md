@@ -3,6 +3,9 @@ title: Gaining Familiarity With Mods On KeeperRL 17
 permalink: Gaining_Familiarity_With_Mods_On_KeeperRL_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gaining_Familiarity_With_Mods_On_KeeperRL](/keeperrl_wiki/Old_Gaining_Familiarity_With_Mods_On_KeeperRL "wikilink")
+
 ==Recommended method==
 *The first recommendation is to get familiar with the existing modding system on KeeperRL
 *Read the [[Download_Mods]] wiki page

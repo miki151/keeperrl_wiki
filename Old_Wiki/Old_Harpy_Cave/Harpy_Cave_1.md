@@ -3,6 +3,9 @@ title: Harpy Cave 1
 permalink: Harpy_Cave_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Harpy_Cave](/keeperrl_wiki/Old_Harpy_Cave "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Tribal Loyalty: Greenskin

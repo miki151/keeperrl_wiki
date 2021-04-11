@@ -3,6 +3,9 @@ title: Child 0
 permalink: Child_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child](/keeperrl_wiki/Old_Child "wikilink")
+
 = Base Stats =
  Strenght: 8
  Dexterity: 16

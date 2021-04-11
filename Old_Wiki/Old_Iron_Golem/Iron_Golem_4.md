@@ -3,6 +3,9 @@ title: Iron Golem 4
 permalink: Iron_Golem_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Iron_Golem](/keeperrl_wiki/Old_Iron_Golem "wikilink")
+
 [[File:iron_golem.png|100px|link=]] ''Walking iron
 
 ==Base Stats==

@@ -3,6 +3,9 @@ title: Minions 60
 permalink: Minions_60/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 #REDIRECT [[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")

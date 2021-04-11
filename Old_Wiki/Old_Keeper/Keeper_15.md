@@ -3,6 +3,9 @@ title: Keeper 15
 permalink: Keeper_15/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Keeper](/keeperrl_wiki/Old_Keeper "wikilink")
+
 __NOTOC__
 [[File:keeper.png|100px|link=]][[File:keeper_female.png|100px|link=]] ''Player's avatar (Spell caster)
 [[File:Keeper_knight.png|100px|link=]][[File:Keeper_knight.png|100px|link=]] ''Player's avatar (Physical combat)

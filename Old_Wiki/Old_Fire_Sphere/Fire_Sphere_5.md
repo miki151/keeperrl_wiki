@@ -3,6 +3,9 @@ title: Fire Sphere 5
 permalink: Fire_Sphere_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Sphere](/keeperrl_wiki/Old_Fire_Sphere "wikilink")
+
 __NOTOC__
 [[File:fire_sphere.png|100px|link=]] ''From magic spells
 

@@ -3,6 +3,9 @@ title: EnemyIDs 0
 permalink: EnemyIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_EnemyIDs](/keeperrl_wiki/Old_EnemyIDs "wikilink")
+
 =Usage=
 Used to specify.
 

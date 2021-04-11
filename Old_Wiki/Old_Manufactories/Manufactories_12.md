@@ -3,6 +3,9 @@ title: Manufactories 12
 permalink: Manufactories_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 [[File:workshop.png|100px|link=]] [[File:forge.png|100px|link=]] [[File:labdeco.png|100px|link=]] [[File:jewelerdeco.png|100px|link=]]
 ''Different manufactories produce different items.''
 

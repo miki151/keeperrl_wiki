@@ -3,6 +3,9 @@ title: Sokoban Reward 0
 permalink: Sokoban_Reward_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Sokoban_Reward](/keeperrl_wiki/Old_Sokoban_Reward "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Inhabitants: Legendary humanoid

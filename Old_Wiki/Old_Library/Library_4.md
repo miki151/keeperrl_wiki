@@ -3,6 +3,9 @@ title: Library 4
 permalink: Library_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Library](/keeperrl_wiki/Old_Library "wikilink")
+
 *Allows your minions to research new Spells.
 *The maximum amount of technologies the library can store is:
  ([library tiles in dungeon] + 1) / 2

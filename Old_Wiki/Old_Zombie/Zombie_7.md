@@ -3,6 +3,9 @@ title: Zombie 7
 permalink: Zombie_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
+
 __NOTOC__
 
 [[File:zombie.png|100px|link=]] ''Invasion fodder

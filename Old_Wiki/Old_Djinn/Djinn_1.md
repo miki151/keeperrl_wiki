@@ -3,6 +3,9 @@ title: Djinn 1
 permalink: Djinn_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Djinn](/keeperrl_wiki/Old_Djinn "wikilink")
+
 [[File:djinn.png|100px|link=]]
 
 = Base Stats =

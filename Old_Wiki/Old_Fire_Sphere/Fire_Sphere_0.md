@@ -3,6 +3,9 @@ title: Fire Sphere 0
 permalink: Fire_Sphere_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Sphere](/keeperrl_wiki/Old_Fire_Sphere "wikilink")
+
 = Base Stats =
  Strenght: 5
  Dexterity: 15

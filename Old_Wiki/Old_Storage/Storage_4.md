@@ -3,6 +3,9 @@ title: Storage 4
 permalink: Storage_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Storage](/keeperrl_wiki/Old_Storage "wikilink")
+
 There are currently 3 types of storage tiles: ''material'', which store [[:Resources|resources]], ''equipment'' which store [[:Category:Items|items]], and ''everything'' that can hold any of the above.
 
 Storage tiles are free to build and have no upper limit.

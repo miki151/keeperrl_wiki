@@ -3,6 +3,9 @@ title: Cherub 1
 permalink: Cherub_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
+
 [[File:cherub.png|100px|link=]] Cute or annoying?
 
 = Base Stats =

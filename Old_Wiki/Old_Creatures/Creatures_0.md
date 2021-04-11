@@ -3,6 +3,9 @@ title: Creatures 0
 permalink: Creatures_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creatures](/keeperrl_wiki/Old_Creatures "wikilink")
+
 Creates have the following stats:
 * Level
 * Attack

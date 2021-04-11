@@ -3,6 +3,9 @@ title: Witchman 0
 permalink: Witchman_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")

@@ -3,6 +3,9 @@ title: Disarm Traps 1
 permalink: Disarm_Traps_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Disarm_Traps](/keeperrl_wiki/Old_Disarm_Traps "wikilink")
+
 #REDIRECT [[Skills#DisarmTraps]]
 Evade traps and disarm them.
 

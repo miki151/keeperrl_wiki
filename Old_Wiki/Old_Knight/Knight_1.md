@@ -3,6 +3,9 @@ title: Knight 1
 permalink: Knight_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Knight](/keeperrl_wiki/Old_Knight "wikilink")
+
 = Base Stats =
  Strenght: 26
  Dexterity: 19

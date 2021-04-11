@@ -3,6 +3,9 @@ title: Treasure Room 1
 permalink: Treasure_Room_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Treasure_Room](/keeperrl_wiki/Old_Treasure_Room "wikilink")
+
 Holds your gold, ready for payday.
 ==Tile Cost==
 5 wood

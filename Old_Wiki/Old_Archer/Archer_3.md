@@ -3,6 +3,9 @@ title: Archer 3
 permalink: Archer_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archer](/keeperrl_wiki/Old_Archer "wikilink")
+
 = Base Stats =
 *Ranged Damage:30
 *Defense:22

@@ -3,6 +3,9 @@ title: Elf Archer 0
 permalink: Elf_Archer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf_Archer](/keeperrl_wiki/Old_Elf_Archer "wikilink")
+
 = Base Stats =
  Strenght: 11
  Dexterity: 17

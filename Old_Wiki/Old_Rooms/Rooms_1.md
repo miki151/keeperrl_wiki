@@ -3,6 +3,9 @@ title: Rooms 1
 permalink: Rooms_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rooms](/keeperrl_wiki/Old_Rooms "wikilink")
+
 In the latest versions of KeeperRL, rooms are constructed by placing furniture and building floors and providing lightening using torches.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rooms](/keeperrl_wiki/Old_Rooms "wikilink")

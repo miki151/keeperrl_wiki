@@ -3,6 +3,9 @@ title: Kraken 3
 permalink: Kraken_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kraken](/keeperrl_wiki/Old_Kraken "wikilink")
+
 [[File:krakenhead.png|100px|link=]][[File:krakenland.png|100px|link=]][[File:krakenland.png|100px|link=]] ''Entangling water monster
 
 *Attributes:Kraken

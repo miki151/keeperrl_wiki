@@ -3,6 +3,9 @@ title: Death 4
 permalink: Death_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")
+
 [[File:Death.png|100px|link=]] '' Doesn't seem to ever appear in the game
 
 *Defense:35

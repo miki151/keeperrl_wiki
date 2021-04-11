@@ -3,6 +3,9 @@ title: Treasure Room 6
 permalink: Treasure_Room_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Treasure_Room](/keeperrl_wiki/Old_Treasure_Room "wikilink")
+
 Holds your gold
 * Each chest can hold unlimited gold pieces, so multiple chests are able to spread the gold into different locations or just provide decoration.
 * Treasure chests are built from the storage menu.

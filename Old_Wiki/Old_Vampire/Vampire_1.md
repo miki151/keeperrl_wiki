@@ -3,6 +3,9 @@ title: Vampire 1
 permalink: Vampire_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire](/keeperrl_wiki/Old_Vampire "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

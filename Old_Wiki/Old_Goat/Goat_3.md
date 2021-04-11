@@ -3,6 +3,9 @@ title: Goat 3
 permalink: Goat_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goat](/keeperrl_wiki/Old_Goat "wikilink")
+
 = Base Stats =
 
 *Defense:7

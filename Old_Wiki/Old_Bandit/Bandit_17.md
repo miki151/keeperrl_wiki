@@ -3,6 +3,9 @@ title: Bandit 17
 permalink: Bandit_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bandit](/keeperrl_wiki/Old_Bandit "wikilink")
+
 __NOTOC__
 
 [[File:bandit.png|100px|link=]]

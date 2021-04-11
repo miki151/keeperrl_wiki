@@ -3,6 +3,9 @@ title: Skeleton 3
 permalink: Skeleton_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skeleton](/keeperrl_wiki/Old_Skeleton "wikilink")
+
 [[File:skeleton.png|100px|link=]] ''Undead minion
 
 ==Summary==

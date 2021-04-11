@@ -3,6 +3,9 @@ title: White Dragon Dungeon Floor 2
 permalink: White_Dragon_Dungeon_Floor_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_White_Dragon_Dungeon_Floor](/keeperrl_wiki/Old_White_Dragon_Dungeon_Floor "wikilink")
+
 [[File:witch.png|100px|link=]]
 [[File:bandit.png|100px|link=]]
 [[File:cyclops.png|100px|link=]]

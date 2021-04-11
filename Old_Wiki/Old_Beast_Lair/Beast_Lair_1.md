@@ -3,6 +3,9 @@ title: Beast Lair 1
 permalink: Beast_Lair_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Beast_Lair](/keeperrl_wiki/Old_Beast_Lair "wikilink")
+
 Description: ''Beasts have their cages here.''
 
 

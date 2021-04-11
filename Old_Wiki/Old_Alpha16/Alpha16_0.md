@@ -3,6 +3,9 @@ title: Alpha16 0
 permalink: Alpha16_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha16](/keeperrl_wiki/Old_Alpha16 "wikilink")
+
 KeeperRL Alpha16 changelog:
 
 * Cemetery with an underground crypt where you can find some super powerful undead minions.

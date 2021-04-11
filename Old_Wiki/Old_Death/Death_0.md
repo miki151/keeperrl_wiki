@@ -3,6 +3,9 @@ title: Death 0
 permalink: Death_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")

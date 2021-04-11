@@ -3,6 +3,9 @@ title: Keeper 52
 permalink: Keeper_52/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Keeper](/keeperrl_wiki/Old_Keeper "wikilink")
+
 __NOTOC__
 
 The Keeper (male or female) is the most valuable entity, if the keeper dies the game is lost.

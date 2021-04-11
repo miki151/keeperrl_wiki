@@ -3,6 +3,9 @@ title: Traits 2
 permalink: Traits_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Traits](/keeperrl_wiki/Old_Traits "wikilink")
+
 __NOTOC__
 
 == Animal ==

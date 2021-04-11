@@ -3,6 +3,9 @@ title: Eskimo 1
 permalink: Eskimo_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Eskimo](/keeperrl_wiki/Old_Eskimo "wikilink")
+
 [[File: &quot;eskimo&quot; .png|100px|link=]]
 
 = Base Stats =

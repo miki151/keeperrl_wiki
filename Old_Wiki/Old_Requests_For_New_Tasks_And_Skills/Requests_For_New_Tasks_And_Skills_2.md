@@ -3,6 +3,9 @@ title: Requests For New Tasks And Skills 2
 permalink: Requests_For_New_Tasks_And_Skills_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Tasks_And_Skills](/keeperrl_wiki/Old_Requests_For_New_Tasks_And_Skills "wikilink")
+
 Existing skills are: Absorption, Ambush, Archery, Construction, Copulate, Disarm Traps, Elf Vision, Healing, Knife Throwing, Night Vision, Sorcery, Stealing, Swimming, Unarmed Melee, Weapon Melee
 
 Tasks include: Training, sleeping, eating, studying, crafting, whipping, sitting on the throne.

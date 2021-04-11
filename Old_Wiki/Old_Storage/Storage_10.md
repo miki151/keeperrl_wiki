@@ -3,6 +3,9 @@ title: Storage 10
 permalink: Storage_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Storage](/keeperrl_wiki/Old_Storage "wikilink")
+
 =Treasure Chest=
 *Holds your gold
 * Each chest can hold unlimited gold pieces, so multiple chests are able to spread the gold into different locations or just provide decoration.

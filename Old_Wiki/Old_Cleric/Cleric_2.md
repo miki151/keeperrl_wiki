@@ -3,6 +3,9 @@ title: Cleric 2
 permalink: Cleric_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cleric](/keeperrl_wiki/Old_Cleric "wikilink")
+
 [[File:cleric.png|100px|link=]] Almost certainly holier than thou, unless you are playing saint mod
 
 = Base Stats =

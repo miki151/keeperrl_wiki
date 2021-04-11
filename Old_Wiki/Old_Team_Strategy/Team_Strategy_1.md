@@ -3,6 +3,9 @@ title: Team Strategy 1
 permalink: Team_Strategy_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Team_Strategy](/keeperrl_wiki/Old_Team_Strategy "wikilink")
+
 =Some Team Roles to pick=
 *Attacker
 *Night vision

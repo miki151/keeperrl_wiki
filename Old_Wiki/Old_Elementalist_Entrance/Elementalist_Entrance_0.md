@@ -3,6 +3,9 @@ title: Elementalist Entrance 0
 permalink: Elementalist_Entrance_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist_Entrance](/keeperrl_wiki/Old_Elementalist_Entrance "wikilink")
+
 = Stats =
 *Settlement: Tower
 *Tribe: Human

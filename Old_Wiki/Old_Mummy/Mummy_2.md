@@ -3,6 +3,9 @@ title: Mummy 2
 permalink: Mummy_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mummy](/keeperrl_wiki/Old_Mummy "wikilink")
+
 [[File:mummy.png|100px|link=]] ''Never seems to show up
 
 *Spell Damage:10

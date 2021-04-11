@@ -3,6 +3,9 @@ title: Player Requests For New Game Mechanics 7
 permalink: Player_Requests_For_New_Game_Mechanics_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Player_Requests_For_New_Game_Mechanics](/keeperrl_wiki/Old_Player_Requests_For_New_Game_Mechanics "wikilink")
+
 = Game Mechanics =
 
 ==Ideas that are not about content==

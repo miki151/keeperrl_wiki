@@ -3,6 +3,9 @@ title: ItemTypes 2
 permalink: ItemTypes_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ItemTypes](/keeperrl_wiki/Old_ItemTypes "wikilink")
+
 =Usage=
 Used to specify what sort of items appear in workshops, forges, jewellers and laboratories
 

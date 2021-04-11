@@ -3,6 +3,9 @@ title: Earth Elemental 1
 permalink: Earth_Elemental_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Earth_Elemental](/keeperrl_wiki/Old_Earth_Elemental "wikilink")
+
 *Body Size:Large
 *Weight:500
 *Defense:25

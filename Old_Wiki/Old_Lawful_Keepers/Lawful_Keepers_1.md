@@ -3,6 +3,9 @@ title: Lawful Keepers 1
 permalink: Lawful_Keepers_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lawful_Keepers](/keeperrl_wiki/Old_Lawful_Keepers "wikilink")
+
 White knights are in the official Alpha 26 release, but are not matured in terms of the way they are configured and how they balance with the rest of the game. They are not recommended for new starters (yet).
 
 White knights have their own immigration with gnomes, priests, knights etc.

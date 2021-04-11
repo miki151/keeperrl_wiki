@@ -3,6 +3,9 @@ title: Dwarf 0
 permalink: Dwarf_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf](/keeperrl_wiki/Old_Dwarf "wikilink")
+
 Dwarf
 
 [[Category: Creatures]] [[Category: Enemies]]

@@ -3,6 +3,9 @@ title: Endless Mode 44
 permalink: Endless_Mode_44/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Mode](/keeperrl_wiki/Old_Endless_Mode "wikilink")
+
 #REDIRECT [[Endless_Waves_of_Invaders]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Mode](/keeperrl_wiki/Old_Endless_Mode "wikilink")

@@ -3,6 +3,9 @@ title: Campaign Villains.txt 4
 permalink: Campaign_Villains.txt_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Campaign_Villains.txt](/keeperrl_wiki/Old_Campaign_Villains.txt "wikilink")
+
  # Villains for evil keepers
  {
   # Line goes like this:

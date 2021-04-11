@@ -3,6 +3,9 @@ title: Alpha 28 Mods 1
 permalink: Alpha_28_Mods_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha_28_Mods](/keeperrl_wiki/Old_Alpha_28_Mods "wikilink")
+
 =Alpha 28 download instructions=
 
 In Alpha 28, downloading mods is very simple. When you start a new game, click &quot;mods&quot; and select the mod you wish to download!

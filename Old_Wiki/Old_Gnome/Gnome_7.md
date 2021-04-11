@@ -3,6 +3,9 @@ title: Gnome 7
 permalink: Gnome_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome](/keeperrl_wiki/Old_Gnome "wikilink")
+
 [[File:gnome.png|100px|link=]] ''Dungeon dwellers
 
 = Base Stats =

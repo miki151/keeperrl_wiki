@@ -3,6 +3,9 @@ title: Black Dragon 1
 permalink: Black_Dragon_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Dragon](/keeperrl_wiki/Old_Black_Dragon "wikilink")
+
 = Base Stats =
 *Body: FourLegged HUGE 2-WINGS HEAD
 *Bite_attack

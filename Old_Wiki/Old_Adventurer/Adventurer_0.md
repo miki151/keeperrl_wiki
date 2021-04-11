@@ -3,6 +3,9 @@ title: Adventurer 0
 permalink: Adventurer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adventurer](/keeperrl_wiki/Old_Adventurer "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adventurer](/keeperrl_wiki/Old_Adventurer "wikilink")

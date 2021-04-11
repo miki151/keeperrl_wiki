@@ -3,6 +3,9 @@ title: Death 1
 permalink: Death_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")
+
 *Defense:35
 *Spell Damage:100
 *Body size:Large

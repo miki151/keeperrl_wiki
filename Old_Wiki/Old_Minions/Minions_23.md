@@ -3,6 +3,9 @@ title: Minions 23
 permalink: Minions_23/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 = Overview =
 
 == Recruitable minions ==

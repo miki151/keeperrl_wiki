@@ -3,6 +3,9 @@ title: ItemTypes 0
 permalink: ItemTypes_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ItemTypes](/keeperrl_wiki/Old_ItemTypes "wikilink")
+
 =Usage=
 Used to specify.
 

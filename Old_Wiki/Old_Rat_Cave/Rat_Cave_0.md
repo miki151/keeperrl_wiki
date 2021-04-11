@@ -3,6 +3,9 @@ title: Rat Cave 0
 permalink: Rat_Cave_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_Cave](/keeperrl_wiki/Old_Rat_Cave "wikilink")
+
 = Stats =
 *Settlement: Vault
 *Inhabitants: 10-11 rats

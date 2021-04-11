@@ -3,6 +3,9 @@ title: Spells 0
 permalink: Spells_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spells](/keeperrl_wiki/Old_Spells "wikilink")
+
 List of spells
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spells](/keeperrl_wiki/Old_Spells "wikilink")

@@ -3,6 +3,9 @@ title: Ghost 0
 permalink: Ghost_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ghost](/keeperrl_wiki/Old_Ghost "wikilink")
+
 Ghost
 
 == Requirements ==

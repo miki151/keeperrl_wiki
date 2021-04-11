@@ -3,6 +3,9 @@ title: Archer 12
 permalink: Archer_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archer](/keeperrl_wiki/Old_Archer "wikilink")
+
 [[File:archer.png|100px|link=]]
 ''Elite human bowmen
 

@@ -3,6 +3,9 @@ title: Angel 2
 permalink: Angel_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Angel](/keeperrl_wiki/Old_Angel "wikilink")
+
 *Spell Damage:20
 *Defense:22
 *Body Size:Large

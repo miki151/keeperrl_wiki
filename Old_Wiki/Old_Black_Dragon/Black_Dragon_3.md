@@ -3,6 +3,9 @@ title: Black Dragon 3
 permalink: Black_Dragon_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Dragon](/keeperrl_wiki/Old_Black_Dragon "wikilink")
+
 [[File:black_dragon.png|100px|link=]]
 ''Blind but telepathic.
 

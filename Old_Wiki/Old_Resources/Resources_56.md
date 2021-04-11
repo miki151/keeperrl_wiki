@@ -3,6 +3,9 @@ title: Resources 56
 permalink: Resources_56/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 In KeeperRL the amount of resources you have is theoretically infinite, trees don't grow back, but you can dig down for more resources into the z-levels. Underground treeshrooms provide a source of wood. Also iron, stone, gold and lower down adamantium. Through the use of alchemy [[: Resources#Gold|gold]] can be turned it into other materials. Invaders carry gold into your dungeons. Even so, you will be short of resources at times depending on the sort of game you are playing.
 
 The number of resources in the mountains can be configured/modded in resources.txt. The file looks like this:

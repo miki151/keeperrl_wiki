@@ -3,6 +3,9 @@ title: Lizardman 2
 permalink: Lizardman_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman](/keeperrl_wiki/Old_Lizardman "wikilink")
+
 = Base Stats =
  Strenght: 15
  Dexterity: 18

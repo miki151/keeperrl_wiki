@@ -3,6 +3,9 @@ title: Prisoner Guide 11
 permalink: Prisoner_Guide_11/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prisoner_Guide](/keeperrl_wiki/Old_Prisoner_Guide "wikilink")
+
 =Converting prisoners=
 *You need torture tables, a population slot and a suitable prisoner to convert.
 *Not having a population slot will leave a prisoner's torture task greyed out.

@@ -3,6 +3,9 @@ title: Dark Elf Warrior 2
 permalink: Dark_Elf_Warrior_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Warrior](/keeperrl_wiki/Old_Dark_Elf_Warrior "wikilink")
+
 [[File:Dark_elf_warrior.png|100px|link=]] '' Defender of the dark elves
 
 *Spell Damage:16

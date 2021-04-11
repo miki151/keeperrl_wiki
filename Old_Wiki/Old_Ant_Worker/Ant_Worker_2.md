@@ -3,6 +3,9 @@ title: Ant Worker 2
 permalink: Ant_Worker_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Worker](/keeperrl_wiki/Old_Ant_Worker "wikilink")
+
 antwork.png
 
 *Defense:16

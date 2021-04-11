@@ -3,6 +3,9 @@ title: Graveyard 17
 permalink: Graveyard_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Graveyard](/keeperrl_wiki/Old_Graveyard "wikilink")
+
 [[File:gravedeco.png|100px|link=]] [[File:coffin1.png|100px|link=]] [[File:coffin2.png|100px|link=]] [[File:coffin3.png|100px|link=]]
 ''Spot for hauling dead bodies and for Undead creatures to sleep in.''
 

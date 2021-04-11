@@ -3,6 +3,9 @@ title: Snake 3
 permalink: Snake_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Snake](/keeperrl_wiki/Old_Snake "wikilink")
+
 [[File:snake.png|100px|link=]] ''Poisonous wildlife
 
 ==Base Stats==

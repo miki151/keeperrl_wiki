@@ -3,6 +3,9 @@ title: Deer 0
 permalink: Deer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Deer](/keeperrl_wiki/Old_Deer "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Deer](/keeperrl_wiki/Old_Deer "wikilink")

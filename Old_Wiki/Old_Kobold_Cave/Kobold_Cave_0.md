@@ -3,6 +3,9 @@ title: Kobold Cave 0
 permalink: Kobold_Cave_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kobold_Cave](/keeperrl_wiki/Old_Kobold_Cave "wikilink")
+
 = Stats =
 *Settlement: Small Mine Town
 *Tribal Loyalty: Dwarf 

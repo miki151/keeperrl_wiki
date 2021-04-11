@@ -3,6 +3,9 @@ title: Alpha 27 Mods 0
 permalink: Alpha_27_Mods_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha_27_Mods](/keeperrl_wiki/Old_Alpha_27_Mods "wikilink")
+
 For Alpha 26 Mods go [[Alpha 26 Mods | Here]]
 
 =Alpha 27 download instructions=

@@ -3,6 +3,9 @@ title: Soldier Ant 2
 permalink: Soldier_Ant_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soldier_Ant](/keeperrl_wiki/Old_Soldier_Ant "wikilink")
+
 [[File:soldier_ant.png|100px|link=]] ''Poisonous ant warriors
 
 *Defense:20

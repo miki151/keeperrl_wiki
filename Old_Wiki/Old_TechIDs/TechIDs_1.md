@@ -3,6 +3,9 @@ title: TechIDs 1
 permalink: TechIDs_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TechIDs](/keeperrl_wiki/Old_TechIDs "wikilink")
+
 Not used
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TechIDs](/keeperrl_wiki/Old_TechIDs "wikilink")

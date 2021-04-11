@@ -3,6 +3,9 @@ title: Dwarf Baron 0
 permalink: Dwarf_Baron_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Baron](/keeperrl_wiki/Old_Dwarf_Baron "wikilink")
+
 Dwarf Baron
 
 [[Category: Creatures]]

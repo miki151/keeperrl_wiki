@@ -3,6 +3,9 @@ title: Chicken 6
 permalink: Chicken_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
+
 [[File:chicken.png|100px|link=]]
 ''Strangely absent.
 

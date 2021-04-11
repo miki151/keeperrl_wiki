@@ -3,6 +3,9 @@ title: Gnome 1
 permalink: Gnome_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome](/keeperrl_wiki/Old_Gnome "wikilink")
+
 = Base Stats =
  Strenght: 12
  Dexterity: 13

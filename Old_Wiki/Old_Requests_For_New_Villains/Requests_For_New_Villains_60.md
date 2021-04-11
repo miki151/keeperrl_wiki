@@ -3,6 +3,9 @@ title: Requests For New Villains 60
 permalink: Requests_For_New_Villains_60/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Villains](/keeperrl_wiki/Old_Requests_For_New_Villains "wikilink")
+
 For stats &quot;Terrible&quot;, &quot;Poor&quot;, &quot;Medium&quot;, &quot;Good&quot;, &quot;Excellent&quot; will do as much as numbers.
 
 =Major villains=

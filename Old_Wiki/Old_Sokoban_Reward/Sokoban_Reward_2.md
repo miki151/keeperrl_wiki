@@ -3,6 +3,9 @@ title: Sokoban Reward 2
 permalink: Sokoban_Reward_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Sokoban_Reward](/keeperrl_wiki/Old_Sokoban_Reward "wikilink")
+
 [[File:Special_hlgw.png.png|100px|link=]]
 
 = Stats =

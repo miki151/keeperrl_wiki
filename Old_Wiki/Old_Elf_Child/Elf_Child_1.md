@@ -3,6 +3,9 @@ title: Elf Child 1
 permalink: Elf_Child_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf_Child](/keeperrl_wiki/Old_Elf_Child "wikilink")
+
 = Base Stats =
  Strenght: 7
  Dexterity: 17

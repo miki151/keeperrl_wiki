@@ -3,6 +3,9 @@ title: Ghost 5
 permalink: Ghost_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ghost](/keeperrl_wiki/Old_Ghost "wikilink")
+
 Ghosts can't use equipment
 
 A ghost attacks by possessing their victim, driving the victim insane which causes them to attack their allies. This possession kills the ghost.

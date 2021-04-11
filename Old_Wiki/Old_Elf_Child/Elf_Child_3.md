@@ -3,6 +3,9 @@ title: Elf Child 3
 permalink: Elf_Child_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf_Child](/keeperrl_wiki/Old_Elf_Child "wikilink")
+
 [[File:elf_child.png|100px|link=]] ''Stealthy
 
 = Base Stats =

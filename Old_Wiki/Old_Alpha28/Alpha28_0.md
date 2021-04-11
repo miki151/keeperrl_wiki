@@ -4,6 +4,8 @@ permalink: Alpha28_0/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha28](/keeperrl_wiki/Old_Alpha28 "wikilink")
+
 Gameplay
 Merged &quot;campaign&quot;, &quot;free play&quot; and &quot;endless&quot; modes. Endless enemy waves can be set to attack after winning the game or from the start.
 Improved the spell system, with multiple spell schools and many added spells.

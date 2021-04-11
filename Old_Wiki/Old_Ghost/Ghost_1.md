@@ -3,6 +3,9 @@ title: Ghost 1
 permalink: Ghost_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ghost](/keeperrl_wiki/Old_Ghost "wikilink")
+
 Ghosts can't use equipment
 
 == Requirements ==

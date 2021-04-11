@@ -3,6 +3,9 @@ title: Vulture 0
 permalink: Vulture_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vulture](/keeperrl_wiki/Old_Vulture "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vulture](/keeperrl_wiki/Old_Vulture "wikilink")

@@ -3,6 +3,9 @@ title: Minions 45
 permalink: Minions_45/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 = Configuration of immigrants =
 Immigrants often have special traits and the types of immigrants and their special traits are configurable in immigration.txt:
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/immigration.txt immigration.txt]]

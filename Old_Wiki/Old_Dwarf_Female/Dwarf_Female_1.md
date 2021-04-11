@@ -3,6 +3,9 @@ title: Dwarf Female 1
 permalink: Dwarf_Female_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Female](/keeperrl_wiki/Old_Dwarf_Female "wikilink")
+
 *Defense:25
 *Damage:21
 *Body size:Medium

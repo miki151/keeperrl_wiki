@@ -3,6 +3,9 @@ title: Adamantium Golem 3
 permalink: Adamantium_Golem_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golem](/keeperrl_wiki/Old_Adamantium_Golem "wikilink")
+
 [[File:ada_golem.png|100px|link=]]
 
 *Defense:36

@@ -3,6 +3,9 @@ title: Weapon Melee 2
 permalink: Weapon_Melee_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Weapon_Melee](/keeperrl_wiki/Old_Weapon_Melee "wikilink")
+
 #REDIRECT [[Skills#Weapon_Melee]]
 Creature can fight with weapons.
 

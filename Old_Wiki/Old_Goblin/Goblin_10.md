@@ -3,6 +3,9 @@ title: Goblin 10
 permalink: Goblin_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goblin](/keeperrl_wiki/Old_Goblin "wikilink")
+
 __NOTOC__
 [[File:goblin.png|100px|link=]] ''Really likes crafting things.''
 

@@ -3,6 +3,9 @@ title: Graveyard 1
 permalink: Graveyard_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Graveyard](/keeperrl_wiki/Old_Graveyard "wikilink")
+
 Description: ''Corpses are dragged here. Sometimes an undead creature makes their home here.''
 
 This is the dormitory of the undead:

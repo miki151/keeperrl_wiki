@@ -3,6 +3,9 @@ title: Ambush 1
 permalink: Ambush_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ambush](/keeperrl_wiki/Old_Ambush "wikilink")
+
 #REDIRECT [[Skills#Ambush]]
 
 Ambush

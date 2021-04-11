@@ -3,6 +3,9 @@ title: Water Elemental 1
 permalink: Water_Elemental_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Water_Elemental](/keeperrl_wiki/Old_Water_Elemental "wikilink")
+
 *Body Size:Large
 *Weight:300
 *Defense:15

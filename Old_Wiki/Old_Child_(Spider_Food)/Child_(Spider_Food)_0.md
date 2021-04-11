@@ -3,6 +3,9 @@ title: Child (Spider Food) 0
 permalink: Child_(Spider_Food)_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child_(Spider_Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child_(Spider_Food)](/keeperrl_wiki/Old_Child_(Spider_Food) "wikilink")

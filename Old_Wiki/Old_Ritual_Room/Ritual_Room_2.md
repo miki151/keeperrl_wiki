@@ -3,6 +3,9 @@ title: Ritual Room 2
 permalink: Ritual_Room_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ritual_Room](/keeperrl_wiki/Old_Ritual_Room "wikilink")
+
 Attracts demonic inhabitants to your Dungeon.
 Ghost,
 Succubus,

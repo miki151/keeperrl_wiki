@@ -3,6 +3,9 @@ title: Cyclops 0
 permalink: Cyclops_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cyclops](/keeperrl_wiki/Old_Cyclops "wikilink")
+
 Cyclops
 
 [[Category: Creatures]]

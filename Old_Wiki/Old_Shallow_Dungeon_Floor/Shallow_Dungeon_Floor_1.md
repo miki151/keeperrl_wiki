@@ -3,6 +3,9 @@ title: Shallow Dungeon Floor 1
 permalink: Shallow_Dungeon_Floor_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shallow_Dungeon_Floor](/keeperrl_wiki/Old_Shallow_Dungeon_Floor "wikilink")
+
 [[File:bandit.png|100px|link=]]
 [[File:cyclops.png|100px|link=]]
 [[File:clay_golem.png|100px|link=]]

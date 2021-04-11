@@ -3,6 +3,9 @@ title: Red Dragon 15
 permalink: Red_Dragon_15/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Red_Dragon](/keeperrl_wiki/Old_Red_Dragon "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Red_Dragon](/keeperrl_wiki/Old_Red_Dragon "wikilink")

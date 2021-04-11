@@ -3,6 +3,9 @@ title: Z-Level Guide 0
 permalink: Z-Level_Guide_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Z-Level_Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
+
 type = FullZLevel {								
 type = FullZLevel {	&quot;RAT_CAVE&quot;	2	4					
 type = FullZLevel {	&quot;RAT_PEOPLE_CAVE&quot;	3	7	0.3				

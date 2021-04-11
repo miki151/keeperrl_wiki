@@ -3,6 +3,9 @@ title: Download Mods 0
 permalink: Download_Mods_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Introduction=
 Alpha 26 has introduced new modding support.
 

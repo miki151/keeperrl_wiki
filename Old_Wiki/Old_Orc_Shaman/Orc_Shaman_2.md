@@ -3,6 +3,9 @@ title: Orc Shaman 2
 permalink: Orc_Shaman_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Shaman](/keeperrl_wiki/Old_Orc_Shaman "wikilink")
+
 __NOTOC__
 ''Some potions and a good book and his day is complete.''
 == [[:Attributes]] ==

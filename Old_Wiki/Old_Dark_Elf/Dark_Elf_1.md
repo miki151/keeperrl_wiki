@@ -3,6 +3,9 @@ title: Dark Elf 1
 permalink: Dark_Elf_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf](/keeperrl_wiki/Old_Dark_Elf "wikilink")
+
 *Defense:6
 *Damage:14
 *Body size:Medium

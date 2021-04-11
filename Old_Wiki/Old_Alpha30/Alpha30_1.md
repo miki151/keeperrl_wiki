@@ -3,6 +3,9 @@ title: Alpha30 1
 permalink: Alpha30_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha30](/keeperrl_wiki/Old_Alpha30 "wikilink")
+
 =Big features=
 *Playable Gnomes faction
 *The modding system has been reworked to allow turning on all your favorite mods at the same time. Go crazy!

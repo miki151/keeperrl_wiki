@@ -3,6 +3,9 @@ title: Ogre 5
 permalink: Ogre_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre](/keeperrl_wiki/Old_Ogre "wikilink")
+
 An ogre is a large humanoid with 2 arms and 2 legs. It is strong and agile, but slow. Ogres start at level 12
 
 *Defense:18

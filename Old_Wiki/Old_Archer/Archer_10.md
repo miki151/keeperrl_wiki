@@ -3,6 +3,9 @@ title: Archer 10
 permalink: Archer_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archer](/keeperrl_wiki/Old_Archer "wikilink")
+
 [[File:archer.png|100px|link=]]
 ''Elite human bowmen
 

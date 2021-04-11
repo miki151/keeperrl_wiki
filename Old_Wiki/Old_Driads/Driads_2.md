@@ -3,6 +3,9 @@ title: Driads 2
 permalink: Driads_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Driads](/keeperrl_wiki/Old_Driads "wikilink")
+
 [[File:driad.png|100px|link=]]
 [[File:driad.png|100px|link=]]
 [[File:driad.png|100px|link=]]

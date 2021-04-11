@@ -3,6 +3,9 @@ title: Kobold 1
 permalink: Kobold_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kobold](/keeperrl_wiki/Old_Kobold "wikilink")
+
 *Defense:13
 *Damage:12
 *Body size:Medium

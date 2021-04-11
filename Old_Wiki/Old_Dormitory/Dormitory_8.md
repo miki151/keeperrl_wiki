@@ -3,6 +3,9 @@ title: Dormitory 8
 permalink: Dormitory_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dormitory](/keeperrl_wiki/Old_Dormitory "wikilink")
+
 Description: ''Humanoid minions sleep on their beds.''
 
 A dormitory is the sleeping-place of:

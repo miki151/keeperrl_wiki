@@ -3,6 +3,9 @@ title: ViewIDs 5
 permalink: ViewIDs_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ViewIDs](/keeperrl_wiki/Old_ViewIDs "wikilink")
+
 Used to specify which icon is displayed for villains on the campaign map.
 
 Valid values are:

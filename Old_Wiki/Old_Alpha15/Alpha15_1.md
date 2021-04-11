@@ -3,6 +3,9 @@ title: Alpha15 1
 permalink: Alpha15_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha15](/keeperrl_wiki/Old_Alpha15 "wikilink")
+
 All pages placed here have had their contents checked for their validity as of the alpha15 version of KeeperRL.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha15](/keeperrl_wiki/Old_Alpha15 "wikilink")

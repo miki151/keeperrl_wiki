@@ -3,6 +3,9 @@ title: Unicorn Herd 2
 permalink: Unicorn_Herd_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn_Herd](/keeperrl_wiki/Old_Unicorn_Herd "wikilink")
+
 = Stats =
 *Settlement: Forest
 *Inhabitants:  5-8 fighting unicorns

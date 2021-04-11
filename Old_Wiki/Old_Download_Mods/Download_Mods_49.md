@@ -3,6 +3,9 @@ title: Download Mods 49
 permalink: Download_Mods_49/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Downloads=
 
 ==Download mods for Alpha 27==

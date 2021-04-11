@@ -3,6 +3,9 @@ title: Elf 2
 permalink: Elf_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf](/keeperrl_wiki/Old_Elf "wikilink")
+
 = Base Stats =
  Strenght: 11
  Dexterity: 17

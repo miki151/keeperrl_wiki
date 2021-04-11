@@ -3,6 +3,9 @@ title: Teutonic Grandmaster 1
 permalink: Teutonic_Grandmaster_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Teutonic_Grandmaster](/keeperrl_wiki/Old_Teutonic_Grandmaster "wikilink")
+
 [[File:teuton_boss.png|100px|link=]]
 
 = Base Stats =

@@ -3,6 +3,9 @@ title: Witchman 4
 permalink: Witchman_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")
+
 [[File:Witchman.png|100px|link=]] ''Anyone seen him?
 
 *Spell Damage:20

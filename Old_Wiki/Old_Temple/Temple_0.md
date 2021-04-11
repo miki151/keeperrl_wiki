@@ -3,6 +3,9 @@ title: Temple 0
 permalink: Temple_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Temple](/keeperrl_wiki/Old_Temple "wikilink")
+
 = Stats =
 *Settlement: Temple 
 *Tribal Loyalty: Humanity

@@ -3,6 +3,9 @@ title: Dwarf Female 0
 permalink: Dwarf_Female_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Female](/keeperrl_wiki/Old_Dwarf_Female "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Female](/keeperrl_wiki/Old_Dwarf_Female "wikilink")

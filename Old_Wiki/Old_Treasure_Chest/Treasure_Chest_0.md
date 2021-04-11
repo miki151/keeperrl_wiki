@@ -3,6 +3,9 @@ title: Treasure Chest 0
 permalink: Treasure_Chest_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Treasure_Chest](/keeperrl_wiki/Old_Treasure_Chest "wikilink")
+
 =Treasure Chest=
 
 This object can be created by using 5 wood and will store your gold.

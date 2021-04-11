@@ -3,6 +3,9 @@ title: Requests For New Triggers 1
 permalink: Requests_For_New_Triggers_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Triggers](/keeperrl_wiki/Old_Requests_For_New_Triggers "wikilink")
+
 =Requests for new triggers=
 Use this page to add ideas for what makes a type of monster attack you.
 

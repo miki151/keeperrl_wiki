@@ -3,6 +3,9 @@ title: Black Market 1
 permalink: Black_Market_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Market](/keeperrl_wiki/Old_Black_Market "wikilink")
+
 [[File:Black_market_guard.png|100px|link=]]
 [[File:Black_market_guard.png|100px|link=]]
 [[File:Black_market_guard.png|100px|link=]]

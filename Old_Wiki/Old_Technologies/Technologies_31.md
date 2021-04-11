@@ -3,6 +3,9 @@ title: Technologies 31
 permalink: Technologies_31/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Technologies](/keeperrl_wiki/Old_Technologies "wikilink")
+
 __NOTOC__
 
 Note that on most games it will be possible to have researched all technologies before the end of the game.

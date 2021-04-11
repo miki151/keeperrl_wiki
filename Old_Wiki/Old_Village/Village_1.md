@@ -3,6 +3,9 @@ title: Village 1
 permalink: Village_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Village](/keeperrl_wiki/Old_Village "wikilink")
+
 = Stats =
 *Settlement: Village
 *Tribal loyalty: Humanity

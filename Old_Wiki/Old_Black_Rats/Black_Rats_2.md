@@ -3,6 +3,9 @@ title: Black Rats 2
 permalink: Black_Rats_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Rats](/keeperrl_wiki/Old_Black_Rats "wikilink")
+
 [[File:black_rat.png|100px|link=]]
 [[File:black_rat.png|100px|link=]]
 [[File:black_rat.png|100px|link=]]

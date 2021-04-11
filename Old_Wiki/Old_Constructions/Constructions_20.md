@@ -3,6 +3,9 @@ title: Constructions 20
 permalink: Constructions_20/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")
+
 To manage your dungeon, you can ask your imps and recruited volunteers (prisoners) to construct rooms, install features and set traps.
 
 This is a game about building a dungeon after all.

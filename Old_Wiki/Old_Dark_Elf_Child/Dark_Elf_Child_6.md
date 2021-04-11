@@ -3,6 +3,9 @@ title: Dark Elf Child 6
 permalink: Dark_Elf_Child_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Child](/keeperrl_wiki/Old_Dark_Elf_Child "wikilink")
+
 [[File:Dark_elf_kid.png|100px|link=]] '' Stealthy
 
 == Base Stats ==

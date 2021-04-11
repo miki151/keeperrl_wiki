@@ -3,6 +3,9 @@ title: Minions 39
 permalink: Minions_39/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 = Dark Keeper Minions Overview =
 
 Recruitment through immigration is the main way to grow your dungeon. Alternatives include recruiting allies with gold, converting prisoners through torture and breeding monsters with a succubus.

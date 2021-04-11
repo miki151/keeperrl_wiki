@@ -3,6 +3,9 @@ title: Angel 0
 permalink: Angel_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Angel](/keeperrl_wiki/Old_Angel "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Angel](/keeperrl_wiki/Old_Angel "wikilink")

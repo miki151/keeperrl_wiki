@@ -3,6 +3,9 @@ title: Nomad Cottage 1
 permalink: Nomad_Cottage_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Nomad_Cottage](/keeperrl_wiki/Old_Nomad_Cottage "wikilink")
+
 = Stats =
 *Settlement: Cottage
 *Tribal Loyalty: Humanity

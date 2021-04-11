@@ -3,6 +3,9 @@ title: Non Aggressive Bandits 0
 permalink: Non_Aggressive_Bandits_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Non_Aggressive_Bandits](/keeperrl_wiki/Old_Non_Aggressive_Bandits "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Inhabitants 4-9 Bandits

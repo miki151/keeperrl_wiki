@@ -3,6 +3,9 @@ title: Imp 8
 permalink: Imp_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Imp](/keeperrl_wiki/Old_Imp "wikilink")
+
 __NOTOC__
 ''Your workforce for resource gathering, construction and hauling jobs.''
 

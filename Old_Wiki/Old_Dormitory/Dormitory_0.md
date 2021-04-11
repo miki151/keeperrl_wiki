@@ -3,6 +3,9 @@ title: Dormitory 0
 permalink: Dormitory_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dormitory](/keeperrl_wiki/Old_Dormitory "wikilink")
+
 Your greenskin and humanoid creatures will find solace here.
 ==Tile Cost==
 10 wood

@@ -3,6 +3,9 @@ title: Requests For New Installations 2
 permalink: Requests_For_New_Installations_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Installations](/keeperrl_wiki/Old_Requests_For_New_Installations "wikilink")
+
 =Doors=
 
 ==Stone door==

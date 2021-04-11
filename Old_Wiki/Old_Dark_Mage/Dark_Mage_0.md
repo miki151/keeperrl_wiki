@@ -3,6 +3,9 @@ title: Dark Mage 0
 permalink: Dark_Mage_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Mage](/keeperrl_wiki/Old_Dark_Mage "wikilink")
+
 = Stats =
 *Settlement: Mine Town
 *Tribal Loyalty: Dark elf 

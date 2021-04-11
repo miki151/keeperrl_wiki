@@ -3,6 +3,9 @@ title: Tutorial Village 1
 permalink: Tutorial_Village_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tutorial_Village](/keeperrl_wiki/Old_Tutorial_Village "wikilink")
+
 = Stats =
 *Settlement: Small village
 *Tribal loyalty: Humanity

@@ -3,6 +3,9 @@ title: Vampire 0
 permalink: Vampire_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire](/keeperrl_wiki/Old_Vampire "wikilink")
+
 A vampire is a large and undead humanoid with 2 arms and 2 legs. It is strong, agile and fast. A vampire starts at level 10.
 
 == Skills ==

@@ -3,6 +3,9 @@ title: Prison 5
 permalink: Prison_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prison](/keeperrl_wiki/Old_Prison "wikilink")
+
 [[File:prisondeco.png|100px|link=]] [[File:torturedeco.png|100px|link=]] ''Keep your prisoners safe and help them feel loved.
 
 It is possible to build separate prisons and torture rooms but I tend to build them together for convenience.

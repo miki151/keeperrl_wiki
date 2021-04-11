@@ -3,6 +3,9 @@ title: Jackal 0
 permalink: Jackal_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jackal](/keeperrl_wiki/Old_Jackal "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jackal](/keeperrl_wiki/Old_Jackal "wikilink")

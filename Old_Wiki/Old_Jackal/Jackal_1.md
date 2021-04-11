@@ -3,6 +3,9 @@ title: Jackal 1
 permalink: Jackal_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jackal](/keeperrl_wiki/Old_Jackal "wikilink")
+
 *Defense:10
 *Damage:15
 *Body size:Small

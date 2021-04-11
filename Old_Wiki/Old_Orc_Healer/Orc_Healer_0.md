@@ -3,6 +3,9 @@ title: Orc Healer 0
 permalink: Orc_Healer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Healer](/keeperrl_wiki/Old_Orc_Healer "wikilink")
+
 *Training Ability: SPELL 7 
 *Spell Schools: &quot;healer&quot;
 

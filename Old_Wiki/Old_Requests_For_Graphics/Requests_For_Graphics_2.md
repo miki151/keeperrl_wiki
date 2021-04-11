@@ -3,6 +3,9 @@ title: Requests For Graphics 2
 permalink: Requests_For_Graphics_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_Graphics](/keeperrl_wiki/Old_Requests_For_Graphics "wikilink")
+
 *Host texture packs on Steam workshop
 *Make furniture items rotatable(just a visual effect)
 

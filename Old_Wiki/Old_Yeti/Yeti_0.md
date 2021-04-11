@@ -3,6 +3,9 @@ title: Yeti 0
 permalink: Yeti_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Yeti](/keeperrl_wiki/Old_Yeti "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Inhabitants: Lone yeti

@@ -3,6 +3,9 @@ title: Jewelry 7
 permalink: Jewelry_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jewelry](/keeperrl_wiki/Old_Jewelry "wikilink")
+
 [[Category: Items]]
 
 Jewellery is found in the dungeons of enemy keepers, sometimes in chests and usually craftable using gold in jewellery rooms.

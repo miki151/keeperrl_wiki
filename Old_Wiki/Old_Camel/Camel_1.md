@@ -3,6 +3,9 @@ title: Camel 1
 permalink: Camel_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Camel](/keeperrl_wiki/Old_Camel "wikilink")
+
 [[File:camel.png|100px|link=]]
 
 = Base Stats =

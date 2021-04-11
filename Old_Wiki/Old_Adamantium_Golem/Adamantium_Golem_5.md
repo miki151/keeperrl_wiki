@@ -3,6 +3,9 @@ title: Adamantium Golem 5
 permalink: Adamantium_Golem_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golem](/keeperrl_wiki/Old_Adamantium_Golem "wikilink")
+
 [[File:ada_golem.png|100px|link=]]
 ''They appear on your dungeon map sector and guard all the adamantium ore. They will dig through and launch an attack against any keeper brave enough to dig the ore. They march slowly but persistently towards their enemy and once they get into melee combat are extremely dangerous, causing many new players to despair in humiliation.
 

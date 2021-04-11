@@ -3,6 +3,9 @@ title: Black Market 0
 permalink: Black_Market_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Market](/keeperrl_wiki/Old_Black_Market "wikilink")
+
 = Stats =
 *Settlement: Tower
 *Tribal Loyalty: Gnome

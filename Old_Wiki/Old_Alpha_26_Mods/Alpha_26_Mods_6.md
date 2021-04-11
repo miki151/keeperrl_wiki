@@ -3,6 +3,9 @@ title: Alpha 26 Mods 6
 permalink: Alpha_26_Mods_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha_26_Mods](/keeperrl_wiki/Old_Alpha_26_Mods "wikilink")
+
 For Alpha 28 Mods go [[Alpha 28 Mods | Here]]
 For Alpha 26 Mods go [[Alpha 26 Mods | Here]]
 

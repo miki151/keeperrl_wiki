@@ -3,6 +3,9 @@ title: Adventurer 20
 permalink: Adventurer_20/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adventurer](/keeperrl_wiki/Old_Adventurer "wikilink")
+
 [[File:adventurer.png|100px|link=]] [[File:adventurer_female.png|100px|link=]]
 ''They face the world alone but the glory is theirs alone.
 

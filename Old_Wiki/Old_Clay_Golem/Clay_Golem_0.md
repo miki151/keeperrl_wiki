@@ -3,6 +3,9 @@ title: Clay Golem 0
 permalink: Clay_Golem_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Clay_Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Clay_Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")

@@ -3,6 +3,9 @@ title: Alpha28Spells 2
 permalink: Alpha28Spells_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha28Spells](/keeperrl_wiki/Old_Alpha28Spells "wikilink")
+
 This is a spells.txt for Alpha28. Feel free to add your own spells. The symbols are Unicode.
 
 {

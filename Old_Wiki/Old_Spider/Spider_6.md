@@ -3,6 +3,9 @@ title: Spider 6
 permalink: Spider_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spider](/keeperrl_wiki/Old_Spider "wikilink")
+
 [[File:spider.png|100px|link=]] ''Weak but poisonous
 
 ==Base Stats==

@@ -3,6 +3,9 @@ title: Spells 11
 permalink: Spells_11/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spells](/keeperrl_wiki/Old_Spells "wikilink")
+
 '''Spells''' are active abilities with cooldown between uses that can be learned by your [[Keeper]] and some of your [[minions]]. Enemy creatures may also have spells.
 
 Spells are moddable and the official spell list configuration is [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/spells.txt here]

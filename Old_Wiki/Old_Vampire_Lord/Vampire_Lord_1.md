@@ -3,6 +3,9 @@ title: Vampire Lord 1
 permalink: Vampire_Lord_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire_Lord](/keeperrl_wiki/Old_Vampire_Lord "wikilink")
+
 *Spell Damage:27
 *Defense:17
 *Damage:17

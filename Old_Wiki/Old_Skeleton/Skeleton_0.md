@@ -3,6 +3,9 @@ title: Skeleton 0
 permalink: Skeleton_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skeleton](/keeperrl_wiki/Old_Skeleton "wikilink")
+
 Skeleton
 
 Description: A cheap unit with fair attack and defense, thrives primarily with archery.

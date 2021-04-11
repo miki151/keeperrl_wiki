@@ -4,6 +4,8 @@ permalink: Endless_Waves_Of_Invaders_1/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Waves_Of_Invaders](/keeperrl_wiki/Old_Endless_Waves_Of_Invaders "wikilink")
+
 == Introduction to Endless Mode ==
 
 *The endless mode is all about defending your dungeon against incoming waves of attackers, trying to survive for as long as possible.

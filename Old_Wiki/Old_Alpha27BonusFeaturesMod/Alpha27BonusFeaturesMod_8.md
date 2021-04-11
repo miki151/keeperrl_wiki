@@ -3,6 +3,9 @@ title: Alpha27BonusFeaturesMod 8
 permalink: Alpha27BonusFeaturesMod_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha27BonusFeaturesMod](/keeperrl_wiki/Old_Alpha27BonusFeaturesMod "wikilink")
+
  
  *Status: Version 1
  *Download link: [[https://drive.google.com/open?id=1loN52Hl8jPd31P7RQB0sRzS3kyNu0YcT Click here]]

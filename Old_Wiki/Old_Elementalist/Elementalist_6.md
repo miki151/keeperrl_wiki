@@ -3,6 +3,9 @@ title: Elementalist 6
 permalink: Elementalist_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist](/keeperrl_wiki/Old_Elementalist "wikilink")
+
 [[File:elementalist.png|100px|link=]] ''Major Boss
 
 

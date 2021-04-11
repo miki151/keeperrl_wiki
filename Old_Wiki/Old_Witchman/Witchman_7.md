@@ -3,6 +3,9 @@ title: Witchman 7
 permalink: Witchman_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")
+
 Witcher reference
 
 == Base Stats ==

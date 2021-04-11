@@ -3,6 +3,9 @@ title: Ant Queen 0
 permalink: Ant_Queen_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Queen](/keeperrl_wiki/Old_Ant_Queen "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Queen](/keeperrl_wiki/Old_Ant_Queen "wikilink")

@@ -3,6 +3,9 @@ title: Air Elemental 0
 permalink: Air_Elemental_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Air_Elemental](/keeperrl_wiki/Old_Air_Elemental "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Air_Elemental](/keeperrl_wiki/Old_Air_Elemental "wikilink")

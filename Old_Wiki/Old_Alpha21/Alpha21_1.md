@@ -4,6 +4,8 @@ permalink: Alpha21_1/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha21](/keeperrl_wiki/Old_Alpha21 "wikilink")
+
 Gameplay changes
 
     New immigration system and UI, which lets the player accept or reject minions, and unifies immigration, recruitment, breeding, and imp spawning.

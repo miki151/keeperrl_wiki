@@ -3,6 +3,9 @@ title: Resources 50
 permalink: Resources_50/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 In KeeperRL the amount of resources you have is infinite, trees don't grow back, but you can dig down for more resources into the z-levels. Underground treeshrooms provide a source of wood. Through the use of alchemy [[:Resources#Gold|gold]] can be used to turn it into other materials.
 
 The amount of resources in the mountains can be configured/modded in resources.txt. The file looks like this:

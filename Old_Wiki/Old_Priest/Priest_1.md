@@ -3,6 +3,9 @@ title: Priest 1
 permalink: Priest_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Priest](/keeperrl_wiki/Old_Priest "wikilink")
+
 *Spell damage:27
 *Damage:15
 *Defense:15 

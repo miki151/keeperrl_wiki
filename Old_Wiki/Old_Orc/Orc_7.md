@@ -3,6 +3,9 @@ title: Orc 7
 permalink: Orc_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc](/keeperrl_wiki/Old_Orc "wikilink")
+
 __NOTOC__
 
 [[File:orc.png|100px|link=]] ''Standard warrior minion

@@ -3,6 +3,9 @@ title: Goat 0
 permalink: Goat_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goat](/keeperrl_wiki/Old_Goat "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goat](/keeperrl_wiki/Old_Goat "wikilink")

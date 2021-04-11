@@ -3,6 +3,9 @@ title: Ogre 3
 permalink: Ogre_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre](/keeperrl_wiki/Old_Ogre "wikilink")
+
 Ogres start at level 12
 
 == Skills ==

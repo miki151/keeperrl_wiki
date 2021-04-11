@@ -3,6 +3,9 @@ title: Eskimo Cottage 2
 permalink: Eskimo_Cottage_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Eskimo_Cottage](/keeperrl_wiki/Old_Eskimo_Cottage "wikilink")
+
 [[File:eskimo.png|100px|link=]]
 [[File:eskimo.png|100px|link=]]
 [[File:eskimo.png|100px|link=]]

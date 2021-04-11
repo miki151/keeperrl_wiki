@@ -3,6 +3,9 @@ title: Human Cottage 4
 permalink: Human_Cottage_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Human_Cottage](/keeperrl_wiki/Old_Human_Cottage "wikilink")
+
 [[File:peasant.png|100px|link=]]
 [[File:peasant.png|100px|link=]]
 [[File:peasant.png|100px|link=]]

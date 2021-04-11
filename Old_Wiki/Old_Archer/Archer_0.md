@@ -3,6 +3,9 @@ title: Archer 0
 permalink: Archer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archer](/keeperrl_wiki/Old_Archer "wikilink")
+
 Archer
 
 [[Category: Creatures]]

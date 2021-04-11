@@ -3,6 +3,9 @@ title: Fire Mage 2
 permalink: Fire_Mage_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Mage](/keeperrl_wiki/Old_Fire_Mage "wikilink")
+
 = Base Stats =
 *Gender:FEMALE
 *Alignment:HUMANS

@@ -3,6 +3,9 @@ title: Player Ideas, Requests And Contributions 2
 permalink: Player_Ideas,_Requests_And_Contributions_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Player_Ideas,_Requests_And_Contributions](/keeperrl_wiki/Old_Player_Ideas,_Requests_And_Contributions "wikilink")
+
 Players are welcome to discuss ideas and make requests on these pages.
 
 *Please keep the standard rules about not submitting copyrighted content to the wiki. This includes any material of your own for which you want the copyright. (We are submitting our ideas into the public domain for Michal to use under an open source license)

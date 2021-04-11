@@ -3,6 +3,9 @@ title: Items 16
 permalink: Items_16/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Items](/keeperrl_wiki/Old_Items "wikilink")
+
 There are different categories of items available. Weapons can be equipped in your hand. Armor is worn on the feet, body, hands and head. Magic jewelry is normally worn on the fingers or around the neck. Consumables, first aid kits and scrolls etc. cannot be equipped.
 
 All manner of some items are possible (eg. Potions) The basic set of items is moddable in items.txt. Official configs can be found [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/items.txt here]

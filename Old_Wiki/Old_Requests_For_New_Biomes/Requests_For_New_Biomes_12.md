@@ -3,6 +3,9 @@ title: Requests For New Biomes 12
 permalink: Requests_For_New_Biomes_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Biomes](/keeperrl_wiki/Old_Requests_For_New_Biomes "wikilink")
+
 ==Forest==
 *It is the existing biome
 *Trees

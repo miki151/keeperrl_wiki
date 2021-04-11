@@ -3,6 +3,9 @@ title: Archer 1
 permalink: Archer_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archer](/keeperrl_wiki/Old_Archer "wikilink")
+
 = Base Stats =
  Strenght: 17
  Dexterity: 22

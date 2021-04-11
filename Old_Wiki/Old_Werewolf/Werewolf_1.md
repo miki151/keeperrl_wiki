@@ -3,6 +3,9 @@ title: Werewolf 1
 permalink: Werewolf_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Werewolf](/keeperrl_wiki/Old_Werewolf "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

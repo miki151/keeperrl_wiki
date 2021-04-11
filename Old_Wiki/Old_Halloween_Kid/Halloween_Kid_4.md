@@ -3,6 +3,9 @@ title: Halloween Kid 4
 permalink: Halloween_Kid_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Halloween_Kid](/keeperrl_wiki/Old_Halloween_Kid "wikilink")
+
 [[File:halloween_kid1.png|100px|link=]] ''Trick or Treat?
 
 *Defense:8

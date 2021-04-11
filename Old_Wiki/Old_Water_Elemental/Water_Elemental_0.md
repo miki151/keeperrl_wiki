@@ -3,6 +3,9 @@ title: Water Elemental 0
 permalink: Water_Elemental_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Water_Elemental](/keeperrl_wiki/Old_Water_Elemental "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Water_Elemental](/keeperrl_wiki/Old_Water_Elemental "wikilink")

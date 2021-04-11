@@ -3,6 +3,9 @@ title: Rat 1
 permalink: Rat_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat](/keeperrl_wiki/Old_Rat "wikilink")
+
 = Base Stats =
  Strenght: 2
  Dexterity: 12

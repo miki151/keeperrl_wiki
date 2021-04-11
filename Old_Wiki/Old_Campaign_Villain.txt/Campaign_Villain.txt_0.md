@@ -4,6 +4,7 @@ permalink: Campaign_Villain.txt_0/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Campaign_Villain.txt](/keeperrl_wiki/Old_Campaign_Villain.txt "wikilink")
 
 [[Category:OfficialAlpha26GameConfigs]]
 

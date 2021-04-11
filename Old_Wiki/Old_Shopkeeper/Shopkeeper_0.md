@@ -3,6 +3,9 @@ title: Shopkeeper 0
 permalink: Shopkeeper_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shopkeeper](/keeperrl_wiki/Old_Shopkeeper "wikilink")
+
 Shopkeeper
 
 [[Category: Creatures]]

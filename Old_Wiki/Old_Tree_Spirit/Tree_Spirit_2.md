@@ -3,6 +3,9 @@ title: Tree Spirit 2
 permalink: Tree_Spirit_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tree_Spirit](/keeperrl_wiki/Old_Tree_Spirit "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

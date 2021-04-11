@@ -3,6 +3,9 @@ title: Tree Spirit 0
 permalink: Tree_Spirit_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tree_Spirit](/keeperrl_wiki/Old_Tree_Spirit "wikilink")
+
 A tree spirit will appear when you cut down a lot of trees in an area.
 
 [[Category: Creatures]]

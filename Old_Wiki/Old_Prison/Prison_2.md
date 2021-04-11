@@ -3,6 +3,9 @@ title: Prison 2
 permalink: Prison_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prison](/keeperrl_wiki/Old_Prison "wikilink")
+
 A Prison is made in the construction tab, and it requires 20 Iron per tile.  To acquire prisoners, leave Humanoid enemies such as Humans alive in critical condition near a Humanoid minion that you control such as Orcs.  This is done preferably while they are suffering from the Depressed debuff.  Be warned, in most cases, critically wounded enemies will bleed out before they surrender.  After capture, they will head toward the Prison assuming they are under minion escort.  Otherwise, they might run away?((unconfirmed)).    
 
 [[Category: Rooms]]

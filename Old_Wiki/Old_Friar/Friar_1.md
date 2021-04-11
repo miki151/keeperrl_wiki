@@ -3,6 +3,9 @@ title: Friar 1
 permalink: Friar_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Friar](/keeperrl_wiki/Old_Friar "wikilink")
+
 [[File:friar.png|100px|link=]]
 
 = Base Stats =

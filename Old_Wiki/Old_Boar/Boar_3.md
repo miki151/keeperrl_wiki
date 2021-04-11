@@ -3,6 +3,9 @@ title: Boar 3
 permalink: Boar_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Boar](/keeperrl_wiki/Old_Boar "wikilink")
+
 [[File:boar.png|100px|link=]]
 '' Boar roam the woods, shy creatures that only fight when cornered.
 

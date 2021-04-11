@@ -3,6 +3,9 @@ title: Fox 0
 permalink: Fox_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fox](/keeperrl_wiki/Old_Fox "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fox](/keeperrl_wiki/Old_Fox "wikilink")

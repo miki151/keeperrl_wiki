@@ -3,6 +3,9 @@ title: Lizardman Chief 2
 permalink: Lizardman_Chief_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Chief](/keeperrl_wiki/Old_Lizardman_Chief "wikilink")
+
 = Base Stats =
 *Damage:30
 *Body size:Medium

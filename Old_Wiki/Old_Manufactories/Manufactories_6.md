@@ -3,6 +3,9 @@ title: Manufactories 6
 permalink: Manufactories_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 == Workshop ==
 *Produces: first aid kits, bows, non-metal weapons, and traps
 *Tile Cost: 15 Wood

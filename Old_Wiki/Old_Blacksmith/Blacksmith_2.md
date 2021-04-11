@@ -3,6 +3,9 @@ title: Blacksmith 2
 permalink: Blacksmith_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Blacksmith](/keeperrl_wiki/Old_Blacksmith "wikilink")
+
 = Stats =
 *Settlement: Cottage
 *Tribal loyalty; Humanity

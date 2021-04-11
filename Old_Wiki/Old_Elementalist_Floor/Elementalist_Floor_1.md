@@ -3,6 +3,9 @@ title: Elementalist Floor 1
 permalink: Elementalist_Floor_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist_Floor](/keeperrl_wiki/Old_Elementalist_Floor "wikilink")
+
 = Stats =
 *Settlement: Tower
 *Inhabitants: 1-3 [[Air Elemental]]/[[Earth Elemental]]/[[Wind Elemental]]/[[Fire Elemental]]

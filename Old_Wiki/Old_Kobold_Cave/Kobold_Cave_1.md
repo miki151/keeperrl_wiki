@@ -3,6 +3,9 @@ title: Kobold Cave 1
 permalink: Kobold_Cave_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kobold_Cave](/keeperrl_wiki/Old_Kobold_Cave "wikilink")
+
 [[File:kobold.png|100px|link=]]
 [[File:kobold.png|100px|link=]]
 [[File:kobold.png|100px|link=]]

@@ -3,6 +3,9 @@ title: Doppleganger 0
 permalink: Doppleganger_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Doppleganger](/keeperrl_wiki/Old_Doppleganger "wikilink")
+
 Doppleganger
 
 == Skills ==

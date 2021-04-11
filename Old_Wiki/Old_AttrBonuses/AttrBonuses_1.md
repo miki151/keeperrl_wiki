@@ -3,6 +3,9 @@ title: AttrBonuses 1
 permalink: AttrBonuses_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_AttrBonuses](/keeperrl_wiki/Old_AttrBonuses "wikilink")
+
 =Usage=
 Used to specify what types of attributes special immigrants may have
 

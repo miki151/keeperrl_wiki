@@ -3,6 +3,9 @@ title: TraitIDs 0
 permalink: TraitIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TraitIDs](/keeperrl_wiki/Old_TraitIDs "wikilink")
+
 =Usage=
 Used to specify.
 

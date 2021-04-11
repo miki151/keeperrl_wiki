@@ -3,6 +3,9 @@ title: Modding Guide 19
 permalink: Modding_Guide_19/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Modding_Guide](/keeperrl_wiki/Old_Modding_Guide "wikilink")
+
 =Gaining familiarity with mods on KeeperRL=
 *The first recommendation is to get familiar with the existing modding system on KeeperRL
 *Read the [[Download_Mods]] wiki page

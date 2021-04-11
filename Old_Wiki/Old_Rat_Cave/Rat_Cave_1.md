@@ -3,6 +3,9 @@ title: Rat Cave 1
 permalink: Rat_Cave_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_Cave](/keeperrl_wiki/Old_Rat_Cave "wikilink")
+
 [[File:rat.png|100px|link=]]
 [[File:rat.png|100px|link=]]
 [[File:rat.png|100px|link=]]

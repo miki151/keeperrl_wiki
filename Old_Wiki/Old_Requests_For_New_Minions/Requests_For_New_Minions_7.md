@@ -3,6 +3,9 @@ title: Requests For New Minions 7
 permalink: Requests_For_New_Minions_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Minions](/keeperrl_wiki/Old_Requests_For_New_Minions "wikilink")
+
 Existing traits are:
 Animal, Blind, Brainless, Carry Anything, Courage, Explore, 
 Humanoid, Fire Creature, Flying, Not Breathing, Innocent,

@@ -3,6 +3,9 @@ title: ImmigrationRequirements 4
 permalink: ImmigrationRequirements_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ImmigrationRequirements](/keeperrl_wiki/Old_ImmigrationRequirements "wikilink")
+
 =Usage=
 Used to determine what is required before an immigrant will be willing to settle in your dungeon
 

@@ -3,6 +3,9 @@ title: Boar 0
 permalink: Boar_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Boar](/keeperrl_wiki/Old_Boar "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Boar](/keeperrl_wiki/Old_Boar "wikilink")

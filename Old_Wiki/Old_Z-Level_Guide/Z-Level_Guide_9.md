@@ -3,6 +3,9 @@ title: Z-Level Guide 9
 permalink: Z-Level_Guide_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Z-Level_Guide](/keeperrl_wiki/Old_Z-Level_Guide "wikilink")
+
 Z-Levels are opened up when building a down staircase from your dungeon.
 
 The current vanilla configuration is found here:

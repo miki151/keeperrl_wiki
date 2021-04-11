@@ -3,6 +3,9 @@ title: Archery 0
 permalink: Archery_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archery](/keeperrl_wiki/Old_Archery "wikilink")
+
 Archery
 
 Shoot bows.

@@ -3,6 +3,9 @@ title: Witchman 1
 permalink: Witchman_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")
+
 *Spell Damage:20
 *Defense:30
 *Damage:30

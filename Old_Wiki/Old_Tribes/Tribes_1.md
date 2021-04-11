@@ -3,6 +3,9 @@ title: Tribes 1
 permalink: Tribes_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tribes](/keeperrl_wiki/Old_Tribes "wikilink")
+
 =Villains faced by evil keepers=
 
 ==Main Villains faced by evil keepers==

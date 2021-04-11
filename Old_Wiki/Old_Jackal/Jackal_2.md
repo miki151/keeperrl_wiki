@@ -3,6 +3,9 @@ title: Jackal 2
 permalink: Jackal_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jackal](/keeperrl_wiki/Old_Jackal "wikilink")
+
 [[File:jackal.png|100px|link=]] ''Weak aggressor
 
 *Defense:10

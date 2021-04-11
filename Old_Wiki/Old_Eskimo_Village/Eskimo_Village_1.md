@@ -3,6 +3,9 @@ title: Eskimo Village 1
 permalink: Eskimo_Village_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Eskimo_Village](/keeperrl_wiki/Old_Eskimo_Village "wikilink")
+
 [[File: &quot;eskimo&quot; .png|100px|link=]]
 [[File: &quot;eskimo&quot; .png|100px|link=]]
 [[File: &quot;eskimo&quot; .png|100px|link=]]

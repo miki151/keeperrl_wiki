@@ -3,6 +3,9 @@ title: Consumables 4
 permalink: Consumables_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Consumables](/keeperrl_wiki/Old_Consumables "wikilink")
+
 [[Category: Items]]
 
 == First Aid Kit ==

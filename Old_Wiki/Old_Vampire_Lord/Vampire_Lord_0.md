@@ -3,6 +3,9 @@ title: Vampire Lord 0
 permalink: Vampire_Lord_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire_Lord](/keeperrl_wiki/Old_Vampire_Lord "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire_Lord](/keeperrl_wiki/Old_Vampire_Lord "wikilink")

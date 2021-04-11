@@ -3,6 +3,9 @@ title: Harpy Cave 2
 permalink: Harpy_Cave_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Harpy_Cave](/keeperrl_wiki/Old_Harpy_Cave "wikilink")
+
 [[File:harpy.png|100px|link=]]
 
 = Stats =

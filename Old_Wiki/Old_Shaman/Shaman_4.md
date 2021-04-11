@@ -3,6 +3,9 @@ title: Shaman 4
 permalink: Shaman_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shaman](/keeperrl_wiki/Old_Shaman "wikilink")
+
 [[File:shaman.png|100px|link=]] ''Tribal wizard
 
 = Base Stats =

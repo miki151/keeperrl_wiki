@@ -3,6 +3,9 @@ title: Items 3
 permalink: Items_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Items](/keeperrl_wiki/Old_Items "wikilink")
+
 There are different categories of items available. Weapons can be equipped in your hand. Armor is worn on the feet, body, hands and head. Magic jewelry is normally worn on the fingers or around the neck. Consumables, first aid kits and arrows etc. cannot be equipped.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Items](/keeperrl_wiki/Old_Items "wikilink")

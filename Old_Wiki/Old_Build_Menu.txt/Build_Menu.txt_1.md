@@ -3,6 +3,9 @@ title: Build Menu.txt 1
 permalink: Build_Menu.txt_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Build_Menu.txt](/keeperrl_wiki/Old_Build_Menu.txt "wikilink")
+
  # &quot;structure&quot;, &quot;doors&quot;, etc are groups that are then used in the last column in player_creatures.txt.
  # (they do not necessarily correspond to how menu items are grouped into submenus, you can join several
  # groups into a submenu, like beds, cages, pigsty and coffins are in the &quot;living&quot; submenu)

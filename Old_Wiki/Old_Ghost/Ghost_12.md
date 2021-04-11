@@ -3,6 +3,9 @@ title: Ghost 12
 permalink: Ghost_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ghost](/keeperrl_wiki/Old_Ghost "wikilink")
+
 __NOTOC__
 
 [[File:ghost.png|100px|link=]] ''Makes enemies insane

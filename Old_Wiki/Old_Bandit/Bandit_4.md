@@ -3,6 +3,9 @@ title: Bandit 4
 permalink: Bandit_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bandit](/keeperrl_wiki/Old_Bandit "wikilink")
+
 Bandits try to access your [[Treasure_Room|treasure room]] to steal gold and then run away.
 
 = Base Stats =

@@ -3,6 +3,9 @@ title: Black Market Entry 8
 permalink: Black_Market_Entry_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Market_Entry](/keeperrl_wiki/Old_Black_Market_Entry "wikilink")
+
 [[File:witch.png|100px|link=]]
 [[File:bandit.png|100px|link=]]
 [[File:cyclops.png|100px|link=]]

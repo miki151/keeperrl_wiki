@@ -3,6 +3,9 @@ title: Training Room 3
 permalink: Training_Room_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Training_Room](/keeperrl_wiki/Old_Training_Room "wikilink")
+
 Train your creatures
 
 [[File:train_wood.png|100px|link=]] [[File:train_iron.png|100px|link=]] [[File:train_steel.png|100px|link=]] [[File:archery_range.png|100px|link=]]

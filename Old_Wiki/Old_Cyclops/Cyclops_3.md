@@ -3,6 +3,9 @@ title: Cyclops 3
 permalink: Cyclops_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cyclops](/keeperrl_wiki/Old_Cyclops "wikilink")
+
 = Base Stats =
  Strenght: 35
  Dexterity: 30

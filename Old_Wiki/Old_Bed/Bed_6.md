@@ -3,6 +3,9 @@ title: Bed 6
 permalink: Bed_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bed](/keeperrl_wiki/Old_Bed "wikilink")
+
 #REDIRECT [[Dormitory]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bed](/keeperrl_wiki/Old_Bed "wikilink")

@@ -3,6 +3,9 @@ title: Succubus 2
 permalink: Succubus_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Succubus](/keeperrl_wiki/Old_Succubus "wikilink")
+
 A succubus is a large humanoid spirit with 2 arms, 2 legs and 2 wings. It is agile and fast, but weak.
 
 A succubus can give birth to other creatures including:

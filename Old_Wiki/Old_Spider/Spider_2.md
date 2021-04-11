@@ -3,6 +3,9 @@ title: Spider 2
 permalink: Spider_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spider](/keeperrl_wiki/Old_Spider "wikilink")
+
 = Base Stats =
 *Defense:13
 *Damage:9

@@ -3,6 +3,9 @@ title: Alpha15 Changelog 0
 permalink: Alpha15_Changelog_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha15_Changelog](/keeperrl_wiki/Old_Alpha15_Changelog "wikilink")
+
 ''Officially released: 02 July 2015. All of the changelog has been copied from the KeeperRL blog.''
 
 == Gameplay changes ==

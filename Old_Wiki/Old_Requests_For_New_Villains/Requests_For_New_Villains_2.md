@@ -3,6 +3,9 @@ title: Requests For New Villains 2
 permalink: Requests_For_New_Villains_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Villains](/keeperrl_wiki/Old_Requests_For_New_Villains "wikilink")
+
 =Villains=
 
 ==Ice Dragon==

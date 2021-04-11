@@ -3,6 +3,9 @@ title: Elf 0
 permalink: Elf_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf](/keeperrl_wiki/Old_Elf "wikilink")
+
 == Elf Lord ==
 
 [[Category:Creatures]]

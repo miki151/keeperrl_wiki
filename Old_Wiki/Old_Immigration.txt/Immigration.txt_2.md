@@ -3,6 +3,9 @@ title: Immigration.txt 2
 permalink: Immigration.txt_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Immigration.txt](/keeperrl_wiki/Old_Immigration.txt "wikilink")
+
  {
   &quot;imps&quot;
   {

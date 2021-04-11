@@ -3,6 +3,9 @@ title: Warrior 1
 permalink: Warrior_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warrior](/keeperrl_wiki/Old_Warrior "wikilink")
+
 = Base Stats =
  Strenght: 23
  Dexterity: 16

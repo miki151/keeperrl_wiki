@@ -3,6 +3,9 @@ title: Graveyard 0
 permalink: Graveyard_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Graveyard](/keeperrl_wiki/Old_Graveyard "wikilink")
+
 Graveyard
 
 [[Category: Rooms]]

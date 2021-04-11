@@ -3,6 +3,9 @@ title: Priest 5
 permalink: Priest_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Priest](/keeperrl_wiki/Old_Priest "wikilink")
+
 [[File:priest.png|100px|link=]] ''Human healer
 
 *Spell damage:27

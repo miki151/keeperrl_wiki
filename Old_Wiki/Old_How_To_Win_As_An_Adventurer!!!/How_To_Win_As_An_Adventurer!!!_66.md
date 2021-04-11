@@ -3,6 +3,9 @@ title: How To Win As An Adventurer!!! 66
 permalink: How_To_Win_As_An_Adventurer!!!_66/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_How_To_Win_As_An_Adventurer!!!](/keeperrl_wiki/Old_How_To_Win_As_An_Adventurer!!! "wikilink")
+
 == Updated February 2019 ==
 
 Please note that in more recent versions of KeeperRL, adventure mode has moved from a single map battle to a campaign battle. This has changed the game-play somewhat.

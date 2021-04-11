@@ -3,6 +3,9 @@ title: Harpy 1
 permalink: Harpy_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Harpy](/keeperrl_wiki/Old_Harpy "wikilink")
+
 A harpy is a large humanoid with 2 arms, 2 legs and 2 wings. It is fast, but weak and clumsy. Harpies start at level 4.
 
 == Requirements ==

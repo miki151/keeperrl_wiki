@@ -3,6 +3,9 @@ title: Cemetery Entrance 1
 permalink: Cemetery_Entrance_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cemetery_Entrance](/keeperrl_wiki/Old_Cemetery_Entrance "wikilink")
+
 = Stats =
 *Settlement: Cemetery 
 *Inhabitants: Lone Zombie

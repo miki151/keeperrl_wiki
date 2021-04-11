@@ -3,6 +3,9 @@ title: Thief 1
 permalink: Thief_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Thief](/keeperrl_wiki/Old_Thief "wikilink")
+
 [[File: thief .png|100px|link=]]
 
 = Base Stats =

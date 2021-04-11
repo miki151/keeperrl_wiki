@@ -3,6 +3,9 @@ title: Structures And Installations 2
 permalink: Structures_And_Installations_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Structures_And_Installations](/keeperrl_wiki/Old_Structures_And_Installations "wikilink")
+
 [[File:Installations-Screenshot.png|500px|link=]]
 
 =Structures=

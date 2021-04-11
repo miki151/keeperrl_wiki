@@ -3,6 +3,9 @@ title: Priest 0
 permalink: Priest_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Priest](/keeperrl_wiki/Old_Priest "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Priest](/keeperrl_wiki/Old_Priest "wikilink")

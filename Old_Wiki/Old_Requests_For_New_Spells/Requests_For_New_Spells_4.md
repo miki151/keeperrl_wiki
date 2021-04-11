@@ -3,6 +3,9 @@ title: Requests For New Spells 4
 permalink: Requests_For_New_Spells_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Spells](/keeperrl_wiki/Old_Requests_For_New_Spells "wikilink")
+
 == Persuasion ==
 * Magic school: Master sorcery
 * Special powers: Turns hostile creatures neutral and neutral creatures friendly. Doesn't work on undead. Must be next to the creature. Small chance of success. The creature will use its turn to attack you if you fail. Tough creatures are even harder to persaude.

@@ -3,6 +3,9 @@ title: Keeper 17
 permalink: Keeper_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Keeper](/keeperrl_wiki/Old_Keeper "wikilink")
+
 __NOTOC__
 [[File:keeper.png|100px|link=]][[File:keeper_female.png|100px|link=]] ''Player's avatar (Warlock class)
 

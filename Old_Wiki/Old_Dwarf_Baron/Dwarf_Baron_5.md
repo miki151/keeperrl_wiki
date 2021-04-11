@@ -3,6 +3,9 @@ title: Dwarf Baron 5
 permalink: Dwarf_Baron_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Baron](/keeperrl_wiki/Old_Dwarf_Baron "wikilink")
+
 [[File:dwarfboss.png|100px|link=]] '' King under the mountain
 
 = Base Stats =

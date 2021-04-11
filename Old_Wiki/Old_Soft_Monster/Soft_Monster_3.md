@@ -3,6 +3,9 @@ title: Soft Monster 3
 permalink: Soft_Monster_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soft_Monster](/keeperrl_wiki/Old_Soft_Monster "wikilink")
+
 [[File:soft_monster.png|100px|link=]] ''Rare &quot;thing&quot; that lives in dungeons
 
 *Defense:25

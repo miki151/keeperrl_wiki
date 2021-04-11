@@ -3,6 +3,9 @@ title: Scorpion 0
 permalink: Scorpion_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Scorpion](/keeperrl_wiki/Old_Scorpion "wikilink")
+
 = Base Stats =
  Strenght: 9
  Dexterity: 13

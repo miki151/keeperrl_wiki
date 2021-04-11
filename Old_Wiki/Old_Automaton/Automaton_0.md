@@ -3,6 +3,9 @@ title: Automaton 0
 permalink: Automaton_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Automaton](/keeperrl_wiki/Old_Automaton "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Automaton](/keeperrl_wiki/Old_Automaton "wikilink")

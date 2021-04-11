@@ -3,6 +3,9 @@ title: Effects 0
 permalink: Effects_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Effects](/keeperrl_wiki/Old_Effects "wikilink")
+
 __NOTOC__
 
 == Fire ==

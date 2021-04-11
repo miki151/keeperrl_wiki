@@ -3,6 +3,9 @@ title: Creatures 31
 permalink: Creatures_31/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creatures](/keeperrl_wiki/Old_Creatures "wikilink")
+
 Creatures are moddable from Alpha 27 onwards. You will need to locate the file for your local installation. Here is a link to the creatures configuration data file online:
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/creatures.txt creatures.txt]]
 

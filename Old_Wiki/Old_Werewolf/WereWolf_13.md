@@ -3,6 +3,9 @@ title: WereWolf 13
 permalink: WereWolf_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Werewolf](/keeperrl_wiki/Old_Werewolf "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Werewolf](/keeperrl_wiki/Old_Werewolf "wikilink")

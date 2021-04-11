@@ -3,6 +3,9 @@ title: Ents 2
 permalink: Ents_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ents](/keeperrl_wiki/Old_Ents "wikilink")
+
 [[File:Ent.png|100px|link=]]
 [[File:Ent.png|100px|link=]]
 [[File:Ent.png|100px|link=]]

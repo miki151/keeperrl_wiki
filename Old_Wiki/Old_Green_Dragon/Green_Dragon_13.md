@@ -3,6 +3,9 @@ title: Green Dragon 13
 permalink: Green_Dragon_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Green_Dragon](/keeperrl_wiki/Old_Green_Dragon "wikilink")
+
 #REDIRECT [[Green Dragon]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Green_Dragon](/keeperrl_wiki/Old_Green_Dragon "wikilink")

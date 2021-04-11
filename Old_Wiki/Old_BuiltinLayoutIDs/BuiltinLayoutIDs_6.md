@@ -3,6 +3,9 @@ title: BuiltinLayoutIDs 6
 permalink: BuiltinLayoutIDs_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_BuiltinLayoutIDs](/keeperrl_wiki/Old_BuiltinLayoutIDs "wikilink")
+
 =Usage=
 Used in conjunction with enemy IDs to generate a tribe layout from the builtin layout library
 

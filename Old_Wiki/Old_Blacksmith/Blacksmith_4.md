@@ -3,6 +3,9 @@ title: Blacksmith 4
 permalink: Blacksmith_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Blacksmith](/keeperrl_wiki/Old_Blacksmith "wikilink")
+
 [[File:artisan.png|100px|link=]]
 [[File:knight.png|100px|link=]] 
 [[File:knight.png|100px|link=]] 

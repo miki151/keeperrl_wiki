@@ -3,6 +3,9 @@ title: Rat Lady 1
 permalink: Rat_Lady_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_Lady](/keeperrl_wiki/Old_Rat_Lady "wikilink")
+
 [[File:rat_lady.png|100px|link=]]
 
 = Base Stats =

@@ -3,6 +3,9 @@ title: Evil Temple 2
 permalink: Evil_Temple_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Evil_Temple](/keeperrl_wiki/Old_Evil_Temple "wikilink")
+
 [[File:orcshaman.png|100px|link=]]
 
 = Stats =

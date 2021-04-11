@@ -3,6 +3,9 @@ title: AttrBonuses 0
 permalink: AttrBonuses_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_AttrBonuses](/keeperrl_wiki/Old_AttrBonuses "wikilink")
+
 =Usage=
 Used to specify.
 

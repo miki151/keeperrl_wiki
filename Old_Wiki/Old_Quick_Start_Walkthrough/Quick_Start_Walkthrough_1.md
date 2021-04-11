@@ -3,6 +3,9 @@ title: Quick Start Walkthrough 1
 permalink: Quick_Start_Walkthrough_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Quick_Start_Walkthrough](/keeperrl_wiki/Old_Quick_Start_Walkthrough "wikilink")
+
 This Quick Start written against KeeperRL Alpha 8.  Start here if you've never played before.
 
 # Download the KeeperRL ZIP

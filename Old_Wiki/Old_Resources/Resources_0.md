@@ -3,6 +3,9 @@ title: Resources 0
 permalink: Resources_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 __NOTOC__
 ''alpha 13''
 

@@ -3,6 +3,9 @@ title: Requests For New Unequipped Items 17
 permalink: Requests_For_New_Unequipped_Items_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Unequipped_Items](/keeperrl_wiki/Old_Requests_For_New_Unequipped_Items "wikilink")
+
 = Potions =
 
 === Potion of garlic mixture ===

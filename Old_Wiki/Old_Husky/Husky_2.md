@@ -3,6 +3,9 @@ title: Husky 2
 permalink: Husky_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Husky](/keeperrl_wiki/Old_Husky "wikilink")
+
 [[File:husky.png|100px|link=]]
 
 = Base Stats =

@@ -3,6 +3,9 @@ title: Tutorial Village 3
 permalink: Tutorial_Village_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tutorial_Village](/keeperrl_wiki/Old_Tutorial_Village "wikilink")
+
 [[File:peasant.png|100px|link=]]
 [[File:peasant.png|100px|link=]]
 [[File:peasant.png|100px|link=]]

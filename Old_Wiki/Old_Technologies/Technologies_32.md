@@ -3,6 +3,9 @@ title: Technologies 32
 permalink: Technologies_32/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Technologies](/keeperrl_wiki/Old_Technologies "wikilink")
+
 __NOTOC__
 
 Note that on most games it will be possible to have researched all technologies before the end of the game. However, you can often develop a game-winning strategy by exploiting just some of your options to their full potential.

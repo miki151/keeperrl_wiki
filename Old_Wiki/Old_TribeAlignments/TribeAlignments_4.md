@@ -3,6 +3,9 @@ title: TribeAlignments 4
 permalink: TribeAlignments_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TribeAlignments](/keeperrl_wiki/Old_TribeAlignments "wikilink")
+
 =Usage=
 Used to specify what selection of allies and villains appear for a particular type of keeper or adventurer.
 

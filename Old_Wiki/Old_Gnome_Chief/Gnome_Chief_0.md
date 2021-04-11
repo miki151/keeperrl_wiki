@@ -3,6 +3,9 @@ title: Gnome Chief 0
 permalink: Gnome_Chief_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome_Chief](/keeperrl_wiki/Old_Gnome_Chief "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome_Chief](/keeperrl_wiki/Old_Gnome_Chief "wikilink")

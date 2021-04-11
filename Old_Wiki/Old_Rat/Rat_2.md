@@ -3,6 +3,9 @@ title: Rat 2
 permalink: Rat_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat](/keeperrl_wiki/Old_Rat "wikilink")
+
 = Base Stats =
 *Spell damage:27
 *Damage:15

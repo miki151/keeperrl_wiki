@@ -3,6 +3,9 @@ title: Duke 1
 permalink: Duke_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Duke](/keeperrl_wiki/Old_Duke "wikilink")
+
 = Base Stats =
 *Defense:32
 *Damage:43

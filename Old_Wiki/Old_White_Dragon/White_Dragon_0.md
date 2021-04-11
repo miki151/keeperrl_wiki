@@ -3,6 +3,9 @@ title: White Dragon 0
 permalink: White_Dragon_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_White_Dragon](/keeperrl_wiki/Old_White_Dragon "wikilink")
+
 = Base Stats =
 *Body: Four Legged HUGE WINGS:2 HEAD
 *Bite attack

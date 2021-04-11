@@ -3,6 +3,9 @@ title: Endless Mode 43
 permalink: Endless_Mode_43/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Mode](/keeperrl_wiki/Old_Endless_Mode "wikilink")
+
 #REDIRECT [[Endless_Waves_of_Enemies]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Mode](/keeperrl_wiki/Old_Endless_Mode "wikilink")

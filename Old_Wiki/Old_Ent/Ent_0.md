@@ -3,6 +3,9 @@ title: Ent 0
 permalink: Ent_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ent](/keeperrl_wiki/Old_Ent "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ent](/keeperrl_wiki/Old_Ent "wikilink")

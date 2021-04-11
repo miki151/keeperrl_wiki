@@ -3,6 +3,9 @@ title: Elf 4
 permalink: Elf_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf](/keeperrl_wiki/Old_Elf "wikilink")
+
 [[File:elf.png|100px|link=]] ''Not generally dangerous
 
 = Base Stats =

@@ -3,6 +3,9 @@ title: Elementalist 1
 permalink: Elementalist_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist](/keeperrl_wiki/Old_Elementalist "wikilink")
+
 *Spell_Damge:15
 *Defense:20
 *Damage:15

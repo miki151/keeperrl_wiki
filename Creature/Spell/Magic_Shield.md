@@ -19,4 +19,4 @@ Other items in this section
 -    [Illusion](/keeperrl_wiki/Illusion "wikilink")
 -    [Spell Guide](/keeperrl_wiki/Spell_Guide "wikilink")
 -    [Stun Ray](/keeperrl_wiki/Stun_Ray "wikilink")
--    [Word of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
+-    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")

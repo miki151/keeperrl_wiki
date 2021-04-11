@@ -3,6 +3,9 @@ title: Galeam 2
 permalink: Galeam_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Galeam](/keeperrl_wiki/Old_Galeam "wikilink")
+
 [[File:galeam.png|100px|link=]] Often mistaken for a flying teapot
 
 = Base Stats =

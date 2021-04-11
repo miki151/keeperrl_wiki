@@ -3,6 +3,9 @@ title: Child 13
 permalink: Child_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child](/keeperrl_wiki/Old_Child "wikilink")
+
 [[File:peasantkid.png|100px|link=]]
 ''Stealthy
 

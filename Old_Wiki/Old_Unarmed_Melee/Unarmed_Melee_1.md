@@ -3,6 +3,9 @@ title: Unarmed Melee 1
 permalink: Unarmed_Melee_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unarmed_Melee](/keeperrl_wiki/Old_Unarmed_Melee "wikilink")
+
 #REDIRECT [[Skills#Unarmed_Melee]]
 Unarmed Melee
 

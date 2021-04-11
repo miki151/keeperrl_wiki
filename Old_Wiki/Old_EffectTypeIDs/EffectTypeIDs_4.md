@@ -3,6 +3,9 @@ title: EffectTypeIDs 4
 permalink: EffectTypeIDs_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_EffectTypeIDs](/keeperrl_wiki/Old_EffectTypeIDs "wikilink")
+
 =Usage=
 Used with [[ItemTypes]] to specify variations of items
 

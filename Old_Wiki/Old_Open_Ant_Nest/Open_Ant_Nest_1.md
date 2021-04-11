@@ -3,6 +3,9 @@ title: Open Ant Nest 1
 permalink: Open_Ant_Nest_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Open_Ant_Nest](/keeperrl_wiki/Old_Open_Ant_Nest "wikilink")
+
 = Stats =
 *Settlement: Ant nest
 *Inhabitants [[Ant Queen]] with 5-7 [[Ant Workers]] and 5-7 [[Ant Soldier]]

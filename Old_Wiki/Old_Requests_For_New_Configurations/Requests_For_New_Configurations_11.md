@@ -3,6 +3,9 @@ title: Requests For New Configurations 11
 permalink: Requests_For_New_Configurations_11/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Configurations](/keeperrl_wiki/Old_Requests_For_New_Configurations "wikilink")
+
 Use this page for new maps made from existing monsters and tiles.
 
 =Main Villains=

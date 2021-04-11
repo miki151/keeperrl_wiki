@@ -3,6 +3,9 @@ title: Download Mods 54
 permalink: Download_Mods_54/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =For Alpha 26 Mods go here [[Alpha 26 Mods]]=
 
 =Downloads=

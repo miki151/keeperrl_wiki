@@ -3,6 +3,9 @@ title: Elf Lord 5
 permalink: Elf_Lord_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf_Lord](/keeperrl_wiki/Old_Elf_Lord "wikilink")
+
 [[File:elf_lord.png|100px|link=]] ''Lord of the forest
 
 = Base Stats =

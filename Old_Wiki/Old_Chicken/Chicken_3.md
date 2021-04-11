@@ -3,6 +3,9 @@ title: Chicken 3
 permalink: Chicken_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
+
 *Defense:2
 *Damage:2
 *Body size:Small

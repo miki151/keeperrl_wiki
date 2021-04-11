@@ -3,6 +3,9 @@ title: Skeleton 9
 permalink: Skeleton_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skeleton](/keeperrl_wiki/Old_Skeleton "wikilink")
+
 [[File:skeleton.png|100px|link=]] ''Undead minion
 
 == [[:Attributes]] ==

@@ -3,6 +3,9 @@ title: ZoneIds 0
 permalink: ZoneIds_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ZoneIds](/keeperrl_wiki/Old_ZoneIds "wikilink")
+
 =Usage=
 Used to specify.
 

@@ -3,6 +3,9 @@ title: Fire Sphere 2
 permalink: Fire_Sphere_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Sphere](/keeperrl_wiki/Old_Fire_Sphere "wikilink")
+
 __NOTOC__
 ''Summoned by [[:Spells#Fire_Sphere|fire sphere]] spell.''
 == [[:Attributes]] ==

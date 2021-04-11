@@ -3,6 +3,9 @@ title: FurnitureTypes 2
 permalink: FurnitureTypes_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FurnitureTypes](/keeperrl_wiki/Old_FurnitureTypes "wikilink")
+
 =Usage=
 Used to specify what can be built from the build menu and also for immigration requirements.
 

@@ -3,6 +3,9 @@ title: Flying 3
 permalink: Flying_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Flying](/keeperrl_wiki/Old_Flying "wikilink")
+
 #REDIRECT [[Traits#Flying]]
 A creature with flying can move over ground and water and can see through trees.
 

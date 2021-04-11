@@ -4,6 +4,8 @@ permalink: Modding_Guide_41/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Modding_Guide](/keeperrl_wiki/Old_Modding_Guide "wikilink")
+
 There are 4 parts to this modding guide:
 #[[Gaining familiarity with mods on KeeperRL]]
 #[[Understanding the file formats for KeeperRL]]

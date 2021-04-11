@@ -3,6 +3,9 @@ title: Gnome Entrance 3
 permalink: Gnome_Entrance_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome_Entrance](/keeperrl_wiki/Old_Gnome_Entrance "wikilink")
+
 [[File:gnome.png|100px|link=]]
 [[File:gnome.png|100px|link=]]
 [[File:gnome.png|100px|link=]]

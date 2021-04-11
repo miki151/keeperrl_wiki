@@ -3,6 +3,9 @@ title: White Wizard 1
 permalink: White_Wizard_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_White_Wizard](/keeperrl_wiki/Old_White_Wizard "wikilink")
+
 [[File:white_wizard.png|100px|link=]]
 
 = Base Stats =

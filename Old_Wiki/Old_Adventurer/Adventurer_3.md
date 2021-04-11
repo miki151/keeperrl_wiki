@@ -3,6 +3,9 @@ title: Adventurer 3
 permalink: Adventurer_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adventurer](/keeperrl_wiki/Old_Adventurer "wikilink")
+
 *Defense:20
 *Damage:15
 *Body size:Large

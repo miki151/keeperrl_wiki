@@ -3,6 +3,9 @@ title: Tree Spirit 1
 permalink: Tree_Spirit_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tree_Spirit](/keeperrl_wiki/Old_Tree_Spirit "wikilink")
+
 A tree spirit will appear when you cut down a lot of trees in an area. Tree Spirits start at level 17.
 
 [[Category: Creatures]]

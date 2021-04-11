@@ -3,6 +3,9 @@ title: Ritual Room 5
 permalink: Ritual_Room_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ritual_Room](/keeperrl_wiki/Old_Ritual_Room "wikilink")
+
 Build a ritual room that attracts demonic inhabitants to your Dungeon by placing demon shrines:
 *[[Ghost]]
 *[[Succubus]]

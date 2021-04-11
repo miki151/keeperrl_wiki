@@ -3,6 +3,9 @@ title: Rat People Cave 3
 permalink: Rat_People_Cave_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_People_Cave](/keeperrl_wiki/Old_Rat_People_Cave "wikilink")
+
 [[File:rat_king.png|100px|link=]]
 [[File:rat_soldier.png|100px|link=]]
 [[File:rat_soldier.png|100px|link=]]

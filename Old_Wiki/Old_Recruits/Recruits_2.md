@@ -3,6 +3,9 @@ title: Recruits 2
 permalink: Recruits_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Recruits](/keeperrl_wiki/Old_Recruits "wikilink")
+
 == White Knight Recruits ==
 
 {| class=&quot;wikitable sortable&quot;

@@ -3,6 +3,9 @@ title: Donkey 3
 permalink: Donkey_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Donkey](/keeperrl_wiki/Old_Donkey "wikilink")
+
 [[File:donkey.png|100px|link=]] '' Farm animal
 
 == Base Stats==

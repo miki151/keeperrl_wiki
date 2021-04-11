@@ -3,6 +3,9 @@ title: Installations 12
 permalink: Installations_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Installations](/keeperrl_wiki/Old_Installations "wikilink")
+
 [[File:Installations-Screenshot.png|500px|link=]]
 
 =Structures=

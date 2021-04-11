@@ -3,6 +3,9 @@ title: Elven Archer 0
 permalink: Elven_Archer_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elven_Archer](/keeperrl_wiki/Old_Elven_Archer "wikilink")
+
 Elven Archer
 
 [[Category: Creatures]]

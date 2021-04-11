@@ -3,6 +3,9 @@ title: Bed 0
 permalink: Bed_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bed](/keeperrl_wiki/Old_Bed "wikilink")
+
 [[Category:Rooms]]
 Description: ''Humanoid minions sleep on their beds.''
 

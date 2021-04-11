@@ -3,6 +3,9 @@ title: Child 4
 permalink: Child_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child](/keeperrl_wiki/Old_Child "wikilink")
+
 peasantkid.png
 ''Stealthy
 

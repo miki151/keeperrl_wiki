@@ -3,6 +3,9 @@ title: Items 10
 permalink: Items_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Items](/keeperrl_wiki/Old_Items "wikilink")
+
 Items can be modded to create special items that would not otherwise exist. The items that can be built are in build_menu.txt
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/build_menu.txt build_menu.txt]]
 

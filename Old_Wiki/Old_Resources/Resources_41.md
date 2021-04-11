@@ -3,6 +3,9 @@ title: Resources 41
 permalink: Resources_41/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 In KeeperRL the amount of resources you have is ''limited'': trees don't grow back, all ores are shown. Through the use of alchemy there is an exception with [[:Resources#Gold|gold]] being used to turn into other materials.
 
 To gather resources you have to select them the ''Dig or cut tree'' tool. Your [[:Imp|imps]] will then start to harvest the resource and carry it to your [[:Storage|stockpiles]].

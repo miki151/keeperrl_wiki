@@ -3,6 +3,9 @@ title: Requests For New Weapons 14
 permalink: Requests_For_New_Weapons_14/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Weapons](/keeperrl_wiki/Old_Requests_For_New_Weapons "wikilink")
+
 == Iron Spear ==
 *Damage: 4 - 8
 *Accuracy = 6

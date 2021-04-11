@@ -3,6 +3,9 @@ title: Download Mods 51
 permalink: Download_Mods_51/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Downloads=
 
 =Download instructions=

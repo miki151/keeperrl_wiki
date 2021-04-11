@@ -3,6 +3,9 @@ title: Demon Dweller 1
 permalink: Demon_Dweller_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Dweller](/keeperrl_wiki/Old_Demon_Dweller "wikilink")
+
 *Spell Damage:35
 *Defense:30
 *Damage 25

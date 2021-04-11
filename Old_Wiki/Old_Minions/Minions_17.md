@@ -3,6 +3,9 @@ title: Minions 17
 permalink: Minions_17/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 = Overview =
 
 == Recruitable minions ==

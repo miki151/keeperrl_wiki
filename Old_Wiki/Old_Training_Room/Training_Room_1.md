@@ -3,6 +3,9 @@ title: Training Room 1
 permalink: Training_Room_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Training_Room](/keeperrl_wiki/Old_Training_Room "wikilink")
+
 Train your creatures
 ==Tile Cost==
 20 iron

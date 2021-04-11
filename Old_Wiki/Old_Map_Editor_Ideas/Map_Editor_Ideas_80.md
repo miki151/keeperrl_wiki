@@ -3,6 +3,9 @@ title: Map Editor Ideas 80
 permalink: Map_Editor_Ideas_80/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Map_Editor_Ideas](/keeperrl_wiki/Old_Map_Editor_Ideas "wikilink")
+
 Hi,
 
 There is a possibility that a later version of Keeper will include a map editor. Please provide your ideas here.

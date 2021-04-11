@@ -3,6 +3,9 @@ title: Ant Queen 7
 permalink: Ant_Queen_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Queen](/keeperrl_wiki/Old_Ant_Queen "wikilink")
+
 [[File:antq.png|100px|link=]]
 ''A minor boss.
 

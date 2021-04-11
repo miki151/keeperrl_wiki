@@ -3,6 +3,9 @@ title: Fire Elemental 3
 permalink: Fire_Elemental_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Elemental](/keeperrl_wiki/Old_Fire_Elemental "wikilink")
+
 [[File:fire_elemental.png|100px|link=]] ''Summoned near lava
 
 == Base Stats ==

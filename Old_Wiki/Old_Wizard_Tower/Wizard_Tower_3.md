@@ -3,6 +3,9 @@ title: Wizard Tower 3
 permalink: Wizard_Tower_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wizard_Tower](/keeperrl_wiki/Old_Wizard_Tower "wikilink")
+
 [[File:white_wizard.png|100px|link=]]
 [[File:succubussmall.png|100px|link=]]
 [[File:succubussmall.png|100px|link=]]

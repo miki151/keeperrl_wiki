@@ -3,6 +3,9 @@ title: Female Adventurer 2
 permalink: Female_Adventurer_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Female_Adventurer](/keeperrl_wiki/Old_Female_Adventurer "wikilink")
+
 #REDIRECT [[Adventurer]]
 
 [[Category:Creatures]]

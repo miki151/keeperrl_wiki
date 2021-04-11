@@ -3,6 +3,9 @@ title: Modding Guide 40
 permalink: Modding_Guide_40/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Modding_Guide](/keeperrl_wiki/Old_Modding_Guide "wikilink")
+
 Last updated in Alpha 26 (Somewhat behind).
 
 There are 4 parts to this modding guide:

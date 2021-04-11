@@ -3,6 +3,9 @@ title: Download Mods 87
 permalink: Download_Mods_87/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 For Alpha 26 Mods go [[Alpha 26 Mods | Here]]
 
 =Alpha 27 download instructions=

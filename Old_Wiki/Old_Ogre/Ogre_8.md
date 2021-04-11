@@ -3,6 +3,9 @@ title: Ogre 8
 permalink: Ogre_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre](/keeperrl_wiki/Old_Ogre "wikilink")
+
 [[File:ogre.png|100px|link=]] ''12 combat training levels
 
 An ogre is a large humanoid with 2 arms and 2 legs. It is strong and agile, but slow. Ogres start at level 12

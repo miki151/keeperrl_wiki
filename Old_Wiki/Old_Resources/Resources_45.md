@@ -3,6 +3,9 @@ title: Resources 45
 permalink: Resources_45/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 In KeeperRL the amount of resources you have is ''limited'': trees don't grow back, all ores are shown. Through the use of alchemy there is an exception with [[:Resources#Gold|gold]] being used to turn into other materials.
 
 The amount of resources in the mountains can be configured/modded in resources.txt. The file looks like this:

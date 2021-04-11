@@ -3,6 +3,9 @@ title: Cottage Bandits 1
 permalink: Cottage_Bandits_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cottage_Bandits](/keeperrl_wiki/Old_Cottage_Bandits "wikilink")
+
 [[File:bandit.png|100px|link=]]
 [[File:bandit.png|100px|link=]]
 [[File:bandit.png|100px|link=]]

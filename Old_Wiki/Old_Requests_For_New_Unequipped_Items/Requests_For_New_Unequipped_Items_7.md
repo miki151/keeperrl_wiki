@@ -3,6 +3,9 @@ title: Requests For New Unequipped Items 7
 permalink: Requests_For_New_Unequipped_Items_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Unequipped_Items](/keeperrl_wiki/Old_Requests_For_New_Unequipped_Items "wikilink")
+
 == Potion of garlic mixture ==
 *Weight: 0.3
 *Price: 50

@@ -3,6 +3,9 @@ title: Morale 2
 permalink: Morale_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Morale](/keeperrl_wiki/Old_Morale "wikilink")
+
 = The Effect of Morale =
 *Enables legendary craftsmen to forge using glyphs
 *Increased bravery in battle

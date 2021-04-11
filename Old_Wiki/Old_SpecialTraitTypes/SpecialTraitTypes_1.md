@@ -3,6 +3,9 @@ title: SpecialTraitTypes 1
 permalink: SpecialTraitTypes_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_SpecialTraitTypes](/keeperrl_wiki/Old_SpecialTraitTypes "wikilink")
+
 =Usage=
 Used to determine what special immigrants will appear
 

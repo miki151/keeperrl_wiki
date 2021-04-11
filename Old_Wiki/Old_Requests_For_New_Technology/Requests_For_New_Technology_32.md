@@ -3,6 +3,9 @@ title: Requests For New Technology 32
 permalink: Requests_For_New_Technology_32/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Technology](/keeperrl_wiki/Old_Requests_For_New_Technology "wikilink")
+
 ==Overlord==
 *Cost: 800
 *Benefit: Evil Eye can see farther/invisible units and night vision, Keeper Gains Permanent Stat buff of +2 to all base stats, Increase Pop cap by 10. Gain 5 Free Imps.

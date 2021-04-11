@@ -3,6 +3,9 @@ title: Automaton 1
 permalink: Automaton_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Automaton](/keeperrl_wiki/Old_Automaton "wikilink")
+
 *Defense:40
 *Damage:40
 *Melee Resistance:Yes

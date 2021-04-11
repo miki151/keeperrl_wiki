@@ -3,6 +3,9 @@ title: Stealing 1
 permalink: Stealing_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Stealing](/keeperrl_wiki/Old_Stealing "wikilink")
+
 #REDIRECT [[Skills#Stealing]]
 Stealing
 

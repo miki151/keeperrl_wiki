@@ -3,6 +3,9 @@ title: Shaman 0
 permalink: Shaman_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shaman](/keeperrl_wiki/Old_Shaman "wikilink")
+
 = Base Stats =
  Strenght: 23
  Dexterity: 16

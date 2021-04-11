@@ -3,6 +3,9 @@ title: Alpha27BonusFeaturesMod 2
 permalink: Alpha27BonusFeaturesMod_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha27BonusFeaturesMod](/keeperrl_wiki/Old_Alpha27BonusFeaturesMod "wikilink")
+
 =Keepers=
 *Keeper mage easy mode
 *Standard keeper mage

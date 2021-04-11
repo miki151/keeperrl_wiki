@@ -3,6 +3,9 @@ title: Dormitory 3
 permalink: Dormitory_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dormitory](/keeperrl_wiki/Old_Dormitory "wikilink")
+
 Your non-[[:Category: Beasts|beast]] minions will find solace here.
 ==Tile Cost==
 10 wood

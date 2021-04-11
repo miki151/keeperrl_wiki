@@ -3,6 +3,9 @@ title: FixedSpawnLocations 0
 permalink: FixedSpawnLocations_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FixedSpawnLocations](/keeperrl_wiki/Old_FixedSpawnLocations "wikilink")
+
 =Usage=
 Used to specify.
 

@@ -3,6 +3,9 @@ title: Requests For New Rooms 4
 permalink: Requests_For_New_Rooms_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Rooms](/keeperrl_wiki/Old_Requests_For_New_Rooms "wikilink")
+
 == Mushroom Farm ==
 
 * Cost per tile: 10 mana

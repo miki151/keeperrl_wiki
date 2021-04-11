@@ -3,6 +3,9 @@ title: Cave Bear 2
 permalink: Cave_Bear_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cave_Bear](/keeperrl_wiki/Old_Cave_Bear "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

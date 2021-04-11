@@ -3,6 +3,9 @@ title: Teuton 1
 permalink: Teuton_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Teuton](/keeperrl_wiki/Old_Teuton "wikilink")
+
 [[File:teuton.png|100px|link=]]
 
 = Base Stats =

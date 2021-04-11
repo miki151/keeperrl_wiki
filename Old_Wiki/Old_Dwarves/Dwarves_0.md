@@ -3,6 +3,9 @@ title: Dwarves 0
 permalink: Dwarves_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarves](/keeperrl_wiki/Old_Dwarves "wikilink")
+
 = Stats =
 *Settlement: Mine town
 *Tribal loyalty: Dwarf

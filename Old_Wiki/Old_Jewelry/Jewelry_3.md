@@ -3,6 +3,9 @@ title: Jewelry 3
 permalink: Jewelry_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Jewelry](/keeperrl_wiki/Old_Jewelry "wikilink")
+
 [[Category: Items]]
 
 = Rings =

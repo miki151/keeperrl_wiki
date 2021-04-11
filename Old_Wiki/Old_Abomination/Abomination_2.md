@@ -3,6 +3,9 @@ title: Abomination 2
 permalink: Abomination_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Abomination](/keeperrl_wiki/Old_Abomination "wikilink")
+
 [[File:abomination.png|100px|link=]]
 
 = Base Stats =

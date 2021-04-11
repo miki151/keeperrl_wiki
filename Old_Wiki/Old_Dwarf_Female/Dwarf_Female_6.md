@@ -3,6 +3,9 @@ title: Dwarf Female 6
 permalink: Dwarf_Female_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Female](/keeperrl_wiki/Old_Dwarf_Female "wikilink")
+
 [[File:dwarf_f.png|100px|link=]] '' A good digger once imprisoned
 
 == Base Stats ==

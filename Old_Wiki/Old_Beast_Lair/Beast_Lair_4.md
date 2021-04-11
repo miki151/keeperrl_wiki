@@ -3,6 +3,9 @@ title: Beast Lair 4
 permalink: Beast_Lair_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Beast_Lair](/keeperrl_wiki/Old_Beast_Lair "wikilink")
+
 #REDIRECT [[Beast Cage]]
 
 [[Category:Rooms]]

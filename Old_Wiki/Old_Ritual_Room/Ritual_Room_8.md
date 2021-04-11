@@ -3,6 +3,9 @@ title: Ritual Room 8
 permalink: Ritual_Room_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ritual_Room](/keeperrl_wiki/Old_Ritual_Room "wikilink")
+
 [[File:demon_shrine.png|100px|link=]]
 ''Demons love gold (but so do you, so how many can you afford?)
 

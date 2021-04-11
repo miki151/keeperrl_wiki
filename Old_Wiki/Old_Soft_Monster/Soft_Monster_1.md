@@ -3,6 +3,9 @@ title: Soft Monster 1
 permalink: Soft_Monster_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soft_Monster](/keeperrl_wiki/Old_Soft_Monster "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soft_Monster](/keeperrl_wiki/Old_Soft_Monster "wikilink")

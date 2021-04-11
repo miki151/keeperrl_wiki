@@ -3,6 +3,9 @@ title: Boar 1
 permalink: Boar_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Boar](/keeperrl_wiki/Old_Boar "wikilink")
+
 *Defense:10
 *Damage:10
 *Body size:Medium

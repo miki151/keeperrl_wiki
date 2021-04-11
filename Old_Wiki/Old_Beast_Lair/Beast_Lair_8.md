@@ -3,6 +3,9 @@ title: Beast Lair 8
 permalink: Beast_Lair_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Beast_Lair](/keeperrl_wiki/Old_Beast_Lair "wikilink")
+
 [[File:laircage_ted.png|100px|link=]]
 ''Beasts sleep in their cages.''
 

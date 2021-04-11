@@ -3,6 +3,9 @@ title: Haste Self 0
 permalink: Haste_Self_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Haste_Self](/keeperrl_wiki/Old_Haste_Self "wikilink")
+
 +57 Speed
 
 [[Category: Spells]]

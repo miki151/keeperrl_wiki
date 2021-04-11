@@ -3,6 +3,9 @@ title: ResourceIDs 2
 permalink: ResourceIDs_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ResourceIDs](/keeperrl_wiki/Old_ResourceIDs "wikilink")
+
 =Usage=
 Used to specify the costs of items to build and craft and the costs of recruitment
 

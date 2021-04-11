@@ -3,6 +3,9 @@ title: Dark Elf Dungeon Entrance 0
 permalink: Dark_Elf_Dungeon_Entrance_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Dungeon_Entrance](/keeperrl_wiki/Old_Dark_Elf_Dungeon_Entrance "wikilink")
+
 = Stats =
 *Settlement: Small Mine Town
 *Tribal Loyalty: Dark Elf

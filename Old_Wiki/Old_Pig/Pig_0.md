@@ -3,6 +3,9 @@ title: Pig 0
 permalink: Pig_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Pig](/keeperrl_wiki/Old_Pig "wikilink")
+
 Pig
 
 [[Category: Creatures]]

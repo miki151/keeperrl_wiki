@@ -3,6 +3,9 @@ title: Absorbtion 2
 permalink: Absorbtion_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Absorbtion](/keeperrl_wiki/Old_Absorbtion "wikilink")
+
 #REDIRECT [[Skills#Absorption]]
 
 [[Category: Skills]]

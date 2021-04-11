@@ -3,6 +3,9 @@ title: Ogre Cave 0
 permalink: Ogre_Cave_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre_Cave](/keeperrl_wiki/Old_Ogre_Cave "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Tribal Loyalty: Greenskin

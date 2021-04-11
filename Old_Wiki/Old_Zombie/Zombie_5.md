@@ -3,6 +3,9 @@ title: Zombie 5
 permalink: Zombie_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

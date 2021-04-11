@@ -3,6 +3,9 @@ title: CreatureIDs 0
 permalink: CreatureIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_CreatureIDs](/keeperrl_wiki/Old_CreatureIDs "wikilink")
+
 =Usage=
 Used to specify.
 

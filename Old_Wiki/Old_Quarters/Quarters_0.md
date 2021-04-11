@@ -3,6 +3,9 @@ title: Quarters 0
 permalink: Quarters_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Quarters](/keeperrl_wiki/Old_Quarters "wikilink")
+
 Quarters are a way to set up places for creatures to go without them wandering half way across the map or mixing with creatures assigned to different quarters. There are up to 3 of these separate areas that can be used to keep your minions apart. 
 
 [[Category: Rooms]]

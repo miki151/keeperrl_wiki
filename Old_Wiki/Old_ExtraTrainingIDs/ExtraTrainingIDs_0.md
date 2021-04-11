@@ -3,6 +3,9 @@ title: ExtraTrainingIDs 0
 permalink: ExtraTrainingIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ExtraTrainingIDs](/keeperrl_wiki/Old_ExtraTrainingIDs "wikilink")
+
 =Valid Values=
 *SPELL
 *ARCHERY

@@ -3,6 +3,9 @@ title: Thieves 3
 permalink: Thieves_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Thieves](/keeperrl_wiki/Old_Thieves "wikilink")
+
 [[File:thief_leader.png|100px|link=]]
 [[File:sorcerer.png|100px|link=]]
 [[File:thief.png|100px|link=]]

@@ -3,6 +3,9 @@ title: Alpha22 1
 permalink: Alpha22_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha22](/keeperrl_wiki/Old_Alpha22 "wikilink")
+
 = Alpha 21 Changes =
 
 == Gameplay changes ==

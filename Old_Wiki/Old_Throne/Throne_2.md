@@ -3,6 +3,9 @@ title: Throne 2
 permalink: Throne_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Throne](/keeperrl_wiki/Old_Throne "wikilink")
+
 This construction can only be built once, after you defeated a tribe. It immediately adds 10 to your population cap, and makes the other tribes hate you more. But they're probably just jealous.
 
 After you upload a sucessful dungeon, enemy players that sit upon your throne will summon all your remaining forces for the final battle. This is more fun than having to hunt down every last creature and your odds of winning the fight are usually better, so this is good for all sides and much encouraged.

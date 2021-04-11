@@ -3,6 +3,9 @@ title: Witch 0
 permalink: Witch_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witch](/keeperrl_wiki/Old_Witch "wikilink")
+
 = Base Stats =
  Strenght: 14
  Dexterity: 12

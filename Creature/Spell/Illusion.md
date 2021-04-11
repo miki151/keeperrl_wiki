@@ -61,4 +61,4 @@ Other items in this section
 -    [Magic Shield](/keeperrl_wiki/Magic_Shield "wikilink")
 -    [Spell Guide](/keeperrl_wiki/Spell_Guide "wikilink")
 -    [Stun Ray](/keeperrl_wiki/Stun_Ray "wikilink")
--    [Word of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
+-    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")

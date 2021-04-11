@@ -3,6 +3,9 @@ title: White Dragon Entrance 1
 permalink: White_Dragon_Entrance_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_White_Dragon_Entrance](/keeperrl_wiki/Old_White_Dragon_Entrance "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Tribal loyalty: Bandit

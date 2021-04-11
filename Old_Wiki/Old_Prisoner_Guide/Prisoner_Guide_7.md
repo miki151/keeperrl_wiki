@@ -3,6 +3,9 @@ title: Prisoner Guide 7
 permalink: Prisoner_Guide_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prisoner_Guide](/keeperrl_wiki/Old_Prisoner_Guide "wikilink")
+
 =Converting prisoners=
 *You need torture tables, a population slot and a suitable prisoner to convert
 *Failure chance is 50%, which means they die without converting to your dungeon

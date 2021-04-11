@@ -3,6 +3,9 @@ title: Earth Elemental 3
 permalink: Earth_Elemental_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Earth_Elemental](/keeperrl_wiki/Old_Earth_Elemental "wikilink")
+
 [[File:earthelemental.png|100px|link=]] ''
 
 *Body Size:Large

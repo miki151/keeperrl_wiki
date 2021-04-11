@@ -3,6 +3,9 @@ title: Adamantium Golem 1
 permalink: Adamantium_Golem_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golem](/keeperrl_wiki/Old_Adamantium_Golem "wikilink")
+
 *Defense:36
 *Damage:36
 *Melee Resistance:Yes

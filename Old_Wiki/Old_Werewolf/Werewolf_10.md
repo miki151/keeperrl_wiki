@@ -3,6 +3,9 @@ title: Werewolf 10
 permalink: Werewolf_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Werewolf](/keeperrl_wiki/Old_Werewolf "wikilink")
+
 __NOTOC__
 
 [[File:werewolf2.png|100px|link=]] ''Naturally regenerates health

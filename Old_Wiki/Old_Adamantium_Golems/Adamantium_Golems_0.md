@@ -3,6 +3,9 @@ title: Adamantium Golems 0
 permalink: Adamantium_Golems_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golems](/keeperrl_wiki/Old_Adamantium_Golems "wikilink")
+
 = Stats =
 *Settlement: Vault
 *Inhabitants: 8-9 adamantium golem fighters

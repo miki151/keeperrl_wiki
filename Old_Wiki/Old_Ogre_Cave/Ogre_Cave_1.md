@@ -3,6 +3,9 @@ title: Ogre Cave 1
 permalink: Ogre_Cave_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre_Cave](/keeperrl_wiki/Old_Ogre_Cave "wikilink")
+
 [[File:ogre.png|100px|link=]]
 [[File:ogre.png|100px|link=]]
 [[File:ogre.png|100px|link=]]

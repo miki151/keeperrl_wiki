@@ -3,6 +3,9 @@ title: Vampire 5
 permalink: Vampire_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire](/keeperrl_wiki/Old_Vampire "wikilink")
+
 __NOTOC__
 
 [[File:vampire.png|100px|link=]] ''Undead spell-caster minion

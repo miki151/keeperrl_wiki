@@ -3,6 +3,9 @@ title: Doppleganger 3
 permalink: Doppleganger_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Doppleganger](/keeperrl_wiki/Old_Doppleganger "wikilink")
+
 A doppleganger is a large, humanoid, spirit
 
 == Requirements ==

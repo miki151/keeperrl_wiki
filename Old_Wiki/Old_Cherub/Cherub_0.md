@@ -3,6 +3,9 @@ title: Cherub 0
 permalink: Cherub_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cherub](/keeperrl_wiki/Old_Cherub "wikilink")
+
 [[File:cherub.png|100px|link=]]
 
 = Base Stats =

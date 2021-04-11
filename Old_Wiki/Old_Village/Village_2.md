@@ -3,6 +3,9 @@ title: Village 2
 permalink: Village_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Village](/keeperrl_wiki/Old_Village "wikilink")
+
 [[File:knight.png|100px|link=]]
 [[File:knight.png|100px|link=]]
 [[File:knight.png|100px|link=]]

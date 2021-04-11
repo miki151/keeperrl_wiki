@@ -3,6 +3,9 @@ title: Understanding The File Formats For KeeperRL 80
 permalink: Understanding_The_File_Formats_For_KeeperRL_80/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Understanding_The_File_Formats_For_KeeperRL](/keeperrl_wiki/Old_Understanding_The_File_Formats_For_KeeperRL "wikilink")
+
 =general rules=
 *The text files are editable in a text editor. Some people have had trouble with notepad on windows. Install an app called Notepad++ or similar.
 *Each text file is a set of tables containing a list of available game content

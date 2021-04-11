@@ -3,6 +3,9 @@ title: Unicorn 0
 permalink: Unicorn_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn](/keeperrl_wiki/Old_Unicorn "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn](/keeperrl_wiki/Old_Unicorn "wikilink")

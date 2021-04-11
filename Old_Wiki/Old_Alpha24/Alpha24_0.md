@@ -3,6 +3,9 @@ title: Alpha24 0
 permalink: Alpha24_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha24](/keeperrl_wiki/Old_Alpha24 "wikilink")
+
 = The full change log =
 
 == Gameplay== 

@@ -3,6 +3,9 @@ title: Library 5
 permalink: Library_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Library](/keeperrl_wiki/Old_Library "wikilink")
+
 *Allows your minions to research new Spells.
 *Each creature studying in the library generates experience if in free play with the &quot;generate mana&quot; option ticked.
 *Efficiency is needed to study quickly.

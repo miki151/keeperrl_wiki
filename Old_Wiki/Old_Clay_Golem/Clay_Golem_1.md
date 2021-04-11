@@ -3,6 +3,9 @@ title: Clay Golem 1
 permalink: Clay_Golem_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Clay_Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
+
 *Defense:19
 *Damage:17
 *Body Size:Large

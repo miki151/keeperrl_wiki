@@ -3,6 +3,9 @@ title: Minotaur 1
 permalink: Minotaur_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minotaur](/keeperrl_wiki/Old_Minotaur "wikilink")
+
 *Defense:45
 *Damage:35
 *Ranged Resistance:Yes

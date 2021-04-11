@@ -3,6 +3,9 @@ title: Gaining Familiarity With Mods On KeeperRL 27
 permalink: Gaining_Familiarity_With_Mods_On_KeeperRL_27/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gaining_Familiarity_With_Mods_On_KeeperRL](/keeperrl_wiki/Old_Gaining_Familiarity_With_Mods_On_KeeperRL "wikilink")
+
 ==Recommended tutorial for modding Keeper==
 *The first recommendation is to get familiar with the existing modding system on KeeperRL
 *There are two types of mod on KeeperRL

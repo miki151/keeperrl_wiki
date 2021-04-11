@@ -3,6 +3,9 @@ title: Orc Village 0
 permalink: Orc_Village_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Village](/keeperrl_wiki/Old_Orc_Village "wikilink")
+
 = Stats =
 *Settlement: Village
 *Tribal loyalty: Greenskin

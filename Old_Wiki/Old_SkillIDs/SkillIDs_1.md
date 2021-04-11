@@ -3,6 +3,9 @@ title: SkillIDs 1
 permalink: SkillIDs_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_SkillIDs](/keeperrl_wiki/Old_SkillIDs "wikilink")
+
 =Usage=
 Used to specify what special skills immigrants may have.
 

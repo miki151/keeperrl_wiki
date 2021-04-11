@@ -3,6 +3,9 @@ title: Lizardman 3
 permalink: Lizardman_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman](/keeperrl_wiki/Old_Lizardman "wikilink")
+
 = Base Stats =
 *Defense:14
 *Damage:20

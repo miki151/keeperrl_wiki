@@ -3,6 +3,9 @@ title: Adamantium Golem 6
 permalink: Adamantium_Golem_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golem](/keeperrl_wiki/Old_Adamantium_Golem "wikilink")
+
 [[File:ada_golem.png|100px|link=]]
 ''Feared by the weak, hated by the strong.
 

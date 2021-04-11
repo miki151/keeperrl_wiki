@@ -3,6 +3,9 @@ title: Constructions 24
 permalink: Constructions_24/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")
+
 To manage your dungeon, you can ask your imps and recruited volunteers (prisoners) to construct rooms, install features and set traps. This is a game about building a dungeon after all.
 
 However, there is a type of &quot;Furniture&quot; in KeeperRL that includes landscape such as trees, water and other naturally occurring structures. Enemy tribes often have their own unique furniture. All types of furniture can be modded and the vanilla game contains probably about 100 different types and are not documented here. But the configuration file that defines all types of furniture in the official release is found here:

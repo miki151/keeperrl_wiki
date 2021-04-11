@@ -3,6 +3,9 @@ title: ImmigrationOptions 2
 permalink: ImmigrationOptions_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ImmigrationOptions](/keeperrl_wiki/Old_ImmigrationOptions "wikilink")
+
 =Usage=
 Used to specify various immigration options.
 

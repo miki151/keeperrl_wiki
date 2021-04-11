@@ -3,6 +3,9 @@ title: Adoxie Temple 5
 permalink: Adoxie_Temple_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adoxie_Temple](/keeperrl_wiki/Old_Adoxie_Temple "wikilink")
+
 [[File:adoxie_priest.png|100px|link=]]
 [[File:abomination.png|100px|link=]]
 [[File:abomination.png|100px|link=]]

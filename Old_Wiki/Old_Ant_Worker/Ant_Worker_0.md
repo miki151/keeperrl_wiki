@@ -3,6 +3,9 @@ title: Ant Worker 0
 permalink: Ant_Worker_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Worker](/keeperrl_wiki/Old_Ant_Worker "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Worker](/keeperrl_wiki/Old_Ant_Worker "wikilink")

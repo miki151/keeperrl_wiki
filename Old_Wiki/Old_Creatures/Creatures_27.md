@@ -3,6 +3,9 @@ title: Creatures 27
 permalink: Creatures_27/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creatures](/keeperrl_wiki/Old_Creatures "wikilink")
+
 Here is a list of creatures extracted from the game-code in February 2018.
 Some of the monsters will be impossible to actually encounter (yet).
 

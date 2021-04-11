@@ -3,6 +3,9 @@ title: Requests For New Armour 8
 permalink: Requests_For_New_Armour_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Armour](/keeperrl_wiki/Old_Requests_For_New_Armour "wikilink")
+
 == Elven Steel War Helm ==
 *Defence: 5
 *Weight: 5

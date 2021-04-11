@@ -3,6 +3,9 @@ title: Teutons 5
 permalink: Teutons_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Teutons](/keeperrl_wiki/Old_Teutons "wikilink")
+
 [[File:teuton_boss.png|100px|link=]]
 [[File:friar.png|100px|link=]]
 [[File:teuton.png|100px|link=]]

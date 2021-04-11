@@ -3,6 +3,9 @@ title: Warriors 2
 permalink: Warriors_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warriors](/keeperrl_wiki/Old_Warriors "wikilink")
+
 = Stats =
 *Settlement: Castle
 *Tribal loyalty: Humanity

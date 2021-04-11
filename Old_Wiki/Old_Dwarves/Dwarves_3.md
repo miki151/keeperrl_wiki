@@ -3,6 +3,9 @@ title: Dwarves 3
 permalink: Dwarves_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarves](/keeperrl_wiki/Old_Dwarves "wikilink")
+
 [[File:dwarf_baron.png|100px|link=]]
 [[File:dwarf_blacksmith.png|100px|link=]]
 [[File:Dwarf.png|100px|link=]]

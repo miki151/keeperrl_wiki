@@ -3,6 +3,9 @@ title: Requests For New Technology 34
 permalink: Requests_For_New_Technology_34/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Technology](/keeperrl_wiki/Old_Requests_For_New_Technology "wikilink")
+
 =Unlock new spells=
 
 ==Elite Sorcery==

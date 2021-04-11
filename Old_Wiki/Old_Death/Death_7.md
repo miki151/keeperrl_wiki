@@ -3,6 +3,9 @@ title: Death 7
 permalink: Death_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")
+
 [[File:Death.png|100px|link=]] '' You may find him at the end of the game.
 
 *Defense:35

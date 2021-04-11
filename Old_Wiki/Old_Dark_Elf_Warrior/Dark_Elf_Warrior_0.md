@@ -3,6 +3,9 @@ title: Dark Elf Warrior 0
 permalink: Dark_Elf_Warrior_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Warrior](/keeperrl_wiki/Old_Dark_Elf_Warrior "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Warrior](/keeperrl_wiki/Old_Dark_Elf_Warrior "wikilink")

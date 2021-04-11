@@ -3,6 +3,9 @@ title: Death 2
 permalink: Death_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Death](/keeperrl_wiki/Old_Death "wikilink")
+
 [[File:Death.png|100px|link=]] '' Reward for solving a puzzle
 
 *Defense:35

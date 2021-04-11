@@ -3,6 +3,9 @@ title: Experience 6
 permalink: Experience_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Experience](/keeperrl_wiki/Old_Experience "wikilink")
+
 == Training ==
 * Use wooden, iron and adamantium dummies to train in melee combat
 * Use wooden, iron and gold bookcases to train in magic combat

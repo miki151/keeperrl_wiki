@@ -3,6 +3,9 @@ title: Consumables 19
 permalink: Consumables_19/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Consumables](/keeperrl_wiki/Old_Consumables "wikilink")
+
 = Potions =
 
 The potions below can be brewed in a brewery/laboratory. Also carried by some fairly common opponents. Some artefact potions exist such as one that allows your minions to regrow lost limbs. Some mods have various special potions that you can't get in the standard version of the game.

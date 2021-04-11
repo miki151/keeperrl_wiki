@@ -3,6 +3,9 @@ title: Dog 1
 permalink: Dog_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dog](/keeperrl_wiki/Old_Dog "wikilink")
+
 = Base Stats =
 *Defense:7
 *Damage:18

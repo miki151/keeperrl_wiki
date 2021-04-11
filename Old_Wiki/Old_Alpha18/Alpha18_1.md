@@ -3,6 +3,9 @@ title: Alpha18 1
 permalink: Alpha18_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha18](/keeperrl_wiki/Old_Alpha18 "wikilink")
+
 Alpha 18 was released in May 2016. The major changes are as follows:
 
 * Campaign mode, including Keeper vs Keeper battles!

@@ -3,6 +3,9 @@ title: Dwarf Female 2
 permalink: Dwarf_Female_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Female](/keeperrl_wiki/Old_Dwarf_Female "wikilink")
+
 [[File:dwarf_female.png|100px|link=]] '' A good digger once imprisoned
 
 *Defense:25

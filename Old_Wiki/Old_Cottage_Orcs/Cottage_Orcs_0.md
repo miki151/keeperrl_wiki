@@ -3,6 +3,9 @@ title: Cottage Orcs 0
 permalink: Cottage_Orcs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cottage_Orcs](/keeperrl_wiki/Old_Cottage_Orcs "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Inhabitants 4-9 Orcs

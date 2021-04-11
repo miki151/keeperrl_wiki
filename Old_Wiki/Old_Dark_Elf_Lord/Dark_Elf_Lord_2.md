@@ -3,6 +3,9 @@ title: Dark Elf Lord 2
 permalink: Dark_Elf_Lord_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Lord](/keeperrl_wiki/Old_Dark_Elf_Lord "wikilink")
+
 [[File:Dark_elf_lord.png|100px|link=]] '' Lord of his caves
 
 == Base Stats ==

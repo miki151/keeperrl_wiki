@@ -3,6 +3,9 @@ title: Requests For New Traits 20
 permalink: Requests_For_New_Traits_20/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Traits](/keeperrl_wiki/Old_Requests_For_New_Traits "wikilink")
+
 Existing traits are:
 
 Animal, Blind, Brainless, Carry Anything, Courage, Explore, 

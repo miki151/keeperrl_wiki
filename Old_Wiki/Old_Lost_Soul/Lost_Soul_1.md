@@ -3,6 +3,9 @@ title: Lost Soul 1
 permalink: Lost_Soul_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lost_Soul](/keeperrl_wiki/Old_Lost_Soul "wikilink")
+
 *Body size:Large
 *Spell Damage:5
 *Defense:25

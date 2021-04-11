@@ -4,6 +4,8 @@ permalink: LeisureZone_1/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_LeisureZone](/keeperrl_wiki/Old_LeisureZone "wikilink")
+
 ''Leisure zones are set up for creatures to go there When they aren't busy.
 
 Without quarters assigned, minions may hang about in random places or wander your dungeon aimlessly.

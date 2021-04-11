@@ -3,6 +3,9 @@ title: Throne 7
 permalink: Throne_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Throne](/keeperrl_wiki/Old_Throne "wikilink")
+
 [[File:throne.png|100px|link=]] ''I'm the king of the castle, you are the dirty rascal!
 
 This construction can only be built once, after you defeated a tribe. It immediately adds 10 to your population cap, and makes the other tribes hate you more. But they're probably just jealous.

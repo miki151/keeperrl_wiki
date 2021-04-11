@@ -3,6 +3,9 @@ title: Minotaur 7
 permalink: Minotaur_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minotaur](/keeperrl_wiki/Old_Minotaur "wikilink")
+
 [[File:minotaur.png|100px|link=]] ''Sometimes lives under castles
 
 == Base Stats ==

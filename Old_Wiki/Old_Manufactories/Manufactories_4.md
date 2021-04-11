@@ -3,6 +3,9 @@ title: Manufactories 4
 permalink: Manufactories_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 == Workshop Stand==
 Produces: first aid kits, bows, non-metal weapons, and traps
 

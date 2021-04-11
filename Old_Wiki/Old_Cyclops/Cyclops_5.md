@@ -3,6 +3,9 @@ title: Cyclops 5
 permalink: Cyclops_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cyclops](/keeperrl_wiki/Old_Cyclops "wikilink")
+
 *Defense:40
 *Damage:34
 *Body size:Large

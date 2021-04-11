@@ -3,6 +3,9 @@ title: Fox 3
 permalink: Fox_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fox](/keeperrl_wiki/Old_Fox "wikilink")
+
 [[File:fox.png|100px|link=]] ''Archery target practice
 
 == Base Stats ==

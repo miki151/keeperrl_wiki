@@ -3,6 +3,9 @@ title: Requests For Keys, Buttons, Menus 4
 permalink: Requests_For_Keys,_Buttons,_Menus_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_Keys,_Buttons,_Menus](/keeperrl_wiki/Old_Requests_For_Keys,_Buttons,_Menus "wikilink")
+
 *Click library, hold down shift, select a rectangle on the map with mouse - library with spaced shelves needs to be drawn (And not a solid block of shelves)
 
 *Rogue-like key set ie. W=up S=Down etc.

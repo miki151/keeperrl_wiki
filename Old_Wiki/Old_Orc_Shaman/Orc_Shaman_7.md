@@ -3,6 +3,9 @@ title: Orc Shaman 7
 permalink: Orc_Shaman_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Shaman](/keeperrl_wiki/Old_Orc_Shaman "wikilink")
+
 #REDIRECT [[Orc_Mage]]
 
 [[Category:Creatures]]

@@ -3,6 +3,9 @@ title: Manufactories 10
 permalink: Manufactories_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 [[File:workshop.png|100px|link=]] [[File:forge.png|100px|link=]] [[File:laboratory.png|100px|link=]] [[File:jewelerdeco.png|100px|link=]]
 ''Spot for hauling dead bodies and for Undead creatures to sleep in.''
 

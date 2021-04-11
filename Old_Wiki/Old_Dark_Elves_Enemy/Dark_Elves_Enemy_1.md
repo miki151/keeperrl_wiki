@@ -3,6 +3,9 @@ title: Dark Elves Enemy 1
 permalink: Dark_Elves_Enemy_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elves_Enemy](/keeperrl_wiki/Old_Dark_Elves_Enemy "wikilink")
+
 = Stats =
 *Settlement: Mine Town
 Tribal Loyalty: Dark Elf

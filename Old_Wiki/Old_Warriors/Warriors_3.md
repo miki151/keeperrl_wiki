@@ -3,6 +3,9 @@ title: Warriors 3
 permalink: Warriors_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warriors](/keeperrl_wiki/Old_Warriors "wikilink")
+
 [[File:shaman.png|100px|link=]]
 [[File:warrior.png|100px|link=]]
 [[File:warrior.png|100px|link=]]

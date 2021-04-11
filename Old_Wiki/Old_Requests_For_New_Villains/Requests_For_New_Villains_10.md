@@ -3,6 +3,9 @@ title: Requests For New Villains 10
 permalink: Requests_For_New_Villains_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Villains](/keeperrl_wiki/Old_Requests_For_New_Villains "wikilink")
+
 ==Ice Dragon==
 *Villain Type: Major Villain
 *Strength: 50

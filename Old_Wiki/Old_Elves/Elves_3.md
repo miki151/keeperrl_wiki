@@ -3,6 +3,9 @@ title: Elves 3
 permalink: Elves_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elves](/keeperrl_wiki/Old_Elves "wikilink")
+
 [[File:elf_lord.png|100px|link=]]
 [[File:elf_archer.png|100px|link=]]
 [[File:elf_archer.png|100px|link=]]

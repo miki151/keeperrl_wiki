@@ -3,6 +3,9 @@ title: Deer 3
 permalink: Deer_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Deer](/keeperrl_wiki/Old_Deer "wikilink")
+
 [[File:Deer.png|100px|link=]] '' Sometimes glimpsed running through the trees
 
 == Base Stats==

@@ -3,6 +3,9 @@ title: Alpha23 1
 permalink: Alpha23_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha23](/keeperrl_wiki/Old_Alpha23 "wikilink")
+
 = Alpha 23 change log =
 
 == Gameplay ==

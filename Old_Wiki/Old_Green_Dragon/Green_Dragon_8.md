@@ -3,6 +3,9 @@ title: Green Dragon 8
 permalink: Green_Dragon_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Green_Dragon](/keeperrl_wiki/Old_Green_Dragon "wikilink")
+
 [[File:greendragon.png|100px|link=]] ''Guards treasures
 
 = Base Stats =

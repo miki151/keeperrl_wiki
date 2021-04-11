@@ -4,6 +4,8 @@ permalink: Alpha20_1/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha20](/keeperrl_wiki/Old_Alpha20 "wikilink")
+
 	
 Alpha 20 - http://keeperrl.com/keeperrl-alpha20-released/
 Released in October 2016

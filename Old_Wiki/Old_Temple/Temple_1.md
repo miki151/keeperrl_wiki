@@ -3,6 +3,9 @@ title: Temple 1
 permalink: Temple_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Temple](/keeperrl_wiki/Old_Temple "wikilink")
+
 [[File:priest.png.png|100px|link=]]
 
 = Stats =

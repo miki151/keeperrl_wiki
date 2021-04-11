@@ -3,6 +3,9 @@ title: Orc Cave 1
 permalink: Orc_Cave_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Cave](/keeperrl_wiki/Old_Orc_Cave "wikilink")
+
 [[File:orc.png|100px|link=]]
 [[File:orc.png|100px|link=]]
 [[File:orc.png|100px|link=]]

@@ -3,6 +3,9 @@ title: Ogre 11
 permalink: Ogre_11/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ogre](/keeperrl_wiki/Old_Ogre "wikilink")
+
 [[NO_TOC]]
 
 [[File:troll.png|100px|link=]] ''12 combat training levels

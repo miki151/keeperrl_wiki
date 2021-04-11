@@ -3,6 +3,9 @@ title: Download Mods 25
 permalink: Download_Mods_25/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Download instructions=
 Alpha 26 has introduced new modding support. Download the zip files and copy them to your &quot;KeeperRL\data_free&quot; folder. To apply a mod, unzip it to &quot;data_free&quot; folder and replace any existing mod files that are already there. Restart KeeperRL for good measure. Leave the zip files in that &quot;data_free&quot;, so you can switch to any desired mod whenever you want to, just by extracting the zip file.
 

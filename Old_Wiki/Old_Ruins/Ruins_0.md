@@ -3,6 +3,9 @@ title: Ruins 0
 permalink: Ruins_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ruins](/keeperrl_wiki/Old_Ruins "wikilink")
+
 =Stats =
 *Settlement Cottage: 
 *Tribal Loyalty: None

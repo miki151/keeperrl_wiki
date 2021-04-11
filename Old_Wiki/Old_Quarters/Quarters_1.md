@@ -3,6 +3,9 @@ title: Quarters 1
 permalink: Quarters_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Quarters](/keeperrl_wiki/Old_Quarters "wikilink")
+
 [[File:floor.png|100px|link=]]
 ''Different quarters are coloured differently (but this was hard to show in an image).
 

@@ -3,6 +3,9 @@ title: Alpha31 2
 permalink: Alpha31_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha31](/keeperrl_wiki/Old_Alpha31 "wikilink")
+
 KeeperRL Alpha 31 is out!
 KeeperRL Alpha 31 is released! The two major features brought by this update are the new Warlord game mode and moddable randomly generated maps. Check out the rundown below to get an idea about all the rest of the new stuff.
 

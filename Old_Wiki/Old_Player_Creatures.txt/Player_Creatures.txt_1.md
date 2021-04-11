@@ -3,6 +3,9 @@ title: Player Creatures.txt 1
 permalink: Player_Creatures.txt_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Player_Creatures.txt](/keeperrl_wiki/Old_Player_Creatures.txt "wikilink")
+
  # Keepers
  {
    {

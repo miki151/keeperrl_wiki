@@ -3,6 +3,9 @@ title: Iron Golem 0
 permalink: Iron_Golem_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Iron_Golem](/keeperrl_wiki/Old_Iron_Golem "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Iron_Golem](/keeperrl_wiki/Old_Iron_Golem "wikilink")

@@ -3,6 +3,9 @@ title: Requests For New Villains 41
 permalink: Requests_For_New_Villains_41/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Villains](/keeperrl_wiki/Old_Requests_For_New_Villains "wikilink")
+
 =Major villains=
 Examples from Alpha 21: Red dragon, The Duke
 

@@ -3,6 +3,9 @@ title: Thieves 2
 permalink: Thieves_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Thieves](/keeperrl_wiki/Old_Thieves "wikilink")
+
 = Stats =
 *Settlement: Castle 
 *Tribal Loyalty: Humanity

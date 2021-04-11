@@ -3,6 +3,9 @@ title: Adoxie Hand Right 1
 permalink: Adoxie_Hand_Right_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adoxie_Hand_Right](/keeperrl_wiki/Old_Adoxie_Hand_Right "wikilink")
+
 [[File:adoxie_hand_right.png|100px|link=]]
 
 = Base Stats =

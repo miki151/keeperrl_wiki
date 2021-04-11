@@ -3,6 +3,9 @@ title: Room Layouts 3
 permalink: Room_Layouts_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Room_Layouts](/keeperrl_wiki/Old_Room_Layouts "wikilink")
+
 Soon in the game you discover that not only 1-tile rooms are in most cases not very effective, but different rooms behave differently as you grow them.
 
 == Bordered room ==

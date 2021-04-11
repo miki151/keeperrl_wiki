@@ -3,6 +3,9 @@ title: Goat 1
 permalink: Goat_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goat](/keeperrl_wiki/Old_Goat "wikilink")
+
 *Defense:7
 *Damage:10
 *Body size:Medium

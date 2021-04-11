@@ -3,6 +3,9 @@ title: Gnome 2
 permalink: Gnome_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome](/keeperrl_wiki/Old_Gnome "wikilink")
+
 = Base Stats =
 *Defense:13
 *Damage:12

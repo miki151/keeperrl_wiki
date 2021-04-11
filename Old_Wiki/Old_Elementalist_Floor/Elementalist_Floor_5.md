@@ -3,6 +3,9 @@ title: Elementalist Floor 5
 permalink: Elementalist_Floor_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist_Floor](/keeperrl_wiki/Old_Elementalist_Floor "wikilink")
+
 [[File:fire_elemental.png|100px|link=]]
 [[File:earthelemental.png|100px|link=]]
 [[File:air_element.png|100px|link=]]

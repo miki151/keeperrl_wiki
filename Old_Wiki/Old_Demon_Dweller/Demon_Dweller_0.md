@@ -3,6 +3,9 @@ title: Demon Dweller 0
 permalink: Demon_Dweller_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Dweller](/keeperrl_wiki/Old_Demon_Dweller "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Dweller](/keeperrl_wiki/Old_Demon_Dweller "wikilink")

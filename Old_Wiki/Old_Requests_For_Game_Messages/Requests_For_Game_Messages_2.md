@@ -3,6 +3,9 @@ title: Requests For Game Messages 2
 permalink: Requests_For_Game_Messages_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_Game_Messages](/keeperrl_wiki/Old_Requests_For_Game_Messages "wikilink")
+
 *French Versus
 *Russian was requested by someone?
 *&quot;Excuse me!&quot; when you walk past a monster. Should be less polite. (unless it's to the Keeper)

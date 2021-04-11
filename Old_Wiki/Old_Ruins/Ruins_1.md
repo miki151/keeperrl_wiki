@@ -3,6 +3,9 @@ title: Ruins 1
 permalink: Ruins_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ruins](/keeperrl_wiki/Old_Ruins "wikilink")
+
 [[File:lost_soul.png|100px|link=]]
 [[File:lost_soul.png|100px|link=]]
 [[File:lost_soul.png|100px|link=]]

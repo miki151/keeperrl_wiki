@@ -3,6 +3,9 @@ title: Dwarf 8
 permalink: Dwarf_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf](/keeperrl_wiki/Old_Dwarf "wikilink")
+
 [[File:Dwarf.png|100px|link=]] '' An armoured fighter
 
 = Base Stats =

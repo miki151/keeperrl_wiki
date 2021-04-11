@@ -3,6 +3,9 @@ title: Spider 0
 permalink: Spider_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spider](/keeperrl_wiki/Old_Spider "wikilink")
+
 = Base Stats =
  Strenght: 9
  Dexterity: 13

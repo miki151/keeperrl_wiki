@@ -3,6 +3,9 @@ title: Requests For New Technology 1
 permalink: Requests_For_New_Technology_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Technology](/keeperrl_wiki/Old_Requests_For_New_Technology "wikilink")
+
 ==Debris Management==
 *Cost: 800 mana
 *Benefit: Grant resource +1 stone for every tile mined by imps

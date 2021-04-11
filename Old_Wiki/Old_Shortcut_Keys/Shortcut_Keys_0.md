@@ -3,6 +3,9 @@ title: Shortcut Keys 0
 permalink: Shortcut_Keys_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shortcut_Keys](/keeperrl_wiki/Old_Shortcut_Keys "wikilink")
+
 a - Open [[Orders]] Menu
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shortcut_Keys](/keeperrl_wiki/Old_Shortcut_Keys "wikilink")

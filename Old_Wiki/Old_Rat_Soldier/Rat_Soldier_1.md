@@ -3,6 +3,9 @@ title: Rat Soldier 1
 permalink: Rat_Soldier_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_Soldier](/keeperrl_wiki/Old_Rat_Soldier "wikilink")
+
 [[File:rat_soldier.png|100px|link=]]
 
 = Base Stats =

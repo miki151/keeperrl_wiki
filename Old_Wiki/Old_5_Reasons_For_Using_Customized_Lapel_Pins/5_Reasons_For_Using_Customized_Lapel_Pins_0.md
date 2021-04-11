@@ -3,6 +3,9 @@ title: 5 Reasons For Using Customized Lapel Pins 0
 permalink: 5_Reasons_For_Using_Customized_Lapel_Pins_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_5_Reasons_For_Using_Customized_Lapel_Pins](/keeperrl_wiki/Old_5_Reasons_For_Using_Customized_Lapel_Pins "wikilink")
+
 If you want to promote your brand or support any team, then wearing custom lapel pins is a good option. [http://www.maxlapelpins.com/ '''Custom lapel pins'''] are effective way of marketing any product or event as well as they also helps in promoting the conference or meetings meant for good cause such as cancer awareness programs or environment protection awareness programs.
 
 There are various applications of personalized lapel pins and lanyards. A few of the important applications of lapel pins are given below:

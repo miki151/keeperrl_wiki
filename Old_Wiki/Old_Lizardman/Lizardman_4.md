@@ -3,6 +3,9 @@ title: Lizardman 4
 permalink: Lizardman_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman](/keeperrl_wiki/Old_Lizardman "wikilink")
+
 [[File:lizardman.png|100px|link=]] ''Poisoning reptile
 
 = Base Stats =

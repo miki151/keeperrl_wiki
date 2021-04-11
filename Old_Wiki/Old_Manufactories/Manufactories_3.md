@@ -3,6 +3,9 @@ title: Manufactories 3
 permalink: Manufactories_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Manufactories](/keeperrl_wiki/Old_Manufactories "wikilink")
+
 == Workshop ==
 Requires [[Crafting]] researched.
 

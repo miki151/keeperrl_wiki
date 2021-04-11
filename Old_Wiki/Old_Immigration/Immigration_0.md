@@ -3,6 +3,9 @@ title: Immigration 0
 permalink: Immigration_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Immigration](/keeperrl_wiki/Old_Immigration "wikilink")
+
 #REDIRECT [[Category:Minions]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Immigration](/keeperrl_wiki/Old_Immigration "wikilink")

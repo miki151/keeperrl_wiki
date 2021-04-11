@@ -3,6 +3,9 @@ title: Demon Den Underground 4
 permalink: Demon_Den_Underground_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Den_Underground](/keeperrl_wiki/Old_Demon_Den_Underground "wikilink")
+
 [[File:demon_lord.png|100px|link=]]
 [[File:Demon_dweller.png|100px|link=]]
 [[File:Demon_dweller.png|100px|link=]]

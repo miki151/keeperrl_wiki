@@ -3,6 +3,9 @@ title: Room Layouts 5
 permalink: Room_Layouts_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Room_Layouts](/keeperrl_wiki/Old_Room_Layouts "wikilink")
+
 #REDIRECT [[Rooms]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Room_Layouts](/keeperrl_wiki/Old_Room_Layouts "wikilink")

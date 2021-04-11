@@ -3,6 +3,9 @@ title: Requests For New Minions 33
 permalink: Requests_For_New_Minions_33/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Minions](/keeperrl_wiki/Old_Requests_For_New_Minions "wikilink")
+
 Please fill out the structure below. For stats &quot;Terrible&quot;, &quot;Poor&quot;, &quot;Medium&quot;, &quot;Good&quot;, &quot;Excellent&quot; will do as much as numbers.
 
 = Humanoid (Sleep in beds)= 

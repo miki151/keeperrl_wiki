@@ -3,6 +3,9 @@ title: User Keeperman 3
 permalink: User_Keeperman_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_User_Keeperman](/keeperrl_wiki/Old_User_Keeperman "wikilink")
+
 I should probably introduce myself. I am a fellow gamer who also likes to play with the code. I write mods for Keeper and desperately try to get them past quality into the actual game :) I am always interested in gaining new technical skills through hobby coding.
 
 I have no special status or authority, so you can ignore me whenever you want to. :)

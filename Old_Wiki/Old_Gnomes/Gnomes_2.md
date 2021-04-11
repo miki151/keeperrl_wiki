@@ -3,6 +3,9 @@ title: Gnomes 2
 permalink: Gnomes_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnomes](/keeperrl_wiki/Old_Gnomes "wikilink")
+
 [[File:gnome_chief.png|100px|link=]]
 [[File:gnome.png|100px|link=]]
 [[File:gnome.png|100px|link=]]

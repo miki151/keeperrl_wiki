@@ -3,6 +3,9 @@ title: Beast Lair 7
 permalink: Beast_Lair_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Beast_Lair](/keeperrl_wiki/Old_Beast_Lair "wikilink")
+
 Description: ''Beasts sleep in their cages.''
 
 Beast lair is the dormitory of:

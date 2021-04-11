@@ -3,6 +3,9 @@ title: Requests For New Allies 24
 permalink: Requests_For_New_Allies_24/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Allies](/keeperrl_wiki/Old_Requests_For_New_Allies "wikilink")
+
 Please fill out the structure below (Shown for giant recruits)
 
 = Greenskins / Humanoids (Sleep in beds) =

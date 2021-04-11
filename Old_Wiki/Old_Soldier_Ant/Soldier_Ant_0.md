@@ -3,6 +3,9 @@ title: Soldier Ant 0
 permalink: Soldier_Ant_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soldier_Ant](/keeperrl_wiki/Old_Soldier_Ant "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soldier_Ant](/keeperrl_wiki/Old_Soldier_Ant "wikilink")

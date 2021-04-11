@@ -3,6 +3,9 @@ title: Shopkeeper 3
 permalink: Shopkeeper_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shopkeeper](/keeperrl_wiki/Old_Shopkeeper "wikilink")
+
 [[File:shopkeeper.png|100px|link=]]
 
 = Base Stats =

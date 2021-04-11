@@ -3,6 +3,9 @@ title: Harpy 5
 permalink: Harpy_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Harpy](/keeperrl_wiki/Old_Harpy "wikilink")
+
 __NOTOC__
 
 [[File:harpy.png|100px|link=]] ''Winged killer

@@ -3,6 +3,9 @@ title: Requests For New Configurations 3
 permalink: Requests_For_New_Configurations_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Configurations](/keeperrl_wiki/Old_Requests_For_New_Configurations "wikilink")
+
 =New maps from existing monsters and tiles=
 
 ==Three cyclops==

@@ -3,6 +3,9 @@ title: CreatureIDs 6
 permalink: CreatureIDs_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_CreatureIDs](/keeperrl_wiki/Old_CreatureIDs "wikilink")
+
 =Usage=
 Used to specify what keepers and adventurers appear in games and also what immigrants appear in games.
 

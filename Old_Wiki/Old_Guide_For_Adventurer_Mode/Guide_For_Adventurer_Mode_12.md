@@ -4,6 +4,8 @@ permalink: Guide_For_Adventurer_Mode_12/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Guide_For_Adventurer_Mode](/keeperrl_wiki/Old_Guide_For_Adventurer_Mode "wikilink")
+
 When you start adventuring in the world of KeeperRL, use maximum handicap. It is best to choose an easy map to start with. Maps that other people have beaten. If you have beaten a new map, that nobody else has beaten, consider updating this page with a guide for that map.
 
 

@@ -3,6 +3,9 @@ title: Green Dragon 4
 permalink: Green_Dragon_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Green_Dragon](/keeperrl_wiki/Old_Green_Dragon "wikilink")
+
 = Base Stats =
  Strength: 40
  Dexterity: 30

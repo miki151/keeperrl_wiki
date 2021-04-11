@@ -3,6 +3,9 @@ title: Alpha23 0
 permalink: Alpha23_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha23](/keeperrl_wiki/Old_Alpha23 "wikilink")
+
 Gameplay
 
 *Endless game mode: no conquest objective, recurring enemy waves, survive as long as possible.

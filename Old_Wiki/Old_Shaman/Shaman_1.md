@@ -3,6 +3,9 @@ title: Shaman 1
 permalink: Shaman_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shaman](/keeperrl_wiki/Old_Shaman "wikilink")
+
 = Base Stats =
 *Spell Damage:30
 *Defense:19

@@ -3,6 +3,9 @@ title: Tree Spirit 13
 permalink: Tree_Spirit_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tree_Spirit](/keeperrl_wiki/Old_Tree_Spirit "wikilink")
+
 [[File:tree_spirit.png|100px|link=]]
 
 __NOTOC__

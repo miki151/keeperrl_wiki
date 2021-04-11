@@ -3,6 +3,9 @@ title: Cow 3
 permalink: Cow_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cow](/keeperrl_wiki/Old_Cow "wikilink")
+
 = Base Stats =
 *Defense:7
 *Damage:10

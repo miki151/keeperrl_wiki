@@ -3,6 +3,9 @@ title: Water Elemental 4
 permalink: Water_Elemental_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Water_Elemental](/keeperrl_wiki/Old_Water_Elemental "wikilink")
+
 [[File:waterelement.png|100px|link=]] ''Summoned near water
 
 ==Base Stats==

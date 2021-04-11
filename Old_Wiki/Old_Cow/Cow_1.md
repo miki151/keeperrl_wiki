@@ -3,6 +3,9 @@ title: Cow 1
 permalink: Cow_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cow](/keeperrl_wiki/Old_Cow "wikilink")
+
 = Base Stats =
  Strenght: 10
  Dexterity: 12

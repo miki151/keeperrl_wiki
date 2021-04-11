@@ -3,6 +3,9 @@ title: Archery 1
 permalink: Archery_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Archery](/keeperrl_wiki/Old_Archery "wikilink")
+
 #REDIRECT [[Skills#Archery]]
 Archery
 

@@ -3,6 +3,9 @@ title: Installations 3
 permalink: Installations_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Installations](/keeperrl_wiki/Old_Installations "wikilink")
+
 __NOTOC__
 == Door==
 ''Click on a built door to lock it.''

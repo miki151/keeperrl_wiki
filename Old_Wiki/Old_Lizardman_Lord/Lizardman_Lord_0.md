@@ -3,6 +3,9 @@ title: Lizardman Lord 0
 permalink: Lizardman_Lord_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Lord](/keeperrl_wiki/Old_Lizardman_Lord "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Lord](/keeperrl_wiki/Old_Lizardman_Lord "wikilink")

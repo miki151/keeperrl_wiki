@@ -3,6 +3,9 @@ title: Lost Soul 0
 permalink: Lost_Soul_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lost_Soul](/keeperrl_wiki/Old_Lost_Soul "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lost_Soul](/keeperrl_wiki/Old_Lost_Soul "wikilink")

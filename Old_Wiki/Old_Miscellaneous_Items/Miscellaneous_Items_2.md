@@ -3,6 +3,9 @@ title: Miscellaneous Items 2
 permalink: Miscellaneous_Items_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Miscellaneous_Items](/keeperrl_wiki/Old_Miscellaneous_Items "wikilink")
+
 =Miscellaneous Items not consumed=
 
 == First Aid Kit ==

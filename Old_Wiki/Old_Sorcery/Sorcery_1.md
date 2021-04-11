@@ -3,6 +3,9 @@ title: Sorcery 1
 permalink: Sorcery_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Sorcery](/keeperrl_wiki/Old_Sorcery "wikilink")
+
 #REDIRECT [[Skills#Sorcery]]
 Cast spells.
 

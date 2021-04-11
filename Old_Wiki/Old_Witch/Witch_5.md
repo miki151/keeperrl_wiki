@@ -3,6 +3,9 @@ title: Witch 5
 permalink: Witch_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witch](/keeperrl_wiki/Old_Witch "wikilink")
+
 [[File:witch.png|100px|link=]] ''Not always visible
 
 = Base Stats =

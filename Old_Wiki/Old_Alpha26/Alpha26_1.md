@@ -3,6 +3,9 @@ title: Alpha26 1
 permalink: Alpha26_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha26](/keeperrl_wiki/Old_Alpha26 "wikilink")
+
 =The full change log=
 ==Gameplay==
 *White Knight keeper.

@@ -3,6 +3,9 @@ title: Adamantium Golems 2
 permalink: Adamantium_Golems_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adamantium_Golems](/keeperrl_wiki/Old_Adamantium_Golems "wikilink")
+
 [[File:ada_golem.png|100px|link=]]
 [[File:ada_golem.png|100px|link=]]
 [[File:ada_golem.png|100px|link=]]

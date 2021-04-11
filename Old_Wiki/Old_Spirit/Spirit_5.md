@@ -3,6 +3,9 @@ title: Spirit 5
 permalink: Spirit_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spirit](/keeperrl_wiki/Old_Spirit "wikilink")
+
 __NOTOC__
 
 [[File:spirit.png|100px|link=]] ''Summoned protection

@@ -3,6 +3,9 @@ title: Wolf 2
 permalink: Wolf_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wolf](/keeperrl_wiki/Old_Wolf "wikilink")
+
 Wolf
 
 Arrives as a pack of 5 wolves (4 are level 9 and 1 level 11)

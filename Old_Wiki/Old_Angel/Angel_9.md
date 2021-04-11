@@ -3,6 +3,9 @@ title: Angel 9
 permalink: Angel_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Angel](/keeperrl_wiki/Old_Angel "wikilink")
+
 [[File:angel.png|100px|link=]]
 ''Agent of holiness
 

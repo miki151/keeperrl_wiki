@@ -3,6 +3,9 @@ title: SkillIDs 0
 permalink: SkillIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_SkillIDs](/keeperrl_wiki/Old_SkillIDs "wikilink")
+
 =Usage=
 Used to specify.
 

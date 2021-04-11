@@ -3,6 +3,9 @@ title: Bandit 0
 permalink: Bandit_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bandit](/keeperrl_wiki/Old_Bandit "wikilink")
+
 Bandit
 
 Try to access your [[Treasure_Room|treasure room]] to steal gold and then run away.

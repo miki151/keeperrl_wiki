@@ -3,6 +3,9 @@ title: Duke 2
 permalink: Duke_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Duke](/keeperrl_wiki/Old_Duke "wikilink")
+
 [[File:the_duke.png|100px|link=]] ''Mighty human boss
 
 = Base Stats =

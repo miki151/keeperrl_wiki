@@ -3,6 +3,9 @@ title: Warrior 2
 permalink: Warrior_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warrior](/keeperrl_wiki/Old_Warrior "wikilink")
+
 = Base Stats =
 *Defense:19
 *Damage:29

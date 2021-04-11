@@ -3,6 +3,9 @@ title: Player Contributed Sprites 4
 permalink: Player_Contributed_Sprites_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Player_Contributed_Sprites](/keeperrl_wiki/Old_Player_Contributed_Sprites "wikilink")
+
 * This page is for linking to google drives that contain free to use sprites for KeeperRL mods and any KeeperRL related content. Do not use these for anything non-KeeperRL related. The Imps will get mad.
 
 = Righteous Sinner's drive: =

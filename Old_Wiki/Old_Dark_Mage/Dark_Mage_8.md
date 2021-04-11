@@ -3,6 +3,9 @@ title: Dark Mage 8
 permalink: Dark_Mage_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Mage](/keeperrl_wiki/Old_Dark_Mage "wikilink")
+
 [[File:Keeper_west.png|100px|link=]]
 [[File:orc.png|100px|link=]]
 [[File:orc.png|100px|link=]]

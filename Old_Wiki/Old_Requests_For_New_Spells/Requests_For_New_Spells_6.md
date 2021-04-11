@@ -3,6 +3,9 @@ title: Requests For New Spells 6
 permalink: Requests_For_New_Spells_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Spells](/keeperrl_wiki/Old_Requests_For_New_Spells "wikilink")
+
 == Night vision ==
 * Magic school: Sorcery
 * Special powers: Temporarily lets you see in the dark

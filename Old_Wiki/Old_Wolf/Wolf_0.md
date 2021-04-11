@@ -3,6 +3,9 @@ title: Wolf 0
 permalink: Wolf_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wolf](/keeperrl_wiki/Old_Wolf "wikilink")
+
 Wolf
 
 Arrives in packs

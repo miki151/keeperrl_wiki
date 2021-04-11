@@ -3,6 +3,9 @@ title: VillainTypes 0
 permalink: VillainTypes_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_VillainTypes](/keeperrl_wiki/Old_VillainTypes "wikilink")
+
 =Usage=
 Used to specify.
 

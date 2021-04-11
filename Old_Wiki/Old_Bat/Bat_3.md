@@ -3,6 +3,9 @@ title: Bat 3
 permalink: Bat_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bat](/keeperrl_wiki/Old_Bat "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

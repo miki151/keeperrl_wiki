@@ -3,6 +3,9 @@ title: Duke 5
 permalink: Duke_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Duke](/keeperrl_wiki/Old_Duke "wikilink")
+
 [[File:knightboss.png|100px|link=]] ''Mighty human boss
 
 = Base Stats =

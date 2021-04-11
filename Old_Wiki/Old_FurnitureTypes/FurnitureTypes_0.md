@@ -3,6 +3,9 @@ title: FurnitureTypes 0
 permalink: FurnitureTypes_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FurnitureTypes](/keeperrl_wiki/Old_FurnitureTypes "wikilink")
+
 =Usage=
 Used to specify.
 

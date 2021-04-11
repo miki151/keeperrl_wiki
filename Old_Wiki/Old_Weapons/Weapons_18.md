@@ -3,6 +3,9 @@ title: Weapons 18
 permalink: Weapons_18/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Weapons](/keeperrl_wiki/Old_Weapons "wikilink")
+
 [[Category: Items]]
 
 = One-handed =

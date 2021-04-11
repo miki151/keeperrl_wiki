@@ -3,6 +3,9 @@ title: Minions 59
 permalink: Minions_59/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 == Overview ==
 
 The grid here is nice, but the stats are out of date.

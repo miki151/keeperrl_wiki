@@ -3,6 +3,9 @@ title: Snake 0
 permalink: Snake_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Snake](/keeperrl_wiki/Old_Snake "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Snake](/keeperrl_wiki/Old_Snake "wikilink")

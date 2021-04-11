@@ -3,6 +3,9 @@ title: Hydra 1
 permalink: Hydra_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Hydra](/keeperrl_wiki/Old_Hydra "wikilink")
+
 *Defense:45
 *Damage:27
 *Body size:Large

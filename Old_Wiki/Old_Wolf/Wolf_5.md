@@ -3,6 +3,9 @@ title: Wolf 5
 permalink: Wolf_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wolf](/keeperrl_wiki/Old_Wolf "wikilink")
+
 __NOTOC__
 
 [[File:wolf.png|100px|link=]] ''Arrive in packs

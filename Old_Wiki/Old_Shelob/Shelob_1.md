@@ -3,6 +3,9 @@ title: Shelob 1
 permalink: Shelob_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shelob](/keeperrl_wiki/Old_Shelob "wikilink")
+
 *Defense38
 *Damage:40
 *Body size:Large

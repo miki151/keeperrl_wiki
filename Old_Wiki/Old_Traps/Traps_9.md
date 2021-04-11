@@ -3,6 +3,9 @@ title: Traps 9
 permalink: Traps_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Traps](/keeperrl_wiki/Old_Traps "wikilink")
+
 __NOTOC__
 ''All traps require [[Technologies#Traps|traps]] technology.
 * Traps are made in [[:Manufactories#Workshop|workshops]]

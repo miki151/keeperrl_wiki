@@ -3,6 +3,9 @@ title: Soft Monster 2
 permalink: Soft_Monster_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soft_Monster](/keeperrl_wiki/Old_Soft_Monster "wikilink")
+
 *Defense:25
 *Damage:45
 *Body size:Large

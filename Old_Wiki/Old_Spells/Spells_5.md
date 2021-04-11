@@ -3,6 +3,9 @@ title: Spells 5
 permalink: Spells_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spells](/keeperrl_wiki/Old_Spells "wikilink")
+
 '''Spells''' are active abilities with cooldown between uses that can be learned by your [[Keeper]] and some of your [[minions]].
 
 Spells known are based on your Magic Damage training, with each level of training providing a new spell. This means that only the Keeper can learn all spells in the game, as his or her Magic Damage training caps at +12, which is the requirement for the highest level spell. All other monsters will only learn spells up to their own Magic Damage training cap. This also means that you will need [[Technologies#Sorcery|Sorcery techs]] to train the spells of your minions in your dungeon, as wooden, iron and golden bookcases cap at +3, +7 and +12 Magic Damage training, respectively; yet your minions can gain spells beyond your current Sorcery tech level by training their Magic Damage in combat, gaining new spells as they reach higher Magic Damage training.

@@ -3,6 +3,9 @@ title: Prisoner 0
 permalink: Prisoner_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prisoner](/keeperrl_wiki/Old_Prisoner "wikilink")
+
 __NOTOC__
 ''A captured human that has surrendered to you.''
 

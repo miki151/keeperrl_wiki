@@ -3,6 +3,9 @@ title: Video Tutorials From Nat20 2
 permalink: Video_Tutorials_From_Nat20_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Video_Tutorials_From_Nat20](/keeperrl_wiki/Old_Video_Tutorials_From_Nat20 "wikilink")
+
 [https://www.youtube.com/watch?v=sJPriZG976M How to Build a Functional Dungeon] (Alpha 9)
 
 [https://www.youtube.com/watch?v=U5SQ2IHgFaw Understanding the Basics] (Alpha 10)

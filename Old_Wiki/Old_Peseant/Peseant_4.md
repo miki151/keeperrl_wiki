@@ -3,6 +3,9 @@ title: Peseant 4
 permalink: Peseant_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Peseant](/keeperrl_wiki/Old_Peseant "wikilink")
+
 [[File:peseant.png|100px|link=]] ''Living morale boost for minons
 
 = Base Stats =

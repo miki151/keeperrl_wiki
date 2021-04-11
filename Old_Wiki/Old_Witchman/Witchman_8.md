@@ -3,6 +3,9 @@ title: Witchman 8
 permalink: Witchman_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witchman](/keeperrl_wiki/Old_Witchman "wikilink")
+
 Witcher reference
 
 == Base Stats ==

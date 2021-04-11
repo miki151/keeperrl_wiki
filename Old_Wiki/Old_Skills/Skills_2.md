@@ -3,6 +3,9 @@ title: Skills 2
 permalink: Skills_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skills](/keeperrl_wiki/Old_Skills "wikilink")
+
 = Construction =
 Description: ''Mine and construct rooms.''
 

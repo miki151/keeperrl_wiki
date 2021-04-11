@@ -3,6 +3,9 @@ title: Gameplay 1
 permalink: Gameplay_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gameplay](/keeperrl_wiki/Old_Gameplay "wikilink")
+
 Here are some notes on gameplay.
 
 [[Main Page|Back to Main Page]]

@@ -3,6 +3,9 @@ title: Succubus 1
 permalink: Succubus_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Succubus](/keeperrl_wiki/Old_Succubus "wikilink")
+
 Succubus
 
 == Skills ==

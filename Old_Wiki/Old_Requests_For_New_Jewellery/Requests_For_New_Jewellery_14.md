@@ -3,6 +3,9 @@ title: Requests For New Jewellery 14
 permalink: Requests_For_New_Jewellery_14/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Jewellery](/keeperrl_wiki/Old_Requests_For_New_Jewellery "wikilink")
+
 == Amulet of Teleportation ==
 * Weight: 0.3
 * Defence : 0

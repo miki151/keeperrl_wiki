@@ -3,6 +3,9 @@ title: Mummy 1
 permalink: Mummy_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mummy](/keeperrl_wiki/Old_Mummy "wikilink")
+
 *Spell Damage:10
 *Defense:14
 *Damage:15

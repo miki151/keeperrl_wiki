@@ -3,6 +3,9 @@ title: Knights 6
 permalink: Knights_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Knights](/keeperrl_wiki/Old_Knights "wikilink")
+
 [[File:knightboss.png|100px|link=]]
 [[File:friar.png|100px|link=]]
 [[File:knight.png|100px|link=]]

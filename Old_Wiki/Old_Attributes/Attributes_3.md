@@ -3,6 +3,9 @@ title: Attributes 3
 permalink: Attributes_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Attributes](/keeperrl_wiki/Old_Attributes "wikilink")
+
 __NOTOC__
 == Ranged Damage ==
 ''Defines the chance of a successful ranged attack and dodging.''

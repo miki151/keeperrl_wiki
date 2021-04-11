@@ -3,6 +3,9 @@ title: Clay Golem 8
 permalink: Clay_Golem_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Clay_Golem](/keeperrl_wiki/Old_Clay_Golem "wikilink")
+
 [[File:clay_golem.png|100px|link=]]
 ''Loot the stone when killed
 

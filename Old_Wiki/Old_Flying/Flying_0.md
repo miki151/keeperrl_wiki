@@ -3,6 +3,9 @@ title: Flying 0
 permalink: Flying_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Flying](/keeperrl_wiki/Old_Flying "wikilink")
+
 Flying
 
 [[Category: Skills]]

@@ -3,6 +3,9 @@ title: Alpha17 2
 permalink: Alpha17_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha17](/keeperrl_wiki/Old_Alpha17 "wikilink")
+
 '''New features for Alpha 17'''
 
 * 40 sound effects.

@@ -4,6 +4,8 @@ permalink: Shortcut_Keys_2/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shortcut_Keys](/keeperrl_wiki/Old_Shortcut_Keys "wikilink")
+
 {| 
 | -
 ! Key

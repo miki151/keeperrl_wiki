@@ -3,6 +3,9 @@ title: Fly 0
 permalink: Fly_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fly](/keeperrl_wiki/Old_Fly "wikilink")
+
 __NOTOC__
 ''Summoned by [[:Spells#Summon_Insects|summon insects]] spell.''
 == [[:Attributes]] ==

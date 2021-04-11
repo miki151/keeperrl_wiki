@@ -3,6 +3,9 @@ title: Legendary Humanoid 1
 permalink: Legendary_Humanoid_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Legendary_Humanoid](/keeperrl_wiki/Old_Legendary_Humanoid "wikilink")
+
 [[File:special_hlbn.png|100px|link=]]
 [[File:special_hlbw.png|100px|link=]]
 [[File:special_hlgn.png|100px|link=]]

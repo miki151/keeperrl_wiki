@@ -3,6 +3,9 @@ title: Open Ant Nest 3
 permalink: Open_Ant_Nest_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Open_Ant_Nest](/keeperrl_wiki/Old_Open_Ant_Nest "wikilink")
+
 [[File:antq.png|100px|link=]]
 [[File:antw.png|100px|link=]]
 [[File:antw.png|100px|link=]]

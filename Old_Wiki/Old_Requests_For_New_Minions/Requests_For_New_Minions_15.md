@@ -3,6 +3,9 @@ title: Requests For New Minions 15
 permalink: Requests_For_New_Minions_15/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Minions](/keeperrl_wiki/Old_Requests_For_New_Minions "wikilink")
+
 Please fill out the structure below (Example shown for skeletons)
 
 == Skeleton ==

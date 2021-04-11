@@ -3,6 +3,9 @@ title: Small Sealed Ant Nest 1
 permalink: Small_Sealed_Ant_Nest_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Small_Sealed_Ant_Nest](/keeperrl_wiki/Old_Small_Sealed_Ant_Nest "wikilink")
+
 [[File:antw.png|100px|link=]]
 [[File:antw.png|100px|link=]]
 [[File:antw.png|100px|link=]]

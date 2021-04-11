@@ -4,6 +4,8 @@ permalink: Official_Game_Configs_7/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Official_Game_Configs](/keeperrl_wiki/Old_Official_Game_Configs "wikilink")
+
 =Build_Menu.txt=
 
 https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/build_menu.txt

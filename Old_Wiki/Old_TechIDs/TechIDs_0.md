@@ -3,6 +3,9 @@ title: TechIDs 0
 permalink: TechIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TechIDs](/keeperrl_wiki/Old_TechIDs "wikilink")
+
 =Usage=
 Used to specify.
 

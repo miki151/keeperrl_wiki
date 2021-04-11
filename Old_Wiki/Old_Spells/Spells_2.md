@@ -3,6 +3,9 @@ title: Spells 2
 permalink: Spells_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spells](/keeperrl_wiki/Old_Spells "wikilink")
+
 = Basic Spells =
 '' Unlocked by [[:Technologies#Sorcery|sorcery]].''
 

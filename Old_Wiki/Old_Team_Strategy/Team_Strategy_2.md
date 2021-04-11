@@ -3,6 +3,9 @@ title: Team Strategy 2
 permalink: Team_Strategy_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Team_Strategy](/keeperrl_wiki/Old_Team_Strategy "wikilink")
+
 =Some Team Roles to pick=
 
 Consider which of these roles you need to fill:

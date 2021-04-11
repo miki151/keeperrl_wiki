@@ -3,6 +3,9 @@ title: Elementalist 2
 permalink: Elementalist_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elementalist](/keeperrl_wiki/Old_Elementalist "wikilink")
+
 [[File:elementalist.png|100px|link=]] ''Major Boss
 
 *Spell_Damge:15

@@ -3,6 +3,9 @@ title: Weapon Melee 0
 permalink: Weapon_Melee_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Weapon_Melee](/keeperrl_wiki/Old_Weapon_Melee "wikilink")
+
 Weapon Melee
 
 Fight with weapons.

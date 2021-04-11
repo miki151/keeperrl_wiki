@@ -3,6 +3,9 @@ title: Traits 4
 permalink: Traits_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Traits](/keeperrl_wiki/Old_Traits "wikilink")
+
 = Traits =
 
 == Animal ==

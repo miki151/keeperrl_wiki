@@ -3,6 +3,9 @@ title: Red Dragon 10
 permalink: Red_Dragon_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Red_Dragon](/keeperrl_wiki/Old_Red_Dragon "wikilink")
+
 [[File:red_dragon.png|100px|link=]] ''Likes his gold. Hates thieves.
 
 = Base Stats =

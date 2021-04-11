@@ -3,6 +3,9 @@ title: Female Keeper 1
 permalink: Female_Keeper_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Female_Keeper](/keeperrl_wiki/Old_Female_Keeper "wikilink")
+
 *Spell Damage:20
 *Defense:12
 *Damage:12

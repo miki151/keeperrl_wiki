@@ -3,6 +3,9 @@ title: Prisoner Guide 20
 permalink: Prisoner_Guide_20/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prisoner_Guide](/keeperrl_wiki/Old_Prisoner_Guide "wikilink")
+
 =Taking prisoners=
 *You need to click on an opponent and click &quot;order capture&quot;
 *Next you need to knock the prisoner out (defeat them as you would normally)

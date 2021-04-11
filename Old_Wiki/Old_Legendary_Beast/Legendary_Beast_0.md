@@ -3,6 +3,9 @@ title: Legendary Beast 0
 permalink: Legendary_Beast_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Legendary_Beast](/keeperrl_wiki/Old_Legendary_Beast "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

@@ -3,6 +3,9 @@ title: Endless Mode 30
 permalink: Endless_Mode_30/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Mode](/keeperrl_wiki/Old_Endless_Mode "wikilink")
+
 Edit: When I first wrote this, I was expecting the game to end with back-to-back waves of red dragons, that cannot be captured. On the current version, I do not think this will actually ever happen. Let people know if I am wrong!
 
 == Introduction to Endless Mode ==

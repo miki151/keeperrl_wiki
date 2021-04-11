@@ -3,6 +3,9 @@ title: Black Rat 1
 permalink: Black_Rat_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Rat](/keeperrl_wiki/Old_Black_Rat "wikilink")
+
 [[File:black_rat.png|100px|link=]]
 
 = Base Stats =

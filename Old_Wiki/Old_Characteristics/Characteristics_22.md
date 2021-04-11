@@ -3,6 +3,9 @@ title: Characteristics 22
 permalink: Characteristics_22/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
+
 Characteristics can be good or bad. They can also be permanent, intrinsic or temporary. Temporary characteristics can be a result of blessings, spells, curses, potions and the like. Wearing equipment can provide certain permanent effects. Potions and scrolls can occasionally give permanent effects. Intrinsic characteristics exist within the type of creature itself and are not a result of eating, drinking, reading, wearing or doing things. Red dragons always resist fire.
 
 Lasting effects are in the code

@@ -3,6 +3,9 @@ title: Bat 1
 permalink: Bat_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bat](/keeperrl_wiki/Old_Bat "wikilink")
+
 Bat
 
 It's role is to spy around during night time

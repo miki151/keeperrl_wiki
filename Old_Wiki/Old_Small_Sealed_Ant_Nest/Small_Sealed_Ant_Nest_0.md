@@ -3,6 +3,9 @@ title: Small Sealed Ant Nest 0
 permalink: Small_Sealed_Ant_Nest_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Small_Sealed_Ant_Nest](/keeperrl_wiki/Old_Small_Sealed_Ant_Nest "wikilink")
+
 = Stats =
 *Settlement: Small mine town
 *Inhabitants: 2-5 ant workers, 3-5 ant soldiers

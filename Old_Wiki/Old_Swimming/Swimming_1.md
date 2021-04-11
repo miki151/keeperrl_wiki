@@ -3,6 +3,9 @@ title: Swimming 1
 permalink: Swimming_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Swimming](/keeperrl_wiki/Old_Swimming "wikilink")
+
 #REDIRECT [[Skills#Swimming]]
 Swimming
 

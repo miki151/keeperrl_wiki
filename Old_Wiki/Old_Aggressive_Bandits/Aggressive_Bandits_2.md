@@ -3,6 +3,9 @@ title: Aggressive Bandits 2
 permalink: Aggressive_Bandits_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Aggressive_Bandits](/keeperrl_wiki/Old_Aggressive_Bandits "wikilink")
+
 [[File:bandit.png|100px|link=]]
 [[File:bandit.png|100px|link=]]
 [[File:bandit.png|100px|link=]]

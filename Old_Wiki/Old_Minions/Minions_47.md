@@ -4,6 +4,8 @@ permalink: Minions_47/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minions](/keeperrl_wiki/Old_Minions "wikilink")
+
 = Stats =
 
 {| class=&quot;wikitable sortable&quot; border=&quot;1&quot;

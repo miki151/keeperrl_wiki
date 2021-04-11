@@ -3,6 +3,9 @@ title: Download Mods 46
 permalink: Download_Mods_46/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Download instructions=
 Download the zip files and copy them to your &quot;KeeperRL\data_free\game_config&quot; folder. To install a mod, unzip it to &quot;game_config&quot; folder.
 

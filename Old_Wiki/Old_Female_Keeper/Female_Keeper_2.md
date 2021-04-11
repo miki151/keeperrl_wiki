@@ -3,6 +3,9 @@ title: Female Keeper 2
 permalink: Female_Keeper_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Female_Keeper](/keeperrl_wiki/Old_Female_Keeper "wikilink")
+
 #REDIRECT [[Keeper]]
 
 [[Category:Creatures]]

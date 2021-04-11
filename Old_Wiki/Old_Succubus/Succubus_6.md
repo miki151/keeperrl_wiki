@@ -3,6 +3,9 @@ title: Succubus 6
 permalink: Succubus_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Succubus](/keeperrl_wiki/Old_Succubus "wikilink")
+
 __NOTOC__
 
 [[File:succubus.png|100px|link=]] ''She's done it before (once)

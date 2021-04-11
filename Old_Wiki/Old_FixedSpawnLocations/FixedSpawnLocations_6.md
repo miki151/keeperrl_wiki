@@ -3,6 +3,9 @@ title: FixedSpawnLocations 6
 permalink: FixedSpawnLocations_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FixedSpawnLocations](/keeperrl_wiki/Old_FixedSpawnLocations "wikilink")
+
 =Usage=
 Used to specify where immigrants spawn
 

@@ -3,6 +3,9 @@ title: Minotaur 0
 permalink: Minotaur_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minotaur](/keeperrl_wiki/Old_Minotaur "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Minotaur](/keeperrl_wiki/Old_Minotaur "wikilink")

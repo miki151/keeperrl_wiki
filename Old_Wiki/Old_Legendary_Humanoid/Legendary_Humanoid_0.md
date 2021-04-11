@@ -3,6 +3,9 @@ title: Legendary Humanoid 0
 permalink: Legendary_Humanoid_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Legendary_Humanoid](/keeperrl_wiki/Old_Legendary_Humanoid "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

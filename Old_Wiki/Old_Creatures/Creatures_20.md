@@ -3,6 +3,9 @@ title: Creatures 20
 permalink: Creatures_20/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creatures](/keeperrl_wiki/Old_Creatures "wikilink")
+
 Creatures have the following stats:
 * Speed
 * Level

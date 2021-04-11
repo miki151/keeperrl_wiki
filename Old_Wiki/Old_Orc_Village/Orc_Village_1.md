@@ -3,6 +3,9 @@ title: Orc Village 1
 permalink: Orc_Village_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Village](/keeperrl_wiki/Old_Orc_Village "wikilink")
+
 [[File:orc.png|100px|link=]]
 [[File:orc.png|100px|link=]]
 [[File:orc.png|100px|link=]]

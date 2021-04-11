@@ -3,6 +3,9 @@ title: Requests For New Weapons 32
 permalink: Requests_For_New_Weapons_32/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Weapons](/keeperrl_wiki/Old_Requests_For_New_Weapons "wikilink")
+
 = Hand to hand combat =
 
 === Iron Spear ===

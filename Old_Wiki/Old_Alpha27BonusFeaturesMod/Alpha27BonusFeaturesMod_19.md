@@ -3,6 +3,9 @@ title: Alpha27BonusFeaturesMod 19
 permalink: Alpha27BonusFeaturesMod_19/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha27BonusFeaturesMod](/keeperrl_wiki/Old_Alpha27BonusFeaturesMod "wikilink")
+
 Stats: 
  *Release date: 30th March 2019
  *Last updated: 30th March 2019

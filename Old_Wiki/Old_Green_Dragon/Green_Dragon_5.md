@@ -3,6 +3,9 @@ title: Green Dragon 5
 permalink: Green_Dragon_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Green_Dragon](/keeperrl_wiki/Old_Green_Dragon "wikilink")
+
 = Base Stats =
 *Defense:40
 *Damage:40

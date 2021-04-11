@@ -3,6 +3,9 @@ title: Mummy 7
 permalink: Mummy_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mummy](/keeperrl_wiki/Old_Mummy "wikilink")
+
 [[File:mummy.png|100px|link=]] ''Slow trainer
 
 *Spell Damage:10

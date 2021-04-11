@@ -3,6 +3,9 @@ title: Ant Queen 1
 permalink: Ant_Queen_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ant_Queen](/keeperrl_wiki/Old_Ant_Queen "wikilink")
+
 *Defense:26
 *Damage:30
 *Body size:Medium

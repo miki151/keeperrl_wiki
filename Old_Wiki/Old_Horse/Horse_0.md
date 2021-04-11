@@ -3,6 +3,9 @@ title: Horse 0
 permalink: Horse_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Horse](/keeperrl_wiki/Old_Horse "wikilink")
+
 Horse
 
 [[Category: Creature]]

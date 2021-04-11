@@ -3,6 +3,9 @@ title: Ents 1
 permalink: Ents_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ents](/keeperrl_wiki/Old_Ents "wikilink")
+
 = Stats =
 *Settlement: Forest 
 *Inhabitants 7-10 [[Ent]]    

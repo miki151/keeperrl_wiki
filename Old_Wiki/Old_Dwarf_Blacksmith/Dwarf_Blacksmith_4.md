@@ -3,6 +3,9 @@ title: Dwarf Blacksmith 4
 permalink: Dwarf_Blacksmith_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Blacksmith](/keeperrl_wiki/Old_Dwarf_Blacksmith "wikilink")
+
 [[File:dwarf_blacksmith.png|100px|link=]]
 
 = Base Stats =

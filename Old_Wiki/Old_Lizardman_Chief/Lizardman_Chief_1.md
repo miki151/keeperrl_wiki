@@ -3,6 +3,9 @@ title: Lizardman Chief 1
 permalink: Lizardman_Chief_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Chief](/keeperrl_wiki/Old_Lizardman_Chief "wikilink")
+
 = Base Stats =
  Strenght: 21
  Dexterity: 28

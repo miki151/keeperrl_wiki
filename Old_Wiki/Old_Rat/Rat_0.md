@@ -3,6 +3,9 @@ title: Rat 0
 permalink: Rat_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat](/keeperrl_wiki/Old_Rat "wikilink")
+
 Rat
 
 [[Category: Creatures]]

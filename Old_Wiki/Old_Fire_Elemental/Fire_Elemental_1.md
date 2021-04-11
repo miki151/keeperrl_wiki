@@ -3,6 +3,9 @@ title: Fire Elemental 1
 permalink: Fire_Elemental_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fire_Elemental](/keeperrl_wiki/Old_Fire_Elemental "wikilink")
+
 *Body Size:Large
 *Defense:30
 *Damage:20

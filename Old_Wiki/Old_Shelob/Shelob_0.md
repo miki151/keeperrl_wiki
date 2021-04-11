@@ -3,6 +3,9 @@ title: Shelob 0
 permalink: Shelob_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shelob](/keeperrl_wiki/Old_Shelob "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shelob](/keeperrl_wiki/Old_Shelob "wikilink")

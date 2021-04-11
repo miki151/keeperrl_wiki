@@ -3,6 +3,9 @@ title: Lizardman Chief 0
 permalink: Lizardman_Chief_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Chief](/keeperrl_wiki/Old_Lizardman_Chief "wikilink")
+
 Lizardman Chief
 
 [[Category: Creatures]]

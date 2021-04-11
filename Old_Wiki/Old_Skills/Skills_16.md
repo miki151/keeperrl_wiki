@@ -3,6 +3,9 @@ title: Skills 16
 permalink: Skills_16/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skills](/keeperrl_wiki/Old_Skills "wikilink")
+
 = Creature skills =
 
 == Ambush ==

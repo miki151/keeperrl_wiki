@@ -3,6 +3,9 @@ title: Snake 1
 permalink: Snake_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Snake](/keeperrl_wiki/Old_Snake "wikilink")
+
 *Defense:14
 *Damage:14
 *Body size:Small

@@ -3,6 +3,9 @@ title: WorkshopsMenu.txt 4
 permalink: WorkshopsMenu.txt_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_WorkshopsMenu.txt](/keeperrl_wiki/Old_WorkshopsMenu.txt "wikilink")
+
 Redirect required.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_WorkshopsMenu.txt](/keeperrl_wiki/Old_WorkshopsMenu.txt "wikilink")

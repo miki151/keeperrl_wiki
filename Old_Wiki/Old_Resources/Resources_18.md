@@ -3,6 +3,9 @@ title: Resources 18
 permalink: Resources_18/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Resources](/keeperrl_wiki/Old_Resources "wikilink")
+
 In KeeperRL the amount of resources you have is ''limited'': trees don't grow back, all ores are shown once you have researched all geology technologies. There is a ''possibly'' a little exception with [[:Resources#Gold|gold]].
 
 To gather resources you have to select them the ''Dig or cut tree'' tool. Your [[:Imp|imps]] will then start to harvest the resource and carry it to your [[:Storage|stockpiles]].

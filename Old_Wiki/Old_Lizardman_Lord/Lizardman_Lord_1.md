@@ -3,6 +3,9 @@ title: Lizardman Lord 1
 permalink: Lizardman_Lord_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Lord](/keeperrl_wiki/Old_Lizardman_Lord "wikilink")
+
 #REDIRECT [[Lizardman Chief]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Lord](/keeperrl_wiki/Old_Lizardman_Lord "wikilink")

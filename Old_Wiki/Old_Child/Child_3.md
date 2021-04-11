@@ -3,6 +3,9 @@ title: Child 3
 permalink: Child_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Child](/keeperrl_wiki/Old_Child "wikilink")
+
 = Base Stats =
 *Damage:8
 *Body size:Medium

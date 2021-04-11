@@ -3,6 +3,9 @@ title: Team Strategy 7
 permalink: Team_Strategy_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Team_Strategy](/keeperrl_wiki/Old_Team_Strategy "wikilink")
+
 =Forming a team=
 *Drag minions onto the &quot;New team&quot; option to form a new team
 *Drag more minions onto the team that is formed

@@ -3,6 +3,9 @@ title: Boar 6
 permalink: Boar_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Boar](/keeperrl_wiki/Old_Boar "wikilink")
+
 [[File:boar.png|100px|link=]]
 '' Shy creatures that only fight when cornered.
 

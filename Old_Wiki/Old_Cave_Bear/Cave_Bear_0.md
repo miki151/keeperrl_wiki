@@ -3,6 +3,9 @@ title: Cave Bear 0
 permalink: Cave_Bear_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cave_Bear](/keeperrl_wiki/Old_Cave_Bear "wikilink")
+
 Cave Bear
 
 Standard beast minion whose AI prefers exploring caves

@@ -3,6 +3,9 @@ title: Elven Archer 10
 permalink: Elven_Archer_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elven_Archer](/keeperrl_wiki/Old_Elven_Archer "wikilink")
+
 [[File:elf_archer.png|100px|link=]] ''Deadly shooter
 
 = Base Stats =

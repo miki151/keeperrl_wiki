@@ -3,6 +3,9 @@ title: Dwarf 2
 permalink: Dwarf_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf](/keeperrl_wiki/Old_Dwarf "wikilink")
+
 = Base Stats =
  Strenght: 21
  Dexterity: 16

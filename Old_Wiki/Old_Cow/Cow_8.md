@@ -3,6 +3,9 @@ title: Cow 8
 permalink: Cow_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cow](/keeperrl_wiki/Old_Cow "wikilink")
+
 [[File:cow.png|100px|link=]]
 ''Found on human farms
 

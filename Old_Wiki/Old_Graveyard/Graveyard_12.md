@@ -3,6 +3,9 @@ title: Graveyard 12
 permalink: Graveyard_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Graveyard](/keeperrl_wiki/Old_Graveyard "wikilink")
+
 Description: ''Spot for hauling dead bodies and for Undead creatures to sleep in.''
 
 This is the dormitory of the Undead:

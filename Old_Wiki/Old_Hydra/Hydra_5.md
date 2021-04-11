@@ -3,6 +3,9 @@ title: Hydra 5
 permalink: Hydra_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Hydra](/keeperrl_wiki/Old_Hydra "wikilink")
+
 [[File:hydra.png|100px|link=]] ''Poisonous boss
 
 == Base Stats ==

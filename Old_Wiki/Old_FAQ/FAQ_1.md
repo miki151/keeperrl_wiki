@@ -3,6 +3,9 @@ title: FAQ 1
 permalink: FAQ_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_FAQ](/keeperrl_wiki/Old_FAQ "wikilink")
+
 Q: Why does my save file keep getting bigger the longer I play for?
  A: The number of entities in the game tends to go up. For example, new monsters migrate into the game with their equipment. When they die they leave equipment, corpses (and bytes) behind.
 

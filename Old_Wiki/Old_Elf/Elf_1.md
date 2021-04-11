@@ -3,6 +3,9 @@ title: Elf 1
 permalink: Elf_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf](/keeperrl_wiki/Old_Elf "wikilink")
+
  Strenght: 11
  Dexterity: 17
  Speed: 100

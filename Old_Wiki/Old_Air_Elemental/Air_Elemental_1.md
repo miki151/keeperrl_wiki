@@ -3,6 +3,9 @@ title: Air Elemental 1
 permalink: Air_Elemental_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Air_Elemental](/keeperrl_wiki/Old_Air_Elemental "wikilink")
+
 *Body Size:Large
 *Defense:35
 *Damage:25

@@ -3,6 +3,9 @@ title: Dark Elf 9
 permalink: Dark_Elf_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf](/keeperrl_wiki/Old_Dark_Elf "wikilink")
+
 [[File:Dark_elf.png|100px|link=]] '' Citizens of the dark elf caves found in the mountains.
 
 == Base Stats ==

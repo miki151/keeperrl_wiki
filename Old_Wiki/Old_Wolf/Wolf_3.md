@@ -3,6 +3,9 @@ title: Wolf 3
 permalink: Wolf_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Wolf](/keeperrl_wiki/Old_Wolf "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

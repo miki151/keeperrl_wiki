@@ -3,6 +3,9 @@ title: Warrior 3
 permalink: Warrior_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warrior](/keeperrl_wiki/Old_Warrior "wikilink")
+
 [[File:warrior.png|100px|link=]] ''Tribal warrior
 
 = Base Stats =

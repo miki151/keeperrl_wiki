@@ -3,6 +3,9 @@ title: Djinn Entrance 0
 permalink: Djinn_Entrance_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Djinn_Entrance](/keeperrl_wiki/Old_Djinn_Entrance "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Tribal Loyalty: None

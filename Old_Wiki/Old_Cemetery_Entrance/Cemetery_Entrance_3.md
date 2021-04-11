@@ -3,6 +3,9 @@ title: Cemetery Entrance 3
 permalink: Cemetery_Entrance_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cemetery_Entrance](/keeperrl_wiki/Old_Cemetery_Entrance "wikilink")
+
 [[File:zombie.png|100px|link=]]
 
 = Stats =

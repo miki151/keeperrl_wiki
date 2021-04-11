@@ -3,6 +3,9 @@ title: Demon Dweller 5
 permalink: Demon_Dweller_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Dweller](/keeperrl_wiki/Old_Demon_Dweller "wikilink")
+
 [[File:Demon_dweller.png|100px|link=]] '' Soldiers of Demonshrine
 
 == Base Stats==

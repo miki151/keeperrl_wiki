@@ -3,6 +3,9 @@ title: Alpha29 2
 permalink: Alpha29_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha29](/keeperrl_wiki/Old_Alpha29 "wikilink")
+
 Gameplay
 *Mods and retired dungeons are shared on Steam Workshop.
 *Contagious plague effect.

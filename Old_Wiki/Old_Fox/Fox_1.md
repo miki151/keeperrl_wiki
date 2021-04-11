@@ -3,6 +3,9 @@ title: Fox 1
 permalink: Fox_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Fox](/keeperrl_wiki/Old_Fox "wikilink")
+
 *Defense:5
 *Damage:10
 *Body size:Small

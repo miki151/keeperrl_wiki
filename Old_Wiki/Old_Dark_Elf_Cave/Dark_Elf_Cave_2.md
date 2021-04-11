@@ -3,6 +3,9 @@ title: Dark Elf Cave 2
 permalink: Dark_Elf_Cave_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Cave](/keeperrl_wiki/Old_Dark_Elf_Cave "wikilink")
+
 [[File:Dark_elf_warrior.png|100px|link=]]
 [[File:Dark_elf_warrior.png|100px|link=]]
 [[File:Dark_elf_warrior.png|100px|link=]]

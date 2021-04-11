@@ -3,6 +3,9 @@ title: Elf 3
 permalink: Elf_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf](/keeperrl_wiki/Old_Elf "wikilink")
+
 = Base Stats =
 *Defense:6
 *Damage:14

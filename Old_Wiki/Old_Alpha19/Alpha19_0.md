@@ -3,6 +3,9 @@ title: Alpha19 0
 permalink: Alpha19_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha19](/keeperrl_wiki/Old_Alpha19 "wikilink")
+
 Alpha 19 - http://keeperrl.com/keeperrl-alpha19-is-released/
 Released in July 2016
 

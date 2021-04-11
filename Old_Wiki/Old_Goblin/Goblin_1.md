@@ -3,6 +3,9 @@ title: Goblin 1
 permalink: Goblin_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goblin](/keeperrl_wiki/Old_Goblin "wikilink")
+
 Goblins start at level 3
 
 == Order Tasks ==

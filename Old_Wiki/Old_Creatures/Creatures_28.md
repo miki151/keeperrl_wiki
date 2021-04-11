@@ -3,6 +3,9 @@ title: Creatures 28
 permalink: Creatures_28/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Creatures](/keeperrl_wiki/Old_Creatures "wikilink")
+
 Here is a link to the creatures configuration data file:
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/creatures.txt]]
 

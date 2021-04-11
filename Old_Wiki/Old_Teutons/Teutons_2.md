@@ -3,6 +3,9 @@ title: Teutons 2
 permalink: Teutons_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Teutons](/keeperrl_wiki/Old_Teutons "wikilink")
+
 = Stats =
 *Settlement: Custom castle
 *Tribal Loyalty: Humanity

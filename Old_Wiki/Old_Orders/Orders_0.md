@@ -3,6 +3,9 @@ title: Orders 0
 permalink: Orders_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orders](/keeperrl_wiki/Old_Orders "wikilink")
+
 Right now, the only orders in the orders menu is [[Prioritize Task]]
 
 Prioritize Task is necessary to make imps do certain things. You can probably toggle tasks on and off in a soft manner, allowing for tasks to become prioritized. It is, for example, necessary to prioritize a fetch items job on a square with this tool.

@@ -3,6 +3,9 @@ title: Construction 0
 permalink: Construction_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Construction](/keeperrl_wiki/Old_Construction "wikilink")
+
 Mine and construct rooms.
 
 [[Category: Skills]]

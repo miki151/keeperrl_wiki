@@ -3,6 +3,9 @@ title: Spirit 0
 permalink: Spirit_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Spirit](/keeperrl_wiki/Old_Spirit "wikilink")
+
 __NOTOC__
 ''Summoned by [[:Spells#Summon_Spirit|summon spirit]] spell.''
 == [[:Attributes]] ==

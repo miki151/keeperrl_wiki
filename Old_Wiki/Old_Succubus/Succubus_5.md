@@ -3,6 +3,9 @@ title: Succubus 5
 permalink: Succubus_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Succubus](/keeperrl_wiki/Old_Succubus "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

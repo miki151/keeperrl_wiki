@@ -3,6 +3,9 @@ title: Player Requests For New Content 2
 permalink: Player_Requests_For_New_Content_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Player_Requests_For_New_Content](/keeperrl_wiki/Old_Player_Requests_For_New_Content "wikilink")
+
 Michal has indicated that he is interested in producing new content and may adopt player ideas. This section is here to facilitate this.
 
 Please keep the standard rules about not submitting copyrighted content to the wiki. This includes any material of your own (we are submitting our ideas into the public domain for Michal to use under an open source license).

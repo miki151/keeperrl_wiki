@@ -3,6 +3,9 @@ title: Cave Bear 5
 permalink: Cave_Bear_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cave_Bear](/keeperrl_wiki/Old_Cave_Bear "wikilink")
+
 __NOTOC__
 [[File:bear.png|100px|link=]]
 ''Bears take the initiative.

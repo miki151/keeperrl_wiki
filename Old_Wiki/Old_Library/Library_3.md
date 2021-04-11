@@ -3,6 +3,9 @@ title: Library 3
 permalink: Library_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Library](/keeperrl_wiki/Old_Library "wikilink")
+
 Description: ''Mana is regenerated here.''
 
 Allows your minions to research new Spells.

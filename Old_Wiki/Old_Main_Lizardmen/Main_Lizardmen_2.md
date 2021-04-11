@@ -3,6 +3,9 @@ title: Main Lizardmen 2
 permalink: Main_Lizardmen_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Main_Lizardmen](/keeperrl_wiki/Old_Main_Lizardmen "wikilink")
+
 [[File:lizardlord.png|100px|link=]]
 [[File:lizardman.png|100px|link=]]
 [[File:lizardman.png|100px|link=]]

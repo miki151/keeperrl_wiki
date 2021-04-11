@@ -3,6 +3,9 @@ title: Requests For New Villains 18
 permalink: Requests_For_New_Villains_18/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Villains](/keeperrl_wiki/Old_Requests_For_New_Villains "wikilink")
+
 Categories of villains:
 1) Major - Examples: Red dragon, The Duke
 2) Minor - Examples: Hydra, Cyclops

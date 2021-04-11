@@ -3,6 +3,9 @@ title: Dark Elf Warrior 1
 permalink: Dark_Elf_Warrior_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Warrior](/keeperrl_wiki/Old_Dark_Elf_Warrior "wikilink")
+
 *Spell Damage:16
 *Defense:14
 *Damage:22

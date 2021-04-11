@@ -3,6 +3,9 @@ title: Knight 10
 permalink: Knight_10/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Knight](/keeperrl_wiki/Old_Knight "wikilink")
+
 [[File:knight.png|100px|link=]] ''Melee combat expert
 
 == Base Stats ==

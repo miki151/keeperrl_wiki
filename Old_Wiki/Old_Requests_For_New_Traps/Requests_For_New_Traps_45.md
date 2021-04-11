@@ -3,6 +3,9 @@ title: Requests For New Traps 45
 permalink: Requests_For_New_Traps_45/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Traps](/keeperrl_wiki/Old_Requests_For_New_Traps "wikilink")
+
 References:
 *http://steamcommunity.com/app/329970/discussions/3/152390648089297566/
 

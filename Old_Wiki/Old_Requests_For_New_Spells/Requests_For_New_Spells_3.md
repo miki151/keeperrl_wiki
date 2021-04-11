@@ -3,6 +3,9 @@ title: Requests For New Spells 3
 permalink: Requests_For_New_Spells_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Spells](/keeperrl_wiki/Old_Requests_For_New_Spells "wikilink")
+
 == Undead cloud ==
 * Magic school: Necromancy
 * Special powers: Surrounds the caster with a cloud of poisonous gas.

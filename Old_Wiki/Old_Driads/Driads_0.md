@@ -3,6 +3,9 @@ title: Driads 0
 permalink: Driads_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Driads](/keeperrl_wiki/Old_Driads "wikilink")
+
 = Stats =
 *Settlement: Forest 
 *Inhabitants: 7-10 Driads

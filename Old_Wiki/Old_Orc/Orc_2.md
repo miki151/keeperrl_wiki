@@ -3,6 +3,9 @@ title: Orc 2
 permalink: Orc_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc](/keeperrl_wiki/Old_Orc "wikilink")
+
 An orc is a large humanoid with 2 arms and 2 legs. It is strong, agile and fast. Orcs start at level 7
 
 == Skills ==

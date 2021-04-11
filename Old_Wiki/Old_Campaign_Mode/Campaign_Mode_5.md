@@ -3,6 +3,9 @@ title: Campaign Mode 5
 permalink: Campaign_Mode_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Campaign_Mode](/keeperrl_wiki/Old_Campaign_Mode "wikilink")
+
 ==Single Maps==
 *You can play single map games, with all enemies on the same map sector
 *Single maps are bigger than ordinary map sectors in a campaign

@@ -3,6 +3,9 @@ title: Soldier Ant 1
 permalink: Soldier_Ant_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Soldier_Ant](/keeperrl_wiki/Old_Soldier_Ant "wikilink")
+
 *Defense:20
 *Damage:30
 *Skill:Navigational Digging

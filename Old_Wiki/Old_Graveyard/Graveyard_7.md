@@ -3,6 +3,9 @@ title: Graveyard 7
 permalink: Graveyard_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Graveyard](/keeperrl_wiki/Old_Graveyard "wikilink")
+
 Description: ''Spot for hauling dead bodies and for Undead creatures to sleep in.''
 
 This is the dormitory of the Undead: [[File:simplegraveyard.png|200px|thumb|right|A small Graveyard for Undead spawning and Corpse Collection.]]

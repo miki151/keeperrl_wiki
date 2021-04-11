@@ -3,6 +3,9 @@ title: Bat 8
 permalink: Bat_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Bat](/keeperrl_wiki/Old_Bat "wikilink")
+
 __NOTOC__
 
 [[File:bat.png|100px|link=]]

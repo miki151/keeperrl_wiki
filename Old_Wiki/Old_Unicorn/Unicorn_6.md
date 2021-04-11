@@ -3,6 +3,9 @@ title: Unicorn 6
 permalink: Unicorn_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn](/keeperrl_wiki/Old_Unicorn "wikilink")
+
 [[File:unicorn.png|100px|link=]] ''Woodland herds
 
 ==Base Stats ==

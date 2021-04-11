@@ -4,6 +4,7 @@ permalink: Requests_For_New_Technology_0/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Technology](/keeperrl_wiki/Old_Requests_For_New_Technology "wikilink")
 
 ==Guilds==
 *Give creatures xp for doing their studying and crafting tasks

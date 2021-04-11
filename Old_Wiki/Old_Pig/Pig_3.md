@@ -3,6 +3,9 @@ title: Pig 3
 permalink: Pig_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Pig](/keeperrl_wiki/Old_Pig "wikilink")
+
 [[File:pig.png|100px|link=]] ''Pork yesterday, pork today, pork tomorrow
 
 = Base Stats =

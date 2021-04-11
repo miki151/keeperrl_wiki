@@ -3,6 +3,9 @@ title: Elven Archer 1
 permalink: Elven_Archer_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elven_Archer](/keeperrl_wiki/Old_Elven_Archer "wikilink")
+
 = Base Stats =
  Strenght: 11
  Dexterity: 17

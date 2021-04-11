@@ -3,6 +3,9 @@ title: Chicken 0
 permalink: Chicken_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Chicken](/keeperrl_wiki/Old_Chicken "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Chicken](/keeperrl_wiki/Old_Chicken "wikilink")

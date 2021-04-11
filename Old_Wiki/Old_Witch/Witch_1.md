@@ -3,6 +3,9 @@ title: Witch 1
 permalink: Witch_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Witch](/keeperrl_wiki/Old_Witch "wikilink")
+
 = Base Stats =
 *Spell Damage:20
 *Defense:14

@@ -3,6 +3,9 @@ title: Pre-fix Ideas 13
 permalink: Pre-fix_Ideas_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Pre-fix_Ideas](/keeperrl_wiki/Old_Pre-fix_Ideas "wikilink")
+
 = Prefix Ideas =
 
 == Item Prefixes ==

@@ -3,6 +3,9 @@ title: Keeper 5
 permalink: Keeper_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Keeper](/keeperrl_wiki/Old_Keeper "wikilink")
+
 Your keeper will research once a library is built and is capable of cast a range of [[:Category: Spells |spells]].
 
 == Skills ==

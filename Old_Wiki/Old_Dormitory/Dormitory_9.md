@@ -3,6 +3,9 @@ title: Dormitory 9
 permalink: Dormitory_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dormitory](/keeperrl_wiki/Old_Dormitory "wikilink")
+
 [[File:bed1.png|100px|link=]] [[File:bed2.png|100px|link=]] [[File:bed3.png|100px|link=]]
 ''Humanoid minions sleep on their beds.''
 

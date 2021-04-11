@@ -3,6 +3,9 @@ title: Human Cottage 0
 permalink: Human_Cottage_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Human_Cottage](/keeperrl_wiki/Old_Human_Cottage "wikilink")
+
 = Stats =
 *Settlement: Cottage
 *Tribal Loyalty: Humanity

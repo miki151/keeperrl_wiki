@@ -3,6 +3,9 @@ title: Ghost 8
 permalink: Ghost_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ghost](/keeperrl_wiki/Old_Ghost "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

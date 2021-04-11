@@ -3,6 +3,9 @@ title: Cow 0
 permalink: Cow_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cow](/keeperrl_wiki/Old_Cow "wikilink")
+
 [[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cow](/keeperrl_wiki/Old_Cow "wikilink")

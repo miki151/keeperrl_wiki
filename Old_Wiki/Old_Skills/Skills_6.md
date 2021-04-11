@@ -3,6 +3,9 @@ title: Skills 6
 permalink: Skills_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skills](/keeperrl_wiki/Old_Skills "wikilink")
+
 __NOTOC__
 ''alpha 13''
 == Absorbtion ==

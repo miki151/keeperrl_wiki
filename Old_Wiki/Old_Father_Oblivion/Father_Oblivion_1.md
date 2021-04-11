@@ -3,6 +3,9 @@ title: Father Oblivion 1
 permalink: Father_Oblivion_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Father_Oblivion](/keeperrl_wiki/Old_Father_Oblivion "wikilink")
+
 [[File:friar.png|100px|link=]]
 
 = Base Stats 

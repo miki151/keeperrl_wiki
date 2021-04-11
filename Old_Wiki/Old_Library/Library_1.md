@@ -3,6 +3,9 @@ title: Library 1
 permalink: Library_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Library](/keeperrl_wiki/Old_Library "wikilink")
+
 Allows your keeper to research new tech
 ==Tile Cost==
 20 wood

@@ -3,6 +3,9 @@ title: Driads 1
 permalink: Driads_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Driads](/keeperrl_wiki/Old_Driads "wikilink")
+
 [[File:driad.png|100px|link=]]
 
 = Stats =

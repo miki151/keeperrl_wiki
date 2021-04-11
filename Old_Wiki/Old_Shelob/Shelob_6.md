@@ -3,6 +3,9 @@ title: Shelob 6
 permalink: Shelob_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shelob](/keeperrl_wiki/Old_Shelob "wikilink")
+
 [[File:szelob.png|100px|link=]] ''Spider boss
 
 ==Base Stats==

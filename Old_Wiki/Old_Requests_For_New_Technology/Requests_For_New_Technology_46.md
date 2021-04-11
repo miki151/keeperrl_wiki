@@ -3,6 +3,9 @@ title: Requests For New Technology 46
 permalink: Requests_For_New_Technology_46/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Technology](/keeperrl_wiki/Old_Requests_For_New_Technology "wikilink")
+
 Note: The cost of technologies should probably be such that you will rarely be able to get them all in a single game. Perhaps just one or two of the really powerful ones.
 
 =Unlock new spells=

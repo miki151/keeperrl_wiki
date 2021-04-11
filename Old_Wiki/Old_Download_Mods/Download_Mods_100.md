@@ -3,6 +3,9 @@ title: Download Mods 100
 permalink: Download_Mods_100/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 For Alpha 28 Mods go [[Alpha 28 Mods | Here]]
 
 For Alpha 27 Mods go [[Alpha 27 Mods | Here]]

@@ -3,6 +3,9 @@ title: Demon Lord 4
 permalink: Demon_Lord_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Lord](/keeperrl_wiki/Old_Demon_Lord "wikilink")
+
 [[File:demon_lord.png|100px|link=]] '' Major Villain
 
 *Spell Damage:50

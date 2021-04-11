@@ -3,6 +3,9 @@ title: Adoxie Temple 1
 permalink: Adoxie_Temple_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Adoxie_Temple](/keeperrl_wiki/Old_Adoxie_Temple "wikilink")
+
 = Stats =
 *Settlement: Custom Adoxie Temple
 *Tribal Loyalty: None

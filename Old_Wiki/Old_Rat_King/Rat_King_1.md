@@ -3,6 +3,9 @@ title: Rat King 1
 permalink: Rat_King_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat_King](/keeperrl_wiki/Old_Rat_King "wikilink")
+
 [[File:rat_king.png|100px|link=]]
 
 = Base Stats =

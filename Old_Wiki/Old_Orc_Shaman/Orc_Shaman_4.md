@@ -3,6 +3,9 @@ title: Orc Shaman 4
 permalink: Orc_Shaman_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc_Shaman](/keeperrl_wiki/Old_Orc_Shaman "wikilink")
+
 __NOTOC__
 
 [[File:orc_shaman.png|100px|link=]] ''Standard healer minion

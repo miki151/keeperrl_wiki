@@ -3,6 +3,9 @@ title: Attributes 1
 permalink: Attributes_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Attributes](/keeperrl_wiki/Old_Attributes "wikilink")
+
 __NOTOC__
 == Accuracy ==
 ''Defines the chance of a successful melee attack and dodging.''

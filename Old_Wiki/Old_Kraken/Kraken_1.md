@@ -3,6 +3,9 @@ title: Kraken 1
 permalink: Kraken_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kraken](/keeperrl_wiki/Old_Kraken "wikilink")
+
 *Attributes:Kraken
 
 [[Category: Creatures]]

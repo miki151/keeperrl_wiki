@@ -3,6 +3,9 @@ title: Orc 1
 permalink: Orc_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc](/keeperrl_wiki/Old_Orc "wikilink")
+
 Orcs start at level 7
 
 == Skills ==

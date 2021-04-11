@@ -3,6 +3,9 @@ title: Peasant 2
 permalink: Peasant_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Peasant](/keeperrl_wiki/Old_Peasant "wikilink")
+
 #REDIRECT [[Peaseant]]
 
 [[Category: Creatures]]

@@ -3,6 +3,9 @@ title: Sealed Ant Nest 2
 permalink: Sealed_Ant_Nest_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Sealed_Ant_Nest](/keeperrl_wiki/Old_Sealed_Ant_Nest "wikilink")
+
 [[File:antq.png|100px|link=]]
 [[File:antw.png|100px|link=]]
 [[File:antw.png|100px|link=]]

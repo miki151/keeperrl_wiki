@@ -3,6 +3,9 @@ title: Vulture 4
 permalink: Vulture_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vulture](/keeperrl_wiki/Old_Vulture "wikilink")
+
 __NOTOC__
 
 [[File:vulture.png|100px|link=]] ''Food scavenger

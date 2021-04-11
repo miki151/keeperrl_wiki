@@ -3,6 +3,9 @@ title: Horse 6
 permalink: Horse_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Horse](/keeperrl_wiki/Old_Horse "wikilink")
+
 [[File:horse.png|100px|link=]] ''No, you can't ride it
 
 = Base Stats =

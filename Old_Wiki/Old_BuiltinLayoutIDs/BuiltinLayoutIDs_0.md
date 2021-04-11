@@ -3,6 +3,9 @@ title: BuiltinLayoutIDs 0
 permalink: BuiltinLayoutIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_BuiltinLayoutIDs](/keeperrl_wiki/Old_BuiltinLayoutIDs "wikilink")
+
   VILLAGE
   SMALL_VILLAGE,
   FORREST_VILLAGE

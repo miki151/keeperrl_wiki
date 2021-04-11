@@ -3,6 +3,9 @@ title: ImmigrationRequirements 0
 permalink: ImmigrationRequirements_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_ImmigrationRequirements](/keeperrl_wiki/Old_ImmigrationRequirements "wikilink")
+
 =Usage=
 Used to specify.
 

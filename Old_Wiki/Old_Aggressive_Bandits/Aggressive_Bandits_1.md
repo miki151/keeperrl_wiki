@@ -3,6 +3,9 @@ title: Aggressive Bandits 1
 permalink: Aggressive_Bandits_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Aggressive_Bandits](/keeperrl_wiki/Old_Aggressive_Bandits "wikilink")
+
 = Stats =
 *Settlement: Cave
 *Inhabitants 4-9 [[Bandit]]

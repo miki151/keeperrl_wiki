@@ -3,6 +3,9 @@ title: Orc 3
 permalink: Orc_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc](/keeperrl_wiki/Old_Orc "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

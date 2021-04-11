@@ -3,6 +3,9 @@ title: Artisan 0
 permalink: Artisan_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Artisan](/keeperrl_wiki/Old_Artisan "wikilink")
+
 [[File:artisan.png|100px|link=]]
 
 = Base Stats =

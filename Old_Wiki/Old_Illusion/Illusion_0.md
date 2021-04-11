@@ -3,6 +3,9 @@ title: Illusion 0
 permalink: Illusion_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Illusion](/keeperrl_wiki/Old_Illusion "wikilink")
+
 __NOTOC__
 ''Summoned by [[:Spells#Deception|deception]] spell.''
 == [[:Attributes]] ==

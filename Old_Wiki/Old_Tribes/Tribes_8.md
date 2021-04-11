@@ -3,6 +3,9 @@ title: Tribes 8
 permalink: Tribes_8/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tribes](/keeperrl_wiki/Old_Tribes "wikilink")
+
 Tribes faced by players can sometimes have &quot;triggers&quot; which mean they are planning to attack the player's dungeon or castle. Types of triggers include greed for gold, excessive hostility, revenge for stealing from or killing tribe members, the population of your dungeon being threatening or seen as an easy target, provocation by hanging up executed prisoner heads and some other reasons.
 
 The tribes faced in campaigns are partially configurable in campaign_villains.txt although new tribes cannot be added by just changing campaign_villains.txt. The file looks like this:

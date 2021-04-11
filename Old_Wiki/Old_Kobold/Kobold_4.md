@@ -3,6 +3,9 @@ title: Kobold 4
 permalink: Kobold_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Kobold](/keeperrl_wiki/Old_Kobold "wikilink")
+
 [[File:kobold.png|100px|link=]] ''Little guys with spears
 
 ==Base Stats==

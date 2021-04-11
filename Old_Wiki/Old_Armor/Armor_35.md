@@ -3,6 +3,9 @@ title: Armor 35
 permalink: Armor_35/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Armor](/keeperrl_wiki/Old_Armor "wikilink")
+
 [[Category: Items]]
 
 = Helmets =

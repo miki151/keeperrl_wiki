@@ -3,6 +3,9 @@ title: Cyclops 6
 permalink: Cyclops_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cyclops](/keeperrl_wiki/Old_Cyclops "wikilink")
+
 = Stats =
 
 *Defense:40

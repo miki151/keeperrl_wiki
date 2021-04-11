@@ -3,6 +3,9 @@ title: Elf Vision 0
 permalink: Elf_Vision_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elf_Vision](/keeperrl_wiki/Old_Elf_Vision "wikilink")
+
 See and shoot arrows through trees.
 
 [[Category: Skills]]

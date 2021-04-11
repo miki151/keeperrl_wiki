@@ -3,6 +3,9 @@ title: Skills 0
 permalink: Skills_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skills](/keeperrl_wiki/Old_Skills "wikilink")
+
 List of Skills
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Skills](/keeperrl_wiki/Old_Skills "wikilink")

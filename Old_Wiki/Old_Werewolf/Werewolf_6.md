@@ -4,6 +4,7 @@ permalink: Werewolf_6/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Werewolf](/keeperrl_wiki/Old_Werewolf "wikilink")
 
 [[File:werewolf2.png|100px|link=]] ''Naturally regenerates health
 

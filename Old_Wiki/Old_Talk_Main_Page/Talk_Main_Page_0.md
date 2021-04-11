@@ -3,6 +3,9 @@ title: Talk Main Page 0
 permalink: Talk_Main_Page_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Talk_Main_Page](/keeperrl_wiki/Old_Talk_Main_Page "wikilink")
+
 Is there a place where this Wiki shows some depth? KeeperRL's big brother Dwarf Fortress made a point of having a well-organised, community supported wiki and it makes a world of difference when you play:
 
 * Learning curve! At this point let's not expect everything to be perfect, but common gameplay and your usual tricks ''should be documented''.

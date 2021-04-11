@@ -3,6 +3,9 @@ title: Donkey 1
 permalink: Donkey_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Donkey](/keeperrl_wiki/Old_Donkey "wikilink")
+
 *Defense:7
 *Damage:10
 *Body size:Large

@@ -3,6 +3,9 @@ title: Cemetery 1
 permalink: Cemetery_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Cemetery](/keeperrl_wiki/Old_Cemetery "wikilink")
+
 = Stats =
 *Settlement: Cemetery 
 *Inhabitants: 8-12 Zombies

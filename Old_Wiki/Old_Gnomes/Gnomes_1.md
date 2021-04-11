@@ -3,6 +3,9 @@ title: Gnomes 1
 permalink: Gnomes_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnomes](/keeperrl_wiki/Old_Gnomes "wikilink")
+
 = Stats =
 *Settlement: Mine Town
 *Tribal Loyalty: Gnome

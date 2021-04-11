@@ -3,6 +3,9 @@ title: Night Vision 0
 permalink: Night_Vision_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Night_Vision](/keeperrl_wiki/Old_Night_Vision "wikilink")
+
 See in the dark.
 
 [[Category: Skills]]

@@ -3,6 +3,9 @@ title: Requests For New Biomes 21
 permalink: Requests_For_New_Biomes_21/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Biomes](/keeperrl_wiki/Old_Requests_For_New_Biomes "wikilink")
+
 Use this page for game maps that will require new monsters and new terrain
 
 ==Forest==

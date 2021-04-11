@@ -3,6 +3,9 @@ title: Characteristics 19
 permalink: Characteristics_19/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
+
 Characteristics can be good or bad. They can also be permanent, intrinsic or temporary. Temporary characteristics can be a result of blessings, spells, curses, potions and the like. Intrinsic characteristics exist within the creature itself and are not a result of eating, drinking, reading, wearing or doing things.
 
 Lasting effects are in the code here:

@@ -3,6 +3,9 @@ title: Demon Lord 1
 permalink: Demon_Lord_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Demon_Lord](/keeperrl_wiki/Old_Demon_Lord "wikilink")
+
 *Spell Damage:50
 *Defense:45
 *Damage:40

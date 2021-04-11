@@ -3,6 +3,9 @@ title: Shallow Dungeon Floor 4
 permalink: Shallow_Dungeon_Floor_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shallow_Dungeon_Floor](/keeperrl_wiki/Old_Shallow_Dungeon_Floor "wikilink")
+
 [[File:witch.png|100px|link=]]
 [[File:bandit.png|100px|link=]]
 [[File:cyclops.png|100px|link=]]

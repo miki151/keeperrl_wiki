@@ -3,6 +3,9 @@ title: Doppleganger 12
 permalink: Doppleganger_12/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Doppleganger](/keeperrl_wiki/Old_Doppleganger "wikilink")
+
 __NOTOC__
 [[File:doppleganger.png|100px|link=]] '' Absorber of bodies
 

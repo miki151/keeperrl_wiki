@@ -3,6 +3,9 @@ title: Shelob 2
 permalink: Shelob_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Shelob](/keeperrl_wiki/Old_Shelob "wikilink")
+
 [[File:shelob.png|100px|link=]] ''Spider boss
 
 *Defense38

@@ -3,6 +3,9 @@ title: Nomad Child 1
 permalink: Nomad_Child_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Nomad_Child](/keeperrl_wiki/Old_Nomad_Child "wikilink")
+
 [[File:nomad_child.png|100px|link=]]
 
 = Base Stats =

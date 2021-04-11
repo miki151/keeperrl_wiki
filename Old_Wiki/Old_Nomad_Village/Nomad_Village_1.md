@@ -3,6 +3,9 @@ title: Nomad Village 1
 permalink: Nomad_Village_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Nomad_Village](/keeperrl_wiki/Old_Nomad_Village "wikilink")
+
 [[File: &quot;nomad&quot; .png|100px|link=]]
 [[File: &quot;nomad&quot; .png|100px|link=]]
 [[File: &quot;nomad&quot; .png|100px|link=]]

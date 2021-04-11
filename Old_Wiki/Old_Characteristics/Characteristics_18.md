@@ -3,6 +3,9 @@ title: Characteristics 18
 permalink: Characteristics_18/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
+
 Characteristics can be good or bad. They can also be permanent, intrinsic or temporary. Temporary characteristics can be a result of blessings, spells, curses, potions and the like.
 
 Lasting effects are in the code here:

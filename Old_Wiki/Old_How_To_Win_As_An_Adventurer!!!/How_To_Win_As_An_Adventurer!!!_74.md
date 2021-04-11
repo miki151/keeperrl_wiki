@@ -3,6 +3,9 @@ title: How To Win As An Adventurer!!! 74
 permalink: How_To_Win_As_An_Adventurer!!!_74/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_How_To_Win_As_An_Adventurer!!!](/keeperrl_wiki/Old_How_To_Win_As_An_Adventurer!!! "wikilink")
+
 Please note that in more recent versions of KeeperRL, adventure mode has moved from a single map battle to a campaign battle. This has changed the game-play somewhat.
 
 Adventurers gain combat experience and can also destroy tribes to train skills.

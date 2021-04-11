@@ -3,6 +3,9 @@ title: Black Market Entry 0
 permalink: Black_Market_Entry_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Market_Entry](/keeperrl_wiki/Old_Black_Market_Entry "wikilink")
+
 = Stats =
 *Settlement: Mine Town
 *Tribal Loyalty: None

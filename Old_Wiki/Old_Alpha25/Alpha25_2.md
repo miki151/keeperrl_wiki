@@ -3,6 +3,9 @@ title: Alpha25 2
 permalink: Alpha25_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha25](/keeperrl_wiki/Old_Alpha25 "wikilink")
+
 =Full change log=
 
 ==Gameplay==

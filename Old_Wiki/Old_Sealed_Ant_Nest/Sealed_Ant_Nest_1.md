@@ -3,6 +3,9 @@ title: Sealed Ant Nest 1
 permalink: Sealed_Ant_Nest_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Sealed_Ant_Nest](/keeperrl_wiki/Old_Sealed_Ant_Nest "wikilink")
+
 = Stats =
 *Settlement: Ant nest
 *Inhabitants: 5-7 ant soldliers, 5-7 ant workers led by ant queen

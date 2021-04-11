@@ -3,6 +3,9 @@ title: Elven Cottage 3
 permalink: Elven_Cottage_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elven_Cottage](/keeperrl_wiki/Old_Elven_Cottage "wikilink")
+
 = Stats =
 *Settlement: Forest cottage 
 *Tribal Loyalty: Elf 

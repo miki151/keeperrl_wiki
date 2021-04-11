@@ -3,6 +3,9 @@ title: Prisoner 2
 permalink: Prisoner_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prisoner](/keeperrl_wiki/Old_Prisoner "wikilink")
+
 Since Alpha 24 prisoners keep their stats after being captured. They do however gain new tasks and traits:
 
 == Traits ==

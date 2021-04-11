@@ -3,6 +3,9 @@ title: Tribes 2
 permalink: Tribes_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Tribes](/keeperrl_wiki/Old_Tribes "wikilink")
+
 The tribes faced in campaigns are partially configurable in campaign_villains.txt although new tribes cannot be modded by just changing campaign_villains.txt. The file looks like this:
 
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/campaign_villains.txt campaign_villains.txt]]

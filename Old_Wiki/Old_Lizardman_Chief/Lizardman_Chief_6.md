@@ -3,6 +3,9 @@ title: Lizardman Chief 6
 permalink: Lizardman_Chief_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lizardman_Chief](/keeperrl_wiki/Old_Lizardman_Chief "wikilink")
+
 [[File:lizardlord.png|100px|link=]] ''Villiage chief
 
 = Base Stats =

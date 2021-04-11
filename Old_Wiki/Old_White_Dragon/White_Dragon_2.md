@@ -3,6 +3,9 @@ title: White Dragon 2
 permalink: White_Dragon_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_White_Dragon](/keeperrl_wiki/Old_White_Dragon "wikilink")
+
 [[File:white_dragon.png|100px|link=]]
 
 = Base Stats =

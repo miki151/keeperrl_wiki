@@ -3,6 +3,9 @@ title: Doppleganger 9
 permalink: Doppleganger_9/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Doppleganger](/keeperrl_wiki/Old_Doppleganger "wikilink")
+
 __NOTOC__
 == [[:Attributes]] ==
 ''Base values''

@@ -3,6 +3,9 @@ title: Black Rats 1
 permalink: Black_Rats_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Black_Rats](/keeperrl_wiki/Old_Black_Rats "wikilink")
+
 = Stats =
 *Layout: Ant nest
 *Inhabitants: 12-20 [[Black Rat]]

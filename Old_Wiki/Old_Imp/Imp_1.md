@@ -3,6 +3,9 @@ title: Imp 1
 permalink: Imp_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Imp](/keeperrl_wiki/Old_Imp "wikilink")
+
 *Your workforce for mining, resource gathering, building and placing traps etc...
 *Wage (0)
 *Summoned with a mana cost

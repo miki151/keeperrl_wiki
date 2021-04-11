@@ -3,6 +3,9 @@ title: Dog 6
 permalink: Dog_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dog](/keeperrl_wiki/Old_Dog "wikilink")
+
 [[File:dog.png|100px|link=]] '' Killer of the unarmed
 
 = Base Stats =

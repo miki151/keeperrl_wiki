@@ -3,6 +3,9 @@ title: Imp 13
 permalink: Imp_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Imp](/keeperrl_wiki/Old_Imp "wikilink")
+
 __NOTOC__
 
 [[File:imp.png|100px|link=]] ''Warlock's best workers

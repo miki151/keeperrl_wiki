@@ -3,6 +3,9 @@ title: Driad 5
 permalink: Driad_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Driad](/keeperrl_wiki/Old_Driad "wikilink")
+
 [[File:driad.png|100px|link=]] '' Tree dwellers
 
 = Base Stats =

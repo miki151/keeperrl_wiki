@@ -3,6 +3,9 @@ title: TraitIDs 5
 permalink: TraitIDs_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_TraitIDs](/keeperrl_wiki/Old_TraitIDs "wikilink")
+
 =Usage=
 Used to specify what traits immigrants have
 

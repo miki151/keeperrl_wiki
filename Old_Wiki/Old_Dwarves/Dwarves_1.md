@@ -3,6 +3,9 @@ title: Dwarves 1
 permalink: Dwarves_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarves](/keeperrl_wiki/Old_Dwarves "wikilink")
+
 [[File:Dwarf.png|100px|link=]]
 [[File:Dwarf.png|100px|link=]]
 [[File:Dwarf.png|100px|link=]]

@@ -3,6 +3,9 @@ title: Dark Elf Cave 0
 permalink: Dark_Elf_Cave_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf_Cave](/keeperrl_wiki/Old_Dark_Elf_Cave "wikilink")
+
 = Stats =
 *Settlement: Small mine town
 *Tribal Loyalty: Dark elf

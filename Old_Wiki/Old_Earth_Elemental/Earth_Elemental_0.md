@@ -3,6 +3,9 @@ title: Earth Elemental 0
 permalink: Earth_Elemental_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Earth_Elemental](/keeperrl_wiki/Old_Earth_Elemental "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Earth_Elemental](/keeperrl_wiki/Old_Earth_Elemental "wikilink")

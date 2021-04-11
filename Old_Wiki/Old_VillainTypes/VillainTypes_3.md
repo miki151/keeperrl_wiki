@@ -3,6 +3,9 @@ title: VillainTypes 3
 permalink: VillainTypes_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_VillainTypes](/keeperrl_wiki/Old_VillainTypes "wikilink")
+
 =Usage=
 Used to specify what category a villain will appear as on a campaign map.
 

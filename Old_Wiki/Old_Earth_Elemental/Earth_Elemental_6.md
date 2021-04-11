@@ -3,6 +3,9 @@ title: Earth Elemental 6
 permalink: Earth_Elemental_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Earth_Elemental](/keeperrl_wiki/Old_Earth_Elemental "wikilink")
+
 [[File:earthelemental.png|100px|link=]] ''Summoned near rock using magic
 
 ==Base Stats==

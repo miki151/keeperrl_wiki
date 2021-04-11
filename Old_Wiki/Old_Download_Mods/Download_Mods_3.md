@@ -3,6 +3,9 @@ title: Download Mods 3
 permalink: Download_Mods_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Download_Mods](/keeperrl_wiki/Old_Download_Mods "wikilink")
+
 =Introduction=
 Alpha 26 has introduced new modding support. Download the zip files and unzip them to your KeeperRL folder, replacing any existing mod files that are already there. Restart KeeperRL for good measure.
 

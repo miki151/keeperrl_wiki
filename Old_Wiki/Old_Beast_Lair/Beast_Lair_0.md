@@ -3,6 +3,9 @@ title: Beast Lair 0
 permalink: Beast_Lair_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Beast_Lair](/keeperrl_wiki/Old_Beast_Lair "wikilink")
+
 ???
 ==Tile Cost==
 12 wood

@@ -3,6 +3,9 @@ title: Goblin 4
 permalink: Goblin_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Goblin](/keeperrl_wiki/Old_Goblin "wikilink")
+
 __NOTOC__
 ''Really likes crafting things.''
 == [[:Attributes]] ==

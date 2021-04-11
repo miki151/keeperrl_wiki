@@ -3,6 +3,9 @@ title: Dark Elf 0
 permalink: Dark_Elf_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf](/keeperrl_wiki/Old_Dark_Elf "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elf](/keeperrl_wiki/Old_Dark_Elf "wikilink")

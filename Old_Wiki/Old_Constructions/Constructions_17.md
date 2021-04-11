@@ -4,6 +4,8 @@ permalink: Constructions_17/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")
+
 * [[Category : Rooms]]
 * [[Structures and Installations]]
 * [[Traps]]

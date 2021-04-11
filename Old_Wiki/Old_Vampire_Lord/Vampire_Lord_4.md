@@ -3,6 +3,9 @@ title: Vampire Lord 4
 permalink: Vampire_Lord_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vampire_Lord](/keeperrl_wiki/Old_Vampire_Lord "wikilink")
+
 [[File:vampirelord.png|100px|link=]] ''Powerful when converted
 
 == Base Stats==

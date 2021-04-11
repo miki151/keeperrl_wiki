@@ -3,6 +3,9 @@ title: Constructions 0
 permalink: Constructions_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Constructions](/keeperrl_wiki/Old_Constructions "wikilink")
+
 To manage your dungeon, you can ask your imps to construct rooms, install features and set traps.
 
 ** [[:Category: Rooms | Rooms]]

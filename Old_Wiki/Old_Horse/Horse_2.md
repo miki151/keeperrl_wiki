@@ -3,6 +3,9 @@ title: Horse 2
 permalink: Horse_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Horse](/keeperrl_wiki/Old_Horse "wikilink")
+
 = Base Stats =
  Strenght: 10
  Dexterity: 13

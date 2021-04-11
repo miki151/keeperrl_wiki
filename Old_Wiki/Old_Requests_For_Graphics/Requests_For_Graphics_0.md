@@ -3,6 +3,9 @@ title: Requests For Graphics 0
 permalink: Requests_For_Graphics_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_Graphics](/keeperrl_wiki/Old_Requests_For_Graphics "wikilink")
+
 *Host texture packs on Steam workshop
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_Graphics](/keeperrl_wiki/Old_Requests_For_Graphics "wikilink")

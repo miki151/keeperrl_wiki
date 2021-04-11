@@ -3,6 +3,9 @@ title: Yellow Dragon 1
 permalink: Yellow_Dragon_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Yellow_Dragon](/keeperrl_wiki/Old_Yellow_Dragon "wikilink")
+
 [[File:yellow_dragon.png|100px|link=]]
 
 = Base Stats =

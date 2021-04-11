@@ -3,6 +3,9 @@ title: Dark Elves Enemy 4
 permalink: Dark_Elves_Enemy_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dark_Elves_Enemy](/keeperrl_wiki/Old_Dark_Elves_Enemy "wikilink")
+
 [[File:Dark_elf_lord.png|100px|link=]]
 [[File:Dark_elf_warrior.png|100px|link=]]
 [[File:Dark_elf_warrior.png|100px|link=]]

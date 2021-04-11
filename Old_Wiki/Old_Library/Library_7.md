@@ -3,6 +3,9 @@ title: Library 7
 permalink: Library_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Library](/keeperrl_wiki/Old_Library "wikilink")
+
 [[File:library_wood.png|100px|link=]] [[File:library_iron.png|100px|link=]] [[File:library_gold.png|100px|link=]]
 ''Allows your minions to research new Spells.
 *Each creature studying in the library generates experience if in free play with the &quot;generate mana&quot; option ticked.

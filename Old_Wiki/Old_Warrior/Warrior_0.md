@@ -3,6 +3,9 @@ title: Warrior 0
 permalink: Warrior_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Warrior](/keeperrl_wiki/Old_Warrior "wikilink")
+
 Warrior
 
 [[Category: Creatures]]

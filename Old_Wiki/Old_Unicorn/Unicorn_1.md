@@ -3,6 +3,9 @@ title: Unicorn 1
 permalink: Unicorn_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn](/keeperrl_wiki/Old_Unicorn "wikilink")
+
 *Spell Damage:20
 *Defense:20
 *Damage:16

@@ -3,6 +3,9 @@ title: Requests For New Traps 15
 permalink: Requests_For_New_Traps_15/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Traps](/keeperrl_wiki/Old_Requests_For_New_Traps "wikilink")
+
 == Explosion Trap ==
 * Build Cost: 100 mana
 * Damage: 15

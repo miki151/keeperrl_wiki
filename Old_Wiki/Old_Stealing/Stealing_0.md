@@ -3,6 +3,9 @@ title: Stealing 0
 permalink: Stealing_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Stealing](/keeperrl_wiki/Old_Stealing "wikilink")
+
 Stealing
 
 Steal from other monsters. Not available for player ATM.

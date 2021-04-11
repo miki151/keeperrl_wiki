@@ -3,6 +3,9 @@ title: Alternative Keeper Characters 166
 permalink: Alternative_Keeper_Characters_166/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alternative_Keeper_Characters](/keeperrl_wiki/Old_Alternative_Keeper_Characters "wikilink")
+
 Keepers are always warlocks (at the time of writing, in Alpha 21)
 
 Please feel free to contribute to this page (which needs your help).

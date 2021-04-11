@@ -3,6 +3,9 @@ title: Gnome Chief 5
 permalink: Gnome_Chief_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome_Chief](/keeperrl_wiki/Old_Gnome_Chief "wikilink")
+
 [[File:gnome_chief.png|100px|link=]] ''Lord of his own dungeon
 
 *Defense:16

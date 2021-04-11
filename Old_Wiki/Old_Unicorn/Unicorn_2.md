@@ -3,6 +3,9 @@ title: Unicorn 2
 permalink: Unicorn_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn](/keeperrl_wiki/Old_Unicorn "wikilink")
+
 [[File:unicorn.png|100px|link=]] ''Woodland herds
 
 *Spell Damage:20

@@ -3,6 +3,9 @@ title: Nomad Cottage 3
 permalink: Nomad_Cottage_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Nomad_Cottage](/keeperrl_wiki/Old_Nomad_Cottage "wikilink")
+
 [[File: &quot;nomad&quot; .png|100px|link=]]
 [[File: &quot;nomad&quot; .png|100px|link=]]
 [[File: &quot;nomad&quot; .png|100px|link=]]

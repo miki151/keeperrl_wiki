@@ -3,6 +3,9 @@ title: EffectTypeIDs 0
 permalink: EffectTypeIDs_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_EffectTypeIDs](/keeperrl_wiki/Old_EffectTypeIDs "wikilink")
+
 =Usage=
 Used to specify.
 

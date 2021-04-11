@@ -3,6 +3,9 @@ title: Halloween Kid 0
 permalink: Halloween_Kid_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Halloween_Kid](/keeperrl_wiki/Old_Halloween_Kid "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Halloween_Kid](/keeperrl_wiki/Old_Halloween_Kid "wikilink")

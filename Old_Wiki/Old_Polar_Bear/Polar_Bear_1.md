@@ -3,6 +3,9 @@ title: Polar Bear 1
 permalink: Polar_Bear_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Polar_Bear](/keeperrl_wiki/Old_Polar_Bear "wikilink")
+
 [[File:polar_bear.png|100px|link=]]
 
 = Base Stats =

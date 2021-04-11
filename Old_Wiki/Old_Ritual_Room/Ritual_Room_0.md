@@ -3,6 +3,9 @@ title: Ritual Room 0
 permalink: Ritual_Room_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Ritual_Room](/keeperrl_wiki/Old_Ritual_Room "wikilink")
+
 ???
 
 ==Tile Cost==

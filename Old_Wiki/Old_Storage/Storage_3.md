@@ -3,6 +3,9 @@ title: Storage 3
 permalink: Storage_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Storage](/keeperrl_wiki/Old_Storage "wikilink")
+
 There are current 3 types of storage tile
 
 ==Everything==

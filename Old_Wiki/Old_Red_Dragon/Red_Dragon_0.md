@@ -3,6 +3,9 @@ title: Red Dragon 0
 permalink: Red_Dragon_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Red_Dragon](/keeperrl_wiki/Old_Red_Dragon "wikilink")
+
 = Base Stats =
  Strength: 50
  Dexterity: 30

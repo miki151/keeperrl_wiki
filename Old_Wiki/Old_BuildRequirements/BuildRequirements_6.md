@@ -3,6 +3,9 @@ title: BuildRequirements 6
 permalink: BuildRequirements_6/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_BuildRequirements](/keeperrl_wiki/Old_BuildRequirements "wikilink")
+
 =Usage=
 Used to specify whether it is a requirement to have a particular technology or a particular dungeon level to build items from the build menu
 

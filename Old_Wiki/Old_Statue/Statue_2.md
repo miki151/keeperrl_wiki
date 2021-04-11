@@ -3,6 +3,9 @@ title: Statue 2
 permalink: Statue_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Statue](/keeperrl_wiki/Old_Statue "wikilink")
+
 __NOTOC__
 
 == Type ==

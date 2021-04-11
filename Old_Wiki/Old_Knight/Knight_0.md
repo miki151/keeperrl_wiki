@@ -3,6 +3,9 @@ title: Knight 0
 permalink: Knight_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Knight](/keeperrl_wiki/Old_Knight "wikilink")
+
 Knight
 
 [[Category: Creatures]]

@@ -3,6 +3,9 @@ title: Requests For New Wildlife 7
 permalink: Requests_For_New_Wildlife_7/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Requests_For_New_Wildlife](/keeperrl_wiki/Old_Requests_For_New_Wildlife "wikilink")
+
 == Eagle ==
 * Level : 15
 * Strength : 10

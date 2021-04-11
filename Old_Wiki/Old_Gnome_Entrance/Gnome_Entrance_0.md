@@ -3,6 +3,9 @@ title: Gnome Entrance 0
 permalink: Gnome_Entrance_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Gnome_Entrance](/keeperrl_wiki/Old_Gnome_Entrance "wikilink")
+
 = Stats =
 *Settlement: Small Mine Town
 *Tribal Loyalty: Gnome

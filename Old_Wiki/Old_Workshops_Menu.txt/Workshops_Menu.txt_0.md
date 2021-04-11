@@ -3,6 +3,9 @@ title: Workshops Menu.txt 0
 permalink: Workshops_Menu.txt_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Workshops_Menu.txt](/keeperrl_wiki/Old_Workshops_Menu.txt "wikilink")
+
  {
    
  &quot;basic&quot;

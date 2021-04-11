@@ -3,6 +3,9 @@ title: Dog 0
 permalink: Dog_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dog](/keeperrl_wiki/Old_Dog "wikilink")
+
 = Base Stats =
  Strenght: 15
  Dexterity: 14

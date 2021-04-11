@@ -3,6 +3,9 @@ title: Unicorn Herd 4
 permalink: Unicorn_Herd_4/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Unicorn_Herd](/keeperrl_wiki/Old_Unicorn_Herd "wikilink")
+
 [[File:unicorn.png|100px|link=]]
 [[File:unicorn.png|100px|link=]]
 [[File:unicorn.png|100px|link=]]

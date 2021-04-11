@@ -3,6 +3,9 @@ title: Lava Golem 1
 permalink: Lava_Golem_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Lava_Golem](/keeperrl_wiki/Old_Lava_Golem "wikilink")
+
 *Defense:36
 *Damage:26
 *Melee Resistance:Yes

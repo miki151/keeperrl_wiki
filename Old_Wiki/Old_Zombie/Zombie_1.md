@@ -3,6 +3,9 @@ title: Zombie 1
 permalink: Zombie_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Zombie](/keeperrl_wiki/Old_Zombie "wikilink")
+
 A zombie is a large and undead humanoid with 2 arms and 2 legs. It is weak, clumsy and slow.
 
 [[Category: Creatures]]

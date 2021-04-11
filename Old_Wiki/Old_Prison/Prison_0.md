@@ -3,6 +3,9 @@ title: Prison 0
 permalink: Prison_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Prison](/keeperrl_wiki/Old_Prison "wikilink")
+
 Prison
 
 [[Category: Rooms]]

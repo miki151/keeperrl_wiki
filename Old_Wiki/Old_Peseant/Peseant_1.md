@@ -3,6 +3,9 @@ title: Peseant 1
 permalink: Peseant_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Peseant](/keeperrl_wiki/Old_Peseant "wikilink")
+
 = Base Stats =
 *Defense:12
 *Damage:14

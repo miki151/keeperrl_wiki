@@ -3,6 +3,9 @@ title: Dwarf Cave 3
 permalink: Dwarf_Cave_3/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Dwarf_Cave](/keeperrl_wiki/Old_Dwarf_Cave "wikilink")
+
 = Stats =
 *Settlement: Small Mine Town
 *Tribal Loyalty: Dwarf

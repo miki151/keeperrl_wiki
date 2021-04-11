@@ -3,6 +3,9 @@ title: Driad 1
 permalink: Driad_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Driad](/keeperrl_wiki/Old_Driad "wikilink")
+
 *Ranged Damage:25
 *Defense:14
 *Damage:6

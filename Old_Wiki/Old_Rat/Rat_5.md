@@ -3,6 +3,9 @@ title: Rat 5
 permalink: Rat_5/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Rat](/keeperrl_wiki/Old_Rat "wikilink")
+
 [[File:rat.png|100px|link=]] ''Often live in chests, eating cheese
 
 == Base Stats ==

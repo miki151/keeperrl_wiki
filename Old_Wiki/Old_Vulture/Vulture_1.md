@@ -3,6 +3,9 @@ title: Vulture 1
 permalink: Vulture_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Vulture](/keeperrl_wiki/Old_Vulture "wikilink")
+
 __NOTOC__
 
 == [[:Attributes]] ==

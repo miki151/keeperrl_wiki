@@ -4,6 +4,8 @@ permalink: Endless_Waves_Of_Invaders_10/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Endless_Waves_Of_Invaders](/keeperrl_wiki/Old_Endless_Waves_Of_Invaders "wikilink")
+
 Invasion waves are moddable. The official configs are found [https://github.com/miki151/keeperrl/blob/master/data_free/game_config/endless_enemies.txt here].
 
 == Introduction to Endless Waves  ==

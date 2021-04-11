@@ -3,6 +3,9 @@ title: Eskimo Child 2
 permalink: Eskimo_Child_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Eskimo_Child](/keeperrl_wiki/Old_Eskimo_Child "wikilink")
+
 [[File:eskimo_child.png|100px|link=]]
 
 == Base Stats ==

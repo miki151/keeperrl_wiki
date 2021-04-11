@@ -3,6 +3,9 @@ title: Elves 1
 permalink: Elves_1/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Elves](/keeperrl_wiki/Old_Elves "wikilink")
+
 = Stats =
 *Settlement: Forrest village
 *Inhabitants: Elf Lord leading 6-9 elf archers plus 6-9 Woman/Children/Horses.

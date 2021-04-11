@@ -3,6 +3,9 @@ title: Characteristics 13
 permalink: Characteristics_13/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Characteristics](/keeperrl_wiki/Old_Characteristics "wikilink")
+
 = Good Characteristics =
 
 == Invisible ==

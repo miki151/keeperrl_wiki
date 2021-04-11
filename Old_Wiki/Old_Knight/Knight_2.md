@@ -3,6 +3,9 @@ title: Knight 2
 permalink: Knight_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Knight](/keeperrl_wiki/Old_Knight "wikilink")
+
 = Base Stats =
 *Defense:28
 *Damage:36

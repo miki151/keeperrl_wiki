@@ -3,6 +3,9 @@ title: Alpha31 0
 permalink: Alpha31_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Alpha31](/keeperrl_wiki/Old_Alpha31 "wikilink")
+
 KeeperR sandbox game
 GET KEEPERRL BY DONATING TO ANY WILDLIFE CHARITY!
 Toggle navigation

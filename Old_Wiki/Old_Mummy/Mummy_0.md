@@ -3,6 +3,9 @@ title: Mummy 0
 permalink: Mummy_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mummy](/keeperrl_wiki/Old_Mummy "wikilink")
+
 [[Category:Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Mummy](/keeperrl_wiki/Old_Mummy "wikilink")

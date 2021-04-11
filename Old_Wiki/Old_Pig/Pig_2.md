@@ -3,6 +3,9 @@ title: Pig 2
 permalink: Pig_2/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Pig](/keeperrl_wiki/Old_Pig "wikilink")
+
 = Base Stats =
 *Defense:2
 *Damage:5

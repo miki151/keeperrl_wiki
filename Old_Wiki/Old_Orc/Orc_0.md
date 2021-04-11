@@ -3,6 +3,9 @@ title: Orc 0
 permalink: Orc_0/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Orc](/keeperrl_wiki/Old_Orc "wikilink")
+
 Orc
 
 [[Category:Minions]]

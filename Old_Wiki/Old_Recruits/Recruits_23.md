@@ -3,6 +3,9 @@ title: Recruits 23
 permalink: Recruits_23/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Old_Wiki](/keeperrl_wiki/Old_Wiki "wikilink")>>[Old_Recruits](/keeperrl_wiki/Old_Recruits "wikilink")
+
 = Configuration of recruits =
 Recruits often have special traits and the types of immigrants and their special traits are configurable in immigration.txt:
  [[https://github.com/miki151/keeperrl/blob/master/data_free/game_config/vanilla/immigration.txt immigration.txt]]
