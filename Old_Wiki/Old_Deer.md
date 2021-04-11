@@ -3,6 +3,7 @@ title: Old Deer
 permalink: Old_Deer/
 layout: wiki
 ---
+
 [[File:Deer.png|100px|link=]] '' Sometimes glimpsed running through the trees
 
 == Base Stats==
