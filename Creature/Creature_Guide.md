@@ -10,9 +10,24 @@ Here is a list of creatures extracted from the game-code in February
 2018. Some of the monsters will be impossible to actually encounter
 (yet).
 
+[Abomination](/keeperrl_wiki/Abomination "wikilink")
+<img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
+
 [Adamantium Golem](/keeperrl_wiki/Adamantium_Golem "wikilink")
 <img src="/keeperrl_wiki/Ada_Golem.png" title="fig:/keeperrl_wiki/Ada_Golem.png" alt="/keeperrl_wiki/Ada_Golem.png" width="100" />
 ''Feared by the weak, hated by the strong.
+
+[Adoxie Foot Left](/keeperrl_wiki/Adoxie_Foot_Left "wikilink")
+<img src="/keeperrl_wiki/Adoxie_Foot_Left.png" title="fig:/keeperrlwiki/Adoxie_Foot_Left.png" alt="/keeperrl_wiki/Adoxie_Foot_Left.png" width="100" />
+
+[Adoxie Foot Right](/keeperrl_wiki/Adoxie_Foot_Right "wikilink")
+<img src="/keeperrl_wiki/Adoxie_Foot_Right.png" title="fig:/keeperrlwiki/Adoxie_Foot_Right.png" alt="/keeperrl_wiki/Adoxie_Foot_Right.png" width="100" />
+
+[Adoxie Hand Left](/keeperrl_wiki/Adoxie_Hand_Left "wikilink")
+<img src="/keeperrl_wiki/Adoxie_Hand_Left.png" title="fig:/keeperrlwiki/Adoxie_Hand_Left.png" alt="/keeperrl_wiki/Adoxie_Hand_Left.png" width="100" />
+
+[Adoxie Hand Right](/keeperrl_wiki/Adoxie_Hand_Right "wikilink")
+<img src="/keeperrl_wiki/Adoxie_Hand_Right.png" title="fig:/keeperrlwiki/Adoxie_Hand_Right.png" alt="/keeperrl_wiki/Adoxie_Hand_Right.png" width="100" />
 
 [Adventurer](/keeperrl_wiki/Adventurer "wikilink")
 <img src="/keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki/Adventurer.png" width="100" />
@@ -46,9 +61,22 @@ Here is a list of creatures extracted from the game-code in February
 <img src="/keeperrl_wiki/Bat.png" title="fig:/keeperrl_wiki/Bat.png" alt="/keeperrl_wiki/Bat.png" width="100" />
 ''They like to explore
 
+[Black Dragon](/keeperrl_wiki/Black_Dragon "wikilink")
+<img src="/keeperrl_wiki/Black_Dragon.png" title="fig:/keeperrlwiki/Black_Dragon.png" alt="/keeperrl_wiki/Black_Dragon.png" width="100" />
+''Blind but telepathic.
+
+[Black Market Guard](/keeperrl_wiki/Black_Market_Guard "wikilink")
+<img src="/keeperrl_wiki/Black_Market_Guard.png" title="fig:/keeperrlwiki/Black_Market_Guard.png" alt="/keeperrl_wiki/Black_Market_Guard.png" width="100" />
+
+[Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
+<img src="/keeperrl_wiki/Black_Rat.png" title="fig:/keeperrlwiki/Black_Rat.png" alt="/keeperrl_wiki/Black_Rat.png" width="100" />
+
 [Boar](/keeperrl_wiki/Boar "wikilink")
 <img src="/keeperrl_wiki/Boar.png" title="fig:/keeperrl_wiki/Boar.png" alt="/keeperrl_wiki/Boar.png" width="100" />
 '' Shy creatures that only fight when cornered.
+
+[Camel](/keeperrl_wiki/Camel "wikilink")
+<img src="/keeperrl_wiki/Camel.png" title="fig:/keeperrlwiki/Camel.png" alt="/keeperrl_wiki/Camel.png" width="100" />
 
 [Cave Bear](/keeperrl_wiki/Cave_Bear "wikilink")
 <img src="/keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki/Bear.png" alt="/keeperrl_wiki/Bear.png" width="100" />
@@ -67,7 +95,7 @@ Here is a list of creatures extracted from the game-code in February
 ''Loot the stone when killed
 
 [Cow](/keeperrl_wiki/Cow "wikilink")
-<img src="/keeperrl_wiki/Cow.png" title="fig:/keeperrl_wiki/Cow.png" alt="/keeperrl_wiki/Cow.png" width="100" />
+<img src="/keeperrl_wiki/Cow.png" title="fig:/keeperrlwiki/Cow.png" alt="/keeperrl_wiki/Cow.png" width="100" />
 ''Found on human farms
 
 [Cyclops](/keeperrl_wiki/Cyclops "wikilink")
@@ -105,6 +133,9 @@ Here is a list of creatures extracted from the game-code in February
 [Demon Lord](/keeperrl_wiki/Demon_Lord "wikilink")
 <img src="/keeperrl_wiki/Demon_Lord.png" title="fig:/keeperrl_wiki/Demon_Lord.png" alt="/keeperrl_wiki/Demon_Lord.png" width="100" />
 '' Major Villain
+
+[Djinn](/keeperrl_wiki/Djinn "wikilink")
+<img src="/keeperrl_wiki/Djinn.png" title="fig:/keeperrlwiki/Djinn.png" alt="/keeperrl_wiki/Djinn.png" width="100" />
 
 [Dog](/keeperrl_wiki/Dog "wikilink")
 <img src="/keeperrl_wiki/Dog.png" title="fig:/keeperrl_wiki/Dog.png" alt="/keeperrl_wiki/Dog.png" width="100" /> ''
@@ -167,6 +198,15 @@ Here is a list of creatures extracted from the game-code in February
 
 [Ent](/keeperrl_wiki/Ent "wikilink")
 
+[Eskimo](/keeperrl_wiki/Eskimo "wikilink")
+<img src="/keeperrl_wiki/&quot;eskimo&quot;.png" title="fig:/keeperrlwiki/&quot;eskimo&quot;.png" alt="/keeperrl_wiki/&quot;eskimo&quot;.png" width="100" />
+
+[Eskimo Child](/keeperrl_wiki/Eskimo_Child "wikilink")
+<img src="/keeperrl_wiki/Eskimo_Child.png" title="fig:/keeperrlwiki/Eskimo_Child.png" alt="/keeperrl_wiki/Eskimo_Child.png" width="100" />
+
+[Father Oblivion](/keeperrl_wiki/Father_Oblivion "wikilink")
+<img src="/keeperrl_wiki/Friar.png" title="fig:/keeperrlwiki/Friar.png" alt="/keeperrl_wiki/Friar.png" width="100" />
+
 [Female Adventurer](/keeperrl_wiki/Female_Adventurer "wikilink")
 
 [Female Keeper](/keeperrl_wiki/Female_Keeper "wikilink")
@@ -174,6 +214,8 @@ Here is a list of creatures extracted from the game-code in February
 [Fire Elemental](/keeperrl_wiki/Fire_Elemental "wikilink")
 <img src="/keeperrl_wiki/Fire_Elemental.png" title="fig:/keeperrl_wiki/Fire_Elemental.png" alt="/keeperrl_wiki/Fire_Elemental.png" width="100" />
 ''Summoned near lava
+
+[Fire Mage](/keeperrl_wiki/Fire_Mage "wikilink")
 
 [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink")
 <img src="/keeperrl_wiki/Fire_Sphere.png" title="fig:/keeperrl_wiki/Fire_Sphere.png" alt="/keeperrl_wiki/Fire_Sphere.png" width="100" />
@@ -186,6 +228,9 @@ Here is a list of creatures extracted from the game-code in February
 [Fox](/keeperrl_wiki/Fox "wikilink")
 <img src="/keeperrl_wiki/Fox.png" title="fig:/keeperrl_wiki/Fox.png" alt="/keeperrl_wiki/Fox.png" width="100" />
 ''Archery target practice
+
+[Friar](/keeperrl_wiki/Friar "wikilink")
+<img src="/keeperrl_wiki/Friar.png" title="fig:/keeperrlwiki/Friar.png" alt="/keeperrl_wiki/Friar.png" width="100" />
 
 [Ghost](/keeperrl_wiki/Ghost "wikilink")
 <img src="/keeperrl_wiki/Ghost.png" title="fig:/keeperrl_wiki/Ghost.png" alt="/keeperrl_wiki/Ghost.png" width="100" />
@@ -217,6 +262,9 @@ Here is a list of creatures extracted from the game-code in February
 [Horse](/keeperrl_wiki/Horse "wikilink")
 <img src="/keeperrl_wiki/Horse.png" title="fig:/keeperrl_wiki/Horse.png" alt="/keeperrl_wiki/Horse.png" width="100" />
 ''No, you can't ride it
+
+[Husky](/keeperrl_wiki/Husky "wikilink")
+<img src="/keeperrl_wiki/Husky.png" title="fig:/keeperrlwiki/Husky.png" alt="/keeperrl_wiki/Husky.png" width="100" />
 
 [Hydra](/keeperrl_wiki/Hydra "wikilink")
 <img src="/keeperrl_wiki/Hydra.png" title="fig:/keeperrl_wiki/Hydra.png" alt="/keeperrl_wiki/Hydra.png" width="100" />
@@ -286,6 +334,12 @@ Here is a list of creatures extracted from the game-code in February
 <img src="/keeperrl_wiki/Mummy.png" title="fig:/keeperrl_wiki/Mummy.png" alt="/keeperrl_wiki/Mummy.png" width="100" />
 ''Never seems to show up
 
+[Nomad](/keeperrl_wiki/Nomad "wikilink")
+<img src="/keeperrl_wiki/&quot;nomad&quot;.png" title="fig:/keeperrlwiki/&quot;nomad&quot;.png" alt="/keeperrl_wiki/&quot;nomad&quot;.png" width="100" />
+
+[Nomad Child](/keeperrl_wiki/Nomad_Child "wikilink")
+<img src="/keeperrl_wiki/Nomad_Child.png" title="fig:/keeperrlwiki/Nomad_Child.png" alt="/keeperrl_wiki/Nomad_Child.png" width="100" />
+
 [Ogre](/keeperrl_wiki/Ogre "wikilink")
 <img src="/keeperrl_wiki/Troll.png" title="fig:/keeperrl_wiki/Troll.png" alt="/keeperrl_wiki/Troll.png" width="100" />
 ''12 combat training levels
@@ -308,6 +362,12 @@ Here is a list of creatures extracted from the game-code in February
 <img src="/keeperrl_wiki/Pig.png" title="fig:/keeperrl_wiki/Pig.png" alt="/keeperrl_wiki/Pig.png" width="100" />
 ''Pork yesterday, ham today, bacon tomorrow
 
+[Polar Bear](/keeperrl_wiki/Polar_Bear "wikilink")
+<img src="/keeperrl_wiki/Polar_Bear.png" title="fig:/keeperrlwiki/Polar_Bear.png" alt="/keeperrl_wiki/Polar_Bear.png" width="100" />
+
+[Polar Fox](/keeperrl_wiki/Polar_Fox "wikilink")
+<img src="/keeperrl_wiki/Polar_Fox.png" title="fig:/keeperrlwiki/Polar_Fox.png" alt="/keeperrl_wiki/Polar_Fox.png" width="100" />
+
 [Priest](/keeperrl_wiki/Priest "wikilink")
 <img src="/keeperrl_wiki/Priest.png" title="fig:/keeperrl_wiki/Priest.png" alt="/keeperrl_wiki/Priest.png" width="100" />
 ''Human healer
@@ -317,6 +377,15 @@ Here is a list of creatures extracted from the game-code in February
 [Rat](/keeperrl_wiki/Rat "wikilink")
 <img src="/keeperrl_wiki/Rat.png" title="fig:/keeperrl_wiki/Rat.png" alt="/keeperrl_wiki/Rat.png" width="100" />
 ''Often live in chests, eating cheese
+
+[Rat King](/keeperrl_wiki/Rat_King "wikilink")
+<img src="/keeperrl_wiki/Rat_King.png" title="fig:/keeperrlwiki/Rat_King.png" alt="/keeperrl_wiki/Rat_King.png" width="100" />
+
+[Rat Lady](/keeperrl_wiki/Rat_Lady "wikilink")
+<img src="/keeperrl_wiki/Rat_Lady.png" title="fig:/keeperrlwiki/Rat_Lady.png" alt="/keeperrl_wiki/Rat_Lady.png" width="100" />
+
+[Rat Soldier](/keeperrl_wiki/Rat_Soldier "wikilink")
+<img src="/keeperrl_wiki/Rat_Soldier.png" title="fig:/keeperrlwiki/Rat_Soldier.png" alt="/keeperrl_wiki/Rat_Soldier.png" width="100" />
 
 [Raven](/keeperrl_wiki/Raven "wikilink")
 <img src="/keeperrl_wiki/Raven.png" title="fig:/keeperrl_wiki/Raven.png" alt="/keeperrl_wiki/Raven.png" width="100" />
@@ -352,6 +421,9 @@ Here is a list of creatures extracted from the game-code in February
 <img src="/keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki/Antw.png" alt="/keeperrl_wiki/Antw.png" width="100" />
 ''Poisonous ant warriors
 
+[Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
+<img src="/keeperrl_wiki/Sorcerer.png" title="fig:/keeperrlwiki/Sorcerer.png" alt="/keeperrl_wiki/Sorcerer.png" width="100" />
+
 [Spider](/keeperrl_wiki/Spider "wikilink")
 <img src="/keeperrl_wiki/Spider.png" title="fig:/keeperrl_wiki/Spider.png" alt="/keeperrl_wiki/Spider.png" width="100" />
 ''Weak but poisonous
@@ -364,7 +436,16 @@ Here is a list of creatures extracted from the game-code in February
 <img src="/keeperrl_wiki/Succubussmall.png" title="fig:/keeperrl_wiki/Succubussmall.png" alt="/keeperrl_wiki/Succubussmall.png" width="100" />
 ''She's done it before (once)
 
+[Teutonic Grandmaster](/keeperrl_wiki/Teutonic_Grandmaster "wikilink")
+<img src="/keeperrl_wiki/Teuton_Boss.png" title="fig:/keeperrlwiki/Teuton_Boss.png" alt="/keeperrl_wiki/Teuton_Boss.png" width="100" />
+
 [The Duke](/keeperrl_wiki/The_Duke "wikilink")
+
+[Thief](/keeperrl_wiki/Thief "wikilink")
+<img src="/keeperrl_wiki/Thief.png" title="fig:/keeperrlwiki/Thief.png" alt="/keeperrl_wiki/Thief.png" width="100" />
+
+[Thief Leader](/keeperrl_wiki/Thief_Leader "wikilink")
+<img src="/keeperrl_wiki/Thief_Leader.png" title="fig:/keeperrlwiki/Thief_Leader.png" alt="/keeperrl_wiki/Thief_Leader.png" width="100" />
 
 [Tree Spirit](/keeperrl_wiki/Tree_Spirit "wikilink")
 
@@ -396,6 +477,12 @@ Here is a list of creatures extracted from the game-code in February
 <img src="werewolf2.png" title="fig:werewolf2.png" alt="werewolf2.png" width="100" />
 ''Naturally regenerates health
 
+[White Dragon](/keeperrl_wiki/White_Dragon "wikilink")
+<img src="/keeperrl_wiki/White_Dragon.png" title="fig:/keeperrlwiki/White_Dragon.png" alt="/keeperrl_wiki/White_Dragon.png" width="100" />
+
+[White Wizard](/keeperrl_wiki/White_Wizard "wikilink")
+<img src="/keeperrl_wiki/White_Wizard.png" title="fig:/keeperrlwiki/White_Wizard.png" alt="/keeperrl_wiki/White_Wizard.png" width="100" />
+
 [Witch](/keeperrl_wiki/Witch "wikilink")
 <img src="/keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki/Witch.png" alt="/keeperrl_wiki/Witch.png" width="100" />
 ''Not always visible
@@ -405,6 +492,12 @@ Here is a list of creatures extracted from the game-code in February
 [Wolf](/keeperrl_wiki/Wolf "wikilink")
 <img src="/keeperrl_wiki/Wolf.png" title="fig:/keeperrl_wiki/Wolf.png" alt="/keeperrl_wiki/Wolf.png" width="100" />
 ''Arrive in packs
+
+[Yellow Dragon](/keeperrl_wiki/Yellow_Dragon "wikilink")
+<img src="/keeperrl_wiki/Yellow_Dragon.png" title="fig:/keeperrlwiki/Yellow_Dragon.png" alt="/keeperrl_wiki/Yellow_Dragon.png" width="100" />
+
+[Yeti](/keeperrl_wiki/Yeti "wikilink")
+<img src="/keeperrl_wiki/Yeti.png" title="fig:/keeperrlwiki/Yeti.png" alt="/keeperrl_wiki/Yeti.png" width="100" />
 
 [Zombie](/keeperrl_wiki/Zombie "wikilink")
 <img src="/keeperrl_wiki/Zombie.png" title="fig:/keeperrl_wiki/Zombie.png" alt="/keeperrl_wiki/Zombie.png" width="100" />
