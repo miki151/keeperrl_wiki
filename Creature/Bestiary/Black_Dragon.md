@@ -1,50 +1,44 @@
 ---
-title: Cave Bear
-permalink: Cave_Bear/
+title: Black Dragon
+permalink: Black_Dragon/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
-<img src="/keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki/Bear.png" alt="/keeperrl_wiki/Bear.png" width="100" />
-''Bears can take the initiative.
+<img src="/keeperrl_wiki/Black_Dragon.png" title="fig:/keeperrlwiki/Black_Dragon.png" alt="/keeperrl_wiki/Black_Dragon.png" width="100" />
+''Blind but telepathic.
 
-[Attributes](/keeperrl_wiki/Attributes "wikilink")
--------------------------------------
+= Base Stats =
+-   Body: FourLegged HUGE 2-WINGS HEAD
+-   Bite_attack
+-   Drops: BlackDragonScales 
+-   DAMAGE 45
+-   DEFENSE 47 
 
-*Base values*
+-   Spells:  &quot;healing&quot; &quot;haste&quot; &quot;cure poison&quot; &quot;black dragon blindness&quot;
+-   RANGED_VULNERABILITY
+-   BLIND
+-   TELEPATHY
 
--   Defense:18
--   Damage:20
--   Body size:Medium
--   Weight:250
--   Attack:Claws
--   Animal:Yes
--   Skill:Explore caves
+= Strategy =
+-   This monster has a very powerful mass blind spell
+-   Telepathy will help
+-   You can also send in one small minion and trigger the spell while your main army stands their ground. When the spell wears off go charging in (The spell has a cooldown)
 
-Summary
--------
+[[Category: Creatures]]
 
-These creatures are decent starter combat units and will also explore
-your dungeon map sector for you. They have been known to wipe out local
-villages on their own initiative.
+= Tribe Stats =
+-   Settlement: Cave
+-   Inhabitants: Lone black dragon
+-   Race = dragon
+-   Tribal loyalty: None
+-   Building style: Dungeon
+-   Items: Dragon cave
+-   AI: Triggers on Enemy Population 22, 3 conquered tribes, Stolen Items, Finishing Off keeper, proximity. Kill 12 minions or keeper. 
+-   Supplanted enemies: 100% found in supplanted knights, dwarves, green dragon caves or warrior castles
 
-Traits
-------
-
--   [Animal](/keeperrl_wiki/Animal "wikilink")
-
-Tasks
------
-
--   [Explore](/keeperrl_wiki/Explore "wikilink") : Caves
--   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
-
-[Attraction](/keeperrl_wiki/Immigration "wikilink")
--------------------------------------
-
--   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
--   probability : 0.1
+[[Category: Tribes]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
@@ -64,11 +58,11 @@ Other items in this section
 -    [Automaton](/keeperrl_wiki/Automaton "wikilink")
 -    [Bandit](/keeperrl_wiki/Bandit "wikilink")
 -    [Bat](/keeperrl_wiki/Bat "wikilink")
--    [Black Dragon](/keeperrl_wiki/Black_Dragon "wikilink")
 -    [Black Market Guard](/keeperrl_wiki/Black_Market_Guard "wikilink")
 -    [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
 -    [Boar](/keeperrl_wiki/Boar "wikilink")
 -    [Camel](/keeperrl_wiki/Camel "wikilink")
+-    [Cave Bear](/keeperrl_wiki/Cave_Bear "wikilink")
 -    [Chicken](/keeperrl_wiki/Chicken "wikilink")
 -    [Child](/keeperrl_wiki/Child "wikilink")
 -    [Child As Spider Food](/keeperrl_wiki/Child_As_Spider_Food "wikilink")

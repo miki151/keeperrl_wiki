@@ -1,50 +1,21 @@
 ---
-title: Cave Bear
-permalink: Cave_Bear/
+title: Adoxie Hand Left
+permalink: Adoxie_Hand_Left/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
-<img src="/keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki/Bear.png" alt="/keeperrl_wiki/Bear.png" width="100" />
-''Bears can take the initiative.
+<img src="/keeperrl_wiki/Adoxie_Hand_Left.png" title="fig:/keeperrlwiki/Adoxie_Hand_Left.png" alt="/keeperrl_wiki/Adoxie_Hand_Left.png" width="100" />
 
-[Attributes](/keeperrl_wiki/Attributes "wikilink")
--------------------------------------
+= Base Stats =
+-   Body: NonHumanoid HUGE
+-   DEFENSE 50 
+-   SPELL_DAMAGE 60
+-   Fist attack 
 
-*Base values*
-
--   Defense:18
--   Damage:20
--   Body size:Medium
--   Weight:250
--   Attack:Claws
--   Animal:Yes
--   Skill:Explore caves
-
-Summary
--------
-
-These creatures are decent starter combat units and will also explore
-your dungeon map sector for you. They have been known to wipe out local
-villages on their own initiative.
-
-Traits
-------
-
--   [Animal](/keeperrl_wiki/Animal "wikilink")
-
-Tasks
------
-
--   [Explore](/keeperrl_wiki/Explore "wikilink") : Caves
--   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
-
-[Attraction](/keeperrl_wiki/Immigration "wikilink")
--------------------------------------
-
--   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
--   probability : 0.1
+-   Spells:  &quot;haste&quot; 
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
@@ -53,7 +24,6 @@ Other items in this section
 -    [Adamantium Golem](/keeperrl_wiki/Adamantium_Golem "wikilink")
 -    [Adoxie Foot Left](/keeperrl_wiki/Adoxie_Foot_Left "wikilink")
 -    [Adoxie Foot Right](/keeperrl_wiki/Adoxie_Foot_Right "wikilink")
--    [Adoxie Hand Left](/keeperrl_wiki/Adoxie_Hand_Left "wikilink")
 -    [Adoxie Hand Right](/keeperrl_wiki/Adoxie_Hand_Right "wikilink")
 -    [Adventurer](/keeperrl_wiki/Adventurer "wikilink")
 -    [Air Elemental](/keeperrl_wiki/Air_Elemental "wikilink")
@@ -69,6 +39,7 @@ Other items in this section
 -    [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
 -    [Boar](/keeperrl_wiki/Boar "wikilink")
 -    [Camel](/keeperrl_wiki/Camel "wikilink")
+-    [Cave Bear](/keeperrl_wiki/Cave_Bear "wikilink")
 -    [Chicken](/keeperrl_wiki/Chicken "wikilink")
 -    [Child](/keeperrl_wiki/Child "wikilink")
 -    [Child As Spider Food](/keeperrl_wiki/Child_As_Spider_Food "wikilink")

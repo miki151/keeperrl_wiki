@@ -1,55 +1,26 @@
 ---
-title: Cave Bear
-permalink: Cave_Bear/
+title: Abomination
+permalink: Abomination/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
-<img src="/keeperrl_wiki/Bear.png" title="fig:/keeperrl_wiki/Bear.png" alt="/keeperrl_wiki/Bear.png" width="100" />
-''Bears can take the initiative.
+<img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
 
-[Attributes](/keeperrl_wiki/Attributes "wikilink")
--------------------------------------
+= Base Stats =
+-   Body: HUGE
+-   DAMAGE 60
+-   DEFENSE 40 
 
-*Base values*
+= Encounters =
+-   [[Adoxie Temple]]
 
--   Defense:18
--   Damage:20
--   Body size:Medium
--   Weight:250
--   Attack:Claws
--   Animal:Yes
--   Skill:Explore caves
-
-Summary
--------
-
-These creatures are decent starter combat units and will also explore
-your dungeon map sector for you. They have been known to wipe out local
-villages on their own initiative.
-
-Traits
-------
-
--   [Animal](/keeperrl_wiki/Animal "wikilink")
-
-Tasks
------
-
--   [Explore](/keeperrl_wiki/Explore "wikilink") : Caves
--   [Lair](/keeperrl_wiki/Beast_Lair "wikilink")
-
-[Attraction](/keeperrl_wiki/Immigration "wikilink")
--------------------------------------
-
--   dorm : [Beast Lair](/keeperrl_wiki/Beast_Lair "wikilink")
--   probability : 0.1
+[[Category: Creatures]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
--    [Abomination](/keeperrl_wiki/Abomination "wikilink")
 -    [Adamantium Golem](/keeperrl_wiki/Adamantium_Golem "wikilink")
 -    [Adoxie Foot Left](/keeperrl_wiki/Adoxie_Foot_Left "wikilink")
 -    [Adoxie Foot Right](/keeperrl_wiki/Adoxie_Foot_Right "wikilink")
@@ -69,6 +40,7 @@ Other items in this section
 -    [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
 -    [Boar](/keeperrl_wiki/Boar "wikilink")
 -    [Camel](/keeperrl_wiki/Camel "wikilink")
+-    [Cave Bear](/keeperrl_wiki/Cave_Bear "wikilink")
 -    [Chicken](/keeperrl_wiki/Chicken "wikilink")
 -    [Child](/keeperrl_wiki/Child "wikilink")
 -    [Child As Spider Food](/keeperrl_wiki/Child_As_Spider_Food "wikilink")
