@@ -15,6 +15,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <br/>
 <h3 align="center">
 <a href="http://keeperrl.com/" class="uri">KeeerRL Main Site</a><br/>
+<a href="https://www.youtube.com/results?search_query=keeperrl" class="uri">KeeerRL On YouTube</a><br/>
 <a href="https://keeperrl.com/category/News" class="uri">Official development news</a><br/>
 <a href="http://steamcommunity.com/app/329970" class="uri">KeeperRL gaming community on Steam</a><br/>
 <a href="https://discord.gg/XZfCCs5" class="uri">Live Discord chat for KeeperRL</a><br/>
@@ -38,7 +39,6 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 -   [Campaign mode](/keeperrl_wiki/Campaign_Mode "wikilink")
 -   [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink") 
 -   [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
--   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
 -   [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
 
 <hr>
