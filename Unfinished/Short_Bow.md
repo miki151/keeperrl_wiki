@@ -14,10 +14,6 @@ Occasionally carried by bandits. Always carried by harpies, driads, archers both
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 Other items in this section
--    [Advanced Alchemy](/keeperrl_wiki/Advanced_Alchemy "wikilink")
--    [Advanced Sorcery](/keeperrl_wiki/Advanced_Sorcery "wikilink")
--    [Alchemical Conversion](/keeperrl_wiki/Alchemical_Conversion "wikilink")
--    [Alchemy](/keeperrl_wiki/Alchemy "wikilink")
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
 -    [Amulet Of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
 -    [Amulet Of Nature Affinity](/keeperrl_wiki/Amulet_Of_Nature_Affinity "wikilink")
@@ -34,7 +30,6 @@ Other items in this section
 -    [Bridge](/keeperrl_wiki/Bridge "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
 -    [Deception](/keeperrl_wiki/Deception "wikilink")
--    [Demonology](/keeperrl_wiki/Demonology "wikilink")
 -    [Dexterity Mushroom](/keeperrl_wiki/Dexterity_Mushroom "wikilink")
 -    [Door](/keeperrl_wiki/Door "wikilink")
 -    [Explore](/keeperrl_wiki/Explore "wikilink")
@@ -69,4 +64,5 @@ Other items in this section
 -    [Tasks](/keeperrl_wiki/Tasks "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Two-handed Weapons](/keeperrl_wiki/Two-handed_Weapons "wikilink")
+-    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
 -    [Workshop](/keeperrl_wiki/Workshop "wikilink")

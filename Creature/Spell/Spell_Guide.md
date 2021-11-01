@@ -197,4 +197,4 @@ Other items in this section
 -    [Illusion](/keeperrl_wiki/Illusion "wikilink")
 -    [Magic Shield](/keeperrl_wiki/Magic_Shield "wikilink")
 -    [Stun Ray](/keeperrl_wiki/Stun_Ray "wikilink")
--    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
+-    [Word of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
