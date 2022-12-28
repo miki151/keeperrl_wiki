@@ -1,30 +1,13 @@
 ---
-title: Immigration Options
-permalink: Immigration_Options/
+title: Modding
+permalink: Modding/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")
 
-Usage
-=====
-
-Used to specify various immigration options.
-
-Example from immigration.txt
-============================
-
-**`noAuto`**` = true`  
-**`initialRecruitment`**` = 4`
-
-Valid values
-============
-
--   invisible
--   noAuto
--   consumeIds
--   initialRecruitment
--   frequency
+There is a lot of modding support for keeperRL that can be accessed just by changing text files.
+The items in this section are out of date but it should give you an idea of how it can be done.
 
 [MainPage](/keeperrl_wiki/ "wikilink")
 
@@ -36,7 +19,7 @@ Other items in this section
 -    [Download Mods](/keeperrl_wiki/Download_Mods "wikilink")
 -    [Fixed Spawn Locations](/keeperrl_wiki/Fixed_Spawn_Locations "wikilink")
 -    [Gaining familiarity with mods on KeeperRL](/keeperrl_wiki/Gaining_Familiarity_With_Mods_On_KeeperRL "wikilink")
--    [Modding](/keeperrl_wiki/Modding "wikilink")
+-    [Immigration Options](/keeperrl_wiki/Immigration_Options "wikilink")
 -    [Modding Creatures](/keeperrl_wiki/Modding_Creatures "wikilink")
 -    [Modding Effects](/keeperrl_wiki/Modding_Effects "wikilink")
 -    [Modding Effect Types](/keeperrl_wiki/Modding_Effect_Types "wikilink")

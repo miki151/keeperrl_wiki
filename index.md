@@ -69,7 +69,13 @@ Dungeon Guide
        -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
        -   [Armor](/keeperrl_wiki/Armor "wikilink")                                                                    
        -   [Jewelry](/keeperrl_wiki/Jewelry "wikilink")                                                                
-       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")                                                        |
+       -   [Consumables](/keeperrl_wiki/Consumables "wikilink")
+
+<hr>
+Modding
+<hr>|
+-   [Learn about modding support](/keeperrl_wiki/Modding "wikilink")                                               
+
 
 <img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
 <img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />

@@ -4,7 +4,7 @@ permalink: Gaining_Familiarity_With_Mods_On_KeeperRL/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")
 
 Recommended method
 ------------------
@@ -167,7 +167,7 @@ On line 155 remove the text:
 
 `TechId `“`iron`` ``working`”
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Modding](/keeperrl_wiki/Modding_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")
 
 Other items in this section
 -    [Available reference data for modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")
@@ -177,6 +177,7 @@ Other items in this section
 -    [Download Mods](/keeperrl_wiki/Download_Mods "wikilink")
 -    [Fixed Spawn Locations](/keeperrl_wiki/Fixed_Spawn_Locations "wikilink")
 -    [Immigration Options](/keeperrl_wiki/Immigration_Options "wikilink")
+-    [Modding](/keeperrl_wiki/Modding "wikilink")
 -    [Modding Creatures](/keeperrl_wiki/Modding_Creatures "wikilink")
 -    [Modding Effects](/keeperrl_wiki/Modding_Effects "wikilink")
 -    [Modding Effect Types](/keeperrl_wiki/Modding_Effect_Types "wikilink")
