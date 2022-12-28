@@ -93,13 +93,16 @@ Release History Guide
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
 
-[MainPage](/keeperrl_wiki/ "wikilink")
-
 <hr>
 Contribute to the wiki
 <hr>
 
-https://github.com/miki151/keeperrl_wiki/tree/master
+<h3 align="center">
+<a href="https://github.com/miki151/keeperrl_wiki/tree/master)" class="uri"> https://github.com/miki151/keeperrl_wiki/tree/master</a><br/>
+</h3>
 
-The KeeperRL wiki is recompiled from this repository. The wiki is found at www.keeperRL.com/wiki The main reason for failing to compile the wiki is errors. Sometimes the wiki doesn't update if you do too many pages at once. In that case, back out your changes and commit them in smaller chunks.
+The KeeperRL wiki is recompiled from this repository and then deployed to this site about every 10 minutes. 
+The main reason for failing to compile the wiki is that your code has errors, so take care. Email subscription to build messages can be arranged.
+Sometimes the wiki doesn't update if you do too many pages at once because the build then times out. In that case, back out your changes and commit them in smaller chunks.
 
+[MainPage](/keeperrl_wiki/ "wikilink")
