@@ -77,6 +77,7 @@ Dungeon Guide
 <hr>
 Release History Guide
 <hr>
+-   Alpha 32, 33, 34 & 35 now released!
 -   [Alpha31](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Warlord Mode
 -   [Alpha30](/keeperrl_wiki/Alpha30 "wikilink") | Introducing Gnome Keepers\Many Mods at once
 -   [Alpha29](/keeperrl_wiki/Alpha29 "wikilink") | Introducing Steam workshop integration
