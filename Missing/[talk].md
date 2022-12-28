@@ -1,6 +1,6 @@
 ---
-title: [talk]
-permalink: [talk]/
+title: talk
+permalink: talk
 layout: wiki
 ---
 
