@@ -24,7 +24,6 @@ Other items in this section
 -    [Guide For Adventurer Mode](/keeperrl_wiki/Guide_For_Adventurer_Mode "wikilink")
 -    [How To Win As An Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -    [Lab](/keeperrl_wiki/Lab "wikilink")
--    [Missing](/keeperrl_wiki/Missing "wikilink")
 -    [Moddable From Alpha 26 Onwards)](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards) "wikilink")
 -    [Modding Guide](/keeperrl_wiki/Modding_Guide "wikilink")
 -    [Mushrooms](/keeperrl_wiki/Mushrooms "wikilink")
