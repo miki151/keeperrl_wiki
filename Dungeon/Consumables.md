@@ -304,6 +304,7 @@ Book of Humanoid Mutation
 Other items in this section
 -    [Advances](/keeperrl_wiki/Advances "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
+-    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 -    [Furniture Layers](/keeperrl_wiki/Furniture_Layers "wikilink")
 -    [Techs](/keeperrl_wiki/Techs "wikilink")
 -    [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink")

@@ -506,3 +506,4 @@ Here is a list of creatures extracted from the game-code in February
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
 
 Other items in this section
+-    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")

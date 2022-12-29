@@ -1,14 +1,13 @@
 ---
-title: Weapon Melee
-permalink: Weapon_Melee/
+title: Dungeon
+permalink: Dungeon/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
-1.  REDIRECT [Skills\#Weapon\_Melee](/keeperrl_wiki/Weapon_Melee "wikilink")
-
-Creature can fight with weapons.
+Items in this section discuss dungeon features and creatures.
+It also covers overground settlements without dungeons.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
@@ -16,6 +15,6 @@ Other items in this section
 -    [Advances](/keeperrl_wiki/Advances "wikilink")
 -    [Consumables](/keeperrl_wiki/Consumables "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
--    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 -    [Furniture Layers](/keeperrl_wiki/Furniture_Layers "wikilink")
 -    [Techs](/keeperrl_wiki/Techs "wikilink")
+-    [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink")

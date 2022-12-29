@@ -78,6 +78,7 @@ Valid values
 
 Other items in this section
 -    [Armor](/keeperrl_wiki/Armor "wikilink")
+-    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Items](/keeperrl_wiki/Items "wikilink")
 -    [Potions](/keeperrl_wiki/Potions "wikilink")
 -    [Weapons](/keeperrl_wiki/Weapons "wikilink")

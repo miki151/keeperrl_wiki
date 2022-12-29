@@ -14,5 +14,6 @@ Other items in this section
 -    [Advances](/keeperrl_wiki/Advances "wikilink")
 -    [Consumables](/keeperrl_wiki/Consumables "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
+-    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 -    [Furniture Layers](/keeperrl_wiki/Furniture_Layers "wikilink")
 -    [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink")

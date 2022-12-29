@@ -182,6 +182,7 @@ Elven Silver Bow
 
 Other items in this section
 -    [Armor](/keeperrl_wiki/Armor "wikilink")
+-    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Items](/keeperrl_wiki/Items "wikilink")
 -    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
 -    [Potions](/keeperrl_wiki/Potions "wikilink")
