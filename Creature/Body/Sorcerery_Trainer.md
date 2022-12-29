@@ -1,8 +1,11 @@
 ---
-title: Sorcerer
-permalink: Sorcerer/
+title: Sorcerery Trainer
+permalink: Sorcerery_Trainer/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+
 Creatures that make good sorcerers can often be captured and then train their spell skills futher in your dungeon:
 
 Examples of sorcerers:

@@ -3,6 +3,9 @@ title: Combat Trainer
 permalink: Combat_Trainer/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+
 Combat trainers benefit from training their melee combat skills in your dungeon
 
 Examples of creature that benefit most from training in combat:
@@ -46,7 +49,7 @@ Other items in this section
 -    [Human](/keeperrl_wiki/Human "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--    [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
+-    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")

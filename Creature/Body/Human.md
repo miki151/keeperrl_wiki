@@ -3,6 +3,9 @@ title: Human
 permalink: Human/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+
 Some creatures are hated just for being fully human. Other creatures with strong very hatred toward them will attack them.
 Creatures that are fully human include:
 
@@ -42,7 +45,7 @@ Other items in this section
 -    [Humainoid](/keeperrl_wiki/Humainoid "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--    [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
+-    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")

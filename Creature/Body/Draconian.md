@@ -3,6 +3,9 @@ title: Draconian
 permalink: Draconian/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+
 Draconian creatures are types of dragons and nagas. There are those who can not tollerate daconians:
 
 	black dragon 
@@ -38,7 +41,7 @@ Other items in this section
 -    [Human](/keeperrl_wiki/Human "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--    [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
+-    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")

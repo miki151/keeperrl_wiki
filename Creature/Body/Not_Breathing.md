@@ -30,7 +30,7 @@ Other items in this section
 -    [Humainoid](/keeperrl_wiki/Humainoid "wikilink")
 -    [Human](/keeperrl_wiki/Human "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
--    [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
+-    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
