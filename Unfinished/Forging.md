@@ -1,13 +1,14 @@
 ---
-title: Word Of Power
-permalink: Word_Of_Power/
+title: Forging
+permalink: Forging/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-- Cooldown : 150
-- Cast 8 Force Bolts with a throw back range of 3 in random directions.
+Creatures able to forge iron and adamantium kit. Insane goblins are sometimes skilled enough to craft artifacts.
+The legendary humanoid Randyman has high roll on workshop but I guess it depends on the roll.
+Insane goblins might have it too.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
@@ -27,7 +28,6 @@ Other items in this section
 -    [Fire](/keeperrl_wiki/Fire "wikilink")
 -    [Fire Resistant](/keeperrl_wiki/Fire_Resistant "wikilink")
 -    [Forge](/keeperrl_wiki/Forge "wikilink")
--    [Forging](/keeperrl_wiki/Forging "wikilink")
 -    [Gold](/keeperrl_wiki/Gold "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
@@ -49,4 +49,5 @@ Other items in this section
 -    [Sword](/keeperrl_wiki/Sword "wikilink")
 -    [Tasks](/keeperrl_wiki/Tasks "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
+-    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
 -    [Workshop](/keeperrl_wiki/Workshop "wikilink")

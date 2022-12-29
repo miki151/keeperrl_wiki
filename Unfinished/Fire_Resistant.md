@@ -26,6 +26,7 @@ Other items in this section
 -    [Explore](/keeperrl_wiki/Explore "wikilink")
 -    [Fire](/keeperrl_wiki/Fire "wikilink")
 -    [Forge](/keeperrl_wiki/Forge "wikilink")
+-    [Forging](/keeperrl_wiki/Forging "wikilink")
 -    [Gold](/keeperrl_wiki/Gold "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")

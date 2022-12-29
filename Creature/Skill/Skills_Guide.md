@@ -9,6 +9,35 @@ layout: wiki
 Creature skills
 ===============
 
+Basic skills can be boosted by magic or by armour and weaponry.
+The basic skills that have levels are as follows:
+
+	damage
+	spell damage
+	ranged damage
+	fire damage
+	cold damage
+	defense
+	parry
+	spell speed
+	digging
+	multi-weapon skill
+	furnace
+	workshop
+	forge
+	laboratory
+	jeweler
+	morgue
+	
+	
+A different list of buffs and nurfs can be found here:
+
+[Buffs And Nurfs](/keeperrl_wiki/LastingEffects "wikilink")
+
+
+These skills often appear as permanent buffs that creatures have and are explained in a bit more detail:
+---------------------------------------------------------------------------------------------------------
+
 [Ambush](/keeperrl_wiki/Ambush "wikilink")
 ------
 
@@ -93,7 +122,7 @@ starter tribes.
 
 Wolves and werewolves that go out and hunt at night.
 
-[Construction](/keeperrl_wiki/Construction "wikilink")Forging
+[Forging](/keeperrl_wiki/Forging "wikilink")
 -------
 
 Creatures able to forge iron and adamantium kit. Insane goblins are
@@ -115,18 +144,6 @@ Creatures able to make potions
 Creatures able to navigate towards your dungeon whilst digging, allowing
 surprise attacks.
 
-[Sorcery](/keeperrl_wiki/Sorcery "wikilink")
--------
-
-*Cast spells.* Reduces or increases the spell cooldown.
-
-CooldownMulti = 2 \* 0.25^sorceryValue
-
-|            |      |      |      |      |     |      |      |      |      |     |
-|------------|------|------|------|------|-----|------|------|------|------|-----|
-| Sorcery    | 0.1  | 0.2  | 0.3  | 0.4  | 0.5 | 0.6  | 0.7  | 0.8  | 0.9  | 1.0 |
-| Multiplier | 1.74 | 1.51 | 1.32 | 1.15 | 1.0 | 0.87 | 0.76 | 0.66 | 0.57 | 0.5 |
-||
 
 [Swimming](/keeperrl_wiki/Swimming "wikilink")
 --------

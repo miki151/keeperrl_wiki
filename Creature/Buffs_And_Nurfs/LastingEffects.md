@@ -6,14 +6,6 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 
----
-title: LastingEffects
-permalink: LastingEffects/
-layout: wiki
----
-
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
-
 This page is a list of buffs and nurfs that your creatures can aquire.
 
 -Amulets can be formed out of each type of buff, although most of them will only exist in the game if you wish for them using the wishing spell.

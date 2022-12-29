@@ -50,6 +50,7 @@ Other items in this section
 -    [Fire](/keeperrl_wiki/Fire "wikilink")
 -    [Fire Resistant](/keeperrl_wiki/Fire_Resistant "wikilink")
 -    [Forge](/keeperrl_wiki/Forge "wikilink")
+-    [Forging](/keeperrl_wiki/Forging "wikilink")
 -    [Gold](/keeperrl_wiki/Gold "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Immigration](/keeperrl_wiki/Immigration "wikilink")

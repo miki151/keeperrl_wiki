@@ -32,6 +32,7 @@ Other items in this section
 -    [Fire](/keeperrl_wiki/Fire "wikilink")
 -    [Fire Resistant](/keeperrl_wiki/Fire_Resistant "wikilink")
 -    [Forge](/keeperrl_wiki/Forge "wikilink")
+-    [Forging](/keeperrl_wiki/Forging "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
 -    [Immigration](/keeperrl_wiki/Immigration "wikilink")
