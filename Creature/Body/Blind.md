@@ -6,7 +6,8 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-No vision whilst controlling the minion and disadvantage in combat.
+No vision whilst controlling the minion and has a disadvantage in combat. All other creatures are effectively invisible.
+This trait can appear as a nurf and can also be given to undead creatures after beheading.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
