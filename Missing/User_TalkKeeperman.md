@@ -13,6 +13,7 @@ This article has gone missing.
 Other items in this section
 -    [100%)](/keeperrl_wiki/100%) "wikilink")
 -    [3](/keeperrl_wiki/3 "wikilink")
+-    [Admin](/keeperrl_wiki/Admin "wikilink")
 -    [Adventurers ](/keeperrl_wiki/Adventurers_ "wikilink")
 -    [Alternative Keeper Characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
 -    [Available Reference Data For Modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")

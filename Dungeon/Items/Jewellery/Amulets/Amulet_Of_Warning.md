@@ -13,6 +13,7 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
 Other items in this section
+-    [Amulet](/keeperrl_wiki/Amulet "wikilink")
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
 -    [Amulet Of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
 -    [Amulet Of Nature Affinity](/keeperrl_wiki/Amulet_Of_Nature_Affinity "wikilink")

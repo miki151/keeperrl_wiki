@@ -16,5 +16,4 @@ Other items in this section
 -    [Items Guide](/keeperrl_wiki/Items_Guide "wikilink")
 -    [ItemTypes](/keeperrl_wiki/ItemTypes "wikilink")
 -    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
--    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -    [Weapons](/keeperrl_wiki/Weapons "wikilink")

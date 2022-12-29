@@ -12,3 +12,5 @@ This article has gone missing.
 
 Other items in this section
 -    [Magic Weaponry](/keeperrl_wiki/Magic_Weaponry "wikilink")
+-    [Smithing](/keeperrl_wiki/Smithing "wikilink")
+-    [Two-handed Weapons](/keeperrl_wiki/Two-handed_Weapons "wikilink")

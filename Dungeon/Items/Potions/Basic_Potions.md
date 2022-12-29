@@ -13,4 +13,5 @@ Other more complex potions exist.
 
 Other items in this section
 -    [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")
--    [Book Of Avanced Alchemy](/keeperrl_wiki/Book_Of_Avanced_Alchemy "wikilink")
+-    [Potion Of Healing](/keeperrl_wiki/Potion_Of_Healing "wikilink")
+-    [Potion Of Invisibility](/keeperrl_wiki/Potion_Of_Invisibility "wikilink")

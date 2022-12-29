@@ -18,4 +18,5 @@ layout: wiki
 Other items in this section
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
+-    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
 -    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")

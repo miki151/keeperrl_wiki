@@ -13,6 +13,7 @@ This article has gone missing.
 Other items in this section
 -    [100%)](/keeperrl_wiki/100%) "wikilink")
 -    [3](/keeperrl_wiki/3 "wikilink")
+-    [Admin](/keeperrl_wiki/Admin "wikilink")
 -    [Alternative Keeper Characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
 -    [Available Reference Data For Modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")
 -    [Can Be Done By Changing Config File In Alpha 26 Onwards)](/keeperrl_wiki/Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards) "wikilink")
