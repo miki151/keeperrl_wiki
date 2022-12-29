@@ -1,6 +1,6 @@
 ---
-title: Body
-permalink: Body/
+title: Undead
+permalink: Undead/
 layout: wiki
 ---
 
@@ -13,6 +13,7 @@ This article has gone missing.
 Other items in this section
 -    [AttrBonuses](/keeperrl_wiki/AttrBonuses "wikilink")
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+-    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 -    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
@@ -24,4 +25,3 @@ Other items in this section
 -    [Spells](/keeperrl_wiki/Spells "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
 -    [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--    [Undead](/keeperrl_wiki/Undead "wikilink")

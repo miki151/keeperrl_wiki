@@ -58,6 +58,7 @@ Other items in this section
 -    [Knife Throwing](/keeperrl_wiki/Knife_Throwing "wikilink")
 -    [Navigational Digging](/keeperrl_wiki/Navigational_Digging "wikilink")
 -    [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
+-    [Skill](/keeperrl_wiki/Skill "wikilink")
 -    [Skills Guide](/keeperrl_wiki/Skills_Guide "wikilink")
 -    [Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 -    [Stealing](/keeperrl_wiki/Stealing "wikilink")

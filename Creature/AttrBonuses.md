@@ -13,6 +13,9 @@ This article has gone missing.
 Other items in this section
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Body](/keeperrl_wiki/Body "wikilink")
+-    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+-    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
+-    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
 -    [Injury](/keeperrl_wiki/Injury "wikilink")
@@ -20,3 +23,5 @@ Other items in this section
 -    [Role](/keeperrl_wiki/Role "wikilink")
 -    [Spells](/keeperrl_wiki/Spells "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
+-    [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
+-    [Undead](/keeperrl_wiki/Undead "wikilink")

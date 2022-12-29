@@ -1,6 +1,6 @@
 ---
-title: Body
-permalink: Body/
+title: Characteristics
+permalink: Characteristics/
 layout: wiki
 ---
 
@@ -13,8 +13,8 @@ This article has gone missing.
 Other items in this section
 -    [AttrBonuses](/keeperrl_wiki/AttrBonuses "wikilink")
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+-    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
--    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
