@@ -41,7 +41,6 @@ Other items in this section
 -    [Poison](/keeperrl_wiki/Poison "wikilink")
 -    [Poison Resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
 -    [Prisoner Head](/keeperrl_wiki/Prisoner_Head "wikilink")
--    [Scroll Of Teleport](/keeperrl_wiki/Scroll_Of_Teleport "wikilink")
 -    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Sword](/keeperrl_wiki/Sword "wikilink")
