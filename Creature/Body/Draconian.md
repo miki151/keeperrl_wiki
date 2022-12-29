@@ -1,54 +1,35 @@
 ---
-title: Beast
-permalink: Beast/
+title: Draconian
+permalink: Draconian/
 layout: wiki
 ---
+Draconian creatures are types of dragons and nagas. There are those who can not tollerate daconians:
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
-
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
-
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
-
-	bat 
 	black dragon 
+	black naga 
 	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
-	ki-rin 
-	minotaur 
-	rat 
-	raven 
+	green dragon
 	red dragon 
-	skeleton wolf 
-	slasher 
-	tree spirit 
+	red naga 
 	white dragon 
-	wolf 
+	white naga 
 	yellow dragon 
-	yeti
-	unicorn
+	yellow naga 
 	
-See "Animal" below for various animals:
-	
+These creatures get attacked by those who have a grudge against the draconians.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Cautious](/keeperrl_wiki/Cautious "wikilink")
 -    [Combat Trainer](/keeperrl_wiki/Combat_Trainer "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
--    [Draconian](/keeperrl_wiki/Draconian "wikilink")
 -    [Dwarvenkind](/keeperrl_wiki/Dwarvenkind "wikilink")
 -    [Elvenkind](/keeperrl_wiki/Elvenkind "wikilink")
 -    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")

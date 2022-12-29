@@ -1,40 +1,29 @@
 ---
-title: Beast
-permalink: Beast/
+title: Combat Trainer
+permalink: Combat_Trainer/
 layout: wiki
 ---
+Combat trainers benefit from training their melee combat skills in your dungeon
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+Examples of creature that benefit most from training in combat:
 
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
-
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
-
-	bat 
-	black dragon 
-	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
-	ki-rin 
-	minotaur 
-	rat 
-	raven 
-	red dragon 
-	skeleton wolf 
-	slasher 
-	tree spirit 
-	white dragon 
-	wolf 
-	yellow dragon 
+	cyclops
+	dark elf
+	dwarf baron
+	goblin warrior
+	juggernaut
+	knight
+	lizardman
+	lizardlord
+	minotaur
+	ogre
+	orc 
+	skeleton warrior 
+	troll
+	vampire warrior 
+	warrior
+	werewolf
 	yeti
-	unicorn
-	
-See "Animal" below for various animals:
 	
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
@@ -42,11 +31,11 @@ See "Animal" below for various animals:
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Cautious](/keeperrl_wiki/Cautious "wikilink")
--    [Combat Trainer](/keeperrl_wiki/Combat_Trainer "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
 -    [Draconian](/keeperrl_wiki/Draconian "wikilink")
 -    [Dwarvenkind](/keeperrl_wiki/Dwarvenkind "wikilink")

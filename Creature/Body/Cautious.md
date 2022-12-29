@@ -1,51 +1,83 @@
 ---
-title: Beast
-permalink: Beast/
+title: Cautious
+permalink: Cautious/
 layout: wiki
 ---
+Cautious creatures have a ranged AI and will try and keep their distance in battle, often while shooting arrows or casting spells.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+Cautious creatures:
 
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
-
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
-
-	bat 
-	black dragon 
-	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
-	ki-rin 
-	minotaur 
-	rat 
-	raven 
-	red dragon 
-	skeleton wolf 
-	slasher 
-	tree spirit 
-	white dragon 
-	wolf 
-	yellow dragon 
-	yeti
 	unicorn
-	
-See "Animal" below for various animals:
-	
+	succubus
+	galeam
+	cherub
+	witch
+	soft monster
+	jester
+	archer
+	priest
+	artisan
+	peasant
+	archer
+	priest
+	shaman
+	sorcerer
+	helicopterum
+	vampire noble
+	goblin shaman
+	harpy
+	kobold
+	gnome
+	gnome chief
+	goblin artificer
+	imp
+	chicken
+	dwarf
+	dwarf blacksmith
+	elf
+	elven archer
+	elf child
+	elf lord
+	dark elf
+	dark elf child
+	dryad
+	cow
+	pig
+	goat
+	jackal
+	deer
+	boar
+	fox
+	rat
+	fly
+	raven
+	vulture
+	dog
+	elementalist
+	bat
+	flying carpet
+	high priest of Adoxie
+	goblin king
+	goblin
+	goblin worker
+	goblin matron
+	goblin priest
+	goblin wizard
+	goblin archer
+	goblin chickenmancer
+	zombie mage
+	skeleton archer
+	orc mage
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
--    [Cautious](/keeperrl_wiki/Cautious "wikilink")
 -    [Combat Trainer](/keeperrl_wiki/Combat_Trainer "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
 -    [Draconian](/keeperrl_wiki/Draconian "wikilink")

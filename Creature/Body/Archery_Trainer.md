@@ -1,47 +1,26 @@
 ---
-title: Beast
-permalink: Beast/
+title: Archery Trainer
+permalink: Archery_Trainer/
 layout: wiki
 ---
+Archery trainers are creatures that can train in archery.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+Some creatures you can capture and train futher in archery:
 
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
-
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
-
-	bat 
-	black dragon 
-	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
-	ki-rin 
-	minotaur 
-	rat 
-	raven 
-	red dragon 
-	skeleton wolf 
-	slasher 
-	tree spirit 
-	white dragon 
-	wolf 
-	yellow dragon 
-	yeti
-	unicorn
-	
-See "Animal" below for various animals:
+	archer 
+	dryad 
+	elven archer 
+	goblin archer 
+	harpy 
+	skeleton archer 
+	squire archer
 	
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
--    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")

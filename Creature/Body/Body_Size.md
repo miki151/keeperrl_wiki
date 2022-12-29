@@ -1,49 +1,57 @@
 ---
-title: Beast
-permalink: Beast/
+title: Body Size
+permalink: Body_Size/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
+The biggest thing that impacts size is whether a rider can ride a steed. If a rider is too large or too small for a steed, they are unable to ride it. Creatures can be small, medium, large or huge. This has an impact on combat, when taking injuries to body types. It also makes also makes
+a difference to the size of corpses or the amount of material an elemental breaks into when it is destoryed.
 
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
+Examples of creatures that are particularly small:
 
 	bat 
-	black dragon 
-	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
-	ki-rin 
-	minotaur 
+	chicken 
+	dark elf child 
+	elf child 
+	fly 
+	fox 
+	helicopterum 
+	imp 
+	jackal 
 	rat 
 	raven 
+	snake 
+	spider 
+	vulture
+
+Examples of creatures that are particularly huge:
+
+	black dragon 
+	black naga 
+	bone dragon 
+	Evil God Adoxie 
+	fire demon
+	green dragon
+	ki-rin 
 	red dragon 
-	skeleton wolf 
-	slasher 
+	red naga 
+	skeleton king 
 	tree spirit 
 	white dragon 
-	wolf 
+	white naga 
 	yellow dragon 
-	yeti
-	unicorn
-	
-See "Animal" below for various animals:
-	
+	yellow naga 
+	zombie king
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
--    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Cautious](/keeperrl_wiki/Cautious "wikilink")
 -    [Combat Trainer](/keeperrl_wiki/Combat_Trainer "wikilink")

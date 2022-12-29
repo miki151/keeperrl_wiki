@@ -1,47 +1,35 @@
 ---
-title: Beast
-permalink: Beast/
+title: Sorcerer
+permalink: Sorcerer/
 layout: wiki
 ---
+Creatures that make good sorcerers can often be captured and then train their spell skills futher in your dungeon:
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+Examples of sorcerers:
 
-Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
-
-The rider will normally be humanoid and must be the correct size to ride the beast.
-
-List of creatures that usually make good steeds:
-
-	bat 
-	black dragon 
-	bone dragon 
-	cave bear 
-	deer 
-	flying carpet 
-	green dragon 
-	horse 
+	demon Lord 
+	elementalist
+	elf
+	elf lord 
+	goblin chickenmancer 
+	goblin priest 
+	goblin wizard 
 	ki-rin 
-	minotaur 
-	rat 
-	raven 
-	red dragon 
-	skeleton wolf 
-	slasher 
-	tree spirit 
-	white dragon 
-	wolf 
-	yellow dragon 
-	yeti
-	unicorn
-	
-See "Animal" below for various animals:
-	
+	necromancer 
+	orc healer 
+	priest 
+	shaman 
+	sorcerer 
+	vampire noble 
+	witch 
+	zombie mage
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
@@ -57,7 +45,6 @@ Other items in this section
 -    [Human](/keeperrl_wiki/Human "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
--    [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")

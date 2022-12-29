@@ -6,12 +6,16 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
 
--Heal self
--Heal other
--Speed self
--Defence bonus
--Damage bonus
--Blast
+Spells are divided into spell schools. These schools are:
+
+	zombie mage
+	illusion
+	spiritualist
+	mage
+	healer
+	fighter
+	chickenmancy
+	archer
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
 
