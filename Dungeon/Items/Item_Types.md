@@ -4,7 +4,7 @@ permalink: Item_Types/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")
 
 Usage
 =====
@@ -74,11 +74,12 @@ Valid values
 -   Intrinsic
 -   Torch
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")
 
 Other items in this section
 -    [Armor](/keeperrl_wiki/Armor "wikilink")
--    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Items](/keeperrl_wiki/Items "wikilink")
+-    [Items Guide](/keeperrl_wiki/Items_Guide "wikilink")
+-    [ItemTypes](/keeperrl_wiki/ItemTypes "wikilink")
 -    [Potions](/keeperrl_wiki/Potions "wikilink")
 -    [Weapons](/keeperrl_wiki/Weapons "wikilink")

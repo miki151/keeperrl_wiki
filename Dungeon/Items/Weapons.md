@@ -4,7 +4,7 @@ permalink: Weapons/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")
 
 One-handed
 ==========
@@ -178,11 +178,12 @@ Elven Silver Bow
 `Weight: 1`  
 `Price: 60`
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")
 
 Other items in this section
 -    [Armor](/keeperrl_wiki/Armor "wikilink")
--    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Items](/keeperrl_wiki/Items "wikilink")
+-    [Items Guide](/keeperrl_wiki/Items_Guide "wikilink")
+-    [ItemTypes](/keeperrl_wiki/ItemTypes "wikilink")
 -    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
 -    [Potions](/keeperrl_wiki/Potions "wikilink")
