@@ -1,6 +1,6 @@
 ---
-title: Characteristics
-permalink: Characteristics/
+title: Mushrooms
+permalink: Mushrooms/
 layout: wiki
 ---
 
@@ -20,6 +20,7 @@ Other items in this section
 -    [Can Be Done By Changing Config File In Alpha 26 Onwards)](/keeperrl_wiki/Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards) "wikilink")
 -    [Can Be Done By Changing Config File In Alpha 26 Onwards)]](/keeperrl_wiki/Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards)] "wikilink")
 -    [CapitalisationWrong](/keeperrl_wiki/CapitalisationWrong "wikilink")
+-    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
 -    [Exploring](/keeperrl_wiki/Exploring "wikilink")
 -    [Gaining Familiarity With Mods On KeeperRL](/keeperrl_wiki/Gaining_Familiarity_With_Mods_On_KeeperRL "wikilink")
@@ -29,7 +30,6 @@ Other items in this section
 -    [Moddable From Alpha 26 Onwards)](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards) "wikilink")
 -    [Moddable From Alpha 26 Onwards)]](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards)] "wikilink")
 -    [Modding Guide](/keeperrl_wiki/Modding_Guide "wikilink")
--    [Mushrooms](/keeperrl_wiki/Mushrooms "wikilink")
 -    [Older Versions](/keeperrl_wiki/Older_Versions "wikilink")
 -    [Ranged Resistance](/keeperrl_wiki/Ranged_Resistance "wikilink")
 -    [Releases](/keeperrl_wiki/Releases "wikilink")

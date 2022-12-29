@@ -30,6 +30,7 @@ Other items in this section
 -    [Moddable From Alpha 26 Onwards)](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards) "wikilink")
 -    [Moddable From Alpha 26 Onwards)]](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards)] "wikilink")
 -    [Modding Guide](/keeperrl_wiki/Modding_Guide "wikilink")
+-    [Mushrooms](/keeperrl_wiki/Mushrooms "wikilink")
 -    [Ranged Resistance](/keeperrl_wiki/Ranged_Resistance "wikilink")
 -    [Releases](/keeperrl_wiki/Releases "wikilink")
 -    [Rooms Guide](/keeperrl_wiki/Rooms_Guide "wikilink")

@@ -15,6 +15,7 @@ Other items in this section
 -    [Basic Spells](/keeperrl_wiki/Basic_Spells "wikilink")
 -    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
 -    [Body Parts](/keeperrl_wiki/Body_Parts "wikilink")
+-    [Books](/keeperrl_wiki/Books "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Bridge](/keeperrl_wiki/Bridge "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")

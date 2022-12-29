@@ -18,6 +18,7 @@ Other items in this section
 -    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Parts](/keeperrl_wiki/Body_Parts "wikilink")
+-    [Books](/keeperrl_wiki/Books "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Bridge](/keeperrl_wiki/Bridge "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")

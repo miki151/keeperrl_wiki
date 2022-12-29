@@ -1,12 +1,20 @@
 ---
-title: Not Breathing
-permalink: Not_Breathing/
+title: Books
+permalink: Books/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-Immune to poison gas.
+- Special Powers: Read (apply) to learn a new spell or skill. Consumable, so only usable once.
+- Concept: Let's your minions learn skills and spells they otherwise couldn't, but at the cost of a rare consumable item. Also great for adventurers.
+- Purpose in game: Gives the minions that could very well use magic, but cannot study it in library (doppelgangers, mostly) limited access to spells. Mostly useful for adventurers, though, as they would greatly benefit from being able to learn new skills and spells. There should be skill- and spellbooks for the various traits, for example:
+- book of knife throwing (either grants knife throwing, or increases it by 10-30%)
+- book of archery (either grants archery, or increases it by 10-30%)
+- book of deception (grants deception spell)
+- book of meteor shower
+--[[User:Red kangaroo|Red kangaroo]] ([[User talk:Red kangaroo|talk]]) 17:07, 27 February 2017 (CET)
+- Discussion:
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
@@ -16,7 +24,6 @@ Other items in this section
 -    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Parts](/keeperrl_wiki/Body_Parts "wikilink")
--    [Books](/keeperrl_wiki/Books "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Bridge](/keeperrl_wiki/Bridge "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
@@ -34,6 +41,7 @@ Other items in this section
 -    [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
 -    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
 -    [Master Spells](/keeperrl_wiki/Master_Spells "wikilink")
+-    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
 -    [Panic](/keeperrl_wiki/Panic "wikilink")
 -    [Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
 -    [Poison](/keeperrl_wiki/Poison "wikilink")
