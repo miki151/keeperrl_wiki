@@ -4,7 +4,7 @@ permalink: Prisoner_Guide/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
 
 Converting prisoners
 ====================
@@ -51,6 +51,6 @@ Looking after prisoners
 -   [Wolves](/keeperrl_wiki/Wolf "wikilink") are good at looking after prisoners
     because you can get a whole pack of them for 1 population slot
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Trait](/keeperrl_wiki/Trait_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
 
 Other items in this section

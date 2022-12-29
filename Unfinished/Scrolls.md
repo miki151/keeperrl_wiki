@@ -1,15 +1,12 @@
 ---
-title: Short Bow
-permalink: Short_Bow/
+title: Scrolls
+permalink: Scrolls/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
- Power: 9 - 11
- Weight: 1
- Price: 60
-Occasionally carried by bandits. Always carried by harpies, driads, archers both human and elf. Allows ranged attacks.
+ Scroll Labelled Combustio 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
@@ -44,7 +41,7 @@ Other items in this section
 -    [Poison Gas](/keeperrl_wiki/Poison_Gas "wikilink")
 -    [Poison Resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
 -    [Prisoner Head](/keeperrl_wiki/Prisoner_Head "wikilink")
--    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
+-    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Sword](/keeperrl_wiki/Sword "wikilink")
 -    [Tasks](/keeperrl_wiki/Tasks "wikilink")

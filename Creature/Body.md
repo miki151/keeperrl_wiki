@@ -1,6 +1,6 @@
 ---
-title: Prisoner Guide
-permalink: Prisoner_Guide/
+title: Body
+permalink: Body/
 layout: wiki
 ---
 
@@ -13,10 +13,10 @@ This article has gone missing.
 Other items in this section
 -    [AttrBonuses](/keeperrl_wiki/AttrBonuses "wikilink")
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
--    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
 -    [Injury](/keeperrl_wiki/Injury "wikilink")
+-    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
 -    [Role](/keeperrl_wiki/Role "wikilink")
 -    [Spells](/keeperrl_wiki/Spells "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")

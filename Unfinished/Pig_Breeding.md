@@ -44,6 +44,7 @@ Other items in this section
 -    [Poison Gas](/keeperrl_wiki/Poison_Gas "wikilink")
 -    [Poison Resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
 -    [Prisoner Head](/keeperrl_wiki/Prisoner_Head "wikilink")
+-    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
 -    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Sword](/keeperrl_wiki/Sword "wikilink")
