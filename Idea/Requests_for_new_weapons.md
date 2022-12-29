@@ -435,6 +435,9 @@ Template
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Other items in this section
+-    [Adventurers (Can Be Done By Changing Config File In Alpha 26 Onwards)](/keeperrl_wiki/Adventurers_(Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards) "wikilink")
+-    [Adventurers (Moddable From Alpha 26 Onwards)](/keeperrl_wiki/Adventurers_(Moddable_From_Alpha_26_Onwards) "wikilink")
+-    [Adventure Dungeon Raid Mode](/keeperrl_wiki/Adventure_Dungeon_Raid_Mode "wikilink")
 -    [Idea](/keeperrl_wiki/Idea "wikilink")
 -    [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
 -    [Player Ideas, Requests And Contributions](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink")

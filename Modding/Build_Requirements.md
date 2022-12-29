@@ -31,6 +31,7 @@ Other items in this section
 -    [Available reference data for modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")
 -    [Build Menu.txt](/keeperrl_wiki/Build_Menu.txt "wikilink")
 -    [Category Modding Reference Data](/keeperrl_wiki/Category_Modding_Reference_Data "wikilink")
+-    [CreatureIDs](/keeperrl_wiki/CreatureIDs "wikilink")
 -    [Download Mods](/keeperrl_wiki/Download_Mods "wikilink")
 -    [Fixed Spawn Locations](/keeperrl_wiki/Fixed_Spawn_Locations "wikilink")
 -    [Gaining familiarity with mods on KeeperRL](/keeperrl_wiki/Gaining_Familiarity_With_Mods_On_KeeperRL "wikilink")
@@ -48,4 +49,5 @@ Other items in this section
 -    [Modding Views](/keeperrl_wiki/Modding_Views "wikilink")
 -    [Modding Zones](/keeperrl_wiki/Modding_Zones "wikilink")
 -    [Player Creatures.txt](/keeperrl_wiki/Player_Creatures.txt "wikilink")
+-    [ResourceIDs](/keeperrl_wiki/ResourceIDs "wikilink")
 -    [Understanding the file formats for KeeperRL](/keeperrl_wiki/Understanding_The_File_Formats_For_KeeperRL "wikilink")

@@ -20,6 +20,7 @@ about 2015. Because it is so out of date, it is now just a placeholder.
 Other items in this section
 -    [Category Aimed Spells](/keeperrl_wiki/Category_Aimed_Spells "wikilink")
 -    [Experience](/keeperrl_wiki/Experience "wikilink")
+-    [How To Win As An Adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 -    [How to win as an Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -    [Special Trait Types](/keeperrl_wiki/Special_Trait_Types "wikilink")
 -    [Tribe Alignments](/keeperrl_wiki/Tribe_Alignments "wikilink")

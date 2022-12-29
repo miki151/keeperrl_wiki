@@ -12,3 +12,6 @@ KeeperRL is a dungeon keeper Realtime Strategy game mixed with Rogue-like combat
 
 Other items in this section
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+-    [RTS](/keeperrl_wiki/RTS "wikilink")
+-    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
