@@ -1,25 +1,22 @@
 ---
-title: Beast
-permalink: Beast/
+title: Fire Creature
+permalink: Fire_Creature/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Beasts can often be ridden and become "steeds".
-
-List of steeds:
-
-	TODO
+20% chance to set ground on fire.&lt;br&gt;
+Immune to fire damage.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
--    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
 -    [Humainoid](/keeperrl_wiki/Humainoid "wikilink")
 -    [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")

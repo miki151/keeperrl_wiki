@@ -1,21 +1,18 @@
 ---
-title: Beast
-permalink: Beast/
+title: Undead
+permalink: Undead/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Beasts can often be ridden and become "steeds".
-
-List of steeds:
-
-	TODO
+This article has gone missing.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
@@ -27,4 +24,3 @@ Other items in this section
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
 -    [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
--    [Undead](/keeperrl_wiki/Undead "wikilink")
