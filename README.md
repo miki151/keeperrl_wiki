@@ -3,6 +3,9 @@ title: README
 permalink: README/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")
+
 # keeperrl_wiki
 
 Contribute to the wiki here:

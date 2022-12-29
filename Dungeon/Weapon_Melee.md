@@ -14,6 +14,7 @@ Creature can fight with weapons.
 
 Other items in this section
 -    [Advances](/keeperrl_wiki/Advances "wikilink")
+-    [Campaign Mode](/keeperrl_wiki/Campaign_Mode "wikilink")
 -    [Consumables](/keeperrl_wiki/Consumables "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
 -    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")

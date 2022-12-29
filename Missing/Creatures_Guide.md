@@ -6,6 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
+
 This article has gone missing.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
@@ -14,10 +15,7 @@ Other items in this section
 -    [100%)](/keeperrl_wiki/100%) "wikilink")
 -    [3](/keeperrl_wiki/3 "wikilink")
 -    [Alternative Keeper Characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
--    [AttrBonuses](/keeperrl_wiki/AttrBonuses "wikilink")
 -    [Available Reference Data For Modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")
--    [Body](/keeperrl_wiki/Body "wikilink")
--    [Campaign Mode](/keeperrl_wiki/Campaign_Mode "wikilink")
 -    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
 -    [CreatureIDs](/keeperrl_wiki/CreatureIDs "wikilink")
 -    [Exploring](/keeperrl_wiki/Exploring "wikilink")
@@ -26,20 +24,11 @@ Other items in this section
 -    [How To Win As An Adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 -    [How To Win As An Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -    [Idea](/keeperrl_wiki/Idea "wikilink")
--    [Injury](/keeperrl_wiki/Injury "wikilink")
 -    [Lab](/keeperrl_wiki/Lab "wikilink")
 -    [Magic Weaponry](/keeperrl_wiki/Magic_Weaponry "wikilink")
 -    [Missing](/keeperrl_wiki/Missing "wikilink")
 -    [Modding Guide](/keeperrl_wiki/Modding_Guide "wikilink")
--    [Modding Reference Data Guide](/keeperrl_wiki/Modding_Reference_Data_Guide "wikilink")
 -    [Older Versions](/keeperrl_wiki/Older_Versions "wikilink")
--    [Player Ideas, Requests And Contributions](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink")
--    [Player Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
--    [Player Owen](/keeperrl_wiki/Player_Owen "wikilink")
--    [Player Red Kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
--    [Player Requests For New Content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
--    [Player Requests For New Game Mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
--    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
 -    [Ranged Resistance](/keeperrl_wiki/Ranged_Resistance "wikilink")
 -    [Releases](/keeperrl_wiki/Releases "wikilink")
 -    [Requests For Game Messages](/keeperrl_wiki/Requests_For_Game_Messages "wikilink")
@@ -71,7 +60,6 @@ Other items in this section
 -    [Requests For World Map Mechanics](/keeperrl_wiki/Requests_For_World_Map_Mechanics "wikilink")
 -    [ResourceIDs](/keeperrl_wiki/ResourceIDs "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
--    [Role](/keeperrl_wiki/Role "wikilink")
 -    [Rooms Guide](/keeperrl_wiki/Rooms_Guide "wikilink")
 -    [RTS](/keeperrl_wiki/RTS "wikilink")
 -    [Skill](/keeperrl_wiki/Skill "wikilink")

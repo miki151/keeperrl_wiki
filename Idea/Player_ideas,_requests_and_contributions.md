@@ -6,28 +6,17 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
-Players are welcome to discuss ideas and make requests on these pages.
-
--   Please keep the standard rules about not submitting copyrighted
-    content to the wiki. This includes any material of your own for
-    which you want the copyright. (We are submitting our ideas into the
-    public domain for Michal to use under an open source license)
-
-Thanks!
-
--   [Player requests for new
-    content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
--   [Player requests for new game
-    mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
--   [Prefix Ideas](/keeperrl_wiki/Pre-fix_Ideas "wikilink")
--   [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
+This article has gone missing.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Other items in this section
 -    [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
--    [Player requests for new content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
--    [Player requests for new game mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
+-    [Player Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
+-    [Player Owen](/keeperrl_wiki/Player_Owen "wikilink")
+-    [Player Red Kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
+-    [Player Requests For New Content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
+-    [Player Requests For New Game Mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
 -    [Pre-fix Ideas](/keeperrl_wiki/Pre-fix_Ideas "wikilink")
 -    [Requests for game messages](/keeperrl_wiki/Requests_For_Game_Messages "wikilink")
 -    [Requests for graphics](/keeperrl_wiki/Requests_For_Graphics "wikilink")

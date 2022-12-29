@@ -14,9 +14,12 @@ References:
 
 Other items in this section
 -    [Map Editor Ideas](/keeperrl_wiki/Map_Editor_Ideas "wikilink")
--    [Player ideas, requests and contributions](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink")
--    [Player requests for new content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
--    [Player requests for new game mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
+-    [Player Ideas, Requests And Contributions](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink")
+-    [Player Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
+-    [Player Owen](/keeperrl_wiki/Player_Owen "wikilink")
+-    [Player Red Kangaroo](/keeperrl_wiki/Player_Red_Kangaroo "wikilink")
+-    [Player Requests For New Content](/keeperrl_wiki/Player_Requests_For_New_Content "wikilink")
+-    [Player Requests For New Game Mechanics](/keeperrl_wiki/Player_Requests_For_New_Game_Mechanics "wikilink")
 -    [Pre-fix Ideas](/keeperrl_wiki/Pre-fix_Ideas "wikilink")
 -    [Requests for game messages](/keeperrl_wiki/Requests_For_Game_Messages "wikilink")
 -    [Requests for graphics](/keeperrl_wiki/Requests_For_Graphics "wikilink")

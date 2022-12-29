@@ -288,6 +288,7 @@ Other items in this section
 -    [Modding Enemies](/keeperrl_wiki/Modding_Enemies "wikilink")
 -    [Modding guide](/keeperrl_wiki/Modding_Guide "wikilink")
 -    [Modding Immigration](/keeperrl_wiki/Modding_Immigration "wikilink")
+-    [Modding Reference Data Guide](/keeperrl_wiki/Modding_Reference_Data_Guide "wikilink")
 -    [Modding Technology](/keeperrl_wiki/Modding_Technology "wikilink")
 -    [Modding Traits](/keeperrl_wiki/Modding_Traits "wikilink")
 -    [Modding Views](/keeperrl_wiki/Modding_Views "wikilink")

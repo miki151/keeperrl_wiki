@@ -9,6 +9,7 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
 Other items in this section
+-    [Campaign Mode](/keeperrl_wiki/Campaign_Mode "wikilink")
 -    [Consumables](/keeperrl_wiki/Consumables "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
 -    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")
