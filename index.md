@@ -1,6 +1,6 @@
 ---
-title: Index
-permalink: Index/
+title: 
+permalink: /
 layout: wiki
 ---
 
@@ -100,4 +100,3 @@ Release History Guide
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
 
 [MainPage](/keeperrl_wiki/ "wikilink")
-
