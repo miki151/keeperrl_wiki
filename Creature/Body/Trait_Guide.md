@@ -9,16 +9,28 @@ layout: wiki
 Traits
 ======
 
+Instrinsic buffs
+================
+
+Some creatures exist with intrinsic buffs and nurfs. The following traits are often intrinsic to a type of creature:
+
+	Flying - Can see over trees and fly over terrain
+	Slow - Slower than other creatures`
+	Fast - Faster than other creatures
+	Light Source - Shines (eg. if on fire)
+	Darkness Source - Surrounded by unnatural darkness
+	Blind - Has zero vision.
+	Summoned - These will leave you after a while
+	Elf Vision - Sees and shoots through trees
+	Night Vision - Can see in the dark
+
+Other Common Traits
+===================
+
 Animal
 ------
 
-Effected by [amulet of nature
-affinity.](/keeperrl_wiki/Amulet_Of_Nature_Affinity "wikilink")
-
-Blind
------
-
-Has zero vision.
+Often wildlife that wanders aimlessly, farm animals or often useful as steeds.
 
 Brainless
 ---------
