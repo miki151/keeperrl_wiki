@@ -7,7 +7,7 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")
 
 There is a lot of modding support for keeperRL that can be accessed just by changing text files.
-The items in this section are very out of date but it should give you an idea of how it can be done.
+The items in this section are very out of date but it should give you an idea of some of the things that can be done.
 
 [MainPage](/keeperrl_wiki/ "wikilink")
 
