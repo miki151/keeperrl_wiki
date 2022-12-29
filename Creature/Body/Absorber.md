@@ -1,26 +1,24 @@
 ---
-title: Blind
-permalink: Blind/
+title: Absorber
+permalink: Absorber/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-No vision whilst controlling the minion and has a disadvantage in combat. All other creatures are effectively invisible.
-This trait can appear as a nurf and can also be given to undead creatures after beheading.
+There is one creature that is a natural absorber:
 
-Blind creatures often see with telepathy, which depends on the enemies having brains. Examples are:
-
-	black dragon 
-	black naga 
+	doppleganger
+	
+Any creature can become an absorber if magic wishes are used.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
--    [Absorber](/keeperrl_wiki/Absorber "wikilink")
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
 -    [Beast](/keeperrl_wiki/Beast "wikilink")
+-    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Breeder](/keeperrl_wiki/Breeder "wikilink")

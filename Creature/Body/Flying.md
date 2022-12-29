@@ -1,18 +1,38 @@
 ---
-title: Blind
-permalink: Blind/
+title: Flying
+permalink: Flying/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-No vision whilst controlling the minion and has a disadvantage in combat. All other creatures are effectively invisible.
-This trait can appear as a nurf and can also be given to undead creatures after beheading.
+A creature that can fly moves over ground, lava and water easily and can see over trees.
 
-Blind creatures often see with telepathy, which depends on the enemies having brains. Examples are:
+Many creatures normally have the natural ability to fly:
 
+	air elemental 
+	ancient spirit 
+	angel
+	bat
 	black dragon 
-	black naga 
+	bone dragon 
+	cherub 
+	chicken 
+	devil 
+	djinn 
+	fire elemental 
+	fly 
+	flying carpet 
+	ghost 
+	green dragon 
+	harpy 
+	helicopterum 
+	raven 
+	red dragon 
+	succubus 
+	yellow dragon 
+	
+Humanoids can wear equipment that allows them to fly and almost any creature can be buffed with a flying buff, if you want to use wishes.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
@@ -21,6 +41,7 @@ Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
 -    [Beast](/keeperrl_wiki/Beast "wikilink")
+-    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Breeder](/keeperrl_wiki/Breeder "wikilink")
@@ -31,7 +52,6 @@ Other items in this section
 -    [Dwarvenkind](/keeperrl_wiki/Dwarvenkind "wikilink")
 -    [Elvenkind](/keeperrl_wiki/Elvenkind "wikilink")
 -    [Fire Creature](/keeperrl_wiki/Fire_Creature "wikilink")
--    [Flying](/keeperrl_wiki/Flying "wikilink")
 -    [Greenskin](/keeperrl_wiki/Greenskin "wikilink")
 -    [Humainoid](/keeperrl_wiki/Humainoid "wikilink")
 -    [Human](/keeperrl_wiki/Human "wikilink")

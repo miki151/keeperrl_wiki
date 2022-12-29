@@ -1,18 +1,18 @@
 ---
-title: Blind
-permalink: Blind/
+title: Telepathic
+permalink: Telepathic/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-No vision whilst controlling the minion and has a disadvantage in combat. All other creatures are effectively invisible.
-This trait can appear as a nurf and can also be given to undead creatures after beheading.
+Telepathic creatures can see their enemies from around corners and past barriers but only if they have a brain.
 
-Blind creatures often see with telepathy, which depends on the enemies having brains. Examples are:
+A few creatures are naturally telepathic. Notably:
 
 	black dragon 
-	black naga 
+	
+Equipment can be worn on humanoid bodies that grant you telepathy. Permanent telepathy potions can be wished for using magic.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
@@ -21,6 +21,7 @@ Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
 -    [Beast](/keeperrl_wiki/Beast "wikilink")
+-    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Breeder](/keeperrl_wiki/Breeder "wikilink")
@@ -39,7 +40,6 @@ Other items in this section
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
 -    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
--    [Telepathic](/keeperrl_wiki/Telepathic "wikilink")
 -    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
 -    [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")

@@ -1,18 +1,18 @@
 ---
-title: Blind
-permalink: Blind/
+title: Breeder
+permalink: Breeder/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-No vision whilst controlling the minion and has a disadvantage in combat. All other creatures are effectively invisible.
-This trait can appear as a nurf and can also be given to undead creatures after beheading.
+Creatures that are breeders can become pregnant and give birth to other creatures.
+It is possible through magic wishing spells to make any creature a breeder but the two natural breeders in the game are:
 
-Blind creatures often see with telepathy, which depends on the enemies having brains. Examples are:
-
-	black dragon 
-	black naga 
+	succubus
+	goblin matron
+	
+What you may give birth to (if anything) from a pregnancy will depend on the type of dungeon you are playing.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
@@ -21,9 +21,9 @@ Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
 -    [Beast](/keeperrl_wiki/Beast "wikilink")
+-    [Blind](/keeperrl_wiki/Blind "wikilink")
 -    [Body Size](/keeperrl_wiki/Body_Size "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
--    [Breeder](/keeperrl_wiki/Breeder "wikilink")
 -    [Cautious](/keeperrl_wiki/Cautious "wikilink")
 -    [Combat Trainer](/keeperrl_wiki/Combat_Trainer "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
