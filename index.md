@@ -49,6 +49,7 @@ Creature Guide
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
 -   Creature features                                                          
+    -   [Buffs And Nurfs](/keeperrl_wiki/LastingEffects "wikilink")
     -   [Skills](/keeperrl_wiki/Skills_Guide "wikilink")                                          
     -   [Traits](/keeperrl_wiki/Traits "wikilink")                                          
     -   [Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
