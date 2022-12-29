@@ -1,11 +1,10 @@
 ---
-title: Missing
-permalink: Missing/
+title: Adventurers 
+permalink: Adventurers_/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
-
 
 This article has gone missing.
 
@@ -16,6 +15,8 @@ Other items in this section
 -    [3](/keeperrl_wiki/3 "wikilink")
 -    [Alternative Keeper Characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
 -    [Available Reference Data For Modding KeeperRL](/keeperrl_wiki/Available_Reference_Data_For_Modding_KeeperRL "wikilink")
+-    [Can Be Done By Changing Config File In Alpha 26 Onwards)](/keeperrl_wiki/Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards) "wikilink")
+-    [Can Be Done By Changing Config File In Alpha 26 Onwards)]](/keeperrl_wiki/Can_Be_Done_By_Changing_Config_File_In_Alpha_26_Onwards)] "wikilink")
 -    [CapitalisationWrong](/keeperrl_wiki/CapitalisationWrong "wikilink")
 -    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
@@ -24,6 +25,8 @@ Other items in this section
 -    [Guide For Adventurer Mode](/keeperrl_wiki/Guide_For_Adventurer_Mode "wikilink")
 -    [How To Win As An Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -    [Lab](/keeperrl_wiki/Lab "wikilink")
+-    [Moddable From Alpha 26 Onwards)](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards) "wikilink")
+-    [Moddable From Alpha 26 Onwards)]](/keeperrl_wiki/Moddable_From_Alpha_26_Onwards)] "wikilink")
 -    [Modding Guide](/keeperrl_wiki/Modding_Guide "wikilink")
 -    [Older Versions](/keeperrl_wiki/Older_Versions "wikilink")
 -    [Ranged Resistance](/keeperrl_wiki/Ranged_Resistance "wikilink")

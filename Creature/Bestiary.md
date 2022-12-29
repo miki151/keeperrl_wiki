@@ -13,3 +13,4 @@ The bestiary is a list of creatures that can be found in KeeperRL.
 Other items in this section
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
+-    [Spells](/keeperrl_wiki/Spells "wikilink")

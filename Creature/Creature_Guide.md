@@ -508,3 +508,4 @@ Here is a list of creatures extracted from the game-code in February
 Other items in this section
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
+-    [Spells](/keeperrl_wiki/Spells "wikilink")

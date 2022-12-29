@@ -14,10 +14,6 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 Other items in this section
--    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
--    [Amulet Of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
--    [Amulet Of Nature Affinity](/keeperrl_wiki/Amulet_Of_Nature_Affinity "wikilink")
--    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
 -    [Basic Spells](/keeperrl_wiki/Basic_Spells "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
@@ -42,7 +38,6 @@ Other items in this section
 -    [Immigration](/keeperrl_wiki/Immigration "wikilink")
 -    [Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
 -    [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
--    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
 -    [Master Spells](/keeperrl_wiki/Master_Spells "wikilink")
 -    [Not Breathing](/keeperrl_wiki/Not_Breathing "wikilink")
@@ -56,7 +51,6 @@ Other items in this section
 -    [Prisoner Head](/keeperrl_wiki/Prisoner_Head "wikilink")
 -    [Scroll Of Teleport](/keeperrl_wiki/Scroll_Of_Teleport "wikilink")
 -    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
--    [Spells](/keeperrl_wiki/Spells "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Summon Insects](/keeperrl_wiki/Summon_Insects "wikilink")
 -    [Summon Spirit](/keeperrl_wiki/Summon_Spirit "wikilink")

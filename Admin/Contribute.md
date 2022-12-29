@@ -4,6 +4,8 @@ permalink: Contribute/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Admin](/keeperrl_wiki/Admin "wikilink")
+
 <hr>
 Contribute to the wiki
 <hr>
@@ -16,4 +18,6 @@ The KeeperRL wiki is recompiled from this repository and then deployed to this s
 The main reason for failing to compile the wiki is that your code has errors, so take care. Email subscription to build messages can be arranged.
 Sometimes the wiki doesn't update if you do too many pages at once because the build then times out. In that case, back out your changes and commit them in smaller chunks.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Contribute](/keeperrl_wiki/Contribute "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Admin](/keeperrl_wiki/Admin "wikilink")
+
+Other items in this section

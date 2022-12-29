@@ -13,3 +13,4 @@ This article has gone missing.
 Other items in this section
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
+-    [Spells](/keeperrl_wiki/Spells "wikilink")
