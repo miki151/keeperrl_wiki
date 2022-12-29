@@ -44,11 +44,11 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <hr>
 Creature Guide
 <hr>
--   [ Full List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
+-   [ Partial List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
 -   [Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
--   Creature natures                                                           
+-   Creature features                                                          
     -   [Skills](/keeperrl_wiki/Skills_Guide "wikilink")                                          
     -   [Traits](/keeperrl_wiki/Traits "wikilink")                                          
     -   [Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
@@ -73,9 +73,8 @@ Dungeon Guide
 
 <hr>
 Modding
-<hr>|
+<hr>
 -   [Learn about modding support](/keeperrl_wiki/Modding "wikilink")                                               
-
 
 <img src="Keeper_knight_east.png" title="fig:\Keeper knight" alt="Keeper_knight_east.png" width="100" />
 <img src="Keeper_female_west.png" title="fig:\Keeper female" align="right" alt="Keeper_female_west.png" width="100" />
