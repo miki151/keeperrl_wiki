@@ -1,22 +1,18 @@
 ---
-title: Beast
-permalink: Beast/
+title: Blind
+permalink: Blind/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Beasts can often be ridden and become "steeds".
-
-List of steeds:
-
-	TODO
+No vision whilst controlling the minion and disadvantage in combat.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Animal](/keeperrl_wiki/Animal "wikilink")
--    [Blind](/keeperrl_wiki/Blind "wikilink")
+-    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Courage](/keeperrl_wiki/Courage "wikilink")
 -    [Humainoid](/keeperrl_wiki/Humainoid "wikilink")
