@@ -290,6 +290,7 @@ Additional notes
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Idea](/keeperrl_wiki/Idea "wikilink")
 
 Other items in this section
+-    [Idea](/keeperrl_wiki/Idea "wikilink")
 -    [Player Ideas, Requests And Contributions](/keeperrl_wiki/Player_Ideas,_Requests_And_Contributions "wikilink")
 -    [Player Keeperman](/keeperrl_wiki/Player_Keeperman "wikilink")
 -    [Player Owen](/keeperrl_wiki/Player_Owen "wikilink")
