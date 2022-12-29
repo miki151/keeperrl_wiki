@@ -6,7 +6,22 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-This article has gone missing.
+Examples of undead:
+
+	bone dragon
+	juggernaut
+	mummy 
+	skeleton archer 
+	skeleton king 
+	skeleton warrior 
+	skeleton wolf
+	slasher 
+	vampire brute 
+	vampire warrior 
+	zombie
+	zombie king
+	zombie mage
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 

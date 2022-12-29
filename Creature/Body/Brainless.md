@@ -8,6 +8,28 @@ layout: wiki
 
 Never flees or surrenders. Can not be seen by telepathy and can not be telepathic.
 
+Brainless creatures are made out of a variety of normally inanimate materials since even the undead have a kind of undead brain.
+When brainless creatures are killed, they will either not leave a corpse or leave behind some raw materials that you can use in your dungeons.
+
+The following creatures are usually brainless:
+
+	adamantine automaton 
+	adamantine golem 
+	adoxium automaton 
+	automaton 
+	clay golem 
+	earth elemental 
+	fire demon 
+	fire elemental 
+	helicopterum 
+	infernite automaton 
+	iron automaton 
+	iron golem 
+	lava golem 
+	stone golem 
+	water elemental 
+	wooden automaton 
+
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section

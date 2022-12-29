@@ -85,37 +85,6 @@ Creature will crumble to dust if exposed to sunlight unless they are a
 skeleton or vampire lord.  
 Immune to poison gas.
 
-Lost Body Parts
----------------
-
--   beheaded
-    -   Blind when undead. Otherwise dead.
-    -   Strength -3, Dexterity -3
-
-<!-- -->
-
--   one-armed
-    -   Can no longer use bows or two-handed weapons.
-    -   Strength -2, Dexterity -2
--   armless
-    -   Can no longer use or throw items
-    -   Strength -4, Dexterity -4
-
-<!-- -->
-
--   one-legged
-    -   Can only crawl and is more likely hit in the head.
-    -   Strength -5, Dexterity -10
--   legless
-    -   Strength -10, Dexterity -20
-
-<!-- -->
-
--   only one wing
-    -   Can no longer fly.
-    -   Strength -2, Dexterity -3
--   no more wings
-    -   Strenght -4, Dexterity -6
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 

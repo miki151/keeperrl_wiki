@@ -6,7 +6,28 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-This article has gone missing.
+Uncorporal creatures are usually made out of a kind of spirit material.
+
+They do not have corpses if you defeat them.
+
+Common uncorporal creatures are:
+
+	air elemental 
+	ancient spirit 
+	angel 
+	cherub 
+	death 
+	demon dweller 
+	demon lord 
+	devil 
+	djinn 
+	doppelganger 
+	evil god Adoxie 
+	galeam 
+	ghost 
+	imp 
+	shapeshifter 
+	succubus 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 

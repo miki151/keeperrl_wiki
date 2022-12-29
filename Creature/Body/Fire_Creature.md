@@ -6,8 +6,13 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-20% chance to set ground on fire.&lt;br&gt;
-Immune to fire damage.
+Fire creatures usually burn things around them, setting them on fire. They tend to be immune to fire damage and give off light.
+
+Examples:
+
+	fire demon 
+	fire elemental 
+	red dragon
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 

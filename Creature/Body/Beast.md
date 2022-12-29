@@ -6,12 +6,36 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Beasts can often be ridden and become "steeds".
+Beasts are normally made out of flesh and can sometimes be ridden and become "steeds".
 
-List of steeds:
+The rider will normally be humanoid and must be the correct size to ride the beast.
 
-	TODO
+List of creatures that usually make good steeds:
 
+	bat 
+	black dragon 
+	bone dragon 
+	cave bear 
+	deer 
+	flying carpet 
+	green dragon 
+	horse 
+	ki-rin 
+	minotaur 
+	rat 
+	raven 
+	red dragon 
+	skeleton wolf 
+	slasher 
+	tree spirit 
+	white dragon 
+	wolf 
+	yellow dragon 
+	yeti
+	unicorn
+	
+See "Animal" below for various animals:
+	
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
