@@ -4,7 +4,7 @@ permalink: Attribute_Bonuses/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Usage
 =====
@@ -26,8 +26,12 @@ Valid values
 -   RANGED\_DAMAGE
 -   DEFENCE
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Other items in this section
+-    [Archery](/keeperrl_wiki/Archery "wikilink")
 -    [Attribute](/keeperrl_wiki/Attribute "wikilink")
 -    [Attributes](/keeperrl_wiki/Attributes "wikilink")
+-    [Digging](/keeperrl_wiki/Digging "wikilink")
+-    [Lab](/keeperrl_wiki/Lab "wikilink")
+-    [Sorcery](/keeperrl_wiki/Sorcery "wikilink")

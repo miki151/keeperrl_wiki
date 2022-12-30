@@ -6,11 +6,12 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 
-Creature skills
-===============
+Creature Attributes
+===================
 
-Basic skills can be boosted by magic or by armour and weaponry.
-The basic skills that have levels are as follows:
+[Attributes](/keeperrl_wiki/Attributes "wikilink") are skills that have levels and can be boosted by magic, armour or weaponry.
+
+The common ones are:
 
 	damage
 	spell damage
@@ -30,13 +31,18 @@ The basic skills that have levels are as follows:
 	morgue
 	
 	
-A different list of buffs and nurfs can be found here:
+Binary Skills
+=============
+
+Binary skills are skills that you either have or you don't have. There are no levels or scale.
+Binary skills are often permanent intrinsic buffs that certain creatures carry or have earnt.
+The list of buffs and nurfs can be found here:
 
 [Buffs And Nurfs](/keeperrl_wiki/LastingEffects "wikilink")
 
 
-These skills often appear as permanent buffs that creatures have and are explained in a bit more detail:
----------------------------------------------------------------------------------------------------------
+These skills are worthy of attention and are explained in a bit more detail:
+----------------------------------------------------------------------------
 
 [Ambush](/keeperrl_wiki/Ambush "wikilink")
 ------
@@ -169,25 +175,7 @@ crazy goblins can make artifact armour and weapons.
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
 
 Other items in this section
--    [Absorbtion](/keeperrl_wiki/Absorbtion "wikilink")
--    [Ambush](/keeperrl_wiki/Ambush "wikilink")
--    [Archery](/keeperrl_wiki/Archery "wikilink")
--    [Consumption](/keeperrl_wiki/Consumption "wikilink")
--    [Copulate](/keeperrl_wiki/Copulate "wikilink")
--    [Copulation](/keeperrl_wiki/Copulation "wikilink")
--    [Crops](/keeperrl_wiki/Crops "wikilink")
--    [Digging](/keeperrl_wiki/Digging "wikilink")
--    [Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink")
--    [Elf Vision](/keeperrl_wiki/Elf_Vision "wikilink")
--    [Exploring Caves](/keeperrl_wiki/Exploring_Caves "wikilink")
--    [Exploring Nocturnally](/keeperrl_wiki/Exploring_Nocturnally "wikilink")
--    [Knife Throwing](/keeperrl_wiki/Knife_Throwing "wikilink")
--    [Navigational Digging](/keeperrl_wiki/Navigational_Digging "wikilink")
--    [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
+-    [Attribute](/keeperrl_wiki/Attribute "wikilink")
+-    [Binary Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 -    [Skill](/keeperrl_wiki/Skill "wikilink")
 -    [SkillIDs](/keeperrl_wiki/SkillIDs "wikilink")
--    [Sorcery](/keeperrl_wiki/Sorcery "wikilink")
--    [Stealing](/keeperrl_wiki/Stealing "wikilink")
--    [Stealth](/keeperrl_wiki/Stealth "wikilink")
--    [Swimming](/keeperrl_wiki/Swimming "wikilink")
--    [Unarmed Melee](/keeperrl_wiki/Unarmed_Melee "wikilink")

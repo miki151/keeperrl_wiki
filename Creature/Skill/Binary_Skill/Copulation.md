@@ -4,7 +4,7 @@ permalink: Copulation/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
 Only copulates with male, [[:Traits#Humanoid|humanoid]] and not [[:Traits#Uncorporal|uncorporal]] creatures.&lt;br&gt;
 After some time the creature will give birth to one of the following:
@@ -19,16 +19,14 @@ After some time the creature will give birth to one of the following:
 - if [[:Technologies#Beast_Mutation|Beast Mutation]] researched
 - [[:Legendary_Beast|Legendary Beast]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
 Other items in this section
 -    [Absorbtion](/keeperrl_wiki/Absorbtion "wikilink")
 -    [Ambush](/keeperrl_wiki/Ambush "wikilink")
--    [Archery](/keeperrl_wiki/Archery "wikilink")
 -    [Consumption](/keeperrl_wiki/Consumption "wikilink")
 -    [Copulate](/keeperrl_wiki/Copulate "wikilink")
 -    [Crops](/keeperrl_wiki/Crops "wikilink")
--    [Digging](/keeperrl_wiki/Digging "wikilink")
 -    [Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink")
 -    [Elf Vision](/keeperrl_wiki/Elf_Vision "wikilink")
 -    [Exploring Caves](/keeperrl_wiki/Exploring_Caves "wikilink")
@@ -36,10 +34,6 @@ Other items in this section
 -    [Knife Throwing](/keeperrl_wiki/Knife_Throwing "wikilink")
 -    [Navigational Digging](/keeperrl_wiki/Navigational_Digging "wikilink")
 -    [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
--    [Skill](/keeperrl_wiki/Skill "wikilink")
--    [SkillIDs](/keeperrl_wiki/SkillIDs "wikilink")
--    [Skills Guide](/keeperrl_wiki/Skills_Guide "wikilink")
--    [Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 -    [Stealing](/keeperrl_wiki/Stealing "wikilink")
 -    [Stealth](/keeperrl_wiki/Stealth "wikilink")
 -    [Swimming](/keeperrl_wiki/Swimming "wikilink")

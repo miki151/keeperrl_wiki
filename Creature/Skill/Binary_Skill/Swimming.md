@@ -1,23 +1,26 @@
 ---
-title: Crops
-permalink: Crops/
+title: Swimming
+permalink: Swimming/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
-Peasants tend crops, a useless skill once confined to a dungeon.
+1.  REDIRECT [Skills\#/keeperrl_wiki/Swimming](/keeperrl_wiki/Swimming "wikilink")
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")
+Swimming
+
+Cross water without drowning.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
 Other items in this section
 -    [Absorbtion](/keeperrl_wiki/Absorbtion "wikilink")
 -    [Ambush](/keeperrl_wiki/Ambush "wikilink")
--    [Archery](/keeperrl_wiki/Archery "wikilink")
 -    [Consumption](/keeperrl_wiki/Consumption "wikilink")
 -    [Copulate](/keeperrl_wiki/Copulate "wikilink")
 -    [Copulation](/keeperrl_wiki/Copulation "wikilink")
--    [Digging](/keeperrl_wiki/Digging "wikilink")
+-    [Crops](/keeperrl_wiki/Crops "wikilink")
 -    [Disarm Traps](/keeperrl_wiki/Disarm_Traps "wikilink")
 -    [Elf Vision](/keeperrl_wiki/Elf_Vision "wikilink")
 -    [Exploring Caves](/keeperrl_wiki/Exploring_Caves "wikilink")
@@ -25,11 +28,6 @@ Other items in this section
 -    [Knife Throwing](/keeperrl_wiki/Knife_Throwing "wikilink")
 -    [Navigational Digging](/keeperrl_wiki/Navigational_Digging "wikilink")
 -    [Night Vision](/keeperrl_wiki/Night_Vision "wikilink")
--    [Skill](/keeperrl_wiki/Skill "wikilink")
--    [SkillIDs](/keeperrl_wiki/SkillIDs "wikilink")
--    [Skills Guide](/keeperrl_wiki/Skills_Guide "wikilink")
--    [Sorcery](/keeperrl_wiki/Sorcery "wikilink")
 -    [Stealing](/keeperrl_wiki/Stealing "wikilink")
 -    [Stealth](/keeperrl_wiki/Stealth "wikilink")
--    [Swimming](/keeperrl_wiki/Swimming "wikilink")
 -    [Unarmed Melee](/keeperrl_wiki/Unarmed_Melee "wikilink")

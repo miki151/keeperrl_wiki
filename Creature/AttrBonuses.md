@@ -11,7 +11,6 @@ This article has gone missing.
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
 Other items in this section
--    [Attribute](/keeperrl_wiki/Attribute "wikilink")
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
