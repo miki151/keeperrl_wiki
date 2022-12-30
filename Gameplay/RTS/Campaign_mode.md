@@ -4,7 +4,7 @@ permalink: Campaign_Mode/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Single Maps
 -----------
@@ -54,7 +54,7 @@ adventurer guide are helpful for keepers:
 -   [How to win as an
     adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Other items in this section
 -    [Alternative keeper characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")

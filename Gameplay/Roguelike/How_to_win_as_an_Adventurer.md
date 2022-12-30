@@ -4,7 +4,7 @@ permalink: How_To_Win_As_An_Adventurer/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
 Updated March 2018
 ------------------
@@ -338,7 +338,7 @@ Winning the game
     invisible if at all possible. Speed yourself. Buff strength and dex.
     Go kill him to win the game.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
 Other items in this section
 -    [Category Aimed Spells](/keeperrl_wiki/Category_Aimed_Spells "wikilink")

@@ -4,7 +4,7 @@ permalink: Alternative_Keeper_Characters/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Keepers are always warlocks (at the time of writing, in Alpha 24)
 
@@ -1358,7 +1358,7 @@ end up more durable and stronger.
 
 -FPD
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Other items in this section
 -    [Campaign mode](/keeperrl_wiki/Campaign_Mode "wikilink")

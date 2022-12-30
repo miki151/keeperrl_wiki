@@ -4,7 +4,7 @@ permalink: Gameplay_Guide/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 <img align="center" src="logo-big.png">
 A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
@@ -22,9 +22,10 @@ Gameplay Guide
 -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
 -   [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+-    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 -    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
 -    [RTS](/keeperrl_wiki/RTS "wikilink")

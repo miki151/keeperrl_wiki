@@ -4,7 +4,7 @@ permalink: Immigration_Requirements/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 When managing a dungeon, different immigrants will approach you and offer to join your tribe. Which immigrants you get offers from and are able to recruit depends on a number of factors:
 
@@ -23,7 +23,7 @@ When managing a dungeon, different immigrants will approach you and offer to joi
 	Luck
 	
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Other items in this section
 -    [Alternative keeper characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")

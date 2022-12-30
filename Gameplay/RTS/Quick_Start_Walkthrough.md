@@ -4,7 +4,7 @@ permalink: Quick_Start_Walkthrough/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 This Quick Start written against Alpha versions of KeeperRL. Click
 “Start here” if you've never played before.
@@ -484,7 +484,7 @@ provide other people with the pleasure of bringing you to justice.
 
 Enjoy!
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Other items in this section
 -    [Alternative keeper characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")

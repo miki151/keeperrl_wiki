@@ -4,7 +4,7 @@ permalink: Roguelike_Realtime_Strategy_Concept/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 KeeperRL is a dungeon keeper Realtime Strategy game mixed with Rogue-like combat. A lot of players may struggle with this concept at first.
 
@@ -86,9 +86,10 @@ Advice for RTS and Roguelike gaming in KeeperRL
 25. A small elite team can often crack dungeons that armies cannot because of the huge advantages of fortifications, ambush points and defences.
 26. Sometimes, you need to think outside the box rather than just ploughing in larger and larger armies.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+-    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 -    [RTS](/keeperrl_wiki/RTS "wikilink")

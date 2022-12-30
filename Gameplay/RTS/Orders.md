@@ -4,7 +4,7 @@ permalink: Orders/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 The Orders menu contains the following tabs:
 
@@ -17,7 +17,7 @@ The Orders menu contains the following tabs:
 
 pressing the “a” key brings up the menu with Prioritize Task selected
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
 Other items in this section
 -    [Alternative keeper characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")

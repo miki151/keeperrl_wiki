@@ -4,7 +4,7 @@ permalink: Experience/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
 Training
 --------
@@ -33,7 +33,7 @@ Killing an enemy
 -   The tougher the monster you kill compared to you, the greater the
     experience is worth.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
 Other items in this section
 -    [Category Aimed Spells](/keeperrl_wiki/Category_Aimed_Spells "wikilink")
