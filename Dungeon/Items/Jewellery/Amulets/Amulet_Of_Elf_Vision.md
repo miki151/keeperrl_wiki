@@ -12,6 +12,7 @@ See through trees when you wear it.
 
 Other items in this section
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
+-    [Amulet Of Life Saving](/keeperrl_wiki/Amulet_Of_Life_Saving "wikilink")
 -    [Amulet Of Night Vision](/keeperrl_wiki/Amulet_Of_Night_Vision "wikilink")
 -    [Amulet Of Regeneration](/keeperrl_wiki/Amulet_Of_Regeneration "wikilink")
 -    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")

@@ -11,7 +11,6 @@ These amulets only exist in the vanilla game because you can use a magic wish to
 Amulet of:
 
 	damage
-	defense
 	bleeding
 	spell damage
 	fire damage
@@ -72,12 +71,10 @@ Amulet of:
 	light source
 	darkness source
 	pregnant
-	warning
 	telepathy
 	sunlight vulnerability
 	satiated
 	rested
-	summoned
 	fast crafting
 	fast training
 	slow crafting

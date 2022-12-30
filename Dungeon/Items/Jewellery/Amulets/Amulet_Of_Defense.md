@@ -15,6 +15,7 @@ layout: wiki
 
 Other items in this section
 -    [Amulet Of Elf Vision](/keeperrl_wiki/Amulet_Of_Elf_Vision "wikilink")
+-    [Amulet Of Life Saving](/keeperrl_wiki/Amulet_Of_Life_Saving "wikilink")
 -    [Amulet Of Night Vision](/keeperrl_wiki/Amulet_Of_Night_Vision "wikilink")
 -    [Amulet Of Regeneration](/keeperrl_wiki/Amulet_Of_Regeneration "wikilink")
 -    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
