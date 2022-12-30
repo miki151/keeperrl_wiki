@@ -4,7 +4,7 @@ permalink: Amulet_Of_Dexterity/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")>>[List_Of_Rare_Amulets](/keeperrl_wiki/List_Of_Rare_Amulets "wikilink")
 
 This item doesn't actually exist in the latest vanilla version of the game, so don't go wishing for it!
 -------------------------------------------------------------------------------------------------------
@@ -21,17 +21,12 @@ This item doesn't actually exist in the latest vanilla version of the game, so d
 - Optional features: More expensive/higher dex bonus
 - Discussion: Gloves of dexterity already present
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")>>[List_Of_Rare_Amulets](/keeperrl_wiki/List_Of_Rare_Amulets "wikilink")
 
 Other items in this section
 -    [Amulet Of Accuracy](/keeperrl_wiki/Amulet_Of_Accuracy "wikilink")
--    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
--    [Amulet Of Elf Vision](/keeperrl_wiki/Amulet_Of_Elf_Vision "wikilink")
 -    [Amulet Of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
 -    [Amulet Of Nature Affinity](/keeperrl_wiki/Amulet_Of_Nature_Affinity "wikilink")
--    [Amulet Of Night Vision](/keeperrl_wiki/Amulet_Of_Night_Vision "wikilink")
--    [Amulet Of Regeneration](/keeperrl_wiki/Amulet_Of_Regeneration "wikilink")
 -    [Amulet Of Spirit Form](/keeperrl_wiki/Amulet_Of_Spirit_Form "wikilink")
 -    [Amulet Of Strength](/keeperrl_wiki/Amulet_Of_Strength "wikilink")
--    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
--    [Amulets](/keeperrl_wiki/Amulets "wikilink")
+-    [List Of Rare Amulets](/keeperrl_wiki/List_Of_Rare_Amulets "wikilink")

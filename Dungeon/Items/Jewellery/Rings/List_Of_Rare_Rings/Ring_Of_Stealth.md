@@ -6,6 +6,9 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Rings](/keeperrl_wiki/Rings "wikilink")>>[List_Of_Rare_Rings](/keeperrl_wiki/List_Of_Rare_Rings "wikilink")
 
+This item doesn't actually exist in the latest vanilla version of the game, so don't go wishing for it!
+-------------------------------------------------------------------------------------------------------
+
 - Weight: 0.3
 - Price: 300
 - Type: Ring
