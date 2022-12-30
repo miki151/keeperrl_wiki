@@ -14,3 +14,4 @@ Legless
 
 Other items in this section
 -    [Armless](/keeperrl_wiki/Armless "wikilink")
+-    [Injury](/keeperrl_wiki/Injury "wikilink")

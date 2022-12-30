@@ -14,3 +14,4 @@ Other items in this section
 -    [Enemies](/keeperrl_wiki/Enemies "wikilink")
 -    [Minion](/keeperrl_wiki/Minion "wikilink")
 -    [Prisoner](/keeperrl_wiki/Prisoner "wikilink")
+-    [Role](/keeperrl_wiki/Role "wikilink")

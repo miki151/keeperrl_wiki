@@ -11,4 +11,5 @@ Armless
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Injury](/keeperrl_wiki/Injury "wikilink")
 
 Other items in this section
+-    [Injury](/keeperrl_wiki/Injury "wikilink")
 -    [Legless](/keeperrl_wiki/Legless "wikilink")

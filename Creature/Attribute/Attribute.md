@@ -3,6 +3,9 @@ title: Attribute
 permalink: Attribute/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
+
 What is an attribute in KeeperRL?
 
 	TODO

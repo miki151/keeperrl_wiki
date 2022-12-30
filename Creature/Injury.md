@@ -64,6 +64,7 @@ Other items in this section
 -    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 -    [Characteristics](/keeperrl_wiki/Characteristics "wikilink")
+-    [Creature](/keeperrl_wiki/Creature "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
 -    [Prisoner Guide](/keeperrl_wiki/Prisoner_Guide "wikilink")

@@ -54,3 +54,5 @@ Looking after prisoners
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
 
 Other items in this section
+-    [Prisoner](/keeperrl_wiki/Prisoner "wikilink")
+-    [Unhelpful Links](/keeperrl_wiki/Unhelpful_Links "wikilink")

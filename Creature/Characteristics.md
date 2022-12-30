@@ -16,6 +16,7 @@ Other items in this section
 -    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+-    [Creature](/keeperrl_wiki/Creature "wikilink")
 -    [Creature Guide](/keeperrl_wiki/Creature_Guide "wikilink")
 -    [Creatures Guide](/keeperrl_wiki/Creatures_Guide "wikilink")
 -    [Injury](/keeperrl_wiki/Injury "wikilink")

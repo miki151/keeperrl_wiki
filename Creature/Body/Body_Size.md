@@ -53,6 +53,7 @@ Other items in this section
 -    [Archery Trainer](/keeperrl_wiki/Archery_Trainer "wikilink")
 -    [Beast](/keeperrl_wiki/Beast "wikilink")
 -    [Blind](/keeperrl_wiki/Blind "wikilink")
+-    [Body](/keeperrl_wiki/Body "wikilink")
 -    [Brainless](/keeperrl_wiki/Brainless "wikilink")
 -    [Breeder](/keeperrl_wiki/Breeder "wikilink")
 -    [Cautious](/keeperrl_wiki/Cautious "wikilink")

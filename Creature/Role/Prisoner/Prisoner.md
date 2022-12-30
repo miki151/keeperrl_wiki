@@ -3,6 +3,9 @@ title: Prisoner
 permalink: Prisoner/
 layout: wiki
 ---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Prisoner](/keeperrl_wiki/Prisoner_Guide "wikilink")
+
 About Prisoners:
 
 	TODO
