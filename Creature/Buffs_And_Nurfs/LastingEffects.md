@@ -104,4 +104,3 @@ This page is a list of buffs and nurfs that your creatures can aquire.
 Other items in this section
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 -    [Features](/keeperrl_wiki/Features "wikilink")
--    [Flying](/keeperrl_wiki/Flying "wikilink")

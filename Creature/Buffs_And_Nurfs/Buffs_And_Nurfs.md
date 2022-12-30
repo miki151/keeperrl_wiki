@@ -13,5 +13,4 @@ See the other items in this section.
 
 Other items in this section
 -    [Features](/keeperrl_wiki/Features "wikilink")
--    [Flying](/keeperrl_wiki/Flying "wikilink")
 -    [LastingEffects](/keeperrl_wiki/LastingEffects "wikilink")

@@ -229,5 +229,4 @@ The summoned creature is returning back to the world it came from.
 
 Other items in this section
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
--    [Flying](/keeperrl_wiki/Flying "wikilink")
 -    [LastingEffects](/keeperrl_wiki/LastingEffects "wikilink")
