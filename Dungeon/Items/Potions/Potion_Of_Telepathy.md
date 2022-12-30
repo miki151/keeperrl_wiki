@@ -11,7 +11,6 @@ Description: See enemies behind obstacles and ones that are invisible
 Throw at allies to give them the buff.
 Drink to get the buff yourself.
 
-
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
 Other items in this section
@@ -28,7 +27,6 @@ Other items in this section
 -    [Potion Of Poison](/keeperrl_wiki/Potion_Of_Poison "wikilink")
 -    [Potion Of Poison Resistance](/keeperrl_wiki/Potion_Of_Poison_Resistance "wikilink")
 -    [Potion Of Regeneration](/keeperrl_wiki/Potion_Of_Regeneration "wikilink")
--    [Potion Of Regeneration (Implemented As Artefact In Alpha 23)](/keeperrl_wiki/Potion_Of_Regeneration_(Implemented_As_Artefact_In_Alpha_23) "wikilink")
 -    [Potion Of Sleep](/keeperrl_wiki/Potion_Of_Sleep "wikilink")
 -    [Potion Of Slowness](/keeperrl_wiki/Potion_Of_Slowness "wikilink")
 -    [Potion Of Speed](/keeperrl_wiki/Potion_Of_Speed "wikilink")

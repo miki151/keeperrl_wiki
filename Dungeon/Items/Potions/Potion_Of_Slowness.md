@@ -29,7 +29,6 @@ Other items in this section
 -    [Potion Of Poison](/keeperrl_wiki/Potion_Of_Poison "wikilink")
 -    [Potion Of Poison Resistance](/keeperrl_wiki/Potion_Of_Poison_Resistance "wikilink")
 -    [Potion Of Regeneration](/keeperrl_wiki/Potion_Of_Regeneration "wikilink")
--    [Potion Of Regeneration (Implemented As Artefact In Alpha 23)](/keeperrl_wiki/Potion_Of_Regeneration_(Implemented_As_Artefact_In_Alpha_23) "wikilink")
 -    [Potion Of Sleep](/keeperrl_wiki/Potion_Of_Sleep "wikilink")
 -    [Potion Of Speed](/keeperrl_wiki/Potion_Of_Speed "wikilink")
 -    [Potion Of Telepathy](/keeperrl_wiki/Potion_Of_Telepathy "wikilink")

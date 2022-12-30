@@ -8,6 +8,7 @@ layout: wiki
 
 	Note: This one totally doesn't exist. I think it was a modding idea. Doubt it exists anywhere and definitely not in vanilla.
 	
+
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Scrolls](/keeperrl_wiki/Scrolls "wikilink")
 
 Other items in this section
@@ -21,9 +22,7 @@ Other items in this section
 -    [Scroll Of Healing](/keeperrl_wiki/Scroll_Of_Healing "wikilink")
 -    [Scroll Of Insect Summoning](/keeperrl_wiki/Scroll_Of_Insect_Summoning "wikilink")
 -    [Scroll Of Knowledge](/keeperrl_wiki/Scroll_Of_Knowledge "wikilink")
--    [Scroll Of Knowlege](/keeperrl_wiki/Scroll_Of_Knowlege "wikilink")
 -    [Scroll Of Power](/keeperrl_wiki/Scroll_Of_Power "wikilink")
 -    [Scroll Of Teleport](/keeperrl_wiki/Scroll_Of_Teleport "wikilink")
--    [Scroll Of Trap Destruction](/keeperrl_wiki/Scroll_Of_Trap_Destruction "wikilink")
 -    [Scroll Of Weapon Enchantement](/keeperrl_wiki/Scroll_Of_Weapon_Enchantement "wikilink")
 -    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
