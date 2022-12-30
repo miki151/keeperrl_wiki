@@ -58,6 +58,7 @@ Other items in this section
 -    [Automaton](/keeperrl_wiki/Automaton "wikilink")
 -    [Bandit](/keeperrl_wiki/Bandit "wikilink")
 -    [Bat](/keeperrl_wiki/Bat "wikilink")
+-    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Black Market Guard](/keeperrl_wiki/Black_Market_Guard "wikilink")
 -    [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
 -    [Boar](/keeperrl_wiki/Boar "wikilink")

@@ -75,6 +75,7 @@ Other items in this section
 -    [Archer](/keeperrl_wiki/Archer "wikilink")
 -    [Automaton](/keeperrl_wiki/Automaton "wikilink")
 -    [Bandit](/keeperrl_wiki/Bandit "wikilink")
+-    [Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 -    [Black Dragon](/keeperrl_wiki/Black_Dragon "wikilink")
 -    [Black Market Guard](/keeperrl_wiki/Black_Market_Guard "wikilink")
 -    [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")

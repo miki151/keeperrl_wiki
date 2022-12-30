@@ -519,5 +519,4 @@ Other items in this section
 -    [Role](/keeperrl_wiki/Role "wikilink")
 -    [Skill](/keeperrl_wiki/Skill "wikilink")
 -    [Spell](/keeperrl_wiki/Spell "wikilink")
--    [Spells](/keeperrl_wiki/Spells "wikilink")
 -    [Tribe](/keeperrl_wiki/Tribe "wikilink")
