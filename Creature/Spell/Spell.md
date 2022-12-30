@@ -6,9 +6,94 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
-What are spells in KeeperRL?
+List of KeeperRL Spells:
 
-	TODO
+	healing
+	advanced healing
+	expert healing
+	group healing
+	heal spirit
+	advanced heal spirit
+	heal spirit group
+	cure poison
+	advanced cure poison
+	cure blindness
+	blindness
+	poison resistance
+	poison breath
+	summon flies
+	magic missile
+	advanced magic missile
+	expert magic missile
+	deception
+	fog cloud
+	invisibility
+	advanced invisibility
+	escape
+	blink
+	teleport
+	advanced teleport
+	jump
+	panic
+	pacify
+	haste
+	advanced haste
+	warhorse_haste
+	slow
+	magic cancellation
+	directed blast
+	pull
+	circular blast
+	defense bonus
+	advanced defense bonus
+	mass defense bonus
+	damage bonus
+	advanced damage bonus
+	mass damage bonus
+	bolster
+	rally
+	summon element
+	meteor shower
+	fire elemental
+	advanced fire elemental
+	fire breath
+	firewall
+	fire trap
+	fireball
+	earth elemental
+	advanced earth elemental
+	ice cone
+	acid stream
+	black smoke breath
+	shove
+	swap positions
+	black dragon blindness
+	dragon greeting
+	grant wish
+	double trouble
+	animate weapons
+	animate corpses
+	advanced animate corpses
+	adoxie right hand
+	adoxie left hand
+	adoxie left foot
+	adoxie right foot
+	dig
+	shoot arrow
+	shoot bolt
+	audience
+	repair automaton
+	chicken
+	shapeshift
+	berserker
+	summon chicken
+	summon more chickens
+	chickenmorph
+	advanced chickenmorph
+	chickengeddon
+	balrogs whip
+	kings charge
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
