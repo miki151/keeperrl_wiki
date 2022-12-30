@@ -98,7 +98,7 @@ Other items in this section
 -    [Sorcerery Trainer](/keeperrl_wiki/Sorcerery_Trainer "wikilink")
 -    [Stationary](/keeperrl_wiki/Stationary "wikilink")
 -    [Telepathic](/keeperrl_wiki/Telepathic "wikilink")
--    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Trait Guide](/keeperrl_wiki/Trait_Guide "wikilink")
+-    [Traits](/keeperrl_wiki/Traits "wikilink")
 -    [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 -    [Undead](/keeperrl_wiki/Undead "wikilink")
