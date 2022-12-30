@@ -4,7 +4,7 @@ permalink: Yeti/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Yeti.png" title="fig:/keeperrlwiki/Yeti.png" alt="/keeperrl_wiki/Yeti.png" width="100" />
 
@@ -25,7 +25,7 @@ layout: wiki
  
 [[Category: Tribes]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

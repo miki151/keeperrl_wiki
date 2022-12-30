@@ -4,7 +4,7 @@ permalink: Dog/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Dog.png" title="fig:/keeperrl_wiki/Dog.png" alt="/keeperrl_wiki/Dog.png" width="100" /> ''
 Killer of the unarmed
@@ -28,7 +28,7 @@ compete with armoured and armed units. However, they have a relatively
 high damage and once they sink their teeth into you can do some harm to
 the careless.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

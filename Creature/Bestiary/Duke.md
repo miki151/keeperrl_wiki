@@ -4,7 +4,7 @@ permalink: Duke/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki/Knightboss.png" width="100" />
 ''Mighty human boss
@@ -38,7 +38,7 @@ Inventory
 `Potion of Healing: 1-4`  
 `Gold`
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

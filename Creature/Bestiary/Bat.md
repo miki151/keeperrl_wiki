@@ -4,7 +4,7 @@ permalink: Bat/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Bat.png" title="fig:/keeperrl_wiki/Bat.png" alt="/keeperrl_wiki/Bat.png" width="100" />
 ''They like to explore
@@ -58,7 +58,7 @@ Tasks
 -   probability : 1.0
 -   Nighttime
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

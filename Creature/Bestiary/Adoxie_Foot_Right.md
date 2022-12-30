@@ -4,7 +4,7 @@ permalink: Adoxie_Foot_Right/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Adoxie_Foot_Right.png" title="fig:/keeperrlwiki/Adoxie_Foot_Right.png" alt="/keeperrl_wiki/Adoxie_Foot_Right.png" width="100" />
 
@@ -15,7 +15,7 @@ layout: wiki
 -   Spells: &quot;slow&quot; 
 [[Category: Creatures]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

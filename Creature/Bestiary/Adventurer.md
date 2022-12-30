@@ -4,7 +4,7 @@ permalink: Adventurer/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki/Adventurer.png" width="100" />
 <img src="/keeperrl_wiki/Adventurer_Female.png" title="fig:/keeperrl_wiki/Adventurer_Female.png" alt="/keeperrl_wiki/Adventurer_Female.png" width="100" />
@@ -28,7 +28,7 @@ management of other troops and dungeons or tribes in
 \[<http://keeperrl.com/wiki/index.php?title=How_to_win_as_an_adventurer>!!!
 Adventure Mode\]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

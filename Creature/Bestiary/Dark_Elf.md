@@ -4,7 +4,7 @@ permalink: Dark_Elf/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" width="100" />
 '' Citizens of the dark elf caves found in the mountains.
@@ -28,7 +28,7 @@ creatures often dwell. At the bottom of their dungeons, you should
 expect to find a base where tougher warriors and the dark elf lord are
 found.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

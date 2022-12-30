@@ -4,7 +4,7 @@ permalink: Halloween_Kid/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Halloween_Kid1.png" title="fig:/keeperrl_wiki/Halloween_Kid1.png" alt="/keeperrl_wiki/Halloween_Kid1.png" width="100" />
 ''Trick or Treat?
@@ -20,7 +20,7 @@ A seasonal visitor. For some reason he thinks he can march up to your
 dungeon and threaten you with a rotten egg or putting dirt through your
 letter box. Never mind eh?
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

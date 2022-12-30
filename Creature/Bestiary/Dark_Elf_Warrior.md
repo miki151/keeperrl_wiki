@@ -4,7 +4,7 @@ permalink: Dark_Elf_Warrior/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" width="100" />
 '' Defender of the dark elves
@@ -34,7 +34,7 @@ A warrior that is good at healing, with a low spell cool-down. They have
 a decent base damage and can be recruited with gold once their lower
 stronghold is contacted at the bottom of their dungeon.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

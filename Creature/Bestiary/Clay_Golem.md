@@ -4,7 +4,7 @@ permalink: Clay_Golem/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Clay_Golem.png" title="fig:/keeperrl_wiki/Clay_Golem.png" alt="/keeperrl_wiki/Clay_Golem.png" width="100" />
 ''Loot the stone when killed
@@ -28,7 +28,7 @@ Occasionally, lone golems are found wandering gnomish dungeons. They
 only have a defense of 19, but are a little bit harder to kill with a
 sword or axe due to their melee resistance.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

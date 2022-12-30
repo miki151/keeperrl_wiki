@@ -4,7 +4,7 @@ permalink: Air_Elemental/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" title="fig:/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" alt="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" width="100" />
 ''Summon a deadly vortex
@@ -23,7 +23,7 @@ Raging storms that blast nearby enemies, not those occurring naturally
 but instead summoned using the magic of both heroic elementalists and
 the dark powers of dungeon keepers.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

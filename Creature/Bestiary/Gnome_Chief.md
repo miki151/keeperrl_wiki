@@ -4,7 +4,7 @@ permalink: Gnome_Chief/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Gnome_Chief.png" title="fig:/keeperrl_wiki/Gnome_Chief.png" alt="/keeperrl_wiki/Gnome_Chief.png" width="100" />
 ''Lord of his own dungeon
@@ -25,7 +25,7 @@ Otherwise, the dungeons are quite interesting and can contain rare items
 and monsters. To be honest the Gnome Chief is a weak trophy, but it is
 always fun to twist his ears.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")

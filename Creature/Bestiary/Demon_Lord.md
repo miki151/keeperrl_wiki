@@ -4,7 +4,7 @@ permalink: Demon_Lord/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 <img src="/keeperrl_wiki/Demon_Lord.png" title="fig:/keeperrl_wiki/Demon_Lord.png" alt="/keeperrl_wiki/Demon_Lord.png" width="100" />
 '' Major Villain
@@ -31,7 +31,7 @@ altars to other demons, he may order assaults on your dungeon. Keep him
 happy until you are ready for a visit, or take the battle to him and
 destroy Demonshrine and its inhabitants.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 Other items in this section
 -    [Abomination](/keeperrl_wiki/Abomination "wikilink")
