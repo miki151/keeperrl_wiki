@@ -23,7 +23,7 @@ Lost Body Parts and Injuries
 
 <!-- -->-
 
-   beheaded
+-   beheaded
     -   Blind when undead. Otherwise dead.
     -   Strength -3, Dexterity -3
 
