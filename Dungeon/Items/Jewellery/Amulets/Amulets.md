@@ -1,6 +1,6 @@
 ---
-title: Amulet
-permalink: Amulet/
+title: Amulets
+permalink: Amulets/
 layout: wiki
 ---
 

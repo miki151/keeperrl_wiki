@@ -17,3 +17,4 @@ Other items in this section
 -    [Magic Weaponry](/keeperrl_wiki/Magic_Weaponry "wikilink")
 -    [Smithing](/keeperrl_wiki/Smithing "wikilink")
 -    [Two-handed](/keeperrl_wiki/Two-handed "wikilink")
+-    [Weapons](/keeperrl_wiki/Weapons "wikilink")

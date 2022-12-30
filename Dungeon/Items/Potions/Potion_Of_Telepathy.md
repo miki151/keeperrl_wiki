@@ -30,3 +30,4 @@ Other items in this section
 -    [Potion Of Sleep](/keeperrl_wiki/Potion_Of_Sleep "wikilink")
 -    [Potion Of Slowness](/keeperrl_wiki/Potion_Of_Slowness "wikilink")
 -    [Potion Of Speed](/keeperrl_wiki/Potion_Of_Speed "wikilink")
+-    [Potions](/keeperrl_wiki/Potions "wikilink")

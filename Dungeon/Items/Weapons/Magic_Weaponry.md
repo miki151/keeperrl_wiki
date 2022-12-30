@@ -14,3 +14,4 @@ Other items in this section
 -    [Smithing](/keeperrl_wiki/Smithing "wikilink")
 -    [Two-handed](/keeperrl_wiki/Two-handed "wikilink")
 -    [Two-handed Weapons](/keeperrl_wiki/Two-handed_Weapons "wikilink")
+-    [Weapons](/keeperrl_wiki/Weapons "wikilink")

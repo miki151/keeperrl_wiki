@@ -4,7 +4,7 @@ permalink: Armor/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Armour](/keeperrl_wiki/Armour "wikilink")
 
 Helmets
 =======
@@ -129,17 +129,6 @@ Defence Boots
 
 `Description: Boots that normally have the best defence bonus`
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Armour](/keeperrl_wiki/Armour "wikilink")
 
 Other items in this section
--    [Armour](/keeperrl_wiki/Armour "wikilink")
--    [Books](/keeperrl_wiki/Books "wikilink")
--    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
--    [Items](/keeperrl_wiki/Items "wikilink")
--    [Items Guide](/keeperrl_wiki/Items_Guide "wikilink")
--    [ItemTypes](/keeperrl_wiki/ItemTypes "wikilink")
--    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
--    [Mushrooms](/keeperrl_wiki/Mushrooms "wikilink")
--    [Potions](/keeperrl_wiki/Potions "wikilink")
--    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
--    [Weapons](/keeperrl_wiki/Weapons "wikilink")

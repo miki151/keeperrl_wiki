@@ -28,3 +28,4 @@ Other items in this section
 -    [Potion Of Slowness](/keeperrl_wiki/Potion_Of_Slowness "wikilink")
 -    [Potion Of Speed](/keeperrl_wiki/Potion_Of_Speed "wikilink")
 -    [Potion Of Telepathy](/keeperrl_wiki/Potion_Of_Telepathy "wikilink")
+-    [Potions](/keeperrl_wiki/Potions "wikilink")

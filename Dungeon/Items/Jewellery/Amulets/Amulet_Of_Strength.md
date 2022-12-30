@@ -24,7 +24,6 @@ This item doesn't actually exist in the latest vanilla version of the game, so d
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
 Other items in this section
--    [Amulet](/keeperrl_wiki/Amulet "wikilink")
 -    [Amulet Of Accuracy](/keeperrl_wiki/Amulet_Of_Accuracy "wikilink")
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
 -    [Amulet Of Dexterity](/keeperrl_wiki/Amulet_Of_Dexterity "wikilink")
@@ -35,3 +34,4 @@ Other items in this section
 -    [Amulet Of Regeneration](/keeperrl_wiki/Amulet_Of_Regeneration "wikilink")
 -    [Amulet Of Spirit Form](/keeperrl_wiki/Amulet_Of_Spirit_Form "wikilink")
 -    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")
+-    [Amulets](/keeperrl_wiki/Amulets "wikilink")

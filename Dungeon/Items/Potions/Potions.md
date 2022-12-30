@@ -1,17 +1,12 @@
 ---
-title: Potion Of Slowness
-permalink: Potion_Of_Slowness/
+title: Potions
+permalink: Potions/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
-Throw at enemies to slow them down.
-
- Uses: 1
- Thrown accuracy: 6
- Weight: 0.3
- Price: 100
+You should automatically be redirected to [:Consumables](/keeperrl_wiki/:Consumables/)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
@@ -30,6 +25,6 @@ Other items in this section
 -    [Potion Of Poison Resistance](/keeperrl_wiki/Potion_Of_Poison_Resistance "wikilink")
 -    [Potion Of Regeneration](/keeperrl_wiki/Potion_Of_Regeneration "wikilink")
 -    [Potion Of Sleep](/keeperrl_wiki/Potion_Of_Sleep "wikilink")
+-    [Potion Of Slowness](/keeperrl_wiki/Potion_Of_Slowness "wikilink")
 -    [Potion Of Speed](/keeperrl_wiki/Potion_Of_Speed "wikilink")
 -    [Potion Of Telepathy](/keeperrl_wiki/Potion_Of_Telepathy "wikilink")
--    [Potions](/keeperrl_wiki/Potions "wikilink")
