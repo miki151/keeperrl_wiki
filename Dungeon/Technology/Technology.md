@@ -1,10 +1,10 @@
 ---
-title: Technologies
-permalink: Technologies/
+title: Technology
+permalink: Technology/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")
 
 Note that on most games it will be possible to have researched all
 technologies before the end of the game. However, you can often develop
@@ -248,18 +248,17 @@ Humanoid Mutation
 -   You can go for the legendary humans as a decent strategy. These guys
     are a bit random but can also use equipment unlike the beasts.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
+
+See Technologies for a wider list of technologies from various different keepers.
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")
 
 Other items in this section
--    [Alternative keeper characters](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
--    [Campaign mode](/keeperrl_wiki/Campaign_Mode "wikilink")
--    [Category Keeper Mode](/keeperrl_wiki/Category_Keeper_Mode "wikilink")
--    [Endless Mode](/keeperrl_wiki/Endless_Mode "wikilink")
--    [Immigration Requirements](/keeperrl_wiki/Immigration_Requirements "wikilink")
--    [Orders](/keeperrl_wiki/Orders "wikilink")
--    [Quick Start Walkthrough](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
--    [Resources](/keeperrl_wiki/Resources "wikilink")
--    [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
--    [Training](/keeperrl_wiki/Training "wikilink")
--    [Video Tutorials From Nat20](/keeperrl_wiki/Video_Tutorials_From_Nat20 "wikilink")
--    [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
+-    [Advances](/keeperrl_wiki/Advances "wikilink")
+-    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
+-    [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
+-    [Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
+-    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
+-    [Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
+-    [Technologies](/keeperrl_wiki/Technologies "wikilink")
+-    [Techs](/keeperrl_wiki/Techs "wikilink")

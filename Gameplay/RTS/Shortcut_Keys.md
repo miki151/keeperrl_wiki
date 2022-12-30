@@ -117,7 +117,6 @@ Other items in this section
 -    [Orders](/keeperrl_wiki/Orders "wikilink")
 -    [Quick Start Walkthrough](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
 -    [Resources](/keeperrl_wiki/Resources "wikilink")
--    [Technologies](/keeperrl_wiki/Technologies "wikilink")
 -    [Training](/keeperrl_wiki/Training "wikilink")
 -    [Video Tutorials From Nat20](/keeperrl_wiki/Video_Tutorials_From_Nat20 "wikilink")
 -    [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")

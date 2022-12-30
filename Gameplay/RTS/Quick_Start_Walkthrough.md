@@ -495,7 +495,6 @@ Other items in this section
 -    [Orders](/keeperrl_wiki/Orders "wikilink")
 -    [Resources](/keeperrl_wiki/Resources "wikilink")
 -    [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
--    [Technologies](/keeperrl_wiki/Technologies "wikilink")
 -    [Training](/keeperrl_wiki/Training "wikilink")
 -    [Video Tutorials From Nat20](/keeperrl_wiki/Video_Tutorials_From_Nat20 "wikilink")
 -    [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")

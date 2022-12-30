@@ -20,6 +20,5 @@ Other items in this section
 -    [Quick Start Walkthrough](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
 -    [Resources](/keeperrl_wiki/Resources "wikilink")
 -    [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
--    [Technologies](/keeperrl_wiki/Technologies "wikilink")
 -    [Video Tutorials From Nat20](/keeperrl_wiki/Video_Tutorials_From_Nat20 "wikilink")
 -    [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
