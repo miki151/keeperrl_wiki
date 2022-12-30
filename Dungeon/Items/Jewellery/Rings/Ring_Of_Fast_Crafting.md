@@ -1,34 +1,30 @@
 ---
-title: Ring Of Light
-permalink: Ring_Of_Light/
+title: Ring Of Fast Crafting
+permalink: Ring_Of_Fast_Crafting/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Rings](/keeperrl_wiki/Rings "wikilink")
 
-	Note: Don't waste a wish making one of these pointless objects. Just carry a torch.
-
-- Weight: 0.3
-- Defence : 0
-- Price: 100
-- Type: Ring
-- Special Powers: Creates a halo of light around the bearer
+Speeds up the time it takes for minions to craft items.
+A ring some keepers can make in their own dungeons.
+A naturally occurring ring that you are likely to find in any unmodded game.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Rings](/keeperrl_wiki/Rings "wikilink")
 
 Other items in this section
--    [Ring Of Courage](/keeperrl_wiki/Ring_Of_Courage "wikilink")
--    [Ring Of Darkness](/keeperrl_wiki/Ring_Of_Darkness "wikilink")
+-    [List Of Rare Rings](/keeperrl_wiki/List_Of_Rare_Rings "wikilink")
+-    [Ring Of Cold Resistance](/keeperrl_wiki/Ring_Of_Cold_Resistance "wikilink")
+-    [Ring Of Dragon Summoning](/keeperrl_wiki/Ring_Of_Dragon_Summoning "wikilink")
+-    [Ring Of Fast Training](/keeperrl_wiki/Ring_Of_Fast_Training "wikilink")
 -    [Ring Of Fire Resistance](/keeperrl_wiki/Ring_Of_Fire_Resistance "wikilink")
 -    [Ring Of Free Action](/keeperrl_wiki/Ring_Of_Free_Action "wikilink")
--    [Ring Of Looting](/keeperrl_wiki/Ring_Of_Looting "wikilink")
 -    [Ring Of Magic Resistance](/keeperrl_wiki/Ring_Of_Magic_Resistance "wikilink")
 -    [Ring Of Magical Damage](/keeperrl_wiki/Ring_Of_Magical_Damage "wikilink")
 -    [Ring Of Poison Resistance](/keeperrl_wiki/Ring_Of_Poison_Resistance "wikilink")
--    [Ring Of Sacrificial Power](/keeperrl_wiki/Ring_Of_Sacrificial_Power "wikilink")
 -    [Ring Of Satiation](/keeperrl_wiki/Ring_Of_Satiation "wikilink")
--    [Ring Of Sleeplessness](/keeperrl_wiki/Ring_Of_Sleeplessness "wikilink")
--    [Ring Of Stealth](/keeperrl_wiki/Ring_Of_Stealth "wikilink")
--    [Ring Of Trap Detection](/keeperrl_wiki/Ring_Of_Trap_Detection "wikilink")
+-    [Ring Of Spell Damage](/keeperrl_wiki/Ring_Of_Spell_Damage "wikilink")
+-    [Ring Of Spider Summoning](/keeperrl_wiki/Ring_Of_Spider_Summoning "wikilink")
+-    [Ring Of Spying](/keeperrl_wiki/Ring_Of_Spying "wikilink")
 -    [Ring Of Wakefulness](/keeperrl_wiki/Ring_Of_Wakefulness "wikilink")
 -    [Rings](/keeperrl_wiki/Rings "wikilink")

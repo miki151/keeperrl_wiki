@@ -1,37 +1,30 @@
 ---
-title: Ring Of Darkness
-permalink: Ring_Of_Darkness/
+title: Ring Of Spying
+permalink: Ring_Of_Spying/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Rings](/keeperrl_wiki/Rings "wikilink")
 
-	Note: You won't find one naturally but players can wish for them and you can loot player dungeons, so they kind of exist.
-
-- Weight: 0.3
-- Defence : 0
-- Price: 100
-- Type: Ring
-- Special Powers: Creates a small halo of darkness around the bearer
-- Purpose in game: It allows creatures of the night to operate in daylight
-- Optional features: Instructions to craft such a thing should have to be discovered
-- Discussion: 
+A ring that lets you enter enemy territory in disguise, without being attacked.	
+A ring some keepers can make in their own dungeons.
+A naturally occurring ring that you are likely to find in any unmodded game.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Rings](/keeperrl_wiki/Rings "wikilink")
 
 Other items in this section
--    [Ring Of Courage](/keeperrl_wiki/Ring_Of_Courage "wikilink")
+-    [List Of Rare Rings](/keeperrl_wiki/List_Of_Rare_Rings "wikilink")
+-    [Ring Of Cold Resistance](/keeperrl_wiki/Ring_Of_Cold_Resistance "wikilink")
+-    [Ring Of Dragon Summoning](/keeperrl_wiki/Ring_Of_Dragon_Summoning "wikilink")
+-    [Ring Of Fast Crafting](/keeperrl_wiki/Ring_Of_Fast_Crafting "wikilink")
+-    [Ring Of Fast Training](/keeperrl_wiki/Ring_Of_Fast_Training "wikilink")
 -    [Ring Of Fire Resistance](/keeperrl_wiki/Ring_Of_Fire_Resistance "wikilink")
 -    [Ring Of Free Action](/keeperrl_wiki/Ring_Of_Free_Action "wikilink")
--    [Ring Of Light](/keeperrl_wiki/Ring_Of_Light "wikilink")
--    [Ring Of Looting](/keeperrl_wiki/Ring_Of_Looting "wikilink")
 -    [Ring Of Magic Resistance](/keeperrl_wiki/Ring_Of_Magic_Resistance "wikilink")
 -    [Ring Of Magical Damage](/keeperrl_wiki/Ring_Of_Magical_Damage "wikilink")
 -    [Ring Of Poison Resistance](/keeperrl_wiki/Ring_Of_Poison_Resistance "wikilink")
--    [Ring Of Sacrificial Power](/keeperrl_wiki/Ring_Of_Sacrificial_Power "wikilink")
 -    [Ring Of Satiation](/keeperrl_wiki/Ring_Of_Satiation "wikilink")
--    [Ring Of Sleeplessness](/keeperrl_wiki/Ring_Of_Sleeplessness "wikilink")
--    [Ring Of Stealth](/keeperrl_wiki/Ring_Of_Stealth "wikilink")
--    [Ring Of Trap Detection](/keeperrl_wiki/Ring_Of_Trap_Detection "wikilink")
+-    [Ring Of Spell Damage](/keeperrl_wiki/Ring_Of_Spell_Damage "wikilink")
+-    [Ring Of Spider Summoning](/keeperrl_wiki/Ring_Of_Spider_Summoning "wikilink")
 -    [Ring Of Wakefulness](/keeperrl_wiki/Ring_Of_Wakefulness "wikilink")
 -    [Rings](/keeperrl_wiki/Rings "wikilink")
