@@ -1,12 +1,13 @@
 ---
-title: Scroll Of Teleport
-permalink: Scroll_Of_Teleport/
+title: Scrolls
+permalink: Scrolls/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Scrolls](/keeperrl_wiki/Scrolls "wikilink")
 
-Relocates your position.
+There are a lot of scrolls in the game that are no documented here.
+There are also a lot of scrolls documented here from mods or ones that you can only get by using a magic wish.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Scrolls](/keeperrl_wiki/Scrolls "wikilink")
 
@@ -24,6 +25,6 @@ Other items in this section
 -    [Scroll Of Knowlege](/keeperrl_wiki/Scroll_Of_Knowlege "wikilink")
 -    [Scroll Of Mapping](/keeperrl_wiki/Scroll_Of_Mapping "wikilink")
 -    [Scroll Of Power](/keeperrl_wiki/Scroll_Of_Power "wikilink")
+-    [Scroll Of Teleport](/keeperrl_wiki/Scroll_Of_Teleport "wikilink")
 -    [Scroll Of Trap Destruction](/keeperrl_wiki/Scroll_Of_Trap_Destruction "wikilink")
 -    [Scroll Of Weapon Enchantement](/keeperrl_wiki/Scroll_Of_Weapon_Enchantement "wikilink")
--    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")

@@ -6,28 +6,23 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
+This item doesn't actually exist in the latest vanilla version of the game, so don't go wishing for it!
+-------------------------------------------------------------------------------------------------------
+
  Description: Makes all animals peaceful.
  Weight: 0.3
- Price: 120</text>
-      <sha1>9c73t9q032oiao0q8ffqegt2111dmdv</sha1>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-    </revision>
-    <revision>
-      <id>2779</id>
-      <parentid>234</parentid>
-      <timestamp>2018-10-10T11:37:35Z</timestamp>
-      <contributor>
-        <username>Keeperman</username>
-        <id>17</id>
-      </contributor>
-      <minor/>
-      <text xml:space
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
 Other items in this section
 -    [Amulet](/keeperrl_wiki/Amulet "wikilink")
+-    [Amulet Of Accuracy](/keeperrl_wiki/Amulet_Of_Accuracy "wikilink")
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")
+-    [Amulet Of Dexterity](/keeperrl_wiki/Amulet_Of_Dexterity "wikilink")
+-    [Amulet Of Elf Vision](/keeperrl_wiki/Amulet_Of_Elf_Vision "wikilink")
 -    [Amulet Of Healing](/keeperrl_wiki/Amulet_Of_Healing "wikilink")
+-    [Amulet Of Night Vision](/keeperrl_wiki/Amulet_Of_Night_Vision "wikilink")
+-    [Amulet Of Regeneration](/keeperrl_wiki/Amulet_Of_Regeneration "wikilink")
+-    [Amulet Of Spirit Form](/keeperrl_wiki/Amulet_Of_Spirit_Form "wikilink")
+-    [Amulet Of Strength](/keeperrl_wiki/Amulet_Of_Strength "wikilink")
 -    [Amulet Of Warning](/keeperrl_wiki/Amulet_Of_Warning "wikilink")

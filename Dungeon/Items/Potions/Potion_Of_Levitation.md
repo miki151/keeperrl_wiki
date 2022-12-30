@@ -1,23 +1,27 @@
 ---
-title: Basic Potions
-permalink: Basic_Potions/
+title: Potion Of Levitation
+permalink: Potion_Of_Levitation/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
-Basic potions are the ones you see a lot of and keepers can often brew them using the alchemy technology.
-Other more complex potions exist.
+ Grants flying.
+ Duration: 60
+ Uses: 1
+ Thrown accuracy: 6
+ Weight: 0.3
+ Price: 140
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
 Other items in this section
 -    [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")
+-    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Potion Of Blindness](/keeperrl_wiki/Potion_Of_Blindness "wikilink")
 -    [Potion Of Hallucination](/keeperrl_wiki/Potion_Of_Hallucination "wikilink")
 -    [Potion Of Healing](/keeperrl_wiki/Potion_Of_Healing "wikilink")
 -    [Potion Of Invisibility](/keeperrl_wiki/Potion_Of_Invisibility "wikilink")
--    [Potion Of Levitation](/keeperrl_wiki/Potion_Of_Levitation "wikilink")
 -    [Potion Of Magic Vulnerability](/keeperrl_wiki/Potion_Of_Magic_Vulnerability "wikilink")
 -    [Potion Of Melee Resistance](/keeperrl_wiki/Potion_Of_Melee_Resistance "wikilink")
 -    [Potion Of Melee Vulnerability](/keeperrl_wiki/Potion_Of_Melee_Vulnerability "wikilink")

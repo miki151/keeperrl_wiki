@@ -1,18 +1,23 @@
 ---
-title: Basic Potions
-permalink: Basic_Potions/
+title: Potion Of Poison Resistance
+permalink: Potion_Of_Poison_Resistance/
 layout: wiki
 ---
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
-Basic potions are the ones you see a lot of and keepers can often brew them using the alchemy technology.
-Other more complex potions exist.
+ Grants poison immunity.
+ Duration: 15
+ Uses: 1
+ Thrown accuracy: 6
+ Weight: 0.3
+ Price: 100
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
 Other items in this section
 -    [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")
+-    [Basic Potions](/keeperrl_wiki/Basic_Potions "wikilink")
 -    [Potion Of Blindness](/keeperrl_wiki/Potion_Of_Blindness "wikilink")
 -    [Potion Of Hallucination](/keeperrl_wiki/Potion_Of_Hallucination "wikilink")
 -    [Potion Of Healing](/keeperrl_wiki/Potion_Of_Healing "wikilink")
@@ -22,7 +27,6 @@ Other items in this section
 -    [Potion Of Melee Resistance](/keeperrl_wiki/Potion_Of_Melee_Resistance "wikilink")
 -    [Potion Of Melee Vulnerability](/keeperrl_wiki/Potion_Of_Melee_Vulnerability "wikilink")
 -    [Potion Of Poison](/keeperrl_wiki/Potion_Of_Poison "wikilink")
--    [Potion Of Poison Resistance](/keeperrl_wiki/Potion_Of_Poison_Resistance "wikilink")
 -    [Potion Of Regeneration](/keeperrl_wiki/Potion_Of_Regeneration "wikilink")
 -    [Potion Of Regeneration (Implemented As Artefact In Alpha 23)](/keeperrl_wiki/Potion_Of_Regeneration_(Implemented_As_Artefact_In_Alpha_23) "wikilink")
 -    [Potion Of Sleep](/keeperrl_wiki/Potion_Of_Sleep "wikilink")
