@@ -16,3 +16,5 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 
 Other items in this section
+-    [Amulets](/keeperrl_wiki/Amulets "wikilink")
+-    [Rings](/keeperrl_wiki/Rings "wikilink")

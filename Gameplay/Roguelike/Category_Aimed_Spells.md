@@ -14,8 +14,8 @@ options) to cast the spell in
 Other items in this section
 -    [Experience](/keeperrl_wiki/Experience "wikilink")
 -    [Guide for Adventurer mode](/keeperrl_wiki/Guide_For_Adventurer_Mode "wikilink")
--    [How To Win As An Adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 -    [How to win as an Adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
+-    [How To Win As An Adventurer!!!](/keeperrl_wiki/How_To_Win_As_An_Adventurer!!! "wikilink")
 -    [Special Trait Types](/keeperrl_wiki/Special_Trait_Types "wikilink")
 -    [Tribe Alignments](/keeperrl_wiki/Tribe_Alignments "wikilink")
 -    [Villain Types](/keeperrl_wiki/Villain_Types "wikilink")

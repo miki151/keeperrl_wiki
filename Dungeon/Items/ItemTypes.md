@@ -12,8 +12,13 @@ This article has gone missing.
 
 Other items in this section
 -    [Armor](/keeperrl_wiki/Armor "wikilink")
+-    [Armour](/keeperrl_wiki/Armour "wikilink")
+-    [Books](/keeperrl_wiki/Books "wikilink")
+-    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
 -    [Items](/keeperrl_wiki/Items "wikilink")
 -    [Items Guide](/keeperrl_wiki/Items_Guide "wikilink")
--    [Item Types](/keeperrl_wiki/Item_Types "wikilink")
+-    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
+-    [Mushrooms](/keeperrl_wiki/Mushrooms "wikilink")
 -    [Potions](/keeperrl_wiki/Potions "wikilink")
+-    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
 -    [Weapons](/keeperrl_wiki/Weapons "wikilink")

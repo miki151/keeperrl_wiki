@@ -10,9 +10,11 @@ layout: wiki
 
 Other items in this section
 -    [Campaign Mode](/keeperrl_wiki/Campaign_Mode "wikilink")
+-    [Construction](/keeperrl_wiki/Construction "wikilink")
 -    [Consumables](/keeperrl_wiki/Consumables "wikilink")
 -    [Crafting](/keeperrl_wiki/Crafting "wikilink")
 -    [Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 -    [Furniture Layers](/keeperrl_wiki/Furniture_Layers "wikilink")
+-    [Items](/keeperrl_wiki/Items "wikilink")
 -    [Techs](/keeperrl_wiki/Techs "wikilink")
 -    [Weapon Melee](/keeperrl_wiki/Weapon_Melee "wikilink")
