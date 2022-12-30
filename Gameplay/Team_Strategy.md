@@ -4,7 +4,7 @@ permalink: Team_Strategy/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
 
 Building combat parties
 -----------------------
@@ -218,10 +218,10 @@ How to tackle the boulder/web combination
 5.  Some maps force you to play 'Indiana Jones' with the traps.
 6.  Lone boulder trap: Often you are able to trigger the trap and then step aside. If not, treat it the same way as a boulder web combo and trigger the trap without stepping too near it.
 
-[MainPage](/keeperrl_wiki/ "wikilink>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay_Guide "wikilink")
 
 Other items in this section
--    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink
--    [Roguelike](/keeperrl_wiki/Roguelike "wikilink
--    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink
--    [RTS](/keeperrl_wiki/RTS "wikilink
+-    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+-    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
+-    [RTS](/keeperrl_wiki/RTS "wikilink")
