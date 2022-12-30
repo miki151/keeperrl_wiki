@@ -74,11 +74,48 @@ Looters:
 
 Riders:
 1. Match the size of your steed
-2. Find a creature that is skilled in riding. Examples:
+2. Find a creature that is skilled in riding. Examples of riders:
+
+	archer 
+	child 
+	duke 
+	elf lord 
+	goblin warrior 
+	imp 
+	keeper
+	knight 
+	peasant 
+	skeleton warrior 
+	squire 
+	thief 
+	vampire warrior 
+	witchman
 
 Steeds:
 1. Match the size of your rider
-2. Find a beast that can be used as a steed. Examples:
+2. Find a beast that can be used as a steed. Examples of steeds:
+
+	bat 
+	black dragon 
+	bone dragon 
+	cave bear 
+	deer 
+	flying carpet 
+	green dragon 
+	horse 
+	ki-rin 
+	minotaur 
+	rat 
+	raven 
+	red dragon 
+	skeleton wolf 
+	slasher 
+	tree spirit 
+	unicorn
+	white dragon 
+	wolf 
+	yellow dragon 
+	yeti
 
 
 Choosing the battlefield
