@@ -4,7 +4,7 @@ permalink: Book_Of_Humanoid_Mutation/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Books](/keeperrl_wiki/Books "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Books](/keeperrl_wiki/Books "wikilink")
 
  Unlocks humanoid mutation.
  Weight: 0.5
@@ -32,7 +32,7 @@ layout: wiki
 - [[Adventurer | Adventurers]]&quot;</comment>
       <text xml:space
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Books](/keeperrl_wiki/Books "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Books](/keeperrl_wiki/Books "wikilink")
 
 Other items in this section
 -    [Book Of Avanced Alchemy](/keeperrl_wiki/Book_Of_Avanced_Alchemy "wikilink")

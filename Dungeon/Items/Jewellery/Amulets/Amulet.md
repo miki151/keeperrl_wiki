@@ -4,7 +4,7 @@ permalink: Amulet/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
 - Weight: 0.3
 - Defence : 0
@@ -16,7 +16,7 @@ layout: wiki
 - Craftable: No
 - Discussion: Discuss the idea here. &lt;-Wot E sed :l
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Jewellery](/keeperrl_wiki/Jewellery "wikilink")>>[Amulets](/keeperrl_wiki/Amulets "wikilink")
 
 Other items in this section
 -    [Amulet Of Defense](/keeperrl_wiki/Amulet_Of_Defense "wikilink")

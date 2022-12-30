@@ -4,7 +4,7 @@ permalink: Illusion/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Spell](/keeperrl_wiki/Spell_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
 *Summoned by [deception](/keeperrl_wiki/Deception "wikilink") spell.* A copy of
 the caster used to distract enemies. The creature that summoned the
@@ -50,7 +50,7 @@ Traits
 -   [Uncorporal](/keeperrl_wiki/Uncorporal "wikilink")
 -   [Stationary](/keeperrl_wiki/Stationary "wikilink")
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Spell](/keeperrl_wiki/Spell_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
 Other items in this section
 -    [Category Spells](/keeperrl_wiki/Category_Spells "wikilink")

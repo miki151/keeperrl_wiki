@@ -4,7 +4,7 @@ permalink: Flying/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 A creature that can fly moves over ground, lava and water easily and can see over trees.
 
@@ -34,7 +34,7 @@ Many creatures normally have the natural ability to fly:
 	
 Humanoids can wear equipment that allows them to fly and almost any creature can be buffed with a flying buff, if you want to use wishes.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Absorber](/keeperrl_wiki/Absorber "wikilink")

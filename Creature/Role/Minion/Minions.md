@@ -4,7 +4,7 @@ permalink: Minions/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Minion](/keeperrl_wiki/Minion "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Minion](/keeperrl_wiki/Minion "wikilink")
 
 Overview
 ========
@@ -254,7 +254,7 @@ Equip</p></th>
 List of minions
 ---------------
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Minion](/keeperrl_wiki/Minion "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Role](/keeperrl_wiki/Role "wikilink")>>[Minion](/keeperrl_wiki/Minion "wikilink")
 
 Other items in this section
 -    [Minion](/keeperrl_wiki/Minion "wikilink")

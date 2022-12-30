@@ -4,7 +4,7 @@ permalink: Spells/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Spell](/keeperrl_wiki/Spell_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
 Spells are divided into spell schools. These schools are:
 
@@ -17,7 +17,7 @@ Spells are divided into spell schools. These schools are:
 	chickenmancy
 	archer
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Spell](/keeperrl_wiki/Spell_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
 Other items in this section
 -    [Category Spells](/keeperrl_wiki/Category_Spells "wikilink")

@@ -4,7 +4,7 @@ permalink: Trait_Guide/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Traits
 ======
@@ -85,7 +85,7 @@ Creature will crumble to dust if exposed to sunlight unless they are a
 skeleton or vampire lord.  
 Immune to poison gas.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Absorber](/keeperrl_wiki/Absorber "wikilink")

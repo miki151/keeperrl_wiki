@@ -4,7 +4,7 @@ permalink: Injury/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Injury](/keeperrl_wiki/Injury "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Injury](/keeperrl_wiki/Injury "wikilink")
 
 Lost Body Parts and Injuries
 ----------------------------
@@ -55,7 +55,7 @@ Lost Body Parts and Injuries
 -   no more wings
     -   Strenght -4, Dexterity -6
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Injury](/keeperrl_wiki/Injury "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Injury](/keeperrl_wiki/Injury "wikilink")
 
 Other items in this section
 -    [Armless](/keeperrl_wiki/Armless "wikilink")

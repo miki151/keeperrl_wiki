@@ -4,7 +4,7 @@ permalink: Features/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 
 Good Characteristics
 ====================
@@ -225,7 +225,7 @@ Time Left to live
 
 The summoned creature is returning back to the world it came from.
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 
 Other items in this section
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")

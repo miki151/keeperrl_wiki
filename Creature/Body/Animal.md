@@ -4,7 +4,7 @@ permalink: Animal/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Beasts tend to be four-legged, monsterous or birds. The number of legs matters when the creature takes injuries. Monsterous creatures like
 hydra can have many heads and may need to be killed by muliple beheadings. Birds have 2 wings and 2 legs. Dragons have 4 legs and 2 wings.
@@ -60,7 +60,7 @@ Various non-humanoid beasts:
 
 See "Beast" below for more information:
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Absorber](/keeperrl_wiki/Absorber "wikilink")

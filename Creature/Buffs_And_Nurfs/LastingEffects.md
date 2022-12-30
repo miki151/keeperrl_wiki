@@ -4,7 +4,7 @@ permalink: LastingEffects/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 
 This page is a list of buffs and nurfs that your creatures can aquire.
 
@@ -99,7 +99,7 @@ This page is a list of buffs and nurfs that your creatures can aquire.
 	slow crafting
 	slow training
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Buffs_And_Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")
 
 Other items in this section
 -    [Buffs And Nurfs](/keeperrl_wiki/Buffs_And_Nurfs "wikilink")

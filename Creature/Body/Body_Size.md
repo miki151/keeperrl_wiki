@@ -4,7 +4,7 @@ permalink: Body_Size/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 The biggest thing that impacts size is whether a rider can ride a steed. If a rider is too large or too small for a steed, they are unable to ride it. Creatures can be small, medium, large or huge. This has an impact on combat, when taking injuries to body types. It also makes also makes
 a difference to the size of corpses or the amount of material an elemental breaks into when it is destoryed.
@@ -45,7 +45,7 @@ Examples of creatures that are particularly huge:
 	yellow naga 
 	zombie king
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
 Other items in this section
 -    [Absorber](/keeperrl_wiki/Absorber "wikilink")

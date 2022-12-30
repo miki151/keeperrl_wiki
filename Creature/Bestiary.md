@@ -4,7 +4,7 @@ permalink: Bestiary/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
 See the creature guide for information about the most important creatures.
 
@@ -192,7 +192,7 @@ Here is a long list of most creatures that can be found in KeeperRL:
 	zombie king 
 	zombie mage necromancer
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
 Other items in this section
 -    [AttrBonuses](/keeperrl_wiki/AttrBonuses "wikilink")

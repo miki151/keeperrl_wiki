@@ -4,7 +4,7 @@ permalink: Potion_Of_Healing/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
  Replenishes health.
  Uses: 1
@@ -12,7 +12,7 @@ layout: wiki
  Weight: 0.3
  Price: 40
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items_Guide "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Items](/keeperrl_wiki/Items "wikilink")>>[Potions](/keeperrl_wiki/Potions "wikilink")
 
 Other items in this section
 -    [Advanced Potions](/keeperrl_wiki/Advanced_Potions "wikilink")

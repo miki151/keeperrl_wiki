@@ -4,7 +4,7 @@ permalink: Attributes/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Ranged Damage
 -------------
@@ -61,7 +61,7 @@ Weight
 
 *The weight of creatures dead body*
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature_Guide "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Attribute](/keeperrl_wiki/Attribute "wikilink")
 
 Other items in this section
 -    [Attribute](/keeperrl_wiki/Attribute "wikilink")
