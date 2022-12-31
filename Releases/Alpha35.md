@@ -9,7 +9,8 @@ layout: wiki
 Gameplay
 --------
 
--	Decreased minimum damage/defense ratio required to reduce health in combat.
+- Rebalanced combat favouring armies on the open battlefield (see item below)
+- Decreased minimum damage/defense ratio required to reduce health in combat.
 -	New “spell speed” attribute, which influences spell cooldowns, and is acquired in training and from various equipment.
 -	Workshop and other skills such as multi-weapon have been replaced with attributes.
 -	Stealing items from allies will make them hostile.
