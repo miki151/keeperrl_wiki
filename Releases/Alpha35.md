@@ -1,3 +1,10 @@
+---
+title: Alpha35
+permalink: Alpha35
+layout: wiki
+---
+
+
 Gameplay
 
 Decreased minimum damage/defense ratio required to reduce health in combat.
