@@ -83,7 +83,7 @@ Modding
 <hr>
 Release History Guide
 <hr>
--   [Alpha35](/keeperrl_wiki/Alpha35 "wikilink") | Rebalanced combat for armies onb open battlefield
+-   [Alpha35](/keeperrl_wiki/Alpha35 "wikilink") | Rebalanced combat for armies on the open battlefield
 -   [Alpha34](/keeperrl_wiki/Alpha34 "wikilink") | Introducing Steeds and riders
 -   [Alpha33](/keeperrl_wiki/Alpha33 "wikilink") | Introducing Dwarf Keepers
 -   [Alpha32](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Combat formations
