@@ -12,6 +12,8 @@ Added a ‘resistant to capture’ trait to some bosses.
 Creatures won’t auto-equip infernite weapons without having fire resistance, player is warned when trying to equip.
 Animal pens now require an animal fence to be active.
 Wildlife respawns.
+
+
 Content
 Some villains and bosses receive their own special steeds.
 Some immigrants receive special attribute boosts related to riding steeds.
@@ -28,16 +30,22 @@ Greenskins faction gets coffins to be able to recruit vampires.
 Djinn lamp moved to a new location.
 Leather equipment crafting no longer costs wood.
 Imps no longer have a speed buff.
+
+
 UI
 New menu for restricting equipment types for chosen minion groups.
 New moddable help system with images and links.
 Enlarging the minimap doesn’t block the rest of the UI.
 Item choice menu has an owner counter to improve clarity.
 Added a tooltip to the combat experience UI element.
+
+
 Modding
 Made possible to add new farm creatures.
 Added SameTribe creature predicate.
 Added Frequency predicate.
+
+
 Fixes
 Fixed a retirement crash caused by a captured minion being tied to a phylactery.
 Disabling an activity will stop minion from doing it right now.
