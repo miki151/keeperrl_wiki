@@ -1,3 +1,9 @@
+---
+title: Alpha33
+permalink: Alpha33/
+layout: wiki
+---
+
 Gameplay
 Playable Dwarves faction
 New crafting materials: adoxium and infernite
