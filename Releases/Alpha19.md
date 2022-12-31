@@ -77,3 +77,7 @@ Other items in this section
 -    [Alpha30](/keeperrl_wiki/Alpha30 "wikilink")
 -    [Alpha31](/keeperrl_wiki/Alpha31 "wikilink")
 -    [Alpha32](/keeperrl_wiki/Alpha32 "wikilink")
+-    [Alpha33](/keeperrl_wiki/Alpha33 "wikilink")
+-    [Alpha34](/keeperrl_wiki/Alpha34 "wikilink")
+-    [Alpha35](/keeperrl_wiki/Alpha35 "wikilink")
+-    [Alpha36](/keeperrl_wiki/Alpha36 "wikilink")
