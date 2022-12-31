@@ -8,6 +8,48 @@ layout: wiki
 
 <hr>
 Released in Novemnber 2020
+<hr>
+
+
+Content and gameplay
+Warlord mode.
+New unlockable Adoxie adventurer (already known by some from the bonus mod).
+Reworked Demon Den level.
+Reworked all castles in the game.
+Reworked the top and the lava z-levels using new the map generation system.
+Two new hidden z-level locations.
+Four new hidden top-level locations.
+Reworked blacksmith house.
+Angels have wings.
+
+Modding
+Moddable map generation.
+Macros in all modded content.
+Added an “Unlock” effect which unlocks arbitrary game content (currently only new adventurers and keepers supported).
+Added an enemy-only z-level type.
+Settlement size can be defined as a range instead of fixed number.
+Working command line flags, such as for testing map layouts or generating villains now works on Windows.
+The “Simple” item heading can be skipped and the quoted name can be used directly.
+The “Chain” heading in various data can be skipped in favour of just listing the elements inside {} brackets.
+Mods can now append to existing workshop lists.
+Added itemsRemovedEffect to Furniture, which triggers when any items are removed from the tile.
+All “Vec2” values, like sizes and coordinates must be now surrounded by {}.
+One-element range can be entered as just a number, without the {}.
+
+UI
+Control-mode team leader can be changed by clicking on the team member icons in the top left.
+The “lock/unlock” keys in minions equipment menu are highlighted for better visibility.
+Creature choice menu (such as choosing absorption target or a new team leader) shows creature details when hovered using the mouse.
+
+Fixes
+Fixed the interface for entering player’s first name.
+Fixed crash caused by a conquering villain being retired while the player was controlling a creature.
+The game no longer freezes or crashes if a player-controlled creature dies due to poison during game initialization.
+Added more assertions for OpenGL errors.
+Fixed crash while browsing the bestiary.
+Fixed (potential?) crash caused by enslaving own minion.
+The game won’t crash if a building id is misspelled in a mod.
+Game executable size on Steam has been reduced from 700mb to 140mb.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
