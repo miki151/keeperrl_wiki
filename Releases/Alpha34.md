@@ -1,3 +1,11 @@
+
+---
+title: Alpha34
+permalink: Alpha34/
+layout: wiki
+---
+
+
 Gameplay
 New steeds mechanic, minions are automatically assigned steeds and mount them.
 Multiple stairs per level are allowed.
