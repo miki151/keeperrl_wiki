@@ -91,13 +91,13 @@ Release History Guide
 -   [Alpha30](/keeperrl_wiki/Alpha30 "wikilink") | Introducing Gnome Keepers
 -   [Alpha29](/keeperrl_wiki/Alpha29 "wikilink") | Introducing Steam workshop integration
 -   [Alpha28](/keeperrl_wiki/Alpha28 "wikilink") | Introducing Explosion of free game content
--   [Alpha27](/keeperrl_wiki/Alpha27 "wikilink") | Introducing  Z-Levels
--   [Alpha26](/keeperrl_wiki/Alpha26 "wikilink") | Introducing  Modding support\Building outside
--   [Alpha25](/keeperrl_wiki/Alpha25 "wikilink") | Introducing  Dark knight keepers\moats
--   [Alpha24](/keeperrl_wiki/Alpha24 "wikilink") | Introducing  Convertible prisoners who keep stats
--   [Alpha23](/keeperrl_wiki/Alpha23 "wikilink") | Introducing  Endless mode
--   [Alpha22](/keeperrl_wiki/Alpha22 "wikilink") | Introducing  Tutorial
--   [Alpha21](/keeperrl_wiki/Alpha21 "wikilink") | Introducing  Immigration system upgraded
+-   [Alpha27](/keeperrl_wiki/Alpha27 "wikilink") | Introducing Z-Levels
+-   [Alpha26](/keeperrl_wiki/Alpha26 "wikilink") | Introducing Building outside
+-   [Alpha25](/keeperrl_wiki/Alpha25 "wikilink") | Introducing Dark knight keepers
+-   [Alpha24](/keeperrl_wiki/Alpha24 "wikilink") | Introducing Convertible prisoners who keep stats
+-   [Alpha23](/keeperrl_wiki/Alpha23 "wikilink") | Introducing Endless mode
+-   [Alpha22](/keeperrl_wiki/Alpha22 "wikilink") | Introducing Tutorial
+-   [Alpha21](/keeperrl_wiki/Alpha21 "wikilink") | Immigration system upgraded
 
 
 Written by Michał Brzozowski, a very open-minded indie developer. He will probably even help you compile his game from his own publicly available code. You can buy the full game by donating to various wildlife charities. If you don't want graphics and sound and see no reason to support someone you don't know, there is a complete ascii version just for you, which you can download <a href="https://keeperrl.com/download/" class="uri">Here</a> for free.
