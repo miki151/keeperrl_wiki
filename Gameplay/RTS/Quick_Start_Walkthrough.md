@@ -9,7 +9,6 @@ layout: wiki
 This Quick Start written against Alpha versions of KeeperRL. Click
 “Start here” if you've never played before.
 
--   Last checked for accuracy and being up-to-date on Alpha 24.
 
 Start Here
 ----------
