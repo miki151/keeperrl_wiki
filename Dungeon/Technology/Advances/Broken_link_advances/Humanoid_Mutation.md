@@ -4,7 +4,7 @@ permalink: Humanoid_Mutation/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")>>[Advances](/keeperrl_wiki/Advances "wikilink")>>[Broken_link_advances](/keeperrl_wiki/Broken_link_advances "wikilink")
 
 - Alternative research method: [[Miscellaneous_Items#Book_of_Humanoid_Mutation|Book of Humanoid Mutation]]
 - Unlocks :
@@ -32,14 +32,16 @@ layout: wiki
 ''Summoned by [[:Spells#Summon_Insects|summon insects]] spell.
 '' 
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")>>[Advances](/keeperrl_wiki/Advances "wikilink")>>[Broken_link_advances](/keeperrl_wiki/Broken_link_advances "wikilink")
 
 Other items in this section
--    [Advances](/keeperrl_wiki/Advances "wikilink")
+-    [Advanced Alchemy](/keeperrl_wiki/Advanced_Alchemy "wikilink")
+-    [Advanced Sorcery](/keeperrl_wiki/Advanced_Sorcery "wikilink")
+-    [Alchemical Conversion](/keeperrl_wiki/Alchemical_Conversion "wikilink")
+-    [Alchemy](/keeperrl_wiki/Alchemy "wikilink")
 -    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
+-    [Demonology](/keeperrl_wiki/Demonology "wikilink")
 -    [Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
+-    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
 -    [Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
--    [Technologies](/keeperrl_wiki/Technologies "wikilink")
--    [Technology](/keeperrl_wiki/Technology "wikilink")
--    [Techs](/keeperrl_wiki/Techs "wikilink")

@@ -255,10 +255,5 @@ See Technologies for a wider list of technologies from various different keepers
 
 Other items in this section
 -    [Advances](/keeperrl_wiki/Advances "wikilink")
--    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
--    [Humanoid Mutation](/keeperrl_wiki/Humanoid_Mutation "wikilink")
--    [Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
--    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
--    [Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
 -    [Technologies](/keeperrl_wiki/Technologies "wikilink")
 -    [Techs](/keeperrl_wiki/Techs "wikilink")

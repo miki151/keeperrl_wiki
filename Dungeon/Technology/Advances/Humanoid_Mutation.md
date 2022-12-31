@@ -4,7 +4,7 @@ permalink: Humanoid_Mutation/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")>>[Advances](/keeperrl_wiki/Advances "wikilink")
 
 - Alternative research method: [[Miscellaneous_Items#Book_of_Humanoid_Mutation|Book of Humanoid Mutation]]
 - Unlocks :
@@ -32,38 +32,19 @@ layout: wiki
 ''Summoned by [[:Spells#Summon_Insects|summon insects]] spell.
 '' 
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Technology](/keeperrl_wiki/Technology "wikilink")>>[Advances](/keeperrl_wiki/Advances "wikilink")
 
 Other items in this section
--    [Basic Spells](/keeperrl_wiki/Basic_Spells "wikilink")
+-    [Advanced Alchemy](/keeperrl_wiki/Advanced_Alchemy "wikilink")
+-    [Advanced Sorcery](/keeperrl_wiki/Advanced_Sorcery "wikilink")
+-    [Advances](/keeperrl_wiki/Advances "wikilink")
+-    [Alchemical Conversion](/keeperrl_wiki/Alchemical_Conversion "wikilink")
+-    [Alchemy](/keeperrl_wiki/Alchemy "wikilink")
 -    [Beast Mutation](/keeperrl_wiki/Beast_Mutation "wikilink")
--    [Body Parts](/keeperrl_wiki/Body_Parts "wikilink")
--    [Books](/keeperrl_wiki/Books "wikilink")
--    [Bridge](/keeperrl_wiki/Bridge "wikilink")
--    [Deception](/keeperrl_wiki/Deception "wikilink")
--    [Door](/keeperrl_wiki/Door "wikilink")
--    [Explore](/keeperrl_wiki/Explore "wikilink")
--    [Fire](/keeperrl_wiki/Fire "wikilink")
--    [Fire Resistant](/keeperrl_wiki/Fire_Resistant "wikilink")
--    [Forge](/keeperrl_wiki/Forge "wikilink")
--    [Forging](/keeperrl_wiki/Forging "wikilink")
--    [Gold](/keeperrl_wiki/Gold "wikilink")
--    [Immigration](/keeperrl_wiki/Immigration "wikilink")
+-    [Broken link advances](/keeperrl_wiki/Broken_Link_Advances "wikilink")
+-    [Demonology](/keeperrl_wiki/Demonology "wikilink")
 -    [Iron Working](/keeperrl_wiki/Iron_Working "wikilink")
--    [Jeweler](/keeperrl_wiki/Jeweler "wikilink")
--    [Library](/keeperrl_wiki/Library "wikilink")
+-    [Jewellery](/keeperrl_wiki/Jewellery "wikilink")
 -    [Master Sorcery](/keeperrl_wiki/Master_Sorcery "wikilink")
 -    [Master Spells](/keeperrl_wiki/Master_Spells "wikilink")
--    [Panic](/keeperrl_wiki/Panic "wikilink")
 -    [Pig Breeding](/keeperrl_wiki/Pig_Breeding "wikilink")
--    [Poison](/keeperrl_wiki/Poison "wikilink")
--    [Poison Gas](/keeperrl_wiki/Poison_Gas "wikilink")
--    [Poison Resistance](/keeperrl_wiki/Poison_Resistance "wikilink")
--    [Prisoner Head](/keeperrl_wiki/Prisoner_Head "wikilink")
--    [Rings](/keeperrl_wiki/Rings "wikilink")
--    [Scrolls](/keeperrl_wiki/Scrolls "wikilink")
--    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
--    [Sword](/keeperrl_wiki/Sword "wikilink")
--    [Tasks](/keeperrl_wiki/Tasks "wikilink")
--    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
--    [Workshop](/keeperrl_wiki/Workshop "wikilink")
