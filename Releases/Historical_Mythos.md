@@ -3,10 +3,9 @@ title: Historical Mythos
 permalink: Historical_Mythos/
 layout: wiki
 ---
-__________________________________________________________
 
 KeeperRL Historical Mythos
-___________________________________________________________
+--------------------------
 
 KeeperRL is an evolving world. (This game receives regular updates)
 
