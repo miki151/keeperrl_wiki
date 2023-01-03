@@ -101,3 +101,4 @@ Other items in this section
 -    [Alpha33](/keeperrl_wiki/Alpha33 "wikilink")
 -    [Alpha35](/keeperrl_wiki/Alpha35 "wikilink")
 -    [Alpha36](/keeperrl_wiki/Alpha36 "wikilink")
+-    [Historical Mythos](/keeperrl_wiki/Historical_Mythos "wikilink")

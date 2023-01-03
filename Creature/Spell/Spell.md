@@ -94,7 +94,6 @@ List of KeeperRL Spells:
 	balrogs whip
 	kings charge
 
-
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
 
 Other items in this section
