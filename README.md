@@ -17,8 +17,6 @@ The main reason for failing to compile the wiki is errors.
 Sometimes the wiki doesn't update if you do too many pages at once.
 In that case, back out your changes and commit them in smaller chunks.
 
-[MainPage](/keeperrl_wiki/ "wikilink")
-
 <img align="center" src="logo-big.png">
 A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes.
 
