@@ -6,7 +6,9 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-This article has gone missing.
+Creatures in KeeperRL have various different kinds of body. Their bodies are defined by many characteristics, such as attributes, body parts, what limbs they use to fight with, what substance they consist of, their abilities such as sight, flight, resistance to poison or telepathy, various permanent buffs and nurfs, ability to train in different skills, ability to breed, if they can move/how fast, appearance by which they are recognised as a particular race, any magical powers etc.
+
+- The categories of creatures in this section are examples of how these characteristics may work out in practice, but the underlying data relating to a creature is far more sophisticated.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
