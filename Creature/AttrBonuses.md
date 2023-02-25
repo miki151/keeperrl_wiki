@@ -6,7 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
-This article has gone missing.
+Attribute bonuses can be awarded from various different items, spells and activities.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
