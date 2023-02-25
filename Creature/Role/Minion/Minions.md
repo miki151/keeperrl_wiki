@@ -12,6 +12,9 @@ Overview
 The grid here is nice, but the stats are out of date
 ----------------------------------------------------
 
+Evil Wizard Minions
+-------------------
+
 <table>
 <thead>
 <tr class="header">
