@@ -8,17 +8,17 @@ layout: wiki
 
 This page is a list of buffs and nurfs that your creatures can aquire.
 
--Amulets can be formed out of each type of buff, although most of them will only exist in the game if you wish for them using the wishing spell.
--Rings also can be formed out of each type of buff as for amulets.
--Mushrooms can be formed out of each type of buff.
--Potions are special because they can be thrown at foes to inflict nurfs.
-
--Potions can be formed out of each type of buff as for amulets but exist in two forms:
+- Rings, amulets, mushrooms and potions can be formed out of each type of buff, although most of them will only exist in the game if you wish for them using the wishing spell.
+- Rings and amulets can be formed out of a buff and grant that buff to the owner when worn on the fingers on around the neck.
+- Mushrooms can be formed out of buffs and either permanently or temporarily provide the buff after being eaten.
+- Potions are special because they can be thrown at other creatures to inflict nurfs or give buffs. They can also be drunk by the owner.#
+ 
+- Potions and mushrooms can also exist in two forms:
 
 -1) Temporary effect
 -2) Permanent Effect
 
--List of buffs (List is not complete here).
+-List of buffs/nurfs (List is not complete here).
 
 	damage
 	defense
@@ -64,7 +64,7 @@ This page is a list of buffs and nurfs that your creatures can aquire.
 	magic immunity
 	ranged immunity
 	
--List of special buffs (incomplete):
+-List of special buffs/nurfs (incomplete):
 
 	slowed
 	sleep
