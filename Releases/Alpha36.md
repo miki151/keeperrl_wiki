@@ -8,68 +8,74 @@ layout: wiki
 
 
 Console support
+---------------
 
-Full support for Steam Deck.
+- Full support for Steam Deck.
 
 
 Gameplay
+--------
 
-Creatures will train 70% faster.
-AI will not throw healing and other potions at allies anymore.
-Added a separate command for removing torches and other wall furniture, “remove construction” will now only remove the “middle layer” furniture, such as training dummies.
-The “enemy aggression” difficulty setting will now also affect the aggression of Z-level enemies.
-Starting biome will now be chosen randomly by default.
+- Creatures will train 70% faster.
+- AI will not throw healing and other potions at allies anymore.
+- Added a separate command for removing torches and other wall furniture, “remove construction” will now only remove the “middle layer” furniture, such as training dummies.
+- The “enemy aggression” difficulty setting will now also affect the aggression of Z-level enemies.
+- Starting biome will now be chosen randomly by default.
 
 
 Content
+-------
 
-Rebalanced distribution and aggression of Z-level enemies to that they pose more of a challenge.
-Animal pens can now be built outdoors.
-Added custom wall reinforcement sprites for dwarves and necromancer factions.
-Added custom library and training dummy sprites for the necromancer.
-Added custom floors and training dummy sprites for dwarves.
-Added custom throne, library and training dummy sprites for the white knight faction.
+- Rebalanced distribution and aggression of Z-level enemies to that they pose more of a challenge.
+- Animal pens can now be built outdoors.
+- Added custom wall reinforcement sprites for dwarves and necromancer factions.
+- Added custom library and training dummy sprites for the necromancer.
+- Added custom floors and training dummy sprites for dwarves.
+- Added custom throne, library and training dummy sprites for the white knight faction.
 
 
 UI
+--
 
-Full support for the Steam Deck console, including comfortable use of buttons and trackpads to navigate menus and control the game.
-New main menu graphics made with the help of the Midjourney bot.
-Reworked the mod menu.
-Turn-based mode map highlight and navigation paths will hide when the player moves until the mouse cursor is moved again.
-Fixed various issues with the “loading” dialog, made the “cancel” button actually work when downloading or uploading files or data.
-Map selection will now always select rectangles instead of single tiles.
-Removing map selection is done by starting the selection at an already selected tile, instead of holding the “ctrl” key.
-Reworked the “choose number” menu (for example when changing item count in the workshop menu).
-The “keeper is in danger” warning will now block the UI.
-Merged ransom demand dialog with attack information window.
-Moved all minion page actions, such as controlling or switching activity of a minion to the top of the page to improve clarity.
-It’s now possible to travel across Z-levels in other dungeons in the turn-based mode using the Z-level menu.
-Made it possible to navigate various menus such as world map, team leader choice and campaign setup, using keyboard arrows.
-Made various small improvements to the Z-level menu.
-Made team member icons smaller in the turn-based mode.
+- Full support for the Steam Deck console, including comfortable use of buttons and trackpads to navigate menus and control the game.
+- New main menu graphics made with the help of the Midjourney bot.
+- Reworked the mod menu.
+- Turn-based mode map highlight and navigation paths will hide when the player moves until the mouse cursor is moved again.
+- Fixed various issues with the “loading” dialog, made the “cancel” button actually work when downloading or uploading files or data.
+- Map selection will now always select rectangles instead of single tiles.
+- Removing map selection is done by starting the selection at an already selected tile, instead of holding the “ctrl” key.
+- Reworked the “choose number” menu (for example when changing item count in the workshop menu).
+- The “keeper is in danger” warning will now block the UI.
+- Merged ransom demand dialog with attack information window.
+- Moved all minion page actions, such as controlling or switching activity of a minion to the top of the page to improve clarity.
+- It’s now possible to travel across Z-levels in other dungeons in the turn-based mode using the Z-level menu.
+- Made it possible to navigate various menus such as world map, team leader choice and campaign setup, using keyboard arrows.
+- Made various small improvements to the Z-level menu.
+- Made team member icons smaller in the turn-based mode.
 
 
 Modding
+-------
 
-All build menu items must now be in groups.
-Added a command line tool to generate an example z-level lineup and average enemy attack probabilities.
+- All build menu items must now be in groups.
+- Added a command line tool to generate an example z-level lineup and average enemy attack probabilities.
 
 
 Fixes
+-----
 
-General optimizations in various gameplay processing code.
-Optimized handling of large item stacks.
-The game will not crash if item stacks contain more than 2^16 items. (not that shown item counts will be wrong though as they will “wrap”)
-Multiple FPS optimizations in AI code.
-Fixed an FPS issue caused by an NPC holding a potion of amok.
-Fixed a possibility to circumvent furniture limits such as throne, stone statues, etc.
-Made the game run more smoothly at given FPS by limiting single gameplay ticks to 20ms.
-Fixed an FPS issue caused by creates trying to pathfinding to different maps.
-Fixed start menu crash after deactivating a mod that adds a new sprite.
-Fixed a retirement crash related to steeds.
-Optimized the “show all messages” window.
-The game will stop loading sprites from old, incompatible mods.
+- General optimizations in various gameplay processing code.
+- Optimized handling of large item stacks.
+- The game will not crash if item stacks contain more than 2^16 items. (not that shown item counts will be wrong though as they will “wrap”)
+- Multiple FPS optimizations in AI code.
+- Fixed an FPS issue caused by an NPC holding a potion of amok.
+- Fixed a possibility to circumvent furniture limits such as throne, stone statues, etc.
+- Made the game run more smoothly at given FPS by limiting single gameplay ticks to 20ms.
+- Fixed an FPS issue caused by creates trying to pathfinding to different maps.
+- Fixed start menu crash after deactivating a mod that adds a new sprite.
+- Fixed a retirement crash related to steeds.
+- Optimized the “show all messages” window.
+- The game will stop loading sprites from old, incompatible mods.
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
