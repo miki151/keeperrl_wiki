@@ -21,3 +21,4 @@ Sometimes the wiki doesn't update if you do too many pages at once because the b
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Admin](/keeperrl_wiki/Admin "wikilink")
 
 Other items in this section
+-    [Admin](/keeperrl_wiki/Admin "wikilink")
