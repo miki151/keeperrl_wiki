@@ -99,3 +99,4 @@ Q: When is KeeperRL going to come out of Alpha and be officially released?
 [MainPage](/keeperrl_wiki/ "wikilink")>>[FAQ](/keeperrl_wiki/FAQ "wikilink")
 
 Other items in this section
+-    [WhatKeeperRLHasToOffer](/keeperrl_wiki/WhatKeeperRLHasToOffer "wikilink")
