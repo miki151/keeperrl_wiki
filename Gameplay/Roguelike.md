@@ -17,9 +17,9 @@ In a party, know the members:
 Each party member can have unique abilities and strengths. Take the time to understand each character's skills, stats, and role in the party. Build a balanced party that can handle various situations, such as combat, special sight, and healing.
 
 
-Manage Your Resources:
+Manage Your Inventory:
 
-Don't give out all the items to your followers. Resources are limited, so lead a party with a tough unit that carries and hands out supplies. Don't waste your healing items or buffs by giving them all to some stupid goblin. He will just waste them at the first opportunity to look after number one. Be prepared for the worst. Your leader can bring extra supplies, such as healing potions and scrolls, and make sure your party is well-equipped with weapons and armor. When you beat enemies, don't forget to loot them.
+Don't give out all the items to your followers. These are limited, so lead a party with a tough unit that carries and hands out supplies. Don't waste your healing items or buffs by giving them all to some stupid goblin. He will just waste them at the first opportunity to look after number one. Be prepared for the worst. Your leader can bring extra supplies, such as healing potions and scrolls, and make sure your party is well-equipped with weapons and armor. When you beat enemies, don't forget to loot them.
 
 
 Retreat to safe areas to regain health and recharge your spells:
