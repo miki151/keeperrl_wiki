@@ -54,7 +54,7 @@ Digging out underground levels is a great way to expand your base. Start from th
 
 Build outside:
 
-Welcome to the world of dungeon building, where not only do you have to focus on creating a masterpiece underground, but you also ought to extend your base far beyond the dungeon walls to thrive. With these insider tips, you'll learn how to build the ultimate castle and defenses outside your dungeon, and protect your minions from the dangers that lie beyond.
+Welcome to the world of dungeon building, where not only do you have to focus on creating a masterpiece underground, but you also ought to extend your base far beyond the dungeon walls to thrive.
 
 
 Build Upwards:
@@ -72,12 +72,12 @@ Protect Your Minions:
 Wildlife can be a threat to your workers, especially in certain biomes. Undead units are particularly vulnerable outside, so you need to take extra care. Beware of the sun - when it rises, many undead will crumble to dust. Use balsams to spread darkness around them if your faction has them, and assign any workers with an unlimited carry capacity to do hauling duty and reduce the number of trips they make outside. Be careful to avoid drowning undead units who have carelessly had their heads cut off. They can't see.
 
 
-Build Outside:
+Make castles and towers:
 
-You can now lay a "building interior" outside using the structure menu, which has a roof that provides shelter for creatures that are vulnerable to sunlight during daylight hours. It also allows you to build rooms in the outside world that have furniture.
+You can lay a "building interior" outside using the structure menu, which has a roof that provides shelter for creatures that are vulnerable to sunlight during daylight hours. It also allows you to build rooms in the outside world that have furniture.
 
 
-How to removing a Planned Building Interior:
+How to remove a Planned Building Interior:
 
 If you want to remove a building interior designation, simply place a new one over the build plans, and they will disappear. The area will then remain an outside tile. Or keep your building plan and your minions will construct the actual building when they get around to it.
 
@@ -97,7 +97,7 @@ Build External Defenses:
 Experiment with pits, moats, and reinforced walls to give invaders a hard time.
 
 
-How to removing walls and fill Pits:
+How to remove walls and fill Pits:
 
 If you want to remove a wall you placed outside, you can dig it like it is normal rock. To fill a pit, use the item on the structure menu.
 
