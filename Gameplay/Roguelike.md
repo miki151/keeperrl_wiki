@@ -22,7 +22,7 @@ Manage Your Resources:
 Don't give out all the items to your followers. Resources are limited, so lead a party with a tough unit that carries and hands out supplies. Don't waste your healing items or buffs by giving them all to some stupid goblin. He will just waste them at the first opportunity to look after number one. Be prepared for the worst. Your leader can bring extra supplies, such as healing potions and scrolls, and make sure your party is well-equipped with weapons and armor. When you beat enemies, don't forget to loot them.
 
 
-Retreat to safe areas to regain health and mana:
+Retreat to safe areas to regain health and recharge your spells:
 
 Obvious when you think about it. If your party is struggling with a particular enemy, try a different approach. Don't be afraid to retreat all the way back to base and regroup if necessary.
 
