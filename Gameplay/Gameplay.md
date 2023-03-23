@@ -39,6 +39,16 @@ providing players with a wide range of options to customize their gameplay exper
 * Its a fun way to escape from reality and immerse yourself in a different world.
 * The permadeath mechanic provides a sense of achievement when you complete a run.
 
+
+In KeeperRL, the gameplay is designed to challenge players when it comes to tackling factions like knights. It's not as simple as relying on one overpowered (OP) unit to take them on. Knights have a coordinated army consisting of archers, melee fighters, and healers. This means that players will need to come up with a strategy that takes into account the different types of units and the fact that they are facing a large army.
+
+
+Similarly, players won't be able to tackle a player dwarf who's holed up in an ambush by using an army of weaker units. Instead, they'll need to think smart and come up with an alternative plan. For example, they may be able to ambush the knights in a defensive snare or bait out the holed-up dwarf to attack them. Alternatively, leading their army with a unit that can take more than one hit in an ambush may also be a viable strategy.
+
+
+It is afterall a strategy game with both rogue-like and RTS elements. Players will need to assess the situation and come up with a plan that takes into account the different types of units that their opponent has and the numbers they are facing. The game rewards players who can think creatively and come up with innovative ways to defeat their opponents. Whatever works, use it. There are many different approaches that players can take. Ultimately, the game is all about using your brain to outwit your opponents and emerge victorious.
+
+
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
