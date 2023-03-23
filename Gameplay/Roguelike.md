@@ -29,7 +29,7 @@ Obvious when you think about it. If your party is struggling with a particular e
 
 Take Advantage of Terrain:
 
-Use the terrain to your advantage in combat. Position your characters behind cover, and draw enemies at chokepoints to funnel enemies into a more manageable group. Force melee units to advance by hitting them at a distance. Be mindful of environmental hazards, such as deep water and lava, and try to use them to your advantage.
+Use the terrain to your advantage in combat. Position your characters behind cover, and draw enemies at chokepoints to funnel enemies into a more manageable group. Force melee units to advance by hitting them at a distance. Be mindful of environmental hazards, such as deep water, lava and burning trees. Try to use your surroundings to your advantage.
 
 
 Learn From Your Mistakes:
