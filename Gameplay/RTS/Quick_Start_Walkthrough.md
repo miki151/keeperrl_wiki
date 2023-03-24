@@ -23,11 +23,8 @@ Alternatively, purchase the graphical and audio version from
 2.  The Main Menu will come up. The options will be “Play game”, “Change
     settings”, “View highscores”, “view credits”, “quit”.
 
-<img src="/keeperrl_wiki/Title-screenshot.png" title="/keeperrl_wiki/Title-screenshot.png" alt="/keeperrl_wiki/Title-screenshot.png" width="1000" />
-
-1.  Play the game
-2.  Options are “Keeper”, “Adventurer”, “Tutorial”, “Load game”, “Go
-    back”.
+* Play the game
+* Choose the wizard faction to begin with
 
 <img src="/keeperrl_wiki/Playmenu-screenshot.png" title="/keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki/Playmenu-screenshot.png" width="1000" />
 
@@ -43,8 +40,6 @@ These videos show other players gaming on KeeperRL.
 
 Keepers are evil tyrants who commit war crimes. If you want to be a
 hero, try playing an adventurer.
-
--   Choose your role. Choose “keeper” to begin with.
 
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
