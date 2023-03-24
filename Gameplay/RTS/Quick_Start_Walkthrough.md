@@ -6,8 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
-This Quick Start written against Alpha versions of KeeperRL. Click
-“Start here” if you've never played before.
+This Quick Start written against Alpha versions of KeeperRL. It is useful if you've never played before.
 
 
 Start Here
@@ -41,8 +40,6 @@ Alternatively, purchase the graphical and audio version from
 These videos show other players gaming on KeeperRL.
 
 -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
--   If you think it will be fun to do your own video, please edit this
-    page with your link.
 
 Keepers are evil tyrants who commit war crimes. If you want to be a
 hero, try playing an adventurer.
@@ -61,7 +58,7 @@ Here you can start building your dungeon.
 Victory Objective
 -----------------
 
-Claim victory by conquering all the local tribes. Next, finalise your
+Claim victory by conquering all the tribes on the campaign map. Next, finalise your
 defences and upload your map, so that adventurers and keepers belonging
 to other players can then invade it.
 
@@ -123,37 +120,36 @@ Resources and resource stats
 
 Along the bottom are your resource stats:
 
--   Gold
 
-` Gained by looting enemies.`  
-` Gained by creating a treasure room and asking imps to mine out the yellow gold tiles. `
+Gold: Can be obtained by looting defeated enemies or mined by imps from yellow gold tiles found in your dungeon. This precious metal is essential for hiring powerful creatures and constructing luxurious rooms.
 
--   Wood
 
-` Gained by creating a resource stockpile and asking your imps to cut trees.`  
+Wood: Can be obtained by building a resource stockpile and ordering your imps to chop down trees. This natural resource is essential for constructing traps, doors, and other wooden structures in your dungeon.
 
--   Iron
 
-` Gained by creating a resource stockpile and asking imps to mine out the iron tiles.`
+Iron: Can be obtained by building a resource stockpile and ordering your imps to mine iron tiles found in your dungeon. This metal is essential for crafting weapons, armor, and other metallic structures.
 
--   Adamantium
 
-` Gained by assaulting adamantium golems and mining their ore.`  
-` `
+Adamantium: Can be obtained by assaulting adamantium golems and mining their ore, or found deep underground. This rare and powerful metal is essential for crafting the strongest weapons and armor in your dungeon,
 
--   Stone
 
-` Gained by creating a resource stockpile and asking imps to mine out the white stone tiles.`
+Stone: Can be obtained by building a resource stockpile and ordering your imps to mine white stone tiles found in your dungeon. This sturdy material is essential for constructing walls, floors, and other stone structures in your dungeon.
 
--   Mana
 
-` Gained by committing genocide against a tribe on the map.`  
-` Gained by studying in the library if this option is turned on in `“`free-play`”` mode.`
+Infernite: Can be obtained by mining only at very deep levels underground. This volatile material is essential for crafting weapons that deal flaming damage, making them particularly effective against enemies that are vulnerable to fire.
+
+
+Corpses: Can be obtained by defeating enemies in your dungeon. They can be used to raise undead creatures, which can serve as powerful minions and defenders for your dungeon. Raising undead creatures may require graves, coffins or a morgue table.
+
+
+Angel Piety: A hidden resource that can be obtained by performing acts of worship at a holy altar. This resource can be used to recruit angels, powerful creatures that possess divine abilities.
+
+
+Demon Piety: A hidden resource that can be obtained by invoking them at a demonic altar. This resource can be used to recruit demons, powerful creatures that possess dark abilities.
+
 
 <img src="/keeperrl_wiki/Resources-screenshot.png" title="/keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki/Resources-screenshot.png" width="1000" />
 
-These [Resources](/keeperrl_wiki/Resources "wikilink") are what is needed to build
-things in the dungeon. Mana is also used for researching technologies.
 (Under the resource stats you can also see your population limit, which
 turn you are in and how much daylight or night is remaining)
 
@@ -162,6 +158,7 @@ carrying resources back to base. (Imps can carry endless items in their
 magic pockets because they have no maximum weight limit). When an enemy
 is entirely defeated, you can select the tribes strip and use the
 pillage option to loot the enemy instead.
+
 
 Building Your First Dungeon
 ---------------------------
@@ -177,9 +174,8 @@ Select that one and have the imps start digging.
 You can be as creative as you want when it comes to designing the layout
 of your dungeon. The imps dig fairly quickly if they are not mining
 ores; stick to the plain black area and they can dig large
-[rooms](/keeperrl_wiki/Rooms_Guide "wikilink") in a short time. You can hold down
-shift with the mouse and draw out rectangles, too. Hold down the CTRL
-key and drag to cancel blocks of orders shown on the map.
+[rooms](/keeperrl_wiki/Rooms_Guide "wikilink") in a short time. You will 
+draw out rectangles.
 
 <img src="/keeperrl_wiki/Littledungeon-screenshot.png" title="/keeperrl_wiki/Littledungeon-screenshot.png" alt="/keeperrl_wiki/Littledungeon-screenshot.png" width="1000" />
 
@@ -192,7 +188,8 @@ Construct items by clicking on the pickaxe icon. Select squares for your
 storage of [Resources](/keeperrl_wiki/Resources "wikilink") and items. Build treasure
 rooms, dormitories, training rooms, libraries, workshops, forges,
 laboratories, jewellers, ritual rooms, beast lairs, graveyards, prisons
-and torture chambers. The selected construction will highlight in green.
+and torture chambers etc. To do this you must dig out a space and build the appropriate
+furniture you desire. The selected construction will highlight in green.
 Click on map squares to give the orders.
 
 Orders
@@ -256,7 +253,7 @@ Library and Research
 
 The next thing you probably want to build is a library. The library is
 crucial because the [Keeper](/keeperrl_wiki/Keeper "wikilink") needs it to research any
-new techologies.
+new spells.
 
 Have the imps dig out another room, usually at least 10x20 but it can be
 bigger. Make sure you have some wood stockpiled as well.
@@ -268,17 +265,12 @@ bookshelves will get in your way, so place them one-by-one at suitable
 locations. The [Keeper](/keeperrl_wiki/Keeper "wikilink") will usually immediately move
 to the library and spend most of the time there.
 
-Now that the library is built you can start researching skills. Under
-the “Research” menu, there is an item called “Library”. Clicking on this
-brings up a list of all the technologies the your dungeon has acquired,
-and also the technologies available to learn. Some techs only become
-available by unlocking prerequisite ones, or by finding books in the
-outside world.
 
 If you remembered your tutorial steps, you will have attracted some
 basic creatures to your dungeon already, and killed a few easy enemies.
 
-You should have enough mana at this point to research some of the
+
+You should have enough dungeron experience at this point to research some of the
 technologies, which you can experiment with.
 
 <img src="/keeperrl_wiki/Researchmenu-screenshot.png" title="/keeperrl_wiki/Researchmenu-screenshot.png" alt="/keeperrl_wiki/Researchmenu-screenshot.png" width="1000" />
