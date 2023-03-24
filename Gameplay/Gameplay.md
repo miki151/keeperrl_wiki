@@ -1,4 +1,4 @@
-Here's a more informative version of the Major Gameplay Features:
+Major Gameplay Features:
 
 *The game offers both Real Time Strategy and Roguelike gameplay, providing players with a unique and engaging experience.
 *Players can create their own dungeons and compete against others' dungeons online, adding a competitive and challenging element to the game.
