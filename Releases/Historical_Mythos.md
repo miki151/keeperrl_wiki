@@ -4,10 +4,13 @@ permalink: Historical_Mythos/
 layout: wiki
 ---
 
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
+
+
 KeeperRL Historical Mythos
 --------------------------
 
-KeeperRL is an ever-evolving game that receives regular updates, and throughout its history, there have been 34 distinct periods represented by Alpha releases.
+KeeperRL is an ever-evolving game that receives regular updates, and throughout its history, there have been 36 distinct periods represented by Alpha releases.
 
 
 In the early days of the KeeperRL world, minor tribes were closely connected, and the lands were ruled by Dukes. The greatest danger to humanity was the fearsome Red Dragon, and over time, dragons of various colors appeared. The Evil Mage Keepers constructed dungeons to fight for control of their territories.
