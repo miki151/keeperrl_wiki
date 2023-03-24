@@ -31,9 +31,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <br/>
 
 <hr>
--[The story so far](/keeperrl_wiki/Historical_Mythos "wikilink")
-<hr>
-
+-   [The story so far...](/keeperrl_wiki/Historical_Mythos "wikilink")
 <hr>
 [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")                                 
 <hr>
