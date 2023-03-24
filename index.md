@@ -30,10 +30,9 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
 <br/>
 
-
-<h3 align="center">
-[Alpha36](/keeperrl_wiki/Historical_Mythos "wikilink") | The story so far
-</h3>
+<hr>
+-[The story so far](/keeperrl_wiki/Historical_Mythos "wikilink")
+<hr>
 
 <hr>
 [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")                                 
