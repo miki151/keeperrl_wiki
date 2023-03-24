@@ -6,9 +6,10 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
-
+<hr>
 KeeperRL Historical Mythos
 --------------------------
+<hr>
 
 KeeperRL is an ever-evolving game that receives regular updates, and throughout its history, there have been 36 distinct periods represented by Alpha releases.
 
@@ -41,6 +42,7 @@ During A30, Gnome Keepers emerged, specializing in building magical machines tha
 
 
 Currently, we live in a period known as A36, where horseback riding, building high towers, and climbing mountains are useful for gaining control of the land. Many beasts can be mounted, opening up more options on the battlefield for Keepers. The various factions still compete for control of the World of KeeperRL.
+<hr>
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
