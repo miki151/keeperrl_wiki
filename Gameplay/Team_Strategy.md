@@ -136,11 +136,11 @@ Choosing the battlefield
 Keeping control of the party
 ----------------------------
 
-Mode 1 - Ignore enemies:
+Mode 1 - Don't chase:
 1.  Stop your troops running off all over the place chasing enemies.
 2.  If you don't have this set, they will break ranks and charge at all enemies.
 
-Mode 2 - Stand ground:
+Mode 2 - Stop:
 1.  Get your troops into a standing formation
 2.  Only the leader moves
 3.  Switch leader and position everything as you want it
@@ -154,9 +154,11 @@ Mode 3 - Neither Ignoring enemies nor standing ground:
 2.  Good for mopping up fleeing enemies, if you don't want any to escape
 
 Mode 4 - Full control mode:
-1.  Control each unit in turn
-2.  Press 'w'; to wait until other units have moved
-3.  Requires patience
+1. Control each unit in turn
+2. Press 'w' to wait until other units have moved
+3. Right-click on the unit to manually order it to move if it hasn't moved yet in that cycle.
+4. Handy for keeping a line moving through a chokepoint and checking inventory and combat experience.
+5. Be patient
 
 Consider the line of sight
 --------------------------
