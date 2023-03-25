@@ -7,54 +7,44 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
 The Keeper (male or female) is the most valuable entity, if the keeper
-dies the game is lost.
+dies the game is lost. Keepers are humanoid.
 
-Warlock Attributes
-------------------
 
-<img src="Keeper_west.png" title="fig:Keeper_west.png" alt="Keeper_west.png" width="100" />
-<img src="Keeper_female_west.png" title="fig:Keeper_female_west.png" alt="Keeper_female_west.png" width="100" />
-''Player's avatar (Warlock class) *Base values*
+Evil keepers encounter these tribes of creatures:
 
--   Spell Damage:20
--   Defense:12
--   Damage:12
--   Body size:Large
--   Gender:Male
--   Sorcery:0.2
--   Laboratory:0.2
--   Melee training maximum:7
--   Spell training maximum:12
--   Spell:Heal Self
 
-Dark Knight Attributes
-----------------------
+Final Dungeon: The location of the game's ultimate enemy, a dark and foreboding place.
+Duke: A chivalrous tribe, feared for their formidable skills on the battlefield. A powerful enemy.
+Elf Lord: A noble tribe of elves, deadly with a bow. They have a fierce and enigmatic enemy.
+Dwarf Baron: A tough clan of craftsmen and miners but fiercely loyal to their tribe.
+Red Dragon: A fiery and fearsome beast, a main enemy to evil keepers.
+White Dragon: A cold and cunning predator, another main enemy to evil keepers.
+Elementalist: A mysterious being who wields the forces of nature as a weapon.
+Green Dragon: A cunning foe, a master of poison.
+Lizard Lord: A savage tribe of lizard folk, formidable adversaries with venomous bites and sharp claws.
+Shaman's Warriors: Fierce warriors who fight under a shamanic magician.
+Thief Leader: A band of cunning and resourceful rogues, notorious for their thievery and guile.
+Demon Lord A lord of the abyss, commands legions of hellish creatures and seeks to conquer the mortal realm.
+Tree Spirits: Majestic guardians of the forest, imbued with the power of motion.
+Dryads: Mysterious and alluring forest spirits, born among the trees.
+Cyclops: One-eyed giant known for his incredible strength.
+Giant Spider: A creature of nightmare, with venomous fangs that spins webs.
+Hydra: A serpentine beast with multiple heads.
+Unicorns: Majestic and otherworldly, a lesser enemy to evil keepers that are seen in herds.
+Ant Queen: A horde of swarming ants, led by a powerful queen. They are a lesser enemy to evil keepers.
+Zombie Cemetery Zombies: Shambling corpses rose from the dead, seeking to devour the living. They are a lesser enemy to evil keepers.
+Goblin Cave: A clan of small, but ferocious, green-skinned creatures. They are an ally to evil keepers.
+Harpy Cave: A tribe of bird-like creatures with razor-sharp talons and terrifying screeches. They are an ally to evil keepers.
+Dark Elf Lord: A tribe of dark minded elves who wield powerful magic. They are an ally to evil keepers.
+Gnome Boss Gnomes: A clan of diminutive and clever craftsmen, skilled at creating powerful magical items. They are an ally to evil keepers.
+Sokoban Puzzle: A mysterious puzzle that must be solved to reap its benefits. Its purpose and nature are unclear.
 
-<img src="Keeper_knight_west.png" title="fig:Keeper_knight_west.png" alt="Keeper_knight_west.png" width="100" />
-<img src="Keeper_knight_female_west.png" title="fig:Keeper_knight_female_west.png" alt="Keeper_knight_female_west.png" width="100" />
-''Player's avatar (Fighter class) *Base values*
 
--   Defense:16
--   Damage:20
--   Body size:Large
--   Gender:Male
--   Melee training maximum:12
--   Spell training maximum:3
--   Spell:Heal Self
--   Skill:Forge 20%
+Lawful keepers often share similar foes but are allied differently and must fight the dark elves while having teutonic knights.
 
-Traits
-------
 
--   [Humanoid](/keeperrl_wiki/Humanoid "wikilink")
+Adventurers also encounter many of these tribes as allies or enemies.
 
-Tasks
------
-
-*sorted by preference, topmost is more likely done*
-
--   [Study](/keeperrl_wiki/Library "wikilink")
--   [Train](/keeperrl_wiki/Training_Room "wikilink")
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Bestiary](/keeperrl_wiki/Bestiary "wikilink")
 
