@@ -73,8 +73,7 @@ Looters:
 5.  Need to have infinite carry capacity
 
 Riders:
-1. Match the size of your steed
-2. Find a creature that is skilled in riding.
+Must have the riding skill. Match the size of your rider to an appropriate beast. For instance, imps can ride rats, bats, and ravens, while goblins have the option to ride wolves and deer. Humans have a range of options that includes horses, ents, unicorns, minotaurs, and dragons.
 
 Examples of riders:
 
@@ -94,7 +93,7 @@ Examples of riders:
 	witchman
 
 Steeds:
-Match the size of your rider to an appropriate beast. For instance, imps can ride rats, bats, and ravens, while goblins have the option to ride wolves and deer. Humans have a range of options that includes horses, ents, unicorns, minotaurs, and dragons.
+Match the size of your rider to an appropriate beast.
 
 Examples of steeds:
 
