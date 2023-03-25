@@ -6,7 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
-You should automatically be redirected to [:Technologies#Crating](/keeperrl_wiki/:Technologies#Crating/)
+Crafting was such a fundamental technology in KeeperRL that everyone now starts off with it and you do not need to research it at all.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
