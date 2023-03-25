@@ -78,7 +78,7 @@ Advice for RTS and Roguelike gaming in KeeperRL
 17. Ambush points such as at the bottom of staircases are a big possibility and are meant to be (not a bug).
 18. It is fairly common to wipe out the last retired dungeon, except for one legendary humanoid or cyclops that is holed up in a powerful defensive position.
 19. All your armies may be useless (they get slaughtered) against well organised defences.
-20. A common mistake is to leave the game running over dinner and loot back all your equipment to have another go at it, only to lose a second time.
+20. Leaving the game running during dinner to retrieve your equipment for the next invasion, is a bad idea when there are triggered villains.
 21. What you may have to do is to get one or more overpowered heroes of your own and kit him up with all the very best things.
 22. I recommend speed potions, healing potions, melee vulnerability and melee resistance potions and using all your enchantment scrolls on your best hero.
 23. Look for weaponry that has special effects that the particular boss you are up against is vulnerable to.
