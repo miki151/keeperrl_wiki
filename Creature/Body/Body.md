@@ -6,12 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
 
-Creatures in KeeperRL have various different kinds of body. Their bodies are defined by many characteristics, such as attributes, body parts, what limbs they use to fight with, what substance they consist of, their abilities such as sight, flight, resistance to poison or telepathy, various permanent buffs and nurfs, ability to train in different skills, ability to breed, if they can move/how fast, appearance by which they are recognised as a particular race, any magical powers etc.
-
-
 The body material may result in yielding resources when you kill it. eg. Iron golems yeild iron. The various body materials are:
-
-
 
 * FLESH: Has a brain, can copulate if approached, loses heads means death
 * UNDEAD_FLESH: Has brain, undead, sunlight vulnerable, immune to poison, plague and bleeding
@@ -31,7 +26,10 @@ The body material may result in yielding resources when you kill it. eg. Iron go
 * ADOXIUM: Affected by fire, immune to living ailments
 
 
-- The categories of creatures in this section are examples of how all the body characteristics may work out in practice, but the underlying data relating to a creature is far more sophisticated.
+In KeeperRL, creatures possess a diverse range of body types that are characterized by multiple traits. These traits encompass attributes, body parts, preferred limbs for combat, sensory and physical abilities, magical powers, permanent buffs and debuffs, breeding capabilities, mobility, appearance, and proficiency in various skills.
+
+
+The examples of body types presented in the section below illustrate how various physical characteristics may manifest in practice, not just in terms of material composition. However, it's important to note that the underlying data pertaining to a creature's body is more intricate than these simplified categories.
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Body](/keeperrl_wiki/Body "wikilink")
