@@ -6,9 +6,10 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Construction](/keeperrl_wiki/Construction "wikilink")
 
-1.  REDIRECT [Skills\#/keeperrl_wiki/Construction](/keeperrl_wiki/Construction "wikilink")
+Please try this (spelt differently):
 
-Mine and construct rooms.
+[Construction](/keeperrl_wiki/Construction "wikilink")
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")>>[Construction](/keeperrl_wiki/Construction "wikilink")
 
