@@ -22,9 +22,15 @@ Manage your inventory:
 By default, KRL allows minions to load up on any consumables they desire, making it difficult to control item distribution. However, it's still valuable to manage your inventory strategically. Consider forming a party led by a sturdy unit who can distribute supplies wisely. Limit party members from squandering healing items and buffs for personal gain on weaker enemies. While controlling consumables is a good idea, it does require additional management with the current UI. To ensure your party is always prepared for the worst-case scenario, you can equip your leader with extra supplies like healing potions and scrolls and provide your party with adequate weapons and armor. Remember to loot defeated enemies to improve your inventory as the invasion progresses.
 
 
-Retreat to safe areas to regain health and recharge your spells:
+Retreat to safe areas:
 
-Obvious when you think about it. If your party is struggling with a particular enemy, try a different approach. Don't be afraid to retreat all the way back to base and regroup if necessary.
+Retreating is an essential strategy that is often overlooked in the heat of battle. If your party is struggling with a particular enemy, it's time to try a different approach. Don't hesitate to retreat all the way back to your base and regroup if necessary. Remember, a tactical retreat can save your party from unnecessary losses.
+
+
+When retreating, it's important to take cover from enemy archers, spellcasters, and other ranged attackers to avoid taking unnecessary damage. If you find yourself in a fight that's too big to handle, don't be afraid to retreat to a more advantageous spot, like a chokepoint or bottleneck, or leave the area entirely. This will give your party time to heal and recharge their spells, allowing you to mount a stronger attack later.
+
+
+Remember that you can't leave the map as long as the enemy can see you. Attacking at night can reduce the enemy's sight range, so consider dropping or unequipping torches to avoid being detected. Also, use trees and bushes to break sightlines. If all else fails, consider using one or more lesser creatures to decoy the enemy and give the rest of your team time to escape.
 
 
 Take advantage of terrain:
