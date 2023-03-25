@@ -123,7 +123,7 @@ Choosing the battlefield
 ------------------------
 
 1. Determine what triggers your enemies and their attack patterns
-2. Consider luring enemies to your home dungeon for an attack
+2. Consider luring enemies to your home dungeon to gain the advantages of defence
 3. Watch out for fire creatures that may burn down your dungeon
 4. Surround single creatures in the open
 5. Fight armies in confined spaces to avoid being surrounded
