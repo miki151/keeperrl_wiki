@@ -213,15 +213,27 @@ Attacking large armies
 17. In adventurer mode, you can sleep on beds without returning to a dungeon. This is a great way to heal for free.
 18. If you have to fight the army eventually, do it well.
 
+Common Traps
+------------
 
-How to tackle the boulder/web combination
+1. Terror trap: Causes the trespasser to panic.
+2. Gas trap: Releases a cloud of poisonous gas.
+3. Alarm trap: Summons all minions.
+4. Web trap: Immobilises the trespasser for some time.
+5. Surprise trap: Teleports nearby minions to deal with the trespasser.
+6. Fire trap: Causes a tower of flame to errupt under the trespasser.
+7. Boulder trap: Causes a huge boulder to roll towards the enemy.
+8. Blast trap: Causes an air blast to throw the enemy across a few tiles.
+9. Gargoyle trap: Comes to life when an enemy comes near.
+
+Boulder/web combination trap
 -----------------------------------------
-1.  These are very tough in Adventurer Mode without a spying ring or if you have no way to disarm traps when attacking a dungeon.
-2.  If there is a boulder trap with a web trap in front and you get webbed, you must use any teleport spell immediately.
-3.  Without that you will die to the boulder.
-4.  If you already know that trap is on the map, then herd wildlife into it. They will die not you. Alternatively, trigger the trap using deception, flies or summoning spells.
-5.  Some maps force you to play 'Indiana Jones' with the traps.
-6.  Lone boulder trap: Often you are able to trigger the trap and then step aside. If not, treat it the same way as a boulder web combo and trigger the trap without stepping too near it.
+1. These traps are difficult in Adventurer Mode without a spying ring or trap-disarming abilities.
+2. If caught in a web trap in front of a boulder trap, use a teleport spell immediately to avoid being crushed.
+3. Without a teleport spell, you will not survive.
+4. Herding wildlife into the trap can be an alternative, or triggering it with deception, flies or summoning spells.
+5. Some maps require an "Indiana Jones" approach to traps.
+6. If facing a lone boulder trap, trigger it and step aside, or trigger it without getting too close.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
