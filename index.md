@@ -51,7 +51,8 @@ Creature Guide
 -   [ Partial List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
 -   [Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
--   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")                                
+-   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
+-   [Tribes](/keeperrl_wiki/Tribe "wikilink")                              
 -   Creature features                                                          
     -   [Buffs And Nurfs](/keeperrl_wiki/LastingEffects "wikilink")
     -   [Skills](/keeperrl_wiki/Skills_Guide "wikilink")                                          
