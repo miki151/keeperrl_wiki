@@ -128,9 +128,10 @@ Choosing the battlefield
 4. Surround single creatures in the open
 5. Fight armies in confined spaces to avoid being surrounded
 6. Protect your keeper and dungeon by taking the fight to tough enemies
-7. Capture prisoners during battles
-8. Lure enemies out of their territory to capture them more easily
-9. Keep in mind that defeated prisoners die after 300 turns and can be shot, control your team to displace captives behind your front line
+7. Secure an area promptly after invading to bring prisoners back alive.
+8. Capture enemies in battle by baiting them to attack your dungeon, making it easier to seize them when they fall.
+9. Quick torture can make defeated prisoners switch sides in a fight.
+10. Keep in mind that defeated prisoners die after 300 turns and can be shot, control your team to displace captives behind your front line
 
 Keeping control of the party
 ----------------------------
