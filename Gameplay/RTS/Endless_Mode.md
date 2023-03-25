@@ -6,14 +6,6 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
-Edited 3rd April 2018
----------------------
-
-When I first wrote this, I was expecting the game to end with
-back-to-back waves of red dragons, that cannot be captured. On the
-current version, I do not think this will actually ever happen. Let
-people know if I am wrong!
-
 Introduction to Endless Mode
 ----------------------------
 
@@ -110,6 +102,37 @@ Strategies for progressing in Endless Mode
     or sleep and just train.
 -   Get healers and spell casters
 -   Build up the very best possible team
+
+List of waves in endless mode:
+
+-   a curious bandit
+-   a lizardman scout
+-   an ant patrol
+-   a nest of lizardmen
+-   a gang of bandits
+-   an ant soldier patrol
+-   an alchemist's clay golems
+-   an alchemist's stone golems
+-   an ant soldier patrol
+-   an army of ants
+-   a group of ents
+-   a band of dwarves
+-   an alchemist's iron golems
+-   a dwarf tribe
+-   a patrol of archers
+-   a lonely knight
+-   a group of warriors
+-   an army of warriors
+-   an army of knights
+-   a cyclops
+-   a witchman
+-   a minotaur
+-   an elementalist
+-   a green dragon
+-   a red dragon
+-   a black dragon
+-   a group of adventurers
+-   a pack of trolls
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
