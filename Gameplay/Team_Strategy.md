@@ -94,8 +94,7 @@ Examples of riders:
 	witchman
 
 Steeds:
-1. Match the size of your rider
-2. Find a beast that can be used as a steed.
+Match the size of your rider to an appropriate beast. For instance, imps can ride rats, bats, and ravens, while goblins have the option to ride wolves and deer. Humans have a range of options that includes horses, ents, unicorns, minotaurs, and dragons.
 
 Examples of steeds:
 
