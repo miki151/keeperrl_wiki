@@ -122,14 +122,15 @@ Examples of steeds:
 Choosing the battlefield
 ------------------------
 
-1.  Work out what triggers your enemies and when they will and won't attack.
-2.  Consider taking them out by provoking an attack on your home dungeon.
-3.  Look out for fire creatures who may burn down your dungeon.
-4.  Single creatures can be outnumbered, Surround them in the open.
-5.  Fight armies in confined spaces where they can't surround you.
-6.  Remember to take prisoners.
-7.  Lure enemies out of their territory so you can capture them easily.
-8.  Take the fight to tough enemies to protect your keeper and dungeon
+1. Determine what triggers your enemies and their attack patterns
+2. Consider luring enemies to your home dungeon for an attack
+3. Watch out for fire creatures that may burn down your dungeon
+4. Surround single creatures in the open
+5. Fight armies in confined spaces to avoid being surrounded
+6. Protect your keeper and dungeon by taking the fight to tough enemies
+7. Capture prisoners during battles
+8. Lure enemies out of their territory to capture them more easily
+9. Keep in mind that defeated prisoners die after 300 turns and can be shot, control your team to displace captives behind your front line
 
 Keeping control of the party
 ----------------------------
