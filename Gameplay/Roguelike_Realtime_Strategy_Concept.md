@@ -72,7 +72,7 @@ Advice for RTS and Roguelike gaming in KeeperRL
 11. Knights are often the procedural generated end-boss.
 12. Eves can be difficult, you can use harpies equipped with night vision amulets during a night attack or just burn down their forest.
 13. After that it is retired dungeons of other players ranging from easier than knights to much, much tougher.
-14. This feeling: "Kinda sucks that an entire army is useless against a few legendary humanoids."
+14. You may encounter some enemies that pose a significant challenge even to an entire army.
 15. Rogue-like games traditionally involve an overpowered hero slaughtering armies of monsters. In KeeperRL, this can work in reverse.
 16. Your armies of monsters can get slaughtered by an overpowered opponent positioned in fortifications or narrow corridors.
 17. Ambush points such as at the bottom of staircases are a big possibility and are meant to be (not a bug).
