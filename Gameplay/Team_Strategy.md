@@ -129,7 +129,7 @@ Choosing the battlefield
 5.  Fight armies in confined spaces where they can't surround you.
 6.  Remember to take prisoners.
 7.  Lure enemies out of their territory so you can capture them easily.
-8.  Take the figtht to tough enemies to protect your keeper and dungeon
+8.  Take the fight to tough enemies to protect your keeper and dungeon
 
 Keeping control of the party
 ----------------------------
