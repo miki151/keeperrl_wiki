@@ -19,7 +19,7 @@ Each party member can have unique abilities and strengths. Take the time to unde
 
 Manage your inventory:
 
-Don't give out all the items to your followers. These are limited, so lead a party with a tough unit that carries and hands out supplies. Don't waste your healing items or buffs by giving them all to some stupid goblin. He will just waste them at the first opportunity to look after number one. Be prepared for the worst. Your leader can bring extra supplies, such as healing potions and scrolls, and make sure your party is well-equipped with weapons and armor. When you beat enemies, don't forget to loot them.
+By default, KRL allows minions to load up on any consumables they desire, making it difficult to control item distribution. However, it's still valuable to manage your inventory strategically. Consider forming a party led by a sturdy unit who can distribute supplies wisely. Limit party members from squandering healing items and buffs for personal gain on weaker enemies. While controlling consumables is a good idea, it does require additional management with the current UI. To ensure your party is always prepared for the worst-case scenario, you can equip your leader with extra supplies like healing potions and scrolls and provide your party with adequate weapons and armor. Remember to loot defeated enemies to improve your inventory as the invasion progresses.
 
 
 Retreat to safe areas to regain health and recharge your spells:
