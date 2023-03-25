@@ -80,7 +80,7 @@ Advice for RTS and Roguelike gaming in KeeperRL
 19. All your armies may be useless (they get slaughtered) against well organised defences.
 20. Leaving the game running during dinner to retrieve your equipment for the next invasion, is a bad idea when there are triggered villains.
 21. What you may have to do is to get one or more overpowered heroes of your own and kit him up with all the very best things.
-22. I recommend speed potions, healing potions, melee vulnerability and melee resistance potions and using all your enchantment scrolls on your best hero.
+22. Boost battle success with speed and healing potions, melee vulnerability/resistance potions, and using enchantment scrolls on your top hero.
 23. Look for weaponry that has special effects that the particular boss you are up against is vulnerable to.
 24. Perhaps take a few healers with you.
 25. A small elite team can often crack dungeons that armies cannot because of the huge advantages of fortifications, ambush points and defences.
