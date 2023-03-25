@@ -12,22 +12,23 @@ Creatures in KeeperRL have various different kinds of body. Their bodies are def
 The body material may result in yielding resources when you kill it. eg. Iron golems yeild iron. The various body materials are:
 
 
-FLESH: Has a brain, can copulate if approached, loses heads means death
-UNDEAD_FLESH: Has brain, undead, sunlight vulnerable, immune to poison, plague and bleeding
-SPIRIT: Affected by acid, immune to living ailments: poison, plague, bleeding, sleep, rest, satiation. Immune to being tied up and being entangled
-FIRE: Affected by acid, immune to living ailments, being tied up, being frozen or burnt and being entangled
-WATER: Immune to the living ailments (poison, plague, bleeding, sleep, rest and satiation)
-BONE: Undead, immune to poison, plague and bleeding
-ROCK: Affected by fire, immune to living ailments
-CLAY: Affected by fire, immune to living ailments
-WOOD: Flammable, immune to living ailments
-IRON: Affected by fire, immune to living ailments
-LAVA: Immune to fire and to living ailments
-ADAMANITE: Affected by fire, immune to living ailments
-GOLD: Affected by fire, immune to living ailments
-ICE: Immune to cold, immune to living ailments
-INFERNITE: Immune to fire, immune to living ailments
-ADOXIUM: Affected by fire, immune to living ailments
+
+* FLESH: Has a brain, can copulate if approached, loses heads means death
+* UNDEAD_FLESH: Has brain, undead, sunlight vulnerable, immune to poison, plague and bleeding
+* SPIRIT: Affected by acid, immune to living ailments: poison, plague, bleeding, sleep, rest, satiation. Immune to being tied up and being entangled
+* FIRE: Affected by acid, immune to living ailments, being tied up, being frozen or burnt and being entangled
+* WATER: Immune to the living ailments (poison, plague, bleeding, sleep, rest and satiation)
+* BONE: Undead, immune to poison, plague and bleeding
+* ROCK: Affected by fire, immune to living ailments
+* CLAY: Affected by fire, immune to living ailments
+* WOOD: Flammable, immune to living ailments
+* IRON: Affected by fire, immune to living ailments
+* LAVA: Immune to fire and to living ailments
+* ADAMANITE: Affected by fire, immune to living ailments
+* GOLD: Affected by fire, immune to living ailments
+* ICE: Immune to cold, immune to living ailments
+* INFERNITE: Immune to fire, immune to living ailments
+* ADOXIUM: Affected by fire, immune to living ailments
 
 
 - The categories of creatures in this section are examples of how all the body characteristics may work out in practice, but the underlying data relating to a creature is far more sophisticated.
