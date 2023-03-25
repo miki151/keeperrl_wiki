@@ -70,7 +70,7 @@ Advice for RTS and Roguelike gaming in KeeperRL
 9.  Armies will organise themselves with melee fighters on the front line backed by ranged attackers behind them.
 10.  Aim to take out enemy ranged units with your melee and take out enemy melee with ranged attacks.
 11. Knights are often the procedural generated end-boss.
-12. The elves should give you a bit of trouble.
+12. Eves can be difficult, you can use harpies equipped with night vision amulets during a night attack or just burn down their forest.
 13. After that it is retired dungeons of other players ranging from easier than knights to much, much tougher.
 14. This feeling: "Kinda sucks that an entire army is useless against a few legendary humanoids."
 15. Rogue-like games traditionally involve an overpowered hero slaughtering armies of monsters. In KeeperRL, this can work in reverse.
