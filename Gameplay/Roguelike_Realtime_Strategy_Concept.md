@@ -30,8 +30,8 @@ Facts about the Realtime Strategy Gaming
 8.  You develop technology as you defeat enemies and must gather resources and loot equipment.
 9.  Indirect control of your minions.
 10. Works as a dungeon management game.
-11. Neat interface.
-12. Good amount of complexity in the game design.
+11. The interface can navigate the map, select menus, and issue commands to minions. It doesn't become roguelike until controlling a minion.
+12. The game design has a good degree of complexity.
 13. The map is 3 dimensional meaning that you can dig out dungeons and build outside structures but also dig down a vertical axis to create lower dungeon z-levels. 
   
 Facts about Roguelike Gaming
