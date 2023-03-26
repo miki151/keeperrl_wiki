@@ -50,18 +50,18 @@ Strategies for Winning Endless Mode
 * Aim for legendary creatures, dopplegangers, vampire lords, adamantium kit, healing and speed potions.
 * Capture all humanoids and beasts that attack your dungeon.
 * Keep allied dungeons for now and clear other map sectors with a rogue-like party to capture powerful creatures like cyclops, vampire lords, and minotaur.
-* Convert the best minions like adventurers, minotaurs, witchmen, and knights as effectively as possible, since they get stronger with each wave. 
+* Convert the best minions like adventurers, minotaurs, witchmen, dragons and knights as effectively as possible, since they get stronger with each wave. 
 * Consider going on a turn-based adventure with your best minions, especially adventurers, to obtain artifacts or raid dark elf and gnome dungeons.
 * Remember that only 50% of prisoners survive torture and will join your team.
 * Stay ahead of the enemy waves to survive.
-* Build a large prison with multiple torture tables for fast conversion.
+* Build a large prison with multiple torture tables for breaking your prisoners into conversion quickly.
 * Keep weak prisoners to use as torturers for the others.
 * Research alchemical conversion to get adamantium earlier.
 * Obtain healing and speed potions from the brewery to give ranged units an advantage in combat.
 * Equip creatures captured from the previous wave with the best gear available.
 * Quickly train your minions in your dungeon, instructing them to focus only on training and not eating or sleeping.
 * Recruit healers and spellcasters.
-* Assemble the very best team possible for a better chance at victory.
+* Assemble the very best army possible for a better chance at victory.
 
 
 List of waves in endless mode:
@@ -94,6 +94,7 @@ List of waves in endless mode:
 -   a black dragon
 -   a group of adventurers
 -   a pack of trolls
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
