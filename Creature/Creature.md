@@ -6,39 +6,21 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
-Many of the creatures you will enocunter in KeeperRL are unique to the game and you won't find them in other games
+KeeperRL features many unique creatures that are exclusive to the game. These creatures won't be found in other games, which makes learning about them more interesting.
 
+Some of the creatures you'll come across will be immediately recognizable because they are stereotypical. For example, humans are often weak and inferior, but sometimes you'll find powerful mages or accomplished knights. Elves, on the other hand, are agile and dexterous, making them skilled archers. They're also highly intelligent and have a strong connection to woodland nature. Dwarves are quite strong and resilient, especially underground, and they're usually skilled in mining or crafting.
 
-Some of the creatures will be immediately familiar because they are stereo-typical:
+Other creatures are more fantastical. Dragons are incredibly powerful creatures with immense strength and magical abilities. They can breathe fire or other elements. Goblins, on the other hand, are usually smaller and weaker than other creatures, but they're often cunning and good with traps. Some of them become decent mages or shaman, while the stronger ones are more orc-like and make good warriors.
 
+Gnomes are small, humanoid creatures that are mischievous and curious. They're known for their technical skills and affinity for tinkering with machines and magical devices. Unicorns are horses with a single, spiraling horn. They're pure beings but are tough and magical, with a closeness to the spirit world. Giant animals are much larger than they are in the real world, ranging from oversized insects to humanoid giants. They're more dangerous and difficult to defeat.
 
-- Humans: Often rather weak and inferior, such as peseants but occasionally powerful mages or accomplished knights etc.
+Cyclops are a type of giant humanoid creature with a single eye in the center of their forehead. They're brutish and violent, with a love for battle and a short temper. Golems are creatures made of inanimate materials, such as clay or adamantium, that have been imbued with magical energy to come to life. Hydras are creatures with multiple heads, and chopping off just one head won't kill them.
 
-- Elves: Agilie and dexterous, making them skilled archers. Often highly intelligent with a strong connection to woodland nature.
+Zombies are undead creatures that are mindless, aggressive monsters that feel no pain and can lose body parts without bleeding. Stepping into the sunlight is fatal for them. Vampires, on the other hand, are undead creatures that feed on the blood of the living. They're sophisticated, often with magical powers and sometimes the ability to fly or use telepathy, but they also die in the sun. Finally, skeletons are mindless undead animated by magic that can survive the sun and make use of weapons and bows properly.
 
-- Dwarves: Quite strong, stout and resilient, especially underground. Uusally skilled in mining or crafting. 
+But KeeperRL also contains other creatures you may take an interest in. Other undead like mummies and abominations, spirits such as angels, Demons, ghosts, djinn, imps, tree spirits, dopplegangers, and a significant evil god named Adoxie who has his own cult. Kraken, harpies, lizardmen, trolls and yetis also make appearances.
 
-- Dragons: Powerful creatures with immense strength and magical abilities. They can breathe fire or other elements.
-
-- Goblins: Usually smaller and weaker than other creatures, but they are often cunning and can be good with traps. Some of them become decent mages or shaman and the stronger ones are more orc-like, being tougher, and making them good warriors.
-
-- Gnomes: Small, humanoid creatures and mischievous and curious. Known for their technical skills and affinity for tinkering with machines and magical devices.
-
-- Unicorns: Horses with a single, spiraling horn. Pure beings but tough and magical with a closeness to the spirit world.
-
-- Giant animals: Much larger than they are in the real world. They can range from oversized insects to humanoid giants. More dangerous and difficult to defeat.
-
-- Cyclops: A type of giant humanoid creature with a single eye in the center of their forehead. They are brutish and violent, with a love for battle and a short temper.
-
-- Golems: Creatures made of inanimate materials, such as clay or adamantium, that have been imbued with magical energy to come to life.
-
-- Hydra: A creature with multiple heads. Chopping off just one head is not going to kill them.
-
-- Zombies: Undead creatures that are mindless, aggressive monsters that feel no pain and can lose body parts without bleeding. Stepping into the sunlight is fatal for them.
-
-- Vampires: Undead creatures that feed on the blood of the living. Sophisticated, often with magical powers and sometimes the ability to fly or use telepathy but also die in the sun.
-
-- Skeletons: Mindless undead animated by magic that can survive the sun and make use of weapons and bows properly.
+You may one day meet a curious character known as "softmonster" who very rarely appears in the game.
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
