@@ -36,9 +36,9 @@ Some of the creatures will be immediately familiar because they are stereo-typic
 
 - Zombies: Undead creatures that are mindless, aggressive monsters that feel no pain and can lose body parts without bleeding. Stepping into the sunlight is fatal for them.
 
-- Vampires: Undead creatures that feed on the blood of the living. Sophisticated, often with magical powers and sometimes the ability to fly or use telepathy. Die in the sun.
+- Vampires: Undead creatures that feed on the blood of the living. Sophisticated, often with magical powers and sometimes the ability to fly or use telepathy but also die in the sun.
 
-Skeletons: Mindless undead animated by magic that can survive in the sun and make use of weapons and bows properly.
+- Skeletons: Mindless undead animated by magic that can survive the sun and make use of weapons and bows properly.
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
