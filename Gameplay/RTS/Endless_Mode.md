@@ -17,7 +17,7 @@ Introduction to Endless Mode
 * Strategies for progressing in the mode include building an army of minions, capturing various enemy types, and managing the prison population.
 * In addition to defending your dungeon, you can also take your minions on adventuring missions to other map sectors for loot, experience, and prisoners.
 * These missions occur in a moment, allowing you to interrupt real-time dungeon management with rogue-like gameplay. Your dungeon will not be attacked while
-  you are away, however, losses sustained during these missions will also affect your abilty to defend you base.
+  you are away, however, losses sustained during these missions will also affect your abilty to defend your base.
 
 
 Phases in an Endless Mode game
