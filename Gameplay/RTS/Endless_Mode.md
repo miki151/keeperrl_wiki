@@ -24,7 +24,7 @@ Phases in an Endless Mode game
 ------------------------------
 
 I have split the endless mode game-play into two phases, the start and
-end game.
+end game. The third step is about retiring your dungeon.
 
 
 In the first phase of the game, you start by building your dungeon from scratch and setting traps while facing a few extra enemies such as bandits or Lizardmen. The objective is to get a functional dungeon with enough weapons, armor, consumables, rooms, lighting, installations, prisoners, and minions. This phase ends when the waves become too tough to beat, and your better minions will start to max out.
