@@ -6,27 +6,19 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
+
 Introduction to Endless Mode
 ----------------------------
 
--   The endless mode is all about defending your dungeon against
-    incoming waves of attackers, trying to survive for as long as
-    possible.
--   Each wave will tend to be stronger than the last
--   You get mana rewards for resisting each attack wave.
--   Attack waves are randomised but are balanced for similar difficulty
-    in each game.
--   Endless Mode has a separate highscore for longest survival.
--   It is still possible to take your minions adventuring in other map
-    sectors on the master map (and there are big benefits to doing
-    this).
--   The escapades you experience on other map sectors happen in a
-    moment, so that you can return to defend your dungeon without having
-    lost any time and without being attacked. Your dungeon score is
-    frozen until you return to defend your main base map again. This
-    allows you to interrupt the real time dungeon management with
-    episodes of rogue-like gameplay. You can bring back loot, gain mana
-    and gain prisoners from these dark deeds.
+* Endless mode in the game is a form of survival mode, with the aim of surviving against waves of attackers for as long as possible.
+* The difficulty of each wave is balanced, even though they are randomized. Each wave will tend to be stronger than the last.
+* The player earns dungeon level experience rewards for successfully resisting each attack wave.
+* The game eventually stops generating waves after an extended period, and the player wins if they manage to survive until then.
+* Strategies for progressing in the mode include building an army of minions, capturing various enemy types, and managing the prison population.
+* In addition to defending your dungeon, you can also take your minions on adventuring missions to other map sectors for loot, experience, and prisoners.
+* These missions occur in a moment, allowing you to interrupt real-time dungeon management with rogue-like gameplay. Your dungeon will not be attacked while
+  you are away, however, losses sustained during these missions will also affect your abilty to defend you base.
+
 
 Phases in an Endless Mode game
 ------------------------------
@@ -34,74 +26,43 @@ Phases in an Endless Mode game
 I have split the endless mode game-play into two phases, the start and
 end game.
 
-1.  The game starts as any normal keeper campaign game would start. You
-    build your dungeon up from scratch. There are a few extra enemies
-    dropping in, such as an odd bandit or Lizardman but otherwise, is
-    about building the base up and setting some traps. Getting a
-    functioning dungeon with enough weapons, armour, consumables,
-    dungeon rooms, flooring, lighting, installations, prisoners and
-    minions. This phase of the game tends to end when you have a powered
-    up doppleganger or converted prisoner that can take out the campaign
-    map. However, the enemies are getting too tough for it to beat. The
-    better minions will get to about +45 attack and +45 defense.
-2.  The second phase of the game tends to be about building up an army
-    of converted invaders. Any doppleganger(s) take a back seat.
-    However, you still need goblins to build traps quickly and shaman
-    and vampires to do healing magics. The adamantium golems need to be
-    destroyed to get the best weapons and armour for your new converts.
-    You need minions that can manage the prison population without
-    rebellion. However, immigrants that don't craft or dig or do magic
-    are not much use except for keeping your prisoners.
-3.  The game stops generating waves at turn 100k (I think). You have won
-    if you get here.
 
-Strategies for progressing in Endless Mode
-------------------------------------------
+In the first phase of the game, you start by building your dungeon from scratch and setting traps while facing a few extra enemies such as bandits or Lizardmen. The objective is to get a functional dungeon with enough weapons, armor, consumables, rooms, lighting, installations, prisoners, and minions. This phase ends when the waves become too tough to beat, and your better minions will start to max out.
 
--   In the early game build your dungeon as you normally would in a
-    campaign game but remember there is time pressure.
--   Go adventuring as soon as practical and capture elven archers, human
-    archers or driads. You need these for clearing waves of golems that
-    are weak to ranged attacks.
--   You need to hunt these archers with a bat on your team for its
-    superior vision, otherwise an arrow is likely to come flying out of
-    nowhere and kill you!
--   Take some regular workers captive to mine out your dungeon quicker.
--   Get some undead in your dungeon. Lizardmen normally attack near the
-    beginning and poison regular troops.
--   Build boulder traps next to web traps to defend (This strategy
-    should get you through to mid-game before you run out of stone).
--   Aim for legends, dopplegangers, vampire lord, adamantium kit,
-    healing and speed potions
--   Also aim to capture all humanoids that attack your dungeon
--   Keep the allied dungeons for now. Get a rogue-like party together
-    and clear the other map sectors. Capture cyclops, vampire lords and
-    minotaur from other map sectors.
--   The best minions are adventurers, minotaurs, witchmen, lizardmen,
-    knights, warriors, cyclops and invading ogres. These get better and
-    better each wave.
--   Consider going on a turn-based adventure with a handful of your best
-    minions, especially adventurers. Dark elf and gnome dungeons are
-    good. Go for artifacts in particular.
--   Remember only 50% of prisoners survive the torture and will join
-    you.
--   Stay alive by keeping ahead of the enemy waves.
--   You need a big prison with lots of torture tables so that you have a
-    fast turnaround on your conversion scheme.
--   If you keep a few weak prisoners, you can use them to torture the
-    other prisoners
--   Recruit 1 or maybe 2 packs of wolves to manage your large prison
-    population.
--   Consider researching alchemical conversion to get hold of a little
-    adamantium earlier on
--   Healing and speed potions from the brewery. Speed advantage means
-    that if you don't get cornered, you can usually avoid getting hit.
--   Kit up creatures you tortured from the wave before with the best
-    possible stuff.
--   Train those minions up in your dungeon quickly. Tell them not to eat
-    or sleep and just train.
--   Get healers and spell casters
--   Build up the very best possible team
+
+The second phase of the game is focused on building up an army of converted invaders while your earlier armies and normal recruits take a back seat. However, you still need certain minions such as goblins for trap-building and shaman/priests for healing magic. To get the best weapons and armor, you need to destroy adamantium golems, which can be challenging while fighting off invaders. Additionally, you need minions who can manage the prison population without causing rebellion. Immigrants who don't craft, dig, or do magic will be less useful except for boosting army numbers and keeping your prisoners.
+
+
+The third and final phase of the game occurs when the waves eventually stop generating, usually around turn 100k. Winning the game means getting to this point and defeating Adoxie. Your dungeon should be extremely powerful by now, and all that remains is to retire it.
+
+
+Strategies for Winning Endless Mode
+-----------------------------------
+
+* Factions with the ability to convert prisoners have a massive advantage, don't consider other factions as winnable.
+* In the early game, focus on building your dungeon quickly while keeping in mind the time pressure.
+* Capture elven archers, human archers or driads early on to help clear waves of golems weak to ranged attacks.
+* Increase your dungeon population to win some invasions with open battle tactics and a large army.
+* Hunt diads and elves at night with night vision or elf vision to avoid being killed by arrows. Bats can help with surveillance.
+* Take regular workers captive to mine out your dungeon faster.
+* Include undead in your dungeon to combat early lizardman attacks.
+* Build boulder traps next to web traps for defense, at least until stone becomes scarce.
+* Aim for legendary creatures, dopplegangers, vampire lords, adamantium kit, healing and speed potions.
+* Capture all humanoids and beasts that attack your dungeon.
+* Keep allied dungeons for now and clear other map sectors with a rogue-like party to capture powerful creatures like cyclops, vampire lords, and minotaur.
+* Convert the best minions like adventurers, minotaurs, witchmen, and knights as effectively as possible, since they get stronger with each wave. 
+* Consider going on a turn-based adventure with your best minions, especially adventurers, to obtain artifacts or raid dark elf and gnome dungeons.
+* Remember that only 50% of prisoners survive torture and will join your team.
+* Stay ahead of the enemy waves to survive.
+* Build a large prison with multiple torture tables for fast conversion.
+* Keep weak prisoners to use as torturers for the others.
+* Research alchemical conversion to get adamantium earlier.
+* Obtain healing and speed potions from the brewery to give ranged units an advantage in combat.
+* Equip creatures captured from the previous wave with the best gear available.
+* Quickly train your minions in your dungeon, instructing them to focus only on training and not eating or sleeping.
+* Recruit healers and spellcasters.
+* Assemble the very best team possible for a better chance at victory.
+
 
 List of waves in endless mode:
 
