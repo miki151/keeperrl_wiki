@@ -6,24 +6,12 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
-There are better links available, If anyone would update.
+This page is in honour of Nat20, a great streamer who did youtube videos for keeper a long time ago.
+Thanks Nat!
 
-------------------------------------------------------------------------
+There are heaps of new videos to look at. Try a search like this:
 
-Old&lt;----
-
-[Understanding the Basics](https://www.youtube.com/watch?v=U5SQ2IHgFaw)
-(Alpha 10) Note that this was many releases ago.
-
-Here is a series of videos where I explain in real time how to play
-
-For some reason the wiki wont let me put links in anymore, I got new
-vids on the same channel from the other links.
-
-Older&lt;----
-
-[How to Build a Functional
-Dungeon](https://www.youtube.com/watch?v=sJPriZG976M) (Alpha 9)
+<https://www.youtube.com/results?search_query=keeperrl>
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
