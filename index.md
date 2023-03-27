@@ -7,10 +7,13 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")
 
 <img align="center" src="logo-big.png">
-A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes. An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, goblins or others who want to establish themselves as king. Set in a medieval world with magic, the challenge is conquering the realms while building a fortress or keeping a mountain dungeon capable of surviving the counter-attacks from the other colonies. 
+A mixture between a Real Time Strategy game, where you manage a dungeon and a rogue-like where you take one character or a party of characters from your dungeon on an assault of enemy tribes
 
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
+<h3 align="left">
+An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, goblins or others who want to establish themselves as king. Set in a medieval world with magic, the challenge is conquering the realms while building a fortress or keeping a mountain dungeon capable of surviving the counter-attacks from the other colonies. 
+</h3>   
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
