@@ -12,7 +12,6 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
 </h1>   
-An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, goblins or others who want to establish themselves as king. Set in a medieval world with magic, the challenge is conquering the realms while building a fortress or keeping a mountain dungeon capable of surviving the counter-attacks from the other colonies. 
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
@@ -27,7 +26,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a><br/>
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
 </h3>
-
+An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, goblins or others who want to establish themselves as king. Set in a medieval world with magic, the challenge is conquering the realms while building a fortress or keeping a mountain dungeon capable of surviving the counter-attacks from the other colonies. 
 <br/>
 <img src="Keeper_east.png" title="fig:\Keeper_east.png" alt="Keeper_east.png" width="100" />
 <img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
