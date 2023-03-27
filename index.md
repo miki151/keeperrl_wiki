@@ -11,7 +11,6 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
-</h1>   
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
@@ -32,7 +31,6 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <img src="Keeper_east.png" title="fig:\Keeper_east.png" alt="Keeper_east.png" width="100" />
 <img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
 <br/>
-
 <hr>
 -   [The story so far...](/keeperrl_wiki/Historical_Mythos "wikilink")
 <hr>
