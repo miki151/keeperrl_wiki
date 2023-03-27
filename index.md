@@ -11,9 +11,8 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 
 <h1 align="center">KeeperRL Community Wiki - Main Page</h1>
 <hr>
-<h3 align="left">
+</h1>   
 An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, goblins or others who want to establish themselves as king. Set in a medieval world with magic, the challenge is conquering the realms while building a fortress or keeping a mountain dungeon capable of surviving the counter-attacks from the other colonies. 
-</h3>   
 <br/>
 <h1 align="center">Welcome</h1>
 <br/>
