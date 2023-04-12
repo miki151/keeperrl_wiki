@@ -12,89 +12,85 @@ Full change log
 Gameplay Changes
 ----------------
 
+-   Mods and retired dungeons are shared on Steam Workshop.
+-   Contagious plague effect.
+-   Z-level enemies can attack upon being discovered.
+-   Enemy aggression can be tweaked in settings.
+-   Spying effect, which allows infiltrating enemy territory.
+-   Equipped shield prevents equipping bows and two-handed weapons.
+-   New “parry” attribute, which prevents de-buffs when surrounded by enemies.
+-   Temporarily insane creatures won’t make allies hostile forever.
+-   All consumable items are automatically picked up by minions.
+-   Creatures with 0 ranged damage can’t equip bows.
+-   Poetry writing.
+-   Creatures can’t cast spells at enemies that they can’t see.
+-   Bodies of water can become bloody after a large battle.
+-   Items can have randomized modifiers.
+-   Walking into the map border opens the travel menu.
+-   Other furniture can be built on top of prison floor.
 
--   Dark knight, a new Keeper character focused on melee skills.
--   Digging moats.
--   Added “ego” items with special effects, which can be crafted by
-    extraordinarily talented, and usually also insane minions.
--   Added special minions with extra positive or negative buffs.
--   All AI, including enemies, can use portals when navigating around.
--   Worker AI will pick up items from multiple tiles before hauling them
-    back.
--   Beast minions don’t trigger enemies with their attacks.
--   Equipping, picking up, and dropping equipment doesn’t use up turn.
--   Enemy AI will construct bridges if they’re cut off by water.
--   Added “stand ground”, and “ignore enemies” team orders.
--   Removed the “proximity” trigger from cyclops.
--   Every creature has separate combat experience independent of
-    training.
--   Entire wolf pack takes up one population spot.
--   Vampire lord is stronger.
--   Adamantium golems are vulnerable to magic.
--   Added “fireball” spell.
--   Dwarves and ants won’t attack after player mines in their vicinity
-    but, not breaching their mineral veins.
--   Bridges can be removed.
--   Escape spell teleports away from fire.
--   All prisoners can construct furniture.
--   Added potions of melee and spell vulnerability.
--   Added night vision mushrooms.
--   Added stone statue, which increases population by up to 4.
--   Summoned creatures, like flies, aren’t automatically added to
-    current team.
--   Changes in the building menu: bridge moved to “Structure”. Changed
-    some hotkeys.
--   Creature’s can pick up a single heavy item over their carry limit.
--   Up to 4 prisoners are allowed without having a prison built.
--   Tunnels can be filled up with hard rock.
--   Allowed building fountains in the dungeon.
--   Summoned creatures disappear when summoner is knocked-out.
--   Villains won’t launch attacks with undead minions during the day.
--   Removed the scroll of darkness and made the vampire lord a permanent
-    darkness source.
--   All prisoners are poison resistant.
--   Dogs and other animals can be petted. AI will also pet animals
-    sometimes.
+Content
+-------
 
-Interface Changes
------------------
+-   Special item ingredients: hydra tongue, cyclops brain, dragon scales, and more.
+-   Iron and adamantine shields.
+-   Wizard hats a’ka Cornuthaums.
+-   Underground treeshrooms for players who always run out of wood.
+-   Desert biome with thieves castle and a djinn in a dungeon.
+-   Snow biome with Eskimos and a white dragon.
+-   Totems that have a permanent area effect: healing, blindness, bleeding.
+-   Evil God Adoxie is in vanilla game with his own secret level!
+-   Double trouble unique ability.
+-   Black rats infected with plague z-level.
+-   Group healing spell affects only allies.
 
--   New villains UI with attack and trigger notifications, easier
-    pillaging and browsing villains.
--   New animated sprites for water, lava, torches, fountain.
--   Animations for melee attacks and creature death.
--   New sprites for zombie, bears, and the warriors tribe.
--   Creature’s health percentage is displayed in map legend.
--   Immigrants first name is displayed in immigrant menu.
--   New UI for selecting numbers.
--   Added music and sfx volume controls.
--   Added an in-game bug reporting menu.
--   Message boards can be viewed in real-time mode by clicking on them.
--   Icons of all items lying on the ground or in a creature’s possession
-    are displayed in map legend.
--   Portals are colored based on their pairing.
+Modding
+-------
+
+-   Items are moddable.
+-   BuildingInfo is moddable.
+-   Z-level width is moddable.
+-   Items can grant a custom ability.
+-   Creature first names are moddable.
+-   More than 10 keeper/adventurer avatars are allowed
+-   Game doesn’t crash when mod specifies skill level outside of [0;1] range.
+-   New effect types: Chance, Message, Enhance, Wish, Filter, Ice, IMMOBILE, FROZEN, COLD_RESISTANCE
+-   Creatures can drop custom items (body parts).
+
+UI
+--
+
+-   Improved mod menu.
+-   Added “locate” button to minion page.
+-   Rectangle selection on the map shows rectangle dimensions.
+-   Uploaded dungeons include a screenshot of an area chosen by the dungeon’s author.
+-   Main menu and loading bar visual changes.
+-   Added warning when online features are disabled and trying to download maps/mods.
+-   Main menu can display personal messages from the developer.
+-   Added item effect description to item’s tooltip.
+-   Added some handy links to the main menu.
+-   Return key closes text windows.
 
 Fixes
 -----
 
--   Improved late game framerate.
--   Fixed attacker AI issues which caused them to never reach the
-    player.
--   Fixed lighting glitch related to trees being destroyed while on
-    fire.
--   Fixed issue with bogus “enter tile?” warning after tile is no longer
-    on fire.
--   Fixed kraken’s behavior.
--   Fixed spell and buff timeouts are on retired keeper maps.
--   Doppelganger no longer absorbs some effects that didn't make sense,
-    like “collapsed”, “stunned”, etc.
--   Placing traps on top of doors and other furniture is not allowed.
--   Game will create a directory for save files if it doesn’t exist.
--   Tile memory is updated when items are pillaged using the villain
-    menu.
--   Fixed tiny glitches when rendering fog-of-war.
--   Made it impossible to retire in the tutorial.
--   Fixed crash caused by enslaving the same retire creature twice.
+-   Gameplay loop optimizations.
+-   Fixed spell schools of legendary humanoids.
+-   Limited immigrant spawning to the ground level if possible.
+-   Fixed issue with placing the smaller castle in bad position on the map.
+-   Fixed rare crash when removing nonexistent team member in control mode.
+-   Added diagnostics for a rare fire wall processing crash.
+-   Fixed crash when using PlaceMinion order and creature can’t be placed at position.
+-   Fixed scrolling to the end of message history window.
+-   Fixed crash when multiple special attack effects kill a creature.
+-   Fixed friendly fire issue when casting ranged spells.
+-   Fixed issue with first name input field in the keeper menu.
+-   Fixed verification of ViewIds in mods.
+-   AI won’t throw items other than potion for their effect.
+-   Flying over pits is possible.
+-   Forbidden zone doesn’t block spells.
+-   Fixed AI throwing logic.
+-   Fixed special intrinsic attacks of some creatures.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 

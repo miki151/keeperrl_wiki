@@ -12,88 +12,68 @@ Full change log
 Gameplay
 --------
 
--   Dark knight, a new Keeper character focused on melee skills.
--   Digging moats.
--   Added “ego” items with special effects, which can be crafted by
-    extraordinarily talented, and usually also insane minions.
--   Added special minions with extra positive or negative buffs.
--   All AI, including enemies, can use portals when navigating around.
--   Worker AI will pick up items from multiple tiles before hauling them
-    back.
--   Beast minions don’t trigger enemies with their attacks.
--   Equipping, picking up, and dropping equipment doesn’t use up turn.
--   Enemy AI will construct bridges if they’re cut off by water.
--   Added “stand ground”, and “ignore enemies” team orders.
--   Removed the “proximity” trigger from cyclops.
--   Every creature has separate combat experience independent of
-    training.
--   Entire wolf pack takes up one population spot.
--   Vampire lord is stronger.
--   Adamantium golems are vulnerable to magic.
--   Added “fireball” spell.
--   Dwarves and ants won’t attack after player mines in their vicinity
-    but, not breaching their mineral veins.
--   Bridges can be removed.
--   Escape spell teleports away from fire.
--   All prisoners can construct furniture.
--   Added potions of melee and spell vulnerability.
--   Added night vision mushrooms.
--   Added stone statue, which increases population by up to 4.
--   Summoned creatures, like flies, aren’t automatically added to
-    current team.
--   Changes in the building menu: bridge moved to “Structure”. Changed
-    some hotkeys.
--   Creature’s can pick up a single heavy item over their carry limit.
--   Up to 4 prisoners are allowed without having a prison built.
--   Tunnels can be filled up with hard rock.
--   Allowed building fountains in the dungeon.
--   Summoned creatures disappear when summoner is knocked-out.
--   Villains won’t launch attacks with undead minions during the day.
--   Removed the scroll of darkness and made the vampire lord a permanent
-    darkness source.
--   All prisoners are poison resistant.
--   Dogs and other animals can be petted. AI will also pet animals
-    sometimes.
+-   Merged "campaign", "free play" and "endless" modes. Endless enemy waves can be set to attack after winning the game or from the start.
+-   Improved the spell system, with multiple spell schools and many added spells.
+-   Demon rituals are now performed by regular minions in order to attract demons and to heal them.
+-   Improved AI for spell casting and potion throwing.
+-   Spirit/ghost creatures have a separate health type, called materialization, with dedicated health potions and can be healed using demon rituals.
+-   Healer team member AI does a better job at not engaging in fights.
+-   Added rare spawning of the village guardian aka "witchman".
+
+Content
+-------
+
+-   Black dragon enemy.
+-   Gates/double doors.
+-   Fire trap.
+-   Orc healer minion
+-   Orc shaman renamed to orc mage.
+-   Battle mage and fire mage minions for the White Keeper.
+-   Fighter abilities: "swap positions" and "shove".
+-   Reworked "summon spirit" spell of the shaman and unicorns to summon ghosts of actual creatures.
+-   Healing and Heal other spells have been merged into a single spell with two upgrades.
+-   Group healing spell.
+-   Cure blindness spell.
+-   Magic missile spell upgrades.
+-   Teleport spell.
+-   Pacify spell.
+-   Magic cancellation spell and effect, preventing another creature from casting spells.
+-   Pull spell.
+-   Firewall spell.
+-   Magical damage ring, which transforms melee damage of a creature into magical damage during a fight.
+
+Modding
+-------
+
+-   Added a new mod menu that allows downloading mods from the server.
+-   Added support for adding new sprites in mods.
+-   Campaign and endless enemies are now moddable.
+-   All furniture, traps and other constructions are moddable.
+-   Better support for creative or "cheating" modes: placing minions, and items, and immediate digging in the building menu.
+-   Improved reporting errors in mods.
+-   Retired dungeons contain information on which mods are required to load them.
+-   Some sprites, such as all of the keeper sprites, support color variants without having to modify the sprite itself.
+-   Added support for "magical floors" that cause a "LastingEffect" on the creature standing on them.
 
 UI
 --
 
--   New villains UI with attack and trigger notifications, easier
-    pillaging and browsing villains.
--   New animated sprites for water, lava, torches, fountain.
--   Animations for melee attacks and creature death.
--   New sprites for zombie, bears, and the warriors tribe.
--   Creature’s health percentage is displayed in map legend.
--   Immigrants first name is displayed in immigrant menu.
--   New UI for selecting numbers.
--   Added music and sfx volume controls.
--   Added an in-game bug reporting menu.
--   Message boards can be viewed in real-time mode by clicking on them.
--   Icons of all items lying on the ground or in a creature’s possession
-    are displayed in map legend.
--   Portals are colored based on their pairing.
+-   Added a search box and other improvements to the list of retired dungeons.
+-   Improved player name entry text field.
 
 Fixes
 -----
 
--   Improved late game framerate.
--   Fixed attacker AI issues which caused them to never reach the
-    player.
--   Fixed lighting glitch related to trees being destroyed while on
-    fire.
--   Fixed issue with bogus “enter tile?” warning after tile is no longer
-    on fire.
--   Fixed kraken’s behavior.
--   Fixed spell and buff timeouts are on retired keeper maps.
--   Doppelganger no longer absorbs some effects that didn't make sense,
-    like “collapsed”, “stunned”, etc.
--   Placing traps on top of doors and other furniture is not allowed.
--   Game will create a directory for save files if it doesn’t exist.
--   Tile memory is updated when items are pillaged using the villain
-    menu.
--   Fixed tiny glitches when rendering fog-of-war.
--   Made it impossible to retire in the tutorial.
--   Fixed crash caused by enslaving the same retire creature twice.
+-   Multiple optimizations for larger dungeons.
+-   Online highscores are not downloaded anymore at the start of the game to improve startup time.
+-   Made White Keeper animals visible in minions tab and obey quarters.
+-   Fixed splitting team if undead team members can't travel due to daylight.
+-   Fixed a bug that caused traveling team members to be transferred back to base randomly.
+-   Fixed base retirement crashes.
+-   Fixed showing gender names in character menu.
+-   Fixed issue with increasing adventurer training levels beyond limits.
+-   Fixed gas emitting in poison gas trap.
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
