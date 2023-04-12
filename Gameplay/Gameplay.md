@@ -6,8 +6,6 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
-	
- Major Gameplay Features:
 
 Major Gameplay Features:
 
