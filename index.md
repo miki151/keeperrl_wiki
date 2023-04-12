@@ -93,7 +93,7 @@ Release History Guide
 -   [Alpha35](/keeperrl_wiki/Alpha35 "wikilink") | Rebalanced combat favouring armies on the open battlefield
 -   [Alpha34](/keeperrl_wiki/Alpha34 "wikilink") | Introducing Steeds and riders
 -   [Alpha33](/keeperrl_wiki/Alpha33 "wikilink") | Introducing Dwarf Keepers
--   [Alpha32](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Combat formations
+-   [Alpha32](/keeperrl_wiki/Alpha32 "wikilink") | Introducing Combat formations
 -   [Alpha31](/keeperrl_wiki/Alpha31 "wikilink") | Introducing Warlord raids
 -   [Alpha30](/keeperrl_wiki/Alpha30 "wikilink") | Introducing Gnome Keepers
 -   [Alpha29](/keeperrl_wiki/Alpha29 "wikilink") | Introducing Steam workshop integration
