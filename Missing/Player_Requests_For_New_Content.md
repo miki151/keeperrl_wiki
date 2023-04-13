@@ -6,7 +6,8 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
-This article has gone missing.
+KeeperRL is a game that allows players to request new features for the game on its Discord server on the ideas channel. This is a great way for players to give feedback and suggest improvements to the game. The developer of KeeperRL is active on the server and often responds to player requests, giving players a direct line of communication with the development brains. Players can post their ideas on the ideas channel, and other players can vote on them to show their support. The developer then reviews the ideas with the most votes and considers implementing them in future updates. This system allows for a collaborative development process between the developer and the player community, resulting in a game that is tailored to the wants and needs of its players.
+
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
