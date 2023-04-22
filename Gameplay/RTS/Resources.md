@@ -9,47 +9,51 @@ layout: wiki
 In KeeperRL the amount of resources you have is *limited*: trees don't
 grow back, all ores are shown. Through the use of alchemy there is an
 exception with [gold](/keeperrl_wiki/Gold "wikilink") being used to turn
-into other materials.
+into other materials; iron, adamantium, adoxium, and infernite equipment can be recycled at a Furnace to recover half their cost in ore.
 
-To gather resources you have to select them the *Dig or cut tree* tool.
-Your [imps](/keeperrl_wiki/Imp "wikilink") will then start to harvest the resource and
+To gather resources you have to select them using the *Dig or cut tree* tool.
+Your [imps](/keeperrl_wiki/Imp "wikilink") and other workers will then start to harvest the resource and
 carry it to your [stockpiles](/keeperrl_wiki/Storage "wikilink").
 
+All resources can be haphazardly stored in a "Resources" stockpile zone, without penalty.
+Additional stockpiles can help speed acquisition as your miners will drop fresh deliveries at the nearest stockpile.
+There is no need for a specific stockpile or container for any particular resource.
+
 <img src="/keeperrl_wiki/Resources-screenshot.png" title="fig:/keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki/Resources-screenshot.png" width="500" />
-Left to right: Gold, wood, iron, adamantium, stone, mana
+Left to right: Gold, wood, iron, stone, adamantium, adoxite, infernite.
+(Needs a current screenshot)
 
 Gold
 ----
 
 *You get gold by mining gold veins.*
 
-You need to store gold pieces in a [treasure
-chest](/keeperrl_wiki/Treasure_Chest "wikilink").
+You can store gold pieces in a [treasure
+chest](/keeperrl_wiki/Treasure_Chest "wikilink"), if you like.
 
-Gold is used to build [statues](/keeperrl_wiki/Statue "wikilink"). It is
-the only way to seriously increase your population cap. Hoarding too
+Gold is usually used to build [statues](/keeperrl_wiki/Statue "wikilink"), and can also be used to recruit specialized units and purchase goods from certain factions.
+It is the only way to seriously increase your population cap. Hoarding too
 much gold will attract [bandits](/keeperrl_wiki/Bandit "wikilink"), and the throne
 itself makes your neighbors hate you more.
 
-The alternative but surefire way of getting gold is by *luring
-attackers* into your keep and taking the ore from the bloody corpses, as
-they very often carry their purse with them. A defensive keep strategy
-will easily score a big gold count.
+Some units carry gold, but not many and not a lot of it.  Building a solid defense will no longer farm gold from enemy dead.
+(Their settlements may have pleasantly-stocked treasuries, though.)
 
 Wood
 ----
 
-*You get wood by chopping down trees or bushes.*
+*You get wood by chopping down trees or bushes. Giant treeshrooms may be available underground, too.*
 
 The amount of wood planks per tile is more from trees than from bushes.
 
 Wood is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") (/keeperrl_wiki/3
 of them) and [installations](/keeperrl_wiki/Installations "wikilink"), like
 [doors](/keeperrl_wiki/Door "wikilink"),
-[bridges](/keeperrl_wiki/Bridge "wikilink"), etc. It's the first
-resource you are gonna need as it takes some wood per
-[library](/keeperrl_wiki/Library "wikilink") bookcase, enabling
-[research](/keeperrl_wiki/Technologies "wikilink").
+[bridges](/keeperrl_wiki/Bridge "wikilink"), etc. While wooden furniture is not very efficient, it is what gets your dungeon started.
+Making do without early wooden furniture (the Workshop, along with beds, bookshelves, and training dummies) is possible, but difficult.
+
+Later on, you'll want wood to build archery targets & the bows to go with them, as well as beast cages for steeds and werewolves.
+Wood is required for your dining areas (hay for beasts, tables for humanoids).  It's not *just* a starter resource.
 
 Iron
 ----
@@ -60,8 +64,10 @@ The amount of iron ore per tile is randomized somewhat.
 
 Iron is used to build [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), usually with
 a military theme, such as the [training
-room](/keeperrl_wiki/Training_Room "wikilink"), the
-[forge](/keeperrl_wiki/Forge "wikilink").
+room](/keeperrl_wiki/Training_Room "wikilink"), and the
+[forge](/keeperrl_wiki/Forge "wikilink").  Your prison also uses quite a bit of iron.
+
+Further, iron furniture is required to recruit useful troops like Harpies and Werewolves, along with providing solid amounts of training.
 
 Adamantium
 ----------
@@ -69,29 +75,37 @@ Adamantium
 *You get adamantium by mining ore veins.*
 
 Adamantium is used to build special dummies and finer, sharper, better
-weapons and armour than iron. Naturally occurring veins are guarded by
-golems that will wreck an unsuspecting keeper.
+weapons and armour than iron. Naturally occurring veins can be guarded by
+golems that will wreck an unsuspecting keeper, but such golems can also be wrecked and their component adamantium can be harvested by keepers who
+prepare for the possibility.
 
 Stone
 -----
 
 *You get stone by mining granite veins.*
 
-Stone is used to build 2 [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"): the
+Stone is used to build several [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), such as the
 [graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
-[laboratory](/keeperrl_wiki/Laboratory "wikilink"). It is needed for
-flooring.
+[laboratory](/keeperrl_wiki/Laboratory "wikilink").  The furnace is also made from stone.
+It is needed for flooring and other structural uses, such as filling in liquid tiles, safely bridging lava, constructing and reinforcing walls, etc.
+It's usually worthwhile to dig more stone; there's always something useful it can do.
 
-Mana
+Adoxium
 ----
 
-''You harvest mana by destroying an entire tribe
+*You get adoxium by mining adoxium veins.*
 
-In free-play mode, you can get mana from studying in the library, if
-this option is turned on during the game setup.
+Adoxium is a particularly magically-active form of adamantium, useful for making armor and magical staves that greatly reduce spell-recharge time and offer top
+protection: almost as good as the most sumptous of cornuthaums, but much less "Squishy".
+As such, it's prized by Evil Wizards and high priests, but not particularly important for doughty and stalwart melee fighters.
 
-Mana is used to do [research](/keeperrl_wiki/Technologies "wikilink") and build your
-[throne](/keeperrl_wiki/Throne "wikilink") once you can.
+Infernite
+----
+
+*You get infernite by mining infernite veins.*
+
+Infernite is another magically-active metal, useful chiefly for making weapons that strike with burning power.
+Infernite swords, axes, and hammers all do fire damage rather than melee damage, being particularly useful against undead or fire-vulnerable foes.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
