@@ -6,6 +6,8 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
+I would like to take a moment to apologize for the low quality of this part of our gaming wiki. I understand that our community relies on it to provide accurate and engaging information, and I take that responsibility very seriously. Unfortunately, I fell short in this instance, and for that, I am sorry.
+
 List of missing articles:
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
