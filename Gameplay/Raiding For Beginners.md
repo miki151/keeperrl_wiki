@@ -87,6 +87,8 @@ Once you find the dwarves, back off and head home.  Time to assemble a strike te
 Attacking the dwarves merits a goblin warrior or two, along with at least one healer and the Keeper leading the attack.  Everyone needs to be fully trained and equipped.
 (Folks who go into combat without proper gear or equipment deserve whatever they get, as does their leader.  That would be you.)
 
+*Going In to Play*
+
 Unlike the bandits, you're going to take your team into the dwarf base and root them out.
 Your primary goal is to eliminate all their fighters (red/purple outline).  Ideally, you'll take their civilians captive, as they dig faster than imps do.
 (It's safest to right-click on capture targets and select "capture" or similar.  Left-clicking works if they're not in melee range; if they are, it'll attack them instead, possibly injuring or killing them.)
@@ -95,7 +97,12 @@ Eventually, you'll probably have to contend with dwarves in a bottleneck or simi
 The important issue is to never let the dwarves group up against you.  In particular, make them come down the hallway to you, rather than trying to push into their rooms through a line of two or three dwarves.  (Whoever is trying to push will almost certainly take a flanking penalty, and thus take more damage from the dwarves.)
 
 You might consider taking full control of the team and individually moving each unit.  It's always a good option to have, and manually giving orders can allow you to misdirect the opposition, block for folks who can't take punishment but still let them get the kill or even Slayer blow, and generally make battles go much more safely.  At this point, though, those things are a more advanced lesson.
-Assuming you've killed the combat dwarves, you can leave (civilians don't stop retreats; only combat units do), but it's best to take the civilians captive.  (Or, if you don't have a prison, to kill them.)  Once they're all tagged for capture and capture-HP drained, exit control mode. 
+Assuming you've killed the combat dwarves, you can leave (civilians don't stop retreats; only combat units do), but it's best to take the civilians captive.  (Or, if you don't have a prison, to kill them.)  Once they're all tagged for capture and capture-HP drained, exit control mode.
+
+*Cleaning Up The Mess*
+
 At this point, your troops should be on the home tile, headed for your dungeon and its facilities.  You should see the prisoner dwarves in the immigration list as prisoners: click to formally take them into custody.  (Letting the prisoner timer time out or canceling their immigration kills them, as though whoever downed them aimed to kill instead.)  They'll arrive similarly to your troops and assist with hauling & mining.
 
 You probably saw the "pillage" option when dealing with the bandits, but you'll definitely get it now.  Pillaging instantly (zero game-time) transfers your clicked resources/gear from the enemy base you conquered to your relevant storage piles/constructions.  (If you have no place to put things, you can't pillage them; in particular, without a Grave, you can't pillage corpses.)
+
+That's the basic raid process.  Look around to know where you're sending the raid, pay attention to your troops, make sure you're doing better than theirs, watch out for bottlenecks and other tactical problems, and bring everyone and everything back home.  Go forth and rock big stone bells.
