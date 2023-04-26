@@ -15,13 +15,12 @@ To gather resources you have to select them using the *Dig or cut tree* tool.
 Your [imps](/keeperrl_wiki/Imp "wikilink") and other workers will then start to harvest the resource and
 carry it to your [stockpiles](/keeperrl_wiki/Storage "wikilink").
 
-All resources can be haphazardly stored in a "Resources" stockpile zone, without penalty.
+Most resources can be haphazardly stored in a "Resources" stockpile zone, without penalty.
 Additional stockpiles can help speed acquisition as your miners will drop fresh deliveries at the nearest stockpile.
-There is no need for a specific stockpile or container for any particular resource.
+Corpses, however, require a "Grave" stockpile built using stone, and will not be stored in a "Resources" zone.
 
-<img src="/keeperrl_wiki/Resources-screenshot.png" title="fig:/keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki/Resources-screenshot.png" width="500" />
-Left to right: Gold, wood, iron, stone, adamantium, adoxite, infernite.
-(Needs a current screenshot)
+<img src="/keeperrl_wiki/A36ItemsLine.png" title="fig:/keeperrl_wiki/A36ItemsLine.png" alt="/keeperrl_wiki/A36ItemsLine.png ; A cropped view of the main RTS screen, focused on the resource counters." width="500" />
+Left to right: Gold, wood, iron, stone, adamantium, adoxite, infernite, and corpses.
 
 Gold
 ----
@@ -106,6 +105,14 @@ Infernite
 
 Infernite is another magically-active metal, useful chiefly for making weapons that strike with burning power.
 Infernite swords, axes, and hammers all do fire damage rather than melee damage, being particularly useful against undead or fire-vulnerable foes.
+
+Corpses
+----
+
+*You get corpses by killing creatures. Ideally, the creatures you kill are hostile, or at least not your own.*
+
+Corpses are primarily used to recruit, raise, etc. undead units, from the humble Zombie, through vampires and mummies, to the pinnacle of the Necromancer's arts.
+Even if you don't plan on having undead troops, it's still helpful to build a Grave so your workers can keep your map tidy.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
