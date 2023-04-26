@@ -24,12 +24,10 @@ Q: Are there any mods for this game?
 ====================================
 
 -   A: Yes, the source code is open, so feel free to mod it as much as
-    you like. However, most mods become out of date very quickly and
-    there is very little in terms of modding support. As it stands you
-    need to be a developer who can write code. At the time of writing,
-    proper modding support is being coded into KeeperRL and could start
-    becoming available in November 2018. I will try and remember to
-    update this page.
+    you like. There is a significant modding community at the Steam Workshop page:
+    https://steamcommunity.com/app/329970/workshop/
+    as well as a Git repository for folks who aren't using Steam:
+    https://github.com/SoftMonster/KeeperRLCommunityResources
 
 Q: When I died, the stats showed over 100 heads were chopped during the game. This is untrue.
 =============================================================================================
@@ -45,25 +43,23 @@ Q: How do I beat monster X or Y?
 Q: Is there a guard room or a guard post command?
 =================================================
 
--   A: No, not at the moment but you can drag and drop minions to a
-    particular location and they will remain there for some turns. You
-    can directly control teams and tell them to stand their ground. You
-    can also assign monsters to a room and lock the doors to keep them
-    apart or confined, which has a similar effect.
+-   A: Yes.  You can have up to three different sets of guard posts, and assign creatures to staff the posts.
+That said, guards can also have other tasks and needs, so it's best to have more guards than guard-post tiles.
+Further, guards using ranged AI sometimes will retreat if enemies get too close, so keep that in mind!
 
 Q: Can you build bridges when controlling a minion?
 ===================================================
 
--   A: You can build bridges when not in control of a minion. But not
-    when controlling one. You can get across water with levitation
-    potions. Monsters that are blocked by water and controlled by the AI
-    may build bridges.
+-   A: No. You can order bridges built when not in control of a minion, but even controlling a unit that "builds bridges" as an ability, you cannot generate a bridge.
+    You can get across water by wading through if you're Large or Huge and the water is Shallow, by riding a steed that's Large or Huge, by using Swimming skill, 
+    or by levitating or flying; potions and jewelry may help.
+    Monsters that are blocked by water and controlled by the AI may build bridges, so they don't get permanently stuck or become helpless targets for ranged attacks.
 
 Q: Are there z-layers (can you dig up and down?)
 ================================================
 
--   A: Dungeons with staircases do exist, but you can't build your own
-    dungeon with staircases. Not at the moment.
+-   A: Very much so! You can mine and build up and down, and build stairways where you like.  Mining down is the way to find higher-tier resources and noteworthy
+underground structures, tribes, etc.; there is usually something or someone Interesting at the top of your home map.
 
 Q: Is there a translation into my native language?
 ==================================================
