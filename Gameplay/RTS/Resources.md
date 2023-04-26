@@ -20,7 +20,7 @@ Additional stockpiles can help speed acquisition as your miners will drop fresh 
 Corpses, however, require a "Grave" stockpile built using stone, and will not be stored in a "Resources" zone.
 
 <img src="/keeperrl_wiki/A36ItemsLine.png" title="fig:/keeperrl_wiki/A36ItemsLine.png" alt="/keeperrl_wiki/A36ItemsLine.png ; A cropped view of the main RTS screen, focused on the resource counters." width="500" />
-Left to right: Gold, wood, iron, stone, adamantium, adoxite, infernite, and corpses.
+Left to right: Gold, wood, stone, iron, adamantium, adoxite, infernite, and corpses.
 
 Gold
 ----
@@ -54,6 +54,17 @@ Making do without early wooden furniture (the Workshop, along with beds, bookshe
 Later on, you'll want wood to build archery targets & the bows to go with them, as well as beast cages for steeds and werewolves.
 Wood is required for your dining areas (hay for beasts, tables for humanoids).  It's not *just* a starter resource.
 
+Stone
+-----
+
+*You get stone by mining granite veins.*
+
+Stone is used to build several [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), such as the
+[graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
+[laboratory](/keeperrl_wiki/Laboratory "wikilink").  The furnace is also made from stone.
+It is needed for flooring and other structural uses, such as filling in liquid tiles, safely bridging lava, constructing and reinforcing walls, etc.
+It's usually worthwhile to dig more stone; there's always something useful it can do.
+
 Iron
 ----
 
@@ -78,23 +89,12 @@ weapons and armour than iron. Naturally occurring veins can be guarded by
 golems that will wreck an unsuspecting keeper, but such golems can also be wrecked and their component adamantium can be harvested by keepers who
 prepare for the possibility.
 
-Stone
------
-
-*You get stone by mining granite veins.*
-
-Stone is used to build several [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), such as the
-[graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
-[laboratory](/keeperrl_wiki/Laboratory "wikilink").  The furnace is also made from stone.
-It is needed for flooring and other structural uses, such as filling in liquid tiles, safely bridging lava, constructing and reinforcing walls, etc.
-It's usually worthwhile to dig more stone; there's always something useful it can do.
-
-Adoxium
+Adoxite
 ----
 
-*You get adoxium by mining adoxium veins.*
+*You get adoxite by mining adoxium veins.*
 
-Adoxium is a particularly magically-active form of adamantium, useful for making armor and magical staves that greatly reduce spell-recharge time and offer top
+Adoxite is a particularly magically-active form of adamantium, useful for making armor and magical staves that greatly reduce spell-recharge time and offer top
 protection: almost as good as the most sumptous of cornuthaums, but much less "Squishy".
 As such, it's prized by Evil Wizards and high priests, but not particularly important for doughty and stalwart melee fighters.
 
