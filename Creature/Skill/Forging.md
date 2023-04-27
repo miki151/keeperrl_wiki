@@ -6,9 +6,16 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-Creatures able to forge iron and adamantium kit. Insane goblins are sometimes skilled enough to craft artifacts.
-The legendary humanoid Randyman has high roll on workshop but I guess it depends on the roll.
-Insane goblins might have it too.
+Forging
+----
+
+Forging skill allows creatures to contribute to construction of items at a Forge.
+
+Like all crafting skills, higher values add more to completion per turn-worked, but don't directly affect the quality of the finished item.
+(It's safe to have lower-skill crafters help out!)
+
+The Legendary threshold is 45 or 50.  Crafters with total skill at this level can work on projects using body parts (such as dragon scale armor) or incorporating glyphs.
+Master Artisans have legendary Forging skill, as do Dwarven Blacksmiths.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
