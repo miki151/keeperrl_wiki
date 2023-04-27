@@ -15,13 +15,12 @@ To gather resources you have to select them using the *Dig or cut tree* tool.
 Your [imps](/keeperrl_wiki/Imp "wikilink") and other workers will then start to harvest the resource and
 carry it to your [stockpiles](/keeperrl_wiki/Storage "wikilink").
 
-All resources can be haphazardly stored in a "Resources" stockpile zone, without penalty.
+Most resources can be haphazardly stored in a "Resources" stockpile zone, without penalty.
 Additional stockpiles can help speed acquisition as your miners will drop fresh deliveries at the nearest stockpile.
-There is no need for a specific stockpile or container for any particular resource.
+Corpses, however, require a "Grave" stockpile built using stone, and will not be stored in a "Resources" zone.
 
-<img src="/keeperrl_wiki/Resources-screenshot.png" title="fig:/keeperrl_wiki/Resources-screenshot.png" alt="/keeperrl_wiki/Resources-screenshot.png" width="500" />
-Left to right: Gold, wood, iron, stone, adamantium, adoxite, infernite.
-(Needs a current screenshot)
+<img src="/keeperrl_wiki/A36ItemsLine.png" title="fig:/keeperrl_wiki/A36ItemsLine.png" alt="/keeperrl_wiki/A36ItemsLine.png ; A cropped view of the main RTS screen, focused on the resource counters." width="500" />
+Left to right: Gold, wood, stone, iron, adamantium, adoxite, infernite, and corpses.
 
 Gold
 ----
@@ -55,6 +54,17 @@ Making do without early wooden furniture (the Workshop, along with beds, bookshe
 Later on, you'll want wood to build archery targets & the bows to go with them, as well as beast cages for steeds and werewolves.
 Wood is required for your dining areas (hay for beasts, tables for humanoids).  It's not *just* a starter resource.
 
+Stone
+-----
+
+*You get stone by mining granite veins.*
+
+Stone is used to build several [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), such as the
+[graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
+[laboratory](/keeperrl_wiki/Laboratory "wikilink").  The furnace is also made from stone.
+It is needed for flooring and other structural uses, such as filling in liquid tiles, safely bridging lava, constructing and reinforcing walls, etc.
+It's usually worthwhile to dig more stone; there's always something useful it can do.
+
 Iron
 ----
 
@@ -79,23 +89,12 @@ weapons and armour than iron. Naturally occurring veins can be guarded by
 golems that will wreck an unsuspecting keeper, but such golems can also be wrecked and their component adamantium can be harvested by keepers who
 prepare for the possibility.
 
-Stone
------
-
-*You get stone by mining granite veins.*
-
-Stone is used to build several [rooms](/keeperrl_wiki/Rooms_Guide "wikilink"), such as the
-[graveyard](/keeperrl_wiki/Graveyard "wikilink") and the
-[laboratory](/keeperrl_wiki/Laboratory "wikilink").  The furnace is also made from stone.
-It is needed for flooring and other structural uses, such as filling in liquid tiles, safely bridging lava, constructing and reinforcing walls, etc.
-It's usually worthwhile to dig more stone; there's always something useful it can do.
-
-Adoxium
+Adoxite
 ----
 
-*You get adoxium by mining adoxium veins.*
+*You get adoxite by mining adoxium veins.*
 
-Adoxium is a particularly magically-active form of adamantium, useful for making armor and magical staves that greatly reduce spell-recharge time and offer top
+Adoxite is a particularly magically-active form of adamantium, useful for making armor and magical staves that greatly reduce spell-recharge time and offer top
 protection: almost as good as the most sumptous of cornuthaums, but much less "Squishy".
 As such, it's prized by Evil Wizards and high priests, but not particularly important for doughty and stalwart melee fighters.
 
@@ -106,6 +105,14 @@ Infernite
 
 Infernite is another magically-active metal, useful chiefly for making weapons that strike with burning power.
 Infernite swords, axes, and hammers all do fire damage rather than melee damage, being particularly useful against undead or fire-vulnerable foes.
+
+Corpses
+----
+
+*You get corpses by killing creatures. Ideally, the creatures you kill are hostile, or at least not your own.*
+
+Corpses are primarily used to recruit, raise, etc. undead units, from the humble Zombie, through vampires and mummies, to the pinnacle of the Necromancer's arts.
+Even if you don't plan on having undead troops, it's still helpful to build a Grave so your workers can keep your map tidy.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
