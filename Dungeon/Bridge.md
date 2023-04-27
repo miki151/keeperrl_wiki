@@ -6,9 +6,15 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-''Build it to pass over water or lava.
-''
--Cost : 20 wood
+Bridge
+----
+
+Bridges can be built from either wood or stone; they allow folks to cross liquid without drowning, but cannot support other construction such as doors, torches, etc.
+Nevertheless, they're important to allow Small folks to pass liquids, larger folks to pass deep water, and everyone who isn't currently flying to pass lava.
+
+Wooden bridges will burn over lava; unlike Dungeon Keeper 2, KeeperRL AI avoids burning tiles, so best to stick with stone.
+
+-Cost : 5 wood or stone
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
