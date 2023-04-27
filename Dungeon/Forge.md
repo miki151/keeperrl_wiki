@@ -10,6 +10,14 @@ layout: wiki
 -Produces: all metal weapons and all metal armor
 -Tile Cost: 20 Iron
 
+The Forge is an essential part of any successful dungeon.  Click on constructed Forge tiles to bring up the crafting menu; greyed-out items require additional technology
+before you can build them.
+
+As with all crafting stations, up to 8 creatures can contribute to projects at any particular Forge tile, and workers can collaborate on projects
+between Forge tiles at different locations.
+
+Items using glyphs or creature body parts (such as dragon scale armor) require workers with skill 45 or greater to work on them.  However, if other projects are also present, lower-skilled crafters can, and will, work on those projects while the masterpiece is also under construction.
+
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 Other items in this section
