@@ -7,21 +7,14 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
 Requires [[Jewellery]]
-Produces: jewelry, magical rings, and amulets
-[[Category: Rooms]]</text>
-      <sha1>65iupkwy95k6diwly6jyy9l0iccy698</sha1>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-    </revision>
-    <revision>
-      <id>134</id>
-      <parentid>133</parentid>
-      <timestamp>2014-12-24T11:18:31Z</timestamp>
-      <contributor>
-        <username>Aodendaal</username>
-        <id>14</id>
-      </contributor>
-      <text xml:space
+Produces: magical rings and amulets
+Cost: 12 Wood
+
+The Jeweler worktable allows folks with the relevant skill to craft magical jewelry.  As with all crafting stations, it can accommodate up to 8 workers at a time, and workers can collaborate between multiple crafting stations.  (However, Jeweler skill is usually less common than Workshop or Forge, so worker overcrowding is usually not as significant a concern.)
+
+Relevant jewelry can make your creatures dramatically more effective, so the jeweler workstation is usually a solid mid-game priority.
+
+[[Category: Rooms]]
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
