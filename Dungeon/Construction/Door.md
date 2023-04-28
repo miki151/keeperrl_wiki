@@ -6,10 +6,15 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-''Click on a built door to lock it.
-''
-- Cost : 5 wood
-- Requires : [[:Technologies#Crafting|Crafting]]
+Doors block sightlines, light, and hostile travel through single-tile spaces; they're available in Wood, Iron, and Adamantine varieties, depending on how much punishment you expect the door to receive.  You will need complete wall tiles on both sides of the doorway before you can place the door-construction order.
+
+
+If you'd like to have a two-tile wide space but need to restrict travel, Gates are essentially a double-wide Door.  They require one wall and one open/Gate tile on the other side.
+
+
+If you'd like to restrict your own units from traveling through a door or gate, you can click on it to lock the door or gate.  (It's best to lock both halves of a gate.)  You can lock and unlock doors/gates in either RTS or Roguelike mode.
+
+- Cost : 5 of the relevant material for Doors, 8 per segment ( two segments, so total 16) for Gates
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
