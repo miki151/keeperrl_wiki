@@ -6,7 +6,13 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
-This article has gone missing.
+*Binary Skills* are a major component of creatures in KeeperRL.  Unlike the numeric skills, where a creature can have more or less of the skill, Binary Skills are either
+on the creature, or they aren't.  Some examples of binary skills include Swimming (the creature can move through water tiles), Blind (the creature cannot see), Flying (the creature ignores terrain obstacles for moving, sight, and ranged attacks), and + to damage under various circumstances (the creature hits harder against certain types of creature, or when under the effect of another binary skill).
+
+From the player's perspective, the only substantial difference between a buff or nerf and a binary skill is that the buff or nerf will expire given time.  Binary skills are effectively permanent unless something specifically affects them.  That said, skills granted by items typically expire when the item is removed: for instance, you only get Night Vision while wearing the amulet.
+
+
+Mods can dramatically expand the availability of Binary Skills; however, modding in *new* binary skills is not possible as of Alpha 36.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Missing](/keeperrl_wiki/Missing "wikilink")
 
