@@ -6,13 +6,14 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
-''You get gold by mining gold veins.
-''
-You need to store gold pieces in a [[treasure chest]].
-Gold is used to build [[:Installations#Statue|statues]]. It is the only way to seriously increase your population cap. Hoarding too much gold will attract [[: Bandit|bandits]], and the throne itself makes your neighbors hate you more.
-The alternative but a surefire way of getting gold is by 
-''luring attackers
-'' into your keep and taking the ore from the bloody corpses, as they very often carry their purse with them. A defensive keep strategy will easily score a big gold count.
+*You get gold by mining gold veins. It's common to find gold on creatures and in treasure chests, too.*
+
+You can store gold pieces in a [[treasure chest]], if you like.
+Gold is used to build [[:Installations#Statue|statues]], and can also be used to recruit specialized units and purchase goods from certain factions.  Golden statues are a reliable and indefinitely-accessible way to seriously increase your population cap.  Hoarding too much gold will attract [[: Bandit|bandits]].
+
+Gold is also used to install high-end furniture (traning facilities that aren't capped and high-Luxury beds & flooring) and is necessary for Demon Shrines, if your faction uses them.  Once your faction reaches malovelence level 10, you can install a Throne for 500 Gold: it tends to aggravate hostiles, but sitting on it summons all creatures (or at least as many as will fit) in your faction to the room.  As such, invader-accessible Thrones are considered the sporting choice before retiring your dungeon for online play.
+
+Some units carry gold, but not many and not a lot of it. Building a solid defense will no longer farm gold from enemy dead. (Their settlements may have pleasantly-stocked treasuries, though.)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
 
