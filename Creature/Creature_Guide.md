@@ -12,6 +12,7 @@ Here is a list of creatures extracted from the game-code in February
 
 [Abomination](/keeperrl_wiki/Abomination "wikilink")
 <img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
+*Supplanted by Zombie King as of A36*
 
 [Adamantium Golem](/keeperrl_wiki/Adamantium_Golem "wikilink")
 <img src="/keeperrl_wiki/Ada_Golem.png" title="fig:/keeperrl_wiki/Ada_Golem.png" alt="/keeperrl_wiki/Ada_Golem.png" width="100" />
@@ -20,20 +21,24 @@ defeat them, are just that much more adamantine.
 
 [Adoxie Foot Left](/keeperrl_wiki/Adoxie_Foot_Left "wikilink")
 <img src="/keeperrl_wiki/Adoxie_Foot_Left.png" title="fig:/keeperrlwiki/Adoxie_Foot_Left.png" alt="/keeperrl_wiki/Adoxie_Foot_Left.png" width="100" />
+''Adoxie's appendages are as powerful as you'd expect given their owner.  They're Big! They're Bad! but it IS possible to BEAT THEM!
 
 [Adoxie Foot Right](/keeperrl_wiki/Adoxie_Foot_Right "wikilink")
 <img src="/keeperrl_wiki/Adoxie_Foot_Right.png" title="fig:/keeperrlwiki/Adoxie_Foot_Right.png" alt="/keeperrl_wiki/Adoxie_Foot_Right.png" width="100" />
+''Adoxie's appendages are as powerful as you'd expect given their owner.  They're Big! They're Bad! but it IS possible to BEAT THEM!
 
 [Adoxie Hand Left](/keeperrl_wiki/Adoxie_Hand_Left "wikilink")
 <img src="/keeperrl_wiki/Adoxie_Hand_Left.png" title="fig:/keeperrlwiki/Adoxie_Hand_Left.png" alt="/keeperrl_wiki/Adoxie_Hand_Left.png" width="100" />
+''Adoxie's appendages are as powerful as you'd expect given their owner.  They're Big! They're Bad! but it IS possible to BEAT THEM!
 
 [Adoxie Hand Right](/keeperrl_wiki/Adoxie_Hand_Right "wikilink")
 <img src="/keeperrl_wiki/Adoxie_Hand_Right.png" title="fig:/keeperrlwiki/Adoxie_Hand_Right.png" alt="/keeperrl_wiki/Adoxie_Hand_Right.png" width="100" />
+''Adoxie's appendages are as powerful as you'd expect given their owner.  They're Big! They're Bad! but it IS possible to BEAT THEM!
 
 [Adventurer](/keeperrl_wiki/Adventurer "wikilink")
 <img src="/keeperrl_wiki/Adventurer.png" title="fig:/keeperrl_wiki/Adventurer.png" alt="/keeperrl_wiki/Adventurer.png" width="100" />
 <img src="/keeperrl_wiki/Adventurer_Female.png" title="fig:/keeperrl_wiki/Adventurer_Female.png" alt="/keeperrl_wiki/Adventurer_Female.png" width="100" />
-''They face the world alone and the glory is theirs alone.
+''They face the world alone and the glory is theirs alone.  But there's nothing wrong with checking up with friendly factions along the road to glory.
 
 [Air Elemental](/keeperrl_wiki/Air_Elemental "wikilink")
 <img src="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" title="fig:/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" alt="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" width="100" />
@@ -52,7 +57,7 @@ spells in order to heal.
 ''Ant Workers are civilians of the ant culture; they can dig, and some Keepers have been known to capture them as slave miners, but ultimately they are not a significant threat in battle.
 
 [Archer](/keeperrl_wiki/Archer "wikilink")
-''Human Archers vary in talent and training, but their arrows are ignored at your peril.  Knight-trained archers in particular enjoy the ability to fire through specially designed walls, meaning that you might feel the archer before you see them!
+''Human Archers vary in talent and training, but ignore their arrows at your peril.  Knight-trained archers in particular enjoy the ability to fire through specially designed walls, meaning that you might feel the archer before you see them!
 
 [Automaton](/keeperrl_wiki/Automaton "wikilink")
 <img src="/keeperrl_wiki/Automaton.png" title="fig:/keeperrl_wiki/Automaton.png" alt="/keeperrl_wiki/Automaton.png" width="100" />
@@ -71,7 +76,7 @@ the bandits back.
 <img src="/keeperrl_wiki/Black_Dragon.png" title="fig:/keeperrlwiki/Black_Dragon.png" alt="/keeperrl_wiki/Black_Dragon.png" width="100" />
 ''Blind but telepathic, the Black Dragon hunts in darkness and brings it upon all it encounters.  Absent telepathy of your own, your ranged units will have difficulty
 engaging this terror of the underground, so best to fight it in a confined space where your melee fighter can protect the rest of your people.
-Black Dragons make for fine converts, however, and their scales excel at protecting undead from the Sun's terror.
+Black Dragons make for fine converts, however, and their scales excel at protecting undead from the Sun's tyranny.
 
 [Black Market Guard](/keeperrl_wiki/Black_Market_Guard "wikilink")
 <img src="/keeperrl_wiki/Black_Market_Guard.png" title="fig:/keeperrlwiki/Black_Market_Guard.png" alt="/keeperrl_wiki/Black_Market_Guard.png" width="100" />
@@ -79,7 +84,7 @@ Black Dragons make for fine converts, however, and their scales excel at protect
 
 [Black Rat](/keeperrl_wiki/Black_Rat "wikilink")
 <img src="/keeperrl_wiki/Black_Rat.png" title="fig:/keeperrlwiki/Black_Rat.png" alt="/keeperrl_wiki/Black_Rat.png" width="100" />
-''Black Rats are an underground species that has grown tolerant of plagues which fell most other creatures.  Be careful in their presence, as plague is far more persistent than poison, and can spread through contact.
+''Black Rats are an underground species that has grown tolerant of plagues which lay most other creatures low.  Be careful in their presence, as plague is far more persistent than poison, and can spread through contact.
 
 [Boar](/keeperrl_wiki/Boar "wikilink")
 <img src="/keeperrl_wiki/Boar.png" title="fig:/keeperrl_wiki/Boar.png" alt="/keeperrl_wiki/Boar.png" width="100" />
@@ -115,7 +120,7 @@ Black Dragons make for fine converts, however, and their scales excel at protect
 <img src="/keeperrl_wiki/Cyclops.png" title="fig:/keeperrl_wiki/Cyclops.png" alt="/keeperrl_wiki/Cyclops.png" width="100" />
 ''A nasty Minor Villain for unprepared Keepers, the Cyclops correctly realizes that large groups of cretures can be a threat, and will actively attack dungeons that reach 13 population.  Cyclopes are resistant to arrows and are effective melee fighters, so it's best to bring support troops and set up opportunities to flank.
 
-That said, cyclopes are not only fine candidates for conversion, but their brains can make potions which improve the drinker's defense; particularly legendary rafters have been known to use cyclops testicles to decorate helmets.  No matter what, a defeated cyclops is helpful.
+That said, cyclopes are not only fine candidates for conversion, but their brains can make potions which improve the drinker's defense; particularly legendary crafters have been known to use cyclops testicles to decorate helmets.  No matter what, a defeated cyclops is helpful.
 
 [Dark Elf](/keeperrl_wiki/Dark_Elf "wikilink")
 <img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf.png" width="100" />
@@ -150,7 +155,7 @@ dangerous than Angels.
 
 [Demon Lord](/keeperrl_wiki/Demon_Lord "wikilink")
 <img src="/keeperrl_wiki/Demon_Lord.png" title="fig:/keeperrl_wiki/Demon_Lord.png" alt="/keeperrl_wiki/Demon_Lord.png" width="100" />
-'' Major Villain and head of the Demonshrine.  Not that much more dangeroud than his minions, but his gifts are dangerous to the unwary.
+'' Major Villain and head of the Demonshrine.  Not that much more dangerous than his minions, but his gifts are dangerous to the unwary.
 
 [Djinn](/keeperrl_wiki/Djinn "wikilink")
 <img src="/keeperrl_wiki/Djinn.png" title="fig:/keeperrlwiki/Djinn.png" alt="/keeperrl_wiki/Djinn.png" width="100" />
@@ -167,14 +172,14 @@ dangerous than Angels.
 [Doppleganger](/keeperrl_wiki/Doppleganger "wikilink")
 <img src="/keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki/Doppleganger.png" width="100" />
 '' Absorber of living bodies and their capabilities, the Doppelganger can be one of the scarier demons available to Evil Keepers. Conversely, they're reputed
-to never be *quite* as capable as the folks they absorb, so their true capability is in mixing the abilites of many different creatures.  Keepers have been known to wish there were some way they could gain the absorbption capabilities of a Doppleganger for themselves...
+to never be *quite* as capable as the folks they absorb, so their true capability is in mixing the abilities of many different creatures.  Keepers have been known to wish there were some way they could gain the absorbption capabilities of a Doppleganger for themselves...
 
 [Dragon](/keeperrl_wiki/Dragon "wikilink")
 ''Dragons are generally Huge beasts capable of winged flight and devastating bites and breath, but vulnerable to archers.  Keepers often prize them as personal mounts. Since they're generally classified by their color, check specific colors of dragon for more information.
 
 [Driad](/keeperrl_wiki/Driad "wikilink")
 <img src="/keeperrl_wiki/Driad.png" title="fig:/keeperrl_wiki/Driad.png" alt="/keeperrl_wiki/Driad.png" width="100" />
-'' Tree dwellers who can see and shoot past threes as though the trees were not there, Driads can and will shoot any invader they can see to pieces.  If only there was a way to spot them first...
+'' Forest dwellers who can see and shoot past trees as though the trees were not there, Driads can and will shoot any invader they can see to pieces.  If only there was a way to spot them first...
 
 [Duke](/keeperrl_wiki/Duke "wikilink")
 <img src="/keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki/Knightboss.png" width="100" />
@@ -188,7 +193,7 @@ However, their personal prowess also makes them a fine choice for capture and co
 
 [Dwarf Baron](/keeperrl_wiki/Dwarf_Baron "wikilink")
 <img src="/keeperrl_wiki/Dwarfboss.png" title="fig:/keeperrl_wiki/Dwarfboss.png" alt="/keeperrl_wiki/Dwarfboss.png" width="100" />
-'' King under the mountain, the Dwarf Baron is a melee powerhouse of similar quality to the human Duke.  However, the confined space of the mountain burrows greatly reduces the threat of flanking.  Dwarves also don't maintain strong archer troops, so the support threats which make the Duke a serious threat are greatly lessened here.
+'' King under the mountain, the Dwarf Baron is a melee powerhouse of similar quality to the human Duke.  However, the confined space of the mountain burrows greatly reduces the threat of flanking.  Dwarves also don't maintain strong archer troops, so the support troops which make the Duke a serious threat are greatly lessened here.
 
 [Dwarf Female](/keeperrl_wiki/Dwarf_Female "wikilink")
 <img src="/keeperrl_wiki/Dwarf_F.png" title="fig:/keeperrl_wiki/Dwarf_F.png" alt="/keeperrl_wiki/Dwarf_F.png" width="100" />
@@ -224,6 +229,9 @@ When attacking dungeons, Elementalists have been known to stay well away from th
 ''Elven archers head up outlying elf settlements, and can be dangerous if found outdoors, as they're similarly good shots to the Driads.  However, they're generally the only combatant, so can be chased down.
 
 [Ent](/keeperrl_wiki/Ent "wikilink")
+
+*Phased out in favor of "tree spirits"*
+
 ''These tree spirits can deal greivous damage if they make it to melee range.  However, they're slow, so even their arrow-resistance doesn't help too much; from time to
 time they'll let folks ride them, but sadly (for them) elven archers typically don't.  They're worth a considerable amount of lumber when felled, as well as
 the rare and useful Archwood.
@@ -251,9 +259,11 @@ the rare and useful Archwood.
 ''Frequently found near lava and a threat to mining operations, but usually not a major concern to competent combat troops.
 
 [Fire Mage](/keeperrl_wiki/Fire_Mage "wikilink")
+*Not encountered in vanilla Alpha36*
 
 [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink")
 <img src="/keeperrl_wiki/Fire_Sphere.png" title="fig:/keeperrl_wiki/Fire_Sphere.png" alt="/keeperrl_wiki/Fire_Sphere.png" width="100" />
+*Not encountered, as such, in vanilla Alpha36*
 ''From magic spells
 
 [Fly](/keeperrl_wiki/Fly "wikilink")
@@ -266,6 +276,7 @@ the rare and useful Archwood.
 
 [Friar](/keeperrl_wiki/Friar "wikilink")
 <img src="/keeperrl_wiki/Friar.png" title="fig:/keeperrlwiki/Friar.png" alt="/keeperrl_wiki/Friar.png" width="100" />
+''Itinerant clerics of human religion, Friars are sometimes encountered at human settlements, but are not typically a threat or much of an asset for conversion.
 
 [Ghost](/keeperrl_wiki/Ghost "wikilink")
 <img src="/keeperrl_wiki/Ghost.png" title="fig:/keeperrl_wiki/Ghost.png" alt="/keeperrl_wiki/Ghost.png" width="100" />
@@ -285,6 +296,7 @@ attempt effectively self-banishes the ghost, so they're not much of a threat to 
 
 [Goblin](/keeperrl_wiki/Goblin "wikilink")
 <img src="/keeperrl_wiki/Goblin.png" title="fig:/keeperrl_wiki/Goblin.png" alt="/keeperrl_wiki/Goblin.png" width="100" />
+*Goblins are separated into several classes, which will be incorporated in a later revision, as of Alpha 36*
 ''Goblins are a Small but nevertheless powerful greenskin race.  With various training types, they're frequently found serving Keepers, and on occasion, in substantial
 tribal gatherings.
 
@@ -293,6 +305,7 @@ tribal gatherings.
 
 [Halloween Kid](/keeperrl_wiki/Halloween_Kid "wikilink")
 <img src="/keeperrl_wiki/Halloween_Kid1.png" title="fig:/keeperrl_wiki/Halloween_Kid1.png" alt="/keeperrl_wiki/Halloween_Kid1.png" width="100" />
+*Halloween Kids are a seasonal encounter at best, and possibly dummied out altogether currently*
 ''Trick or Treat?
 
 [Harpy](/keeperrl_wiki/Harpy "wikilink")
@@ -305,6 +318,7 @@ tribal gatherings.
 
 [Husky](/keeperrl_wiki/Husky "wikilink")
 <img src="/keeperrl_wiki/Husky.png" title="fig:/keeperrlwiki/Husky.png" alt="/keeperrl_wiki/Husky.png" width="100" />
+''Dogs better-suited for the cold than more average dogs, but otherwise your commonplace canine.
 
 [Hydra](/keeperrl_wiki/Hydra "wikilink")
 <img src="/keeperrl_wiki/Hydra.png" title="fig:/keeperrl_wiki/Hydra.png" alt="/keeperrl_wiki/Hydra.png" width="100" />
@@ -353,7 +367,7 @@ as good at mining as the larger folks, and they can't handle water by themselves
 ''Fiery stone monster; much like the other golems, is so much salvage once killed.
 
 [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
-''These fell creatures are the result of debased demonic breeding programs.  They can be quite powerful, but usually have weaknesses as well.  Each individual is unique, so folks encountering them are best advised to study their opponent and fight accordingly.
+''These fell creatures, typically bred as Steeds, are the result of debased demonic breeding programs.  They can be quite powerful, but usually have weaknesses as well.  Each individual is unique, so folks encountering them are best advised to study their opponent and fight accordingly.
 
 [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
 ''Generally superior to Legendary Beasts due to their ability to work, train, and use equipment, Legendary Humanoids are likewise the result of fell demonic breeding
@@ -361,7 +375,7 @@ programs, and similarly both powerful but flawed.  On occasion, larger varieties
 
 [Lizardman](/keeperrl_wiki/Lizardman "wikilink")
 <img src="/keeperrl_wiki/Lizardman.png" title="fig:/keeperrl_wiki/Lizardman.png" alt="/keeperrl_wiki/Lizardman.png" width="100" />
-''Poisoning humanoid reptile, and a dire threat to starting Adventurers.
+''Poisonous humanoid reptile, and a dire threat to starting Adventurers.
 
 [Lizardman Chief](/keeperrl_wiki/Lizardman_Chief "wikilink")
 ''Major Villain: well-equipped and poisonous fighter, with plenty of loyal troops.
@@ -370,11 +384,12 @@ programs, and similarly both powerful but flawed.  On occasion, larger varieties
 
 [Lost Soul](/keeperrl_wiki/Lost_Soul "wikilink")
 <img src="/keeperrl_wiki/Ghost.png" title="fig:/keeperrl_wiki/Ghost.png" alt="/keeperrl_wiki/Ghost.png" width="100" />
+*Not encountered in vanilla Alpha36*
 ''Woo!
 
 [Minotaur](/keeperrl_wiki/Minotaur "wikilink")
 <img src="/keeperrl_wiki/Minotaur.png" title="fig:/keeperrl_wiki/Minotaur.png" alt="/keeperrl_wiki/Minotaur.png" width="100" />
-''Sometimes lives under castles, an excellent melee fighter, and probably the single best candidate for conversion to your side.
+''Sometimes lives under castles; an excellent melee fighter, and probably the single best candidate for conversion to your side.
 Minotaurs are large enough that trained humans can ride on, and fight from, their back; this makes them an excellent combat mount, as they're trained and can take full advantage of equipment.
 
 [Mummy](/keeperrl_wiki/Mummy "wikilink")
@@ -392,17 +407,21 @@ in particular being unable to recover from injury.  One lucky shot is all it tak
 
 [Ogre](/keeperrl_wiki/Ogre "wikilink")
 <img src="/keeperrl_wiki/Troll.png" title="fig:/keeperrl_wiki/Troll.png" alt="/keeperrl_wiki/Troll.png" width="100" />
+*Phased out of vanilla Alpha36, in favor of Trolls which appear similar and are available to Goblin Keepers*
 ''12 combat training levels
 
 [Orc](/keeperrl_wiki/Orc "wikilink")
 <img src="/keeperrl_wiki/Orc.png" title="fig:/keeperrl_wiki/Orc.png" alt="/keeperrl_wiki/Orc.png" width="100" />
+*Phased out of vanilla Alpha36, in favor of expanded goblin troops*
 ''Standard warrior minion
 
 [Orc Shaman](/keeperrl_wiki/Orc_Shaman "wikilink")
 <img src="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" width="100" />
+*Phased out of vanilla Alpha36, in favor of expanded goblin troops*
 ''Standard healer minion
 
 [Peasant](/keeperrl_wiki/Peasant "wikilink")
+*The alternate/mis-spelled "Peseant" is the correct unit in code terms*
 
 [Peseant](/keeperrl_wiki/Peseant "wikilink")
 <img src="/keeperrl_wiki/Peasant.png" title="fig:/keeperrl_wiki/Peasant.png" alt="/keeperrl_wiki/Peasant.png" width="100" />
@@ -425,6 +444,7 @@ in particular being unable to recover from injury.  One lucky shot is all it tak
 ''Human trained to minister to the needs of the divine, and the Lawful keeper's answer to goblin shamanism.
 
 [Prisoner](/keeperrl_wiki/Prisoner "wikilink")
+*Prisoners retain their previous characteristics in Alpha36; the "prisoner" creature is an interface/sorting convenience*
 
 [Rat](/keeperrl_wiki/Rat "wikilink")
 <img src="/keeperrl_wiki/Rat.png" title="fig:/keeperrl_wiki/Rat.png" alt="/keeperrl_wiki/Rat.png" width="100" />
@@ -447,7 +467,7 @@ in particular being unable to recover from injury.  One lucky shot is all it tak
 ''Daytime explorer. Fast, flying, and appropriately sized for an Imp to ride as well!
 
 [Red Dragon](/keeperrl_wiki/Red_Dragon "wikilink")
-''The fire-typed dragon, what most Keepers think of when they think "Dragon".  They fight well and frequently set fire to their surroundings; this is good when they're
+''The fire-typed dragon: what most Keepers think of when they think "Dragon".  They fight well and frequently set fire to their surroundings; this is good when they're
 attacking Keepers who may be hoarding gold, expanding aggressively, or otherwise posing a threat, but is less good when serving Keepers as a mount.
 
 [Scorpion](/keeperrl_wiki/Scorpion "wikilink")
@@ -459,6 +479,8 @@ attacking Keepers who may be hoarding gold, expanding aggressively, or otherwise
 
 [Shelob](/keeperrl_wiki/Shelob "wikilink")
 <img src="/keeperrl_wiki/Szelob.png" title="fig:/keeperrl_wiki/Szelob.png" alt="/keeperrl_wiki/Szelob.png" width="100" />
+*Encountered in-game as "Giant Spider", but generally referenced in code as "Shelob"*
+
 ''Minor Villain, has a cave with smaller spiders and a few doomed children for later.  Webs will impede movement but do *not* prevent fighting; her poisonous bite
 is likewise a threat, so take the necessary precautions.
 
@@ -479,7 +501,7 @@ is likewise a threat, so take the necessary precautions.
 
 [Soldier Ant](/keeperrl_wiki/Soldier_Ant "wikilink")
 <img src="/keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki/Antw.png" alt="/keeperrl_wiki/Antw.png" width="100" />
-''Poisonous ant warriors, and a serious threat to those who would harm the hive.  Precautions against poison will help dramatically.
+''Poisonous ant warriors, and a credible threat to those who would harm the hive, at least in the early stages of a campaign.  Precautions against poison will help dramatically.
 
 [Sorcerer](/keeperrl_wiki/Sorcerer "wikilink")
 <img src="/keeperrl_wiki/Sorcerer.png" title="fig:/keeperrlwiki/Sorcerer.png" alt="/keeperrl_wiki/Sorcerer.png" width="100" />
@@ -495,13 +517,14 @@ is likewise a threat, so take the necessary precautions.
 
 [Succubus](/keeperrl_wiki/Succubus "wikilink")
 <img src="/keeperrl_wiki/Succubussmall.png" title="fig:/keeperrl_wiki/Succubussmall.png" alt="/keeperrl_wiki/Succubussmall.png" width="100" />
-''Demonic entertainers and breeders; they're no good at combat and, being Spiritual, cannot be captured, but can discourage folks from fighting and greatly sweeten the dreams of sleeping male creatures.  Folks who practice demonology are generally looking to recruit these ladies.
+''Demonic entertainers and breeders; they're no good at actual combat and, being Spiritual, cannot be captured, but can discourage hostile creatures from resisting and greatly sweeten the dreams of sleeping male creatures.  Folks who practice demonology are generally looking to recruit these ladies.
 
 [Teutonic Grandmaster](/keeperrl_wiki/Teutonic_Grandmaster "wikilink")
 <img src="/keeperrl_wiki/Teuton_Boss.png" title="fig:/keeperrlwiki/Teuton_Boss.png" alt="/keeperrl_wiki/Teuton_Boss.png" width="100" />
 ''An excellent melee fighter, but generally only encountered by Lawful Keepers...to whom he's a valuable ally.
 
 [The Duke](/keeperrl_wiki/The_Duke "wikilink")
+*Covered earlier as "Duke"
 
 [Thief](/keeperrl_wiki/Thief "wikilink")
 <img src="/keeperrl_wiki/Thief.png" title="fig:/keeperrlwiki/Thief.png" alt="/keeperrl_wiki/Thief.png" width="100" />
@@ -512,7 +535,7 @@ is likewise a threat, so take the necessary precautions.
 ''Major Villain; not to the Duke's standard, but with his troops and sorcerer, a respectable fight.
 
 [Tree Spirit](/keeperrl_wiki/Tree_Spirit "wikilink")
-''As Ents.
+''These animate and intelligent trees can deal greivous damage if they make it to melee range.  However, they're slow, so even their arrow-resistance doesn't help too much; from time to time they'll let folks ride them, but sadly (for them) elven archers typically don't.  They're worth a considerable amount of lumber when felled, as well as the rare and useful Archwood.
 
 [Unicorn](/keeperrl_wiki/Unicorn "wikilink")
 <img src="/keeperrl_wiki/Unicorn.png" title="fig:/keeperrl_wiki/Unicorn.png" alt="/keeperrl_wiki/Unicorn.png" width="100" />
@@ -548,6 +571,7 @@ is likewise a threat, so take the necessary precautions.
 
 [White Wizard](/keeperrl_wiki/White_Wizard "wikilink")
 <img src="/keeperrl_wiki/White_Wizard.png" title="fig:/keeperrlwiki/White_Wizard.png" alt="/keeperrl_wiki/White_Wizard.png" width="100" />
+*Not encountered as such in vanilla Alpha36; neutral Wizards can be foundm but do not wear White and are not precisely engaged in Lawful activity...*
 
 [Witch](/keeperrl_wiki/Witch "wikilink")
 <img src="/keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki/Witch.png" alt="/keeperrl_wiki/Witch.png" width="100" />
