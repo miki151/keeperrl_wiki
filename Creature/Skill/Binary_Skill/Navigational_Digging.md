@@ -6,7 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
-Creatures able to navigate towards your dungeon whilst digging, allowing surprise attacks.
+Navigational digging is a binary skills, where creatures are able to navigate towards your dungeon whilst digging, allowing surprise attacks.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Skill](/keeperrl_wiki/Skill "wikilink")>>[Binary_Skill](/keeperrl_wiki/Binary_Skill "wikilink")
 
