@@ -23,6 +23,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <a href="https://www.facebook.com/keeperrl" class="uri">KeeperRL friend network on Facebook</a><br/>
 <a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a><br/>
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
+<br/>
 <a href="https://keeperrl-swag.myspreadshop.co.uk/" class="uri">KeeperRL Branded Goods</a>
 </h3>
 <hr>
