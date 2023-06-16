@@ -31,7 +31,9 @@ During A27, the realms witnessed the advent of White Knights, Dark Knights, and 
 
 A momentous shift occurred in A30 when Gnome Keepers emerged, specializing in the construction of magical machinery to fight and labor on their behalf. Following this, Goblin Keepers, Dwarf Families, and Necromancer Keepers entered the fray, each seeking to conquer the lands in subsequent periods spanning from A30 to A33.
 
-Currently, we find ourselves in the illustrious era known as A36. This period favors Keepers who possess horseback riding skills, who can erect towering structures and scale formidable mountains to gain special advantages. Countless beasts can be tamed and mounted, offering extra strategic possibilities on the battlefield. The factions persistently vie for control over the vast and ever-changing World of KeeperRL.<hr>
+Currently, we find ourselves in the illustrious era known as A36. This period favors Keepers who possess horseback riding skills, who can erect towering structures and scale formidable mountains to gain special advantages. Countless beasts can be tamed and mounted, offering extra strategic possibilities on the battlefield. The factions persistently vie for control over the vast and ever-changing World of KeeperRL.
+
+<hr>
 
 Drafted by Softmonster of KeeperRL Discord Community in the age of Alpha 36
 
