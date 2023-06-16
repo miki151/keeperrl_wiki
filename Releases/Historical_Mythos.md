@@ -11,39 +11,31 @@ KeeperRL Historical Mythos
 --------------------------
 <hr>
 
-KeeperRL is an ever-evolving game that receives regular updates, and throughout its history, there have been 36 distinct periods represented by Alpha releases.
+KeeperRL is an ever-evolving game that undergoes regular updates, shaping its vibrant history. Throughout its development, it has seen the rise and fall of 36 distinct periods, each represented by Alpha releases.
 
+In the early days of the KeeperRL world, the minor tribes shared close connections, and the vast lands were governed by Dukes. The dreaded Red Dragon posed the greatest threat to humanity, but as time passed, dragons of different hues emerged, each with its own brand of terror. Meanwhile, the malevolent Mage Keepers constructed formidable dungeons, vying for control over their territories.
 
-In the early days of the KeeperRL world, minor tribes were closely connected, and the lands were ruled by Dukes. The greatest danger to humanity was the fearsome Red Dragon, and over time, dragons of various colors appeared. The Evil Mage Keepers constructed dungeons to fight for control of their territories.
+As the epochs unfolded, the dark mages grew in both technological prowess and sheer power. My records of KeeperRL's rich history trace back to a pivotal era known as A21.
 
+Since A21, a wave of immigrants has flocked to the Keeper dungeons, bringing with them special skills and traits that bestow both advantages and disadvantages upon their new abodes.
 
-As time went on, the dark mages became more technologically advanced and powerful, and my records of KeeperRL history date back to a period known as A21.
+During the A21 period, the realm was plagued by the nefarious doppleganger demons, who ascended to dominance within the mage dungeons. These elusive beings possessed the uncanny ability to assume different forms and assimilate other creatures, thereby inheriting their unique traits.
 
+A22 marked the publication of a malefic guidebook, a wicked compendium designed to assist novice leaders in establishing dungeons and conquering new lands. This tutorial has since been refined and expanded over time, becoming available to any Keeper eager to test their mettle in the art of conquest.
 
-Since A21, immigrants have flocked to the Keeper dungeons, bringing with them special skills and traits that can provide advantages and disadvantages to the dungeons.
+The A23 period presented a formidable challenge to the Keepers, as relentless waves of invaders sought to dismantle their treacherous traps. Consequently, the mages began capturing these intruders, converting them to their cause rather than merely exploiting them as slave labor.
 
+In subsequent years, the introduction of Dark Knight Keepers introduced the skill of constructing moats. Also, the KeeperRL universe, effectively divided into a multiverse, with each unique variation referred to as a 'mod.' This development fostered the creation of numerous diverse KeeperRL universes, thanks to the game's robust modding support.
 
-During A21, the dreaded doppleganger demons rose to power within the mage dungeons, and these creatures have the ability to change form and absorb other creatures to gain access to their unique traits.
+During A27, the realms witnessed the advent of White Knights, Dark Knights, and Dark Mages delving deeper into the earth, carving out lower levels in their dungeons now commonly referred to as 'Z-Levels.'
 
+A momentous shift occurred in A30 when Gnome Keepers emerged, specializing in the construction of magical machinery to fight and labor on their behalf. Following this, Goblin Keepers, Dwarf Families, and Necromancer Keepers entered the fray, each seeking to conquer the lands in subsequent periods spanning from A30 to A33.
 
-A22 saw the publication of a wicked guide for new, inexperienced leaders to set up dungeons and conquer their lands. This tutorial has been improved over time and is available to any Keeper who wants to try their hand at conquest.
+Currently, we find ourselves in the illustrious era known as A36. This period favors Keepers who possess horseback riding skills, who can erect towering structures and scale formidable mountains to gain an advantageous foothold. Countless beasts can be tamed and mounted, offering a plethora of strategic possibilities on the battlefield. The factions persistently vie for control over the vast and ever-changing World of KeeperRL.<hr>
 
+Written by Softmonster of KeeperRL Discord Community in the age of Alpha 36
 
-In A23, Keepers were challenged by waves of invaders seeking to destroy their trap-ridden dungeons. After this period, mages began taking prisoners and converting them to their cause, rather than just using them as slave labor.
-
-
-Later, Dark Knight Keepers brought with them the skills of building moats, and the KeeperRL universe began to split into a multiverse where each variation of the universe is known as a 'mod'. Many new and diverse KeeperRL universes now exist due to the game's modding support.
-
-
-In A27, White Knights, Dark Knights, and Dark Mages began digging downwards into the earth, and the lower levels of these dungeons are still known as 'Z-Levels'.
-
-
-During A30, Gnome Keepers emerged, specializing in building magical machines that fight and work for them. Goblin Keepers, Dwarf Families, and Necromancer Keepers entered the lands to conquer them in the following periods, from A30 to A33.
-
-
-Currently, we live in a period known as A36, where horseback riding, building high towers, and climbing mountains are useful for gaining control of the land. Many beasts can be mounted, opening up more options on the battlefield for Keepers. The various factions still compete for control of the World of KeeperRL.
-<hr>
-
+(and reworded using help from AI, I wanted to treat you to a proper story)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
