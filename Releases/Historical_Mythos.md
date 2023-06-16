@@ -33,9 +33,7 @@ A momentous shift occurred in A30 when Gnome Keepers emerged, specializing in th
 
 Currently, we find ourselves in the illustrious era known as A36. This period favors Keepers who possess horseback riding skills, who can erect towering structures and scale formidable mountains to gain special advantages. Countless beasts can be tamed and mounted, offering extra strategic possibilities on the battlefield. The factions persistently vie for control over the vast and ever-changing World of KeeperRL.<hr>
 
-Written by Softmonster of KeeperRL Discord Community in the age of Alpha 36
-
-(and reworded using help from AI, I wanted to treat you to a proper story)
+Drafted by Softmonster of KeeperRL Discord Community in the age of Alpha 36
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
