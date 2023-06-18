@@ -7,20 +7,20 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Releases](/keeperrl_wiki/Releases "wikilink")
 
 
+Softmonster messing around at the bar
+-------------------------------------
+
+<img src="/keeperrl_wiki/SM_Bar1.gif" title="fig:/keeperrl_wiki/SM_Bar1.gif" alt="/keeperrl_wiki/SM_Bar1.gif" width="150" />
+<img src="/keeperrl_wiki/SM_Bar2.gif" title="fig:/keeperrl_wiki/SM_Bar2.gif" alt="/keeperrl_wiki/SM_Bar2.gif" width="150" />
+<img src="/keeperrl_wiki/SM_Bar3.gif" title="fig:/keeperrl_wiki/SM_Bar3.gif" alt="/keeperrl_wiki/SM_Bar3.gif" width="150" />
+<img src="/keeperrl_wiki/SM_Bar4.jpg" title="fig:/keeperrl_wiki/SM_Bar4.gpg" alt="/keeperrl_wiki/SM_Bar4.jpg" width="150" />
+(Thanks for the free hoodie Michal)
+
+
 Console support
 ---------------
 
 - Full support for Steam Deck.
-
-
-Softmonster messing around at the bar
--------------------------------------
-
-<img src="/keeperrl_wiki/SM_Bar1.gif" title="fig:/keeperrl_wiki/SM_Bar1.gif" alt="/keeperrl_wiki/SM_Bar1.gif" width="100" />
-<img src="/keeperrl_wiki/SM_Bar2.gif" title="fig:/keeperrl_wiki/SM_Bar2.gif" alt="/keeperrl_wiki/SM_Bar2.gif" width="100" />
-<img src="/keeperrl_wiki/SM_Bar3.gif" title="fig:/keeperrl_wiki/SM_Bar3.gif" alt="/keeperrl_wiki/SM_Bar3.gif" width="100" />
-<img src="/keeperrl_wiki/SM_Bar4.jpg" title="fig:/keeperrl_wiki/SM_Bar4.gpg" alt="/keeperrl_wiki/SM_Bar4.jpg" width="100" />
-(Thanks for the free hoodie Michal)
 
 
 Gameplay
