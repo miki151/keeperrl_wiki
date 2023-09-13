@@ -21,7 +21,9 @@ Console support
 ---------------
 
 - Full support for Steam Deck.
-
+- Spare a moment for a Steam Deck review of KeeperRL?
+<a href="https://www.protondb.com/app/329970" class="uri">KeeperRL on ProtonDB</a><br/>
+ 
 
 Gameplay
 --------
