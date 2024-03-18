@@ -50,7 +50,7 @@ The Cyclops faction is a lonesome keeper who stands on his own confronting the w
 
 
 Zombies:
-The Zombie faction is unique in that their ability increases with their numbers. They can raise hordes of zombies to swarm their enemies and subdue them with sheer strength. This faction is a suitable selection for players who enjoy overwhelming their enemies with brute numbers. The downside is that their units are comparatively weak on their own and there is very little diversity among zombies. If you just want to win with minimum effort, zombies allow auto recruitment, wait few days and win the game. Hopefully this glitch is fixed by the time you read this :)
+The Zombie faction is unique in that their ability increases with their numbers. They can raise hordes of zombies to swarm their enemies and subdue them with sheer strength. This faction is a suitable selection for players who enjoy overwhelming their enemies with brute numbers. The downside is that their units are comparatively weak on their own and there is very little diversity among zombies; rather, simply amassing hordes and throwing them at your enemies is the order of the day.
 
 
 The faction that players choose will determine the technologies they can learn, the items they can build, and the types of creatures that will try to join their dungeon. Each faction has its own unique strengths and weaknesses, so players will need to carefully consider which faction they want to lead to victory. Evil wizards, white knights and fallen knights are the only real option for playing endless mode (a surival mode, where the game starts off by sending you increasingly powerful invaders). Torturing and converting prisoners is required to beat this mode.

@@ -85,7 +85,7 @@ Look around the map as you did earlier, checking in the direction of ? marks on 
 Once you find the dwarves, back off and head home.  Time to assemble a strike team.
 
 Attacking the dwarves merits a goblin warrior or two, along with at least one healer and the Keeper leading the attack.  Everyone needs to be fully trained and equipped.
-(Folks who go into combat without proper gear or equipment deserve whatever they get, as does their leader.  That would be you.)
+(Folks who go into combat without proper preparation or equipment deserve whatever they get, as does their leader.  That would be you.)
 
 *Going In to Play*
 
