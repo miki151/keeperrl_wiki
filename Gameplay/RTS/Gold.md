@@ -4,7 +4,7 @@ permalink: Gold/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 *You get gold by mining gold veins. It's common to find gold on creatures and in treasure chests, too.*
 
@@ -15,7 +15,7 @@ Gold is also used to install high-end furniture (traning facilities that aren't 
 
 Some units carry gold, but not many and not a lot of it. Building a solid defense will no longer farm gold from enemy dead. (Their settlements may have pleasantly-stocked treasuries, though.)
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
 -    [Basic Spells](/keeperrl_wiki/Basic_Spells "wikilink")
