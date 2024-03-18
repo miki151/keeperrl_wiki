@@ -6,8 +6,9 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
-This Quick Start written against Alpha versions of KeeperRL. It is useful if you've never played before.
+Welcome to KeeperRL.  If you've never played before, this should help you get up to speed.
 
+(Screenshots reflect an Alpha build.  They'll be replaced as we can.)
 
 Start Here
 ----------
@@ -24,7 +25,7 @@ Alternatively, purchase the graphical and audio version from
     settings”, “View highscores”, “view credits”, “quit”.
 
 * Play the game
-* Choose the wizard faction to begin with
+* Choose the Classic faction.  Wizards take a little longer to reach full power, whereas Knights hit hard from the start but get a little one-dimensional near the end.
 
 <img src="/keeperrl_wiki/Playmenu-screenshot.png" title="/keeperrl_wiki/Campaignmap-screenshot.png" alt="/keeperrl_wiki/Playmenu-screenshot.png" width="1000" />
 
@@ -38,8 +39,8 @@ These videos show other players gaming on KeeperRL.
 
 -   [YouTube Videos](/keeperrl_wiki/YouTube_Videos "wikilink")
 
-Keepers are evil tyrants who commit war crimes. If you want to be a
-hero, try playing an adventurer.
+Keepers are evil tyrants who commit war crimes; even the Castle knight does some pretty mean things to win. If you want to be a
+hero (in the Conquering Barbarian Hero sense), try playing an adventurer.
 
 A new campaign map showing map sectors will be displayed. It may look
 something like this one:
@@ -53,7 +54,7 @@ Here you can start building your dungeon.
 Victory Objective
 -----------------
 
-Claim victory by conquering all the tribes on the campaign map. Next, finalise your
+Claim victory by conquering all the Major Villains (outlined in red) on the campaign map. Next, finalise your
 defences and upload your map, so that adventurers and keepers belonging
 to other players can then invade it.
 
@@ -68,7 +69,7 @@ You start with your [Keeper](/keeperrl_wiki/Keeper "wikilink") and 4 minion
 You will occasionally see text in orange. These hints will provide you
 with ideas on what to do next. When playing the tutorial, there are
 step-by-step instructions at the bottom of the screen. Campaigns have a
-campaign map, which contain other smaller map sectors and appears before
+campaign map, which contain other map sectors and appears before
 you start the game. The main villains and allies will be found on this
 master map. View this during the game, using the compass icon.
 
@@ -88,8 +89,8 @@ you are invaded).
 <img src="/keeperrl_wiki/Gamespeed-screenshot.png" title="/keeperrl_wiki/Gamespeed-screenshot.png" alt="/keeperrl_wiki/Gamespeed-screenshot.png" width="1000" />
 
 Later in the game and depending on your level of arrogance,
-insensitivity and violence, many hostile forces start to get worried
-about you.
+insensitivity and violence, many hostile forces may start to get worried
+about you, and eventually send their troops to Do Something.
 
 Tabs
 ----
@@ -115,30 +116,23 @@ Resources and resource stats
 
 Along the bottom are your resource stats:
 
-
 Gold: Can be obtained by looting defeated enemies or mined by imps from yellow gold tiles found in your dungeon. This precious metal is essential for hiring powerful creatures and constructing luxurious rooms.
 
+Wood: Can be obtained by designating a resource stockpile and ordering your imps to chop down trees. This natural resource is essential for constructing traps, doors, and other wooden structures in your dungeon.
 
-Wood: Can be obtained by building a resource stockpile and ordering your imps to chop down trees. This natural resource is essential for constructing traps, doors, and other wooden structures in your dungeon.
-
-
-Iron: Can be obtained by building a resource stockpile and ordering your imps to mine iron tiles found in your dungeon. This metal is essential for crafting weapons, armor, and other metallic structures.
-
+Iron: Can be obtained by designating a resource stockpile and ordering your imps to mine iron tiles found in your dungeon. This metal is essential for crafting weapons, armor, and other metallic structures such as the Prison.
 
 Adamantium: Can be obtained by assaulting adamantium golems and mining their ore, or found deep underground. This rare and powerful metal is essential for crafting the strongest weapons and armor in your dungeon,
 
+Stone: Can be obtained by designating a resource stockpile and ordering your imps to mine white stone tiles found in your dungeon. This sturdy material is essential for constructing walls, floors, and other stone structures in your dungeon.
 
-Stone: Can be obtained by building a resource stockpile and ordering your imps to mine white stone tiles found in your dungeon. This sturdy material is essential for constructing walls, floors, and other stone structures in your dungeon.
-
+Adoxium: Can be obtained by mining only at very deep levels underground.  This arcane metal is essential to craft the most powerful magic gear, speeding spellcaster cooldowns and supporting multiple glyphs.
 
 Infernite: Can be obtained by mining only at very deep levels underground. This volatile material is essential for crafting weapons that deal flaming damage, making them particularly effective against enemies that are vulnerable to fire.
 
-
-Corpses: Can be obtained by defeating enemies in your dungeon. They can be used to raise undead creatures, which can serve as powerful minions and defenders for your dungeon. Raising undead creatures may require graves, coffins or a morgue table.
-
+Corpses: Can be obtained by defeating enemies in your dungeon and storing them in a Grave. They can be used to raise undead creatures, which can serve as powerful minions and defenders for your dungeon.  Raising undead creatures may require coffins or a morgue table.
 
 Angel Piety: A hidden resource that can be obtained by performing acts of worship at a holy altar. This resource can be used to recruit angels, powerful creatures that possess divine abilities.
-
 
 Demon Piety: A hidden resource that can be obtained by invoking them at a demonic altar. This resource can be used to recruit demons, powerful creatures that possess dark abilities.
 
@@ -178,21 +172,23 @@ Construction
 ------------
 
 Various [Constructions](/keeperrl_wiki/Constructions "wikilink") are possible.
-Construct items by clicking on the pickaxe icon. Select squares for your
-[Imps](/keeperrl_wiki/Imp "wikilink") to dig and cut. Assign dungeon squares for
-storage of [Resources](/keeperrl_wiki/Resources "wikilink") and items. Build treasure
-rooms, dormitories, training rooms, libraries, workshops, forges,
+Once you have the space dug out, construct items by clicking on the pickaxe icon, then the relevant menu.
+For example, your creatures will need Living space, and then specifically beds: once you've designated the place to build them, your
+[Imps](/keeperrl_wiki/Imp "wikilink") will proceed to the site and assemble the furniture.
+You can similarly assign dungeon squares for storage of [Resources](/keeperrl_wiki/Resources "wikilink") and Equipment.
+Build treasure rooms, dormitories, training rooms, libraries, workshops, forges,
 laboratories, jewellers, ritual rooms, beast lairs, graveyards, prisons
-and torture chambers etc. To do this you must dig out a space and build the appropriate
-furniture you desire. The selected construction will highlight in green.
-Click on map squares to give the orders.
+and torture chambers etc!
+
+(Or you can mix rooms! Forges and workshops can peaceably coexist, as can libraries and training dummies.  Creatures can sleep and study in the same room.
+It's up to you!)
 
 Orders
 ------
 
-Use the orders menu from the construction tab to claim tiles, fetch
+Use the orders menu from the construction tab to claim (or unclaim) tiles, fetch
 items, prioritise tasks and remove construction. The selected option
-will highlight in green. Click on the map squares to issue the orders.
+will highlight in yellow. Click on the map squares to issue the orders.
 You can set up forbidden zones and this is the best way to stop your
 creatures angering nearby inhabitants or to keep them locked in a room
 out of trouble.
@@ -212,8 +208,7 @@ Install doors, bridges, barricades, torches, eyeballs and your prisoner
 heads in like fashion. You can also install various
 [Traps](/keeperrl_wiki/Traps "wikilink").
 
-Message boards can be built by Keepers and can be posted to by the
-public.
+Message boards can be built by Keepers to record messages for themselves or visitors.
 
 <img src="/keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki/Installations-screenshot.png" width="1000" />
 
