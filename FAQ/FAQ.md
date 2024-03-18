@@ -84,7 +84,7 @@ Q: Why did one of my minions attack the others?
 Q: Are there any achievements on Steam?
 =======================================
 
--   A: No, not yet. This has been planned.
+-   A: Yes! They're not retroactive to folks who played pre-1.0, but you can check the list here: https://steamcommunity.com/stats/329970/achievements .
 
 Q: When is KeeperRL going to come out of Alpha and be officially released?
 ==========================================================================
