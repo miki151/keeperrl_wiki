@@ -6,12 +6,8 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 
-Updated March 2018
+Updated March 2024
 ------------------
-
-Please note that in more recent versions of KeeperRL, adventure mode has
-moved from a single map battle to a campaign battle. This has changed
-the game-play somewhat.
 
 The basics
 ----------
@@ -43,17 +39,16 @@ The game set up
     better chance. Look at the stats on the campaign screen.
 -   Scout out the keeper maps you wish to play to get a feel for them.
 
-Staying alive and exploring the map
------------------------------------
+Staying alive and exploring maps
+--------------------------------
 
 -   Rest your cursor on all enemies to judge their stats and level
     before attacking.
--   If your enemy has higher defense and attack stats than you, run
-    away.
--   Alternatively find somewhere to hide and use the h key to escape.
+-   If your enemy has higher defense and attack stats than you, they will hit you harder thana you will hit them.  Unless you have some way to recover or otherwise change the odds, you should run away.
+-   Alternatively, find somewhere to hide like a tree or passable furniture, make sure the enemy cannot see you, and use the h key take cover, hopefully escaping thee enemy's pursuit.
 -   If you think the enemy has a ranged attack, avoid lines of sight
-    where it can shoot you or potion you
--   Slower enemies without a ranged attack can be shot by you.
+    where it can shoot you or throw potions at you.
+-   Conversely, if you gain a ranged attack, use it for all it's worth, especially on slower enemies or those without ranged attacks.
 -   When you need to heal, sleep on a bed somewhere, use a first aid
     kit, or use a healing potion
 
@@ -86,7 +81,7 @@ Kitting up
     each armour slot.
 -   Friendly tribes are not at all interested in buying goods off you,
     they just don't do that.
--   Look out for speed boots and strength gloves and a telepathy helm,
+-   Look out for speed boots, stat-boosting gear, and a telepathy helm,
     these are all very good.
 
 Minor tribes
@@ -111,55 +106,50 @@ Equipment is different on each map.
     healing, poison
 -   Important scrolls: teleport, armour enchantment, weapon enchantment,
     flies, deception, fire sphere
--   Decent mushrooms: Damage, Defence
--   Weapons: silver sword artifact, or high stat artifact, use light
-    weapons at low level, bows
--   Armour: telepathy helm (best), speed boots, dex gloves, high stat
-    armour, low weight armour for speed bonus.
--   Jewelry: 1 fire ring, 1 poison ring, healing or defense amulet
+-   Decent mushrooms: Damage, Defence, Regeneration
+-   Weapons: Sword & shield, or Axe with bow.
+-   Armour: telepathy helm (best), speed boots, otherwise the best stats you can find
+-   Jewelry: resistance rings (poison, magic, cold/fire), regeneration or defense (possibly night or elf vision?) amulet
 
 Line of sight
 -------------
 
--   Potion throwing enemies and archers: Shoot them or avoid direct
+-   Potion throwing enemies and archers: Shoot them, avoid direct
     lines of sight or hit them with slow, sleep, blindness or poison
+-   Night and elf vision can let you see and engage enemies before they can see you
+-   If you know where someone is, but can't see them, try shooting or throwing through that position
 
 Collecting Magic
 ----------------
 
--   Potions, scrolls and mushrooms are the only way adventurers can use
-    magic. Get as many usable ones as possible.
+-   Potions, scrolls and mushrooms are an important way adventurers can use
+    magic, especially if they're melee-focused or their spells are on cooldown. Get as many usable ones as possible.
 -   They are light to carry.
 -   Armour enchantment - Choose a good piece of armour and remove the
     rest to target the enchantment at the remaining worn armour.
 -   Try to keep a teleport spell for emergencies.
--   Try to get an invisibility potion to take out the keeper(s) at the
-    end.
+-   Try to get an invisibility potion to bypass tough points, whether getting in to assassinate a Leader or escaping when things don't go so well.
 -   If you want to loot potions and scrolls from monsters then you must
-    kill them quickly, before the monster users those items itself.
+    kill them quickly, before the monster uses those items itself.
 
 Making war using magic
 ----------------------
 
--   The magic available is different on each map. This forces you to
+-   The magic items available are different on each map. This forces you to
     improvise.
--   Going invisble is your single best move. Try to keep one in reserve.
-    Speed is also great.
+-   Going invisble is your single best move, but folks can figure out where the jerk who attacked them was.  Go invisible to avoid fights.
+    Speed is also great, since it lets you move and then attack (but not attack twice, or attack-then-move).
 -   Blinding enemies with potions seems to be like going invisible but
     the potion has to hit your target.
 -   If you can't afford to go invisible, fast or blind them...Put them
-    to sleep, slow them down or poison them (these
-
-are weaker potions).
+    to sleep, slow them down or poison them (these are weaker potions, but don't mock them).
+    -   If the enemy cannot heal the damage or cure the poison, it's a guaranteed kill.  Poison the impossible target and lead it on a merry chase.
 
 -   Scrolls: teleport (You need this whenever you are about to die).
     Other scrolls may come in handy.
--   Enchant up your best weapon and armours. When the traps have now
-    been dealt with, use the extra deception, flies and
+-   Enchant up your best weapon and armours. Summoning fire elementals can help with pesky elf- or dryad-inhabited forests or other flammable areas, and flies won't do much but can flank enemies (reducing their defense) and block attacks aimed at you
 
-fire sphere. Fire sphere is also useful in burning down some rooms.
-
--   Use Strength and dexterity mushrooms when you most need a buff.
+-   Use damage mushrooms when you expect to need a buff.
 -   Don't let yourself die when you still have loads of magic options
     available to use.
 
@@ -169,10 +159,10 @@ Progressing onto the Keeper dungeon(s)
 -   Systematically work your way up from the weaker tribes to the
     tougher ones until they are all dead.
 -   Leave the Keeper (if he is at all difficult) until the last.
--   Before you do anything else, kill all the keepers imp's so he cant
+-   Before you do anything else, kill all the keeper's imps so he can't
     arm any more traps or improve his armory any further.
--   Tempt them out of the dungeon by knocking down their front door -
-    shoot them when the come out to investigate! (Very occasionally
+-   Tempt them out of the dungeon by knocking down their front door
+-   Shoot them when the come out to investigate! (Very occasionally
     there are no bows and arrows. Throw stuff instead).
 -   With all the imps dead, there is now a limit to the number of traps
     you will face in the dungeon.
@@ -180,14 +170,12 @@ Progressing onto the Keeper dungeon(s)
 Night beasts
 ------------
 
--   Vultures: Tiny amount of XP and score. Possible to level you up from
-    level 3 to 4.
 -   Kill the keeper's night animals if you need xp. Right outside the
     dungeon entrance is the prime spot to do this.
--   Once you have killed any of the keeper's army, reinforcements will
-    come in from off the map.
+-   Once you have killed any of the keeper's army, reinforcements may
+    come in from off the map, if the keeper remembered to auto-accept immigrants before retiring.
 -   Intercept reinforcements before they enter the dungeon and you will
-    have a supply of monsters to level up on.
+    have a supply of untrained and un-equipped monsters to level up on.
 -   Werewolves are the worst of the keeper's night explorers. Be careful
     if you meet one.
 -   The price you pay for this is that eventually, the keeper will be
@@ -209,8 +197,7 @@ Accessing the enemy dungeon safely
     ring
 -   Surprise, alarm and panic traps: Trigger the trap and run away
     again. Come back later.
--   Undead: They are tough. You really need the silver sword artifact,
-    or else behead/dismember them
+-   Undead: They are tough. Behead/dismember them, ideally near a hazard floor (once blinded, they can wander in and die).
 -   Unarmed traps: If you discover the enemy's workshop you may find
     unarmed traps. Take the boulder and web ones for later.
 -   Loot: Potions, scrolls, mushrooms especially. Find the labs and
@@ -238,47 +225,31 @@ Using room based strategies
 
 -   Some rooms have things to hide behind. Cages, beds etc. You can hide
     and sneak attack or just choose enemies to pick off that walk past.
--   Pigsty - This is a great place to visit. Kill the enemy when he gets
+-   Dining tables - This is a great place to visit. Kill the enemy when he gets
     hungry and comes for lunch - one by one.
--   Workshops - Once the imps are dead, these are a great place for
-    goblins to make you traps. The keeper can't arm them.
--   Laboratories - Leave little goblins happily making potions. You can
-    usually acquire them yourself later
 -   Dormitories - Catch monsters in their sleep. When you have cleared
     the dormitory, pick off monsters one by one as they enter for a nap.
-    Finally, burn down the dormitory so the keeper can't recruit orc
-    shaman healers.
--   Forges - There is almost always a surplus of weapons and armour.
-    Ignore them. Kill inhabitants. Pick off workers as they enter.
--   Jewellers - Amulets and rings. Not useful unless you missed these
-    from the start.
--   Ritual rooms - These undead are often pretty useless to the keeper.
-    Consider leaving the ghosts alone to do their rituals.
+    Finally, if the Keeper is auto-recruiting, destroying the beds will do a good job of reducing their ability to do so
+-   Forges - There is almost always a surplus of weapons and armour, but chances are the good stuff is in use.  It's still worth checking to see if Fine Iron gear is available and better than what you've got.
+-   Jewellers - Amulets and rings. If any are available, capitalize!
+-   Ritual rooms - Very common for creatures to hang out in here, and the rituals can heal folks with "Materialization" HP bars.  May be worth attacking, but ideally best left alone.
 -   Beast lairs - Often no need to kill the weak monsters in here.
     Werewolves and legendary beasts can cause a problem and are worth
     killing if you can.
--   Graveyards - Zombies and vampires tend to train and you don't want
-    that. Kill them when they go to their grave to sleep. A silver sword
-    is very useful to do this.
+-   Crypts - Undead Quarters, deal with as you would the living's living space.  ;-)
 -   Weaken down the army as much as possible before trying to sort out
     the training room or library.
--   Libraries: Wooden ones can be burnt to the ground with fire sphere.
-    Vampires and orc shaman here. Vampires are worse. Is sometimes
-    possible to burn the keeper alive if he doesn't resist fire.
--   If the keeper is living in the library avoid taking him on
-    surrounded by shaman and vampires.
--   Training rooms - Often where you find the keeper. Can be full of the
-    worst armed units in the game
+-   Libraries: Training area for spell-damage, but any bookshelf helps recruit casters.
+-   Training rooms - Folks here are NOT fully operational, but the dummies can get in the way. If the Keeper's auto-recruiting, destroying iron and adamantine dummies can reduce their ability to attract good units.
 -   Flaming swords are good at burning rooms down during combat, once
     you have fire resistance.
 
 Defeating the enemy army
 ------------------------
 
--   Orc shaman: Take them out ASAP because they go invisible and also
-    heal other monsters.
 -   Always consider your enemy before attacking. Rest your cursor on an
     enemy to judge their stats and level.
+-   Orc shaman: Take them out ASAP to banish their spirits.
 -   Pick them off one at a time.
 -   Fight enemies in corridors in preference to rooms. With multiple
     enemies, you can fight one at a time.
@@ -287,8 +258,8 @@ Defeating the enemy army
 -   To be reasonably safe you need attack and defense about 10 points
     higher than your opponent.
 -   Wounded opponents however, are normally safe to fight.
--   Also blind and sleeping opponents are safer. When you are invisible,
-    most enemies of a similar level are fairly safe to kill.
+-   Also blind and sleeping opponents are safer, but hitting a sleeping enemy will wake them and anyone around.
+-   When you are invisible,  most enemies of a similar level are fairly safe to kill.
 -   Realise when you are about to die and retreat. Use a speed potion if
     you need to.
 -   Take being wounded VERY seriously. Never just keep on fighting.
@@ -299,30 +270,17 @@ Defeating the enemy army
 Using the enemy's population limit against him
 ----------------------------------------------
 
--   Statues and thrones - It is sometimes possible to destroy these. It
-    will decrease his army size. Try scroll of power, force bolt or fire
-    sphere.
+-   Statues and thrones - Sitting on the throne summons as many defenders as can fit to challenge you.  If you're feeling like you can take on everything (especially if you've already dealt with the Keeper), find and sit.
+    - Conversely, if the Keeper simply is recruiting too many troops, destroying statues and possibly the throne is an option, and will reduce the Keeper's population cap.  Melee attacks will work, but scrolls may speed the process. Try scrolls of destruction or fire sphere.
 -   Kill off the high level monsters and deliberately clog him up with
     useless ravens etc.
-
-Planting traps
---------------
-
--   Use the keeper's spare traps against him. Pick up the unarmed traps
-    and click apply.
--   Boulders and web traps are worth arming against the enemy. Try and
-    put them somewhere that you expect the keeper or high level minions
-    to go. Web/boulder combo works against your enemy as well as against
-    you.
--   Don't plant a trap while in combat. It will most likely go off
-    straight away and kill you!
 
 Winning the game
 ----------------
 
 -   Killing the end boss is always dangerous. Don't come this far and
     just rush it.
--   Use up your spare traps and magic to weaken down the keeper's army.
+-   Use up your spare magic to weaken down the keeper's army.
 -   Send vollies of arrows into the keepers location (often a training
     room or library)
 -   Don't get too close to the keeper in his line of sight, or he may
@@ -335,7 +293,7 @@ Winning the game
     cool-down, so just retreat and come back in a few turns. Make sure
     you are wearing your telepathy helm if you have one.
 -   Trap him if you can. Choose your moment and take your chance. Go
-    invisible if at all possible. Speed yourself. Buff strength and dex.
+    invisible if at all possible. Speed and buff yourself.
     Go kill him to win the game.
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
