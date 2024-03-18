@@ -8,6 +8,9 @@ layout: wiki
 
 Updated March 2024
 ------------------
+As an Adventurer, you'll be taking a Keeper or similar unit and trading in the workforce & building aspect for a nice house with stable and storage space.  But you're still going out to conquier the realm.  Without training gear, crafting stations, or significant minions to back you up, it will be a Challenge.
+
+Hopefully, this will help.
 
 The basics
 ----------
