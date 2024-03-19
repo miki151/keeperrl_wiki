@@ -262,12 +262,12 @@ Then simply build your library in that space from the orders menu. Each bookshel
 The bookshelves will get in your way, so place them one-by-one at suitable
 locations.
 
-Training rooms for melee combat operte on very similar principles, simply exchanging training dummies for the bookshelves.  Here, it's particularly important to save room for Iron dummies, as the better creatures available will require Iron rather than Wooden dummies.
+Training rooms for melee combat operate on very similar principles, simply exchanging training dummies for the bookshelves.  Here, it's particularly important to save room for Iron dummies, as the better creatures available will require Iron rather than Wooden dummies.
 
 Crafting rooms
 --------------
 
-Crafting stations allow prodiction of Equipment, such as armor and weapons, for your troops.  You generally only need one crafting station of each type, since as many creatures can effectively craft at the station as can fit around it.  A Workshop is a good idea so you can produce leather gear and (eventually) bows.
+Crafting stations allow production of equipment, such as armor and weapons, for your troops.  You generally only need one crafting station of each type, since as many creatures can effectively craft at the station as can fit around it.  A Workshop is a good idea so you can produce leather gear and (eventually) bows.
 
 If you've followed these past few paragraphs, you will have attracted some
 basic creatures to your dungeon already.
@@ -303,7 +303,7 @@ Options on the minion management screen
 
 You can banish, rename, assign or immediately direct activities, assign equipment, lock equipment, and view relevant information on minions here as well.
 
-If you're wondering whether a minion needs more training experience or perhaps should be tasked to defeat an enemy boss, this is the placce to look.
+If you're wondering whether a minion needs more training experience or perhaps should be tasked to defeat an enemy boss, this is the place to look.
 
 <img src="/keeperrl_wiki/Minionmanagement-screenshot.png" title="/keeperrl_wiki/Minionmanagement-screenshot.png" alt="/keeperrl_wiki/Minionmanagement-screenshot.png" width="1000" />
 
@@ -312,11 +312,11 @@ Population limit
 
 There is always a maximum population limit that your dungeon can hold
 and this is displayed on the bottom of the screen. Typical dungeons can
-support a population of 10 creatures (including the Keeper themself) plus the workforce, whether imps, peasants, prisoners, or other such plebs. You can attract and
+support a population of 10 creatures (including the Keeper themselves) plus the workforce, whether imps, peasants, prisoners, or other such plebs. You can attract and
 command more creatures by building various features. Impressive statues, for example, increase the lure of your dungeon by 1 population.
 However, a decent statue costs gold or mana (depending on which version
 you are playing). Your monsters will not actively take your money, but the prospect of an increased and varied meat supply (from the livestock-farm plots) will increase your population cap.
-When you are ready and have achieved sufficent dungeon malevolence, you can build a throne for yourself and gain command
+When you are ready and have achieved sufficient dungeon malevolence, you can build a throne for yourself and gain command
 of up to 10 more minions, as well.
 
 That said, several factions in the world may feel threatened by large and well-populated dungeons, so pace yourself.
@@ -358,7 +358,7 @@ to most of the bigger tribes and to do that, you will need to control a
 team or minion (see “Direct Control of a Minion”).
 
 Look on the tribes strip to see information about other known tribes.
-Destroying a tribe will grant dungeon XP (sometimes called "malevolence") and allow you to pillage, which instantly transfers resources and equipment on the defeated faction's trritory to the relevant storage in yours.  (If you don't have storage for something, such as a grave for the starting bandit corpses, you can't pillage those.)
+Destroying a tribe will grant dungeon XP (sometimes called "malevolence") and allow you to pillage, which instantly transfers resources and equipment on the defeated faction's territory to the relevant storage in yours.  (If you don't have storage for something, such as a grave for the starting bandit corpses, you can't pillage those.)
 
 Full conquest of all the tribes will allow you to retire victorious (only to
 be invaded by other players).
@@ -410,7 +410,7 @@ Regarding equipment, you have two main options, each of which is valid for diffe
 
 -   Production queues
 
-1) Some facilities will provide you with a production queue when clicked on, such as the workshop or forge. Here you can command production of weapons, armour, jewelry, potions and some other things.
+1) Some facilities will provide you with a production queue when clicked on, such as the workshop or forge. Here you can command production of weapons, armour, jewellery, potions and some other things.
 It will cost resources, but your creatures are generally happy to produce these if they have the skills.  With the proper facilities, you can reliably produce gear better than that available to most enemy factions.
 
 -   Looting
