@@ -269,43 +269,41 @@ Crafting rooms
 
 Crafting stations allow prodiction of Equipment, such as armor and weapons, for your troops.  You generally only need one crafting station of each type, since as many creatures can effectively craft at the station as can fit around it.  A Workshop is a good idea so you can produce leather gear and (eventually) bows.
 
-If you remembered your tutorial steps, you will have attracted some
+If you've followed these past few paragraphs, you will have attracted some
 basic creatures to your dungeon already.
 
 Minions
 -------
 
-You need to build other [rooms](/keeperrl_wiki/Rooms_Guide "wikilink") to attract
+You need to build [facilities](/keeperrl_wiki/Rooms_Guide "wikilink") to attract
 monsters into your dungeon. Some [Minions](/keeperrl_wiki/Minions "wikilink") will set
 up home with you if you just give them a dormitory to rest in. Other
 monsters would like places to train, or build things. Build a graveyard
-to keep corpses and you may be able to raise the dead. Other types of
-undead will come to practice rituals in a ritual room.
+to keep corpses and you may be able to raise the dead. Other types of creature may be summoned with sufficient rituals at your shrines.
 
-Direct Control of a Minion
---------------------------
+Control of a Minion
+-------------------
 
 Select the minions icon (the horned face) to see a list of your current
-types of minion and other minion information. Click on each type of
-minion to see a list of each individual creature and their level. Click
-on any individual creature to see the minion management screen where you
-can control them. There are a list of extra commands when inside a
-minion, such as casting [Spells](/keeperrl_wiki/Spells "wikilink"). After taking over a
-minion's will, press “u” to return to the “dark god” mode.
+types & quantity of minions, as well as any teams you may have created.
+Click on each type of minion to see a list of each individual creature and their level. Click
+on any individual creature to see their minion management screen where, among other things, you can take direct control of the minion.
 
-Press 't' to travel to other map sectors on the campaign map. Note that
-it is possible to select a whole team of minions, control them and
+(After taking over a minion's will, pressing “u” returns to the “overview ” mode.)
+
+When in control of one or more minions, you can press 't' or click the compass button under the minimap to travel to other map sectors on the campaign map.
+It is possible to select a whole team of minions, control them and
 invade. To do this, click on the team on the left panel of the minions
-tab, then select a team member and click “control”. Press 'g' to manage
-every move of each team member and to toggle that feature off again.
+tab, then select a team member and click “control”. Press 'g' or use the "control mode" button to toggle between managing the leader with the rest of the team relying on their AI, or managing each individual in turn.
 
 <img src="/keeperrl_wiki/Directcontrol-screenshot.png" title="/keeperrl_wiki/Directcontrol-screenshot.png" alt="/keeperrl_wiki/Directcontrol-screenshot.png" width="1000" />
 
 Options on the minion management screen
 ---------------------------------------
 
-You can banish, whip, directly control, rename, assign activities,
-assign equipment, lock equipment and view spells.
+You can banish, rename, assign or immediately direct activities, assign equipment, lock equipment, and view relevant information on minions here as well.
+
+If you're wondering whether a minion needs more training experience or perhaps should be tasked to defeat an enemy boss, this is the placce to look.
 
 <img src="/keeperrl_wiki/Minionmanagement-screenshot.png" title="/keeperrl_wiki/Minionmanagement-screenshot.png" alt="/keeperrl_wiki/Minionmanagement-screenshot.png" width="1000" />
 
@@ -313,29 +311,44 @@ Population limit
 ----------------
 
 There is always a maximum population limit that your dungeon can hold
-and this is displayed on the bottom right of the screen. Any dungeon can
-support a population of 10 creatures plus imps. You can attract and
-command more creatures by building various rooms. Impressive statues of
-yourself always increase the lure of your dungeon by 1 population.
+and this is displayed on the bottom of the screen. Typical dungeons can
+support a population of 10 creatures (including the Keeper themself) plus the workforce, whether imps, peasants, prisoners, or other such plebs. You can attract and
+command more creatures by building various features. Impressive statues, for example, increase the lure of your dungeon by 1 population.
 However, a decent statue costs gold or mana (depending on which version
-you are playing). Your monsters will not take your gold for themselves
-but you can offer them food in a pigsty to lure in another 4 creatures.
-When you are ready, you can build a throne for yourself and gain command
-of up to 10 more minions. Note that your dungeon size makes the forces
-of goodness feel threatened. Setting up a throne for yourself is totally
+you are playing). Your monsters will not actively take your money, but the prospect of an increased and varied meat supply (from the livestock-farm plots) will increase your population cap.
+When you are ready and have achieved sufficent dungeon malevolence, you can build a throne for yourself and gain command
+of up to 10 more minions, as well.
+
+That said, several factions in the world may feel threatened by large and well-populated dungeons, so pace yourself.
+Likewise, setting yourself on a throne is totally
 offensive to many tribes, good and bad.
 
 Population management
 ---------------------
 
-You may need to enforce discipline using a whipping post and keep them
-happy by letting them get a piece of the combat action. Also, some
-creatures may outlive their usefulness. You have the option to banish
-them or send them on a suicide mission. Some keepers like to possess
+Minion morale is not *as* important in KeeperRL 1.0 as it was in previous versions.  Nevertheless, high morale improves performance and treating your creatures well will pay off.  In particular, dining tables for the humanoids & haypiles for the beasts will ensure your creatures are well fed, beds & stables will keep everyone rested, and Entertainer or Copulator minions will perk the team up.
+
+And most everyone enjoys fighting and winning.  ;-) 
+
+*Quarters*
+----------
+That said, as creatures fight, make kills, and become veteran soldiers for you, they will want nicer quarters for themselves, ranging from merely an assigned place to call their own ("As a matter of fact, this bed DOES have my name on it.") to a lavishly carpeted chamber with finely reinforced walls, framed art, fountains, and possibly a private altar so they don't have to mix to worship.  Without Quarters suitable to their experience, your minions will perform at the level they perceive you feeling they're worth.
+
+In order to assign quarters, use the Zones function to designate an area as Quarters, then click that area to bring up a menu of your minions.  You can rest the cursor on individual minions to see a snapshot of their stats: in particular, folks with "unrealized experience" are looking for better quarters, and may be candidates for the space you're assigning.
+
+Resting the cursor on a Quarters area will show its current luxury value as well as its currently assigned occupant, if any.  You may reassign quarters from one creature to another without penalty (aside from the previous occupant now lacking quarters).
+
+*"Retirement"*
+------------
+Unfortunately, some creatures may outlive their usefulness, whether through a career-ending injury or simply falling behind the power curve.
+
+You have the option to banish them, or you could perhaps send them on a suicide mission. Some keepers like to possess
 weak creatures and then drown the in a lake or river. Other players
 throw things at them, use them as target practice and kill them that way
 (It is possible to get some experience from them, but you should expect
 them to turn hostile and try to fight back).
+
+And some Keepers prefer to keep their loyal minions on.  After all, they were there when you needed minions to support you...
 
 Tribes
 ------
@@ -345,8 +358,9 @@ to most of the bigger tribes and to do that, you will need to control a
 team or minion (see “Direct Control of a Minion”).
 
 Look on the tribes strip to see information about other known tribes.
-Destroying a tribe will yield mana and allow you to pillage. Full
-conquest of all the tribes will allow you to retire victorious (only to
+Destroying a tribe will grant dungeon XP (sometimes called "malevolence") and allow you to pillage, which instantly transfers resources and equipment on the defeated faction's trritory to the relevant storage in yours.  (If you don't have storage for something, such as a grave for the starting bandit corpses, you can't pillage those.)
+
+Full conquest of all the tribes will allow you to retire victorious (only to
 be invaded by other players).
 
 <img src="/keeperrl_wiki/Tribesstrip-screenshot.png" title="/keeperrl_wiki/Tribesstrip-screenshot.png" alt="/keeperrl_wiki/Tribesstrip-screenshot.png" width="1000" />
@@ -373,45 +387,46 @@ Prisoners
 
 Once you build a prison from iron, you can take prisoners. When fighting
 with humanoids, you can right click them to order their capture (take
-them alive). Once knocked out, they appear on your immigration panel and
-you have a while to capture them, before they die.
+them alive). Once knocked out, they will appear on your immigration panel, and you have 300 turns to capture them, before they die.
+
+(If you're away from home, you need to defeat the faction where they are in order to capture people, and the 300 turn timer starts when the prisoner goes down.  Taking too long on-site can lead to captives bleeding out!)
 
 Next, build a torture table and torture your prisoners to try and
 convert them. Converted prisoners keep their stats and join your
-dungeon! Otherwise, execute them on a gallows for their heads to be hung
+dungeon! Some prisoners, however, will prefer to die than convert.  (If your workers are very busy, it's possible that they may simply send the prisoner back to the prison population, too.)
+
+Otherwise, execute them on a gallows for their heads to be hung
 up. Alternatively, absorb your prisoners with a doppleganger or else
 just keep them to work in your mines. Some prisoners have spells and
 useful skills, such as gnomes who are good at making jewellery.
 
-If you have a small army and a large number of prisoners they may try to
-escape.
+If you have a small army and a large number of slave prisoners, though, they may try to
+escape.  Your Villain bar will keep you informed of the relative risk of such a mass breakout attempt.
 
 Equipping an army
 -----------------
 
-When you have a decent population of creatures with different skills and
-you have enough resources, it is worth thinking about equipment. You
-have two options here:
+Regarding equipment, you have two main options, each of which is valid for different purposes:
 
 -   Production queues
 
-1) Some rooms will provide you with a production queue on the research
-tab. Here you can command production of weapons, armour, ammunition,
-jewelry, potions and some other things. It will cost resources, but your
-creatures are generally happy to produce these if they have the skills.
+1) Some facilities will provide you with a production queue when clicked on, such as the workshop or forge. Here you can command production of weapons, armour, jewelry, potions and some other things.
+It will cost resources, but your creatures are generally happy to produce these if they have the skills.  With the proper facilities, you can reliably produce gear better than that available to most enemy factions.
 
 -   Looting
 
 2) Some equipment can be got from invaders. You can also control a
 creature and go on a rogue-like assault of a hostile force nearby to get
 loot.
+Conversely, other factions in the world typically have access to more varied gear than you do.  For example, Lizardmen may not have much in the way of weapons or armor, but they have a potion capable of restoring broken or lost limbs...
 
 Training an army
 ----------------
 
 Some creatures learn spells in the library. Others gain levels by
-training against dummies in the training room and/or through real
-combat. Some creatures can train and learn spells, some can do neither.
+training against dummies in the training room or pincushioning targets on the archery range.
+
+Some creatures can train and learn spells, some can do neither.
 Better training facilities will get better results.
 
 Invaders
@@ -422,15 +437,14 @@ recruits but can also attract invaders. Invaders may be out to plunder
 your gold, gain combat experience or just to assassinate your
 [Keeper](/keeperrl_wiki/Keeper "wikilink"). Invaders may carry useful items to loot and
 can also help you gain combat experience. If you are overpowered by an
-invading force, such as a dragon you may need to evacuate your
+invading force, such as a cyclops, a human army, or a dragon, you may need to evacuate your
 [Keeper](/keeperrl_wiki/Keeper "wikilink") out of a back door. Sometimes invaders may
-call off an assault. Most invaders are capable of tracking your keeper
-across the map.
+call off an assault, perhaps if they were only aiming to break your dungeon as a threat or loot it for valuables.  However, other invaders who seek to END your reign of terror may well capable of tracking your keeper across the map.
 
 Exploring the Map
 -----------------
 
-Directly control a minion by taking over its will. Explore the map using
+Directly control a minion or team, then explore the map using
 the arrow keys. Kill local monsters and tribes by commanding a party.
 New teams are set up by clicking “New team” on the
 [Minions](/keeperrl_wiki/Minions "wikilink") tab. Then select individual creatures to
@@ -440,7 +454,7 @@ dragon's hoard or waking up a cyclops. Some nocturnal animals will want to go ou
 also have good night vision.
 
 Be careful while exploring, as you may bump into an unexpected
-situation. If you are lucky you will find friendly tribes you can
+situation. With proper planning and foresight, you will find friendly tribes you can
 recruit. You will also come across major enemies that you must defeat to
 win the game. Minor enemies that you can tolerate but may attack you
 occasionally and also small random settlements such as villages and
@@ -455,8 +469,7 @@ Winning the game
 
 Some monsters that you meet will be pleased to join your forces. Others
 will be hostile to you and perhaps hostile to the other settlements.
-Note that you may tolerate the existence of minor pests such as an old
-crazy cyclops. You must wipe out all the major forces on the tribes
+You may tolerate the existence of minor pests such as a no-account bandit lair, but you must wipe out all the major forces on the tribes
 strip. There are some monsters such as dragons that may die when they
 invade you. You will normally need to go on the offensive at some point
 by forming a team and controlling a minion directly to kill all your
