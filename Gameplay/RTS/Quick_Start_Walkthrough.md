@@ -153,20 +153,37 @@ Building Your First Dungeon
 ---------------------------
 
 The main benefit of playing a keeper is that you can build a dungeon.
-Adventurers can only invade dungeons.
+(Adventurers can only invade dungeons.)
+
+Feel free to look around the map a bit.  Clicking in the minimap will expand it for a better view; clicking in the expanded minimap can move your camera to that location.  On your surface level, there may be some stone deposits (grey areas in otherwise unexplored terrain) but chances are you'll have to mine up or down to get to the iron, stone, and eventually gold.
+
+Structural
+----------
 
 The first thing to do is simply start digging! On the top right are the
 various action icons. The pickaxe icon (the leftmost one) gives you the
-orders you can give your imps. The top one is called “Dig or cut tree”.
+orders you can give your imps. The top one is called Structures, and the first item there is “Dig or cut tree”. (By default, pressing "d" will toggle through the Structure tasks, so if nothing else is selected, press "d" to Dig.)
 Select that one and have the imps start digging.
 
 You can be as creative as you want when it comes to designing the layout
 of your dungeon. The imps dig fairly quickly if they are not mining
 ores; stick to the plain black area and they can dig large
-[rooms](/keeperrl_wiki/Rooms_Guide "wikilink") in a short time. You will 
-draw out rectangles.
+[rooms](/keeperrl_wiki/Rooms_Guide "wikilink") in a reasonably short time.  It's generally best to make rooms rectangular or square; 3x5, 5x5, or 7x7 are generally good sizes to work with.
+
+In the event you order something but change your mind, click the same order on it again to cancel.  If the imps have already dug out the wrong stone square, though, it's Too Late.  (You'll be able to order it filled back in once you have some stone.)  ;-)
+
+There's a good chance you'll encounter underground water where you'd like to go.  You can build Bridges to safely cross it (Small & Medium folks like imps and goblins are too small to safely wade through even Shallow water, but human Keepers are taller and can touch bottom.  Deep Water, however, requires Swimmer, Flying, or a bridge) or, if you insist on building RIGHT THERE, you can fill the tile in using your stone.
+
+It is possible to reinforce walls and block in tunnels, although it is
+generally a bad idea to cut yourself off from the outside world
+completely (If invaders can't get in, they will dig to destroy your
+walls, which is usually worse than giving them an “easy” way in strewn
+with traps). Some creatures like ants and dwarves sometimes prefer to
+dig their way in anyway.
 
 <img src="/keeperrl_wiki/Littledungeon-screenshot.png" title="/keeperrl_wiki/Littledungeon-screenshot.png" alt="/keeperrl_wiki/Littledungeon-screenshot.png" width="1000" />
+
+Eventually, you'll run out of space or need to find resources.  You can build stairs up or down the using the relevant option.  Stairs are built *precisely* where you order them, with no deviation from one floor to the next.  If you anticipate needing to move up or down in several areas, you can build several stairways.
 
 Construction
 ------------
@@ -189,26 +206,20 @@ Orders
 Use the orders menu from the construction tab to claim (or unclaim) tiles, fetch
 items, prioritise tasks and remove construction. The selected option
 will highlight in yellow. Click on the map squares to issue the orders.
-You can set up forbidden zones and this is the best way to stop your
+You can set up forbidden zones (which your creatures will not pass through); this is the best way to stop your
 creatures angering nearby inhabitants or to keep them locked in a room
 out of trouble.
 
-It is possible to reinforce walls and block in tunnels, although it is
-generally a bad idea to cut yourself off from the outside world
-completely (If invaders can't get in, they will dig to destroy your
-walls, which is usually worse than giving them an “easy” way in strewn
-with traps). Some creatures like ants and dwarves sometimes prefer to
-dig their way in anyway.
-
 Installations
 -------------
+One downside to digging out a subterranean lair is that it gets dark.  Creatures can't read, train, or craft effectively when they can't see what they're doing.  You can combat this by ordering your imps to place torches, under the Installation menu.  (Wall torches are free, but standing torches cost Wood.)
 
-Some [Installations](/keeperrl_wiki/Installations "wikilink") require research to do.
-Install doors, bridges, barricades, torches, eyeballs and your prisoner
-heads in like fashion. You can also install various
-[Traps](/keeperrl_wiki/Traps "wikilink").
+Install doors, barricades, and eyeballs, as well as impaling your prisoner
+heads, in like fashion. You can also install various [Traps](/keeperrl_wiki/Traps "wikilink"), but they require Research, as do Demon Shrines.
 
 Message boards can be built by Keepers to record messages for themselves or visitors.
+
+Portals are, effectively, a point-to-point stairway that can go between two points on the same floor, or two points on different floors.  Building one portal will sit there and wait for the second; the second will automatically attune to the first (and both will match color).  Subsequent portals will work similarly.  You can safely walk past a portal's tile if you don't wish to use the portal.
 
 <img src="/keeperrl_wiki/Installations-screenshot.png" title="/keeperrl_wiki/Installations-screenshot.png" alt="/keeperrl_wiki/Installations-screenshot.png" width="1000" />
 
@@ -216,54 +227,50 @@ Building Rooms and Gathering Resources
 --------------------------------------
 
 Create storage rooms by clicking the “Storage” icon under the orders
-menu, then mark out the space. The floor will change colour. You
-normally want both resource and equipment storage. There is currently no
-limit to the amount you can store on one tile, so you can design it how
-you like. You can also store resources outside the dungeon.
+menu, then mark out the tile. The floor will change colour. You
+normally want both resource and equipment storage. There is no practical
+limit to the amount you can store on one tile, so marking out entire rooms for storage is impractical.
+
+Once resources are in a storage space, they are instantly available for any project in the dungeon.  If you are familiar with other games such as Rimworld or Dwarf Fortress,
+your workers need NOT transport resources to the job site or crafting station in order to build or craft things in KeeperRL.
+
+You can also designate resource-storage spaces outside the dungeon, which can come in handy in the early going.  Just be careful as folks who want to steal your resources would have an easy time if they're outside and unguarded.  (Not many folks want to steal wood.  Gold, though, is popular.)
 
 Now that you have a storage space allocated, you can have the imps start
 cutting down trees. Use the “Dig or cut tree” option, dig out the
 mountain, and also mark trees. Do some mining. Rocks inside the mountain
-will be visible. A treasure chest will give you somewhere to store the
-gold, but be careful, bandits will scry your wealth.
+will be visible.
 
 Summoning Extra Imps
 --------------------
 
 Whenever you have enough gold, the [Keeper](/keeperrl_wiki/Keeper "wikilink") can
 summon more imps. Simply click on the imp icon on your immigration
-panel. I usually add 4 more imps, for a total of 8, very near the
-beginning of the game, because this greatly speeds up your ability to
-dig and gather [Resources](/keeperrl_wiki/Resources "wikilink"). I then usually add 4
-more later on in the game but 12 total seems like enough for me to get
-things done. I'd rather save my gold for other things later.
+panel. Additional imps can speed construction and other sundry projects, but the cost increases exponentially. Most players generally prefer to augment their imp force with Prisoners instead.
 
-Library and Research
---------------------
+(Should your imps be killed, the Keeper may summon sufficient imps to replenish up to four.  You cannot lose due to lack of workers.)
 
-The next thing you probably want to build is a library. The library is
-crucial because the [Keeper](/keeperrl_wiki/Keeper "wikilink") needs it to research any
-new spells.
+Library and Training Room
+-------------------------
 
-Have the imps dig out another room, usually at least 10x20 but it can be
+Early versions of KeeperRL (and thus, early walkthroughs) relied on the Library to develop new technology.  In KeeperRL 1.0, bookshelves attract spellcasting minions and let them train their spellcasting abilities (thus improving their spell selection, too) but are not of themselves vital to improve the dungeon's technology.
+
+Have the imps dig out another room, usually at least 5x5 but it can be
 bigger. Make sure you have some wood stockpiled as well.
 
-Then simply build your library in that space from the orders menu. You
-need a large library to research advanced skills and at this point wood
-is plentiful so go ahead and build a large library, 10x10 at least. The
-bookshelves will get in your way, so place them one-by-one at suitable
-locations. The [Keeper](/keeperrl_wiki/Keeper "wikilink") will usually immediately move
-to the library and spend most of the time there.
+Then simply build your library in that space from the orders menu. Each bookshelf can attract one caster, but the wooden ones will only train to level 3, so you don't need that many.  One to three will probably suffice for now, but leave room to build the better bookshelves as your technology improves.
+The bookshelves will get in your way, so place them one-by-one at suitable
+locations.
 
+Training rooms for melee combat operte on very similar principles, simply exchanging training dummies for the bookshelves.  Here, it's particularly important to save room for Iron dummies, as the better creatures available will require Iron rather than Wooden dummies.
+
+Crafting rooms
+--------------
+
+Crafting stations allow prodiction of Equipment, such as armor and weapons, for your troops.  You generally only need one crafting station of each type, since as many creatures can effectively craft at the station as can fit around it.  A Workshop is a good idea so you can produce leather gear and (eventually) bows.
 
 If you remembered your tutorial steps, you will have attracted some
-basic creatures to your dungeon already, and killed a few easy enemies.
-
-
-You should have enough dungeron experience at this point to research some of the
-technologies, which you can experiment with.
-
-<img src="/keeperrl_wiki/Researchmenu-screenshot.png" title="/keeperrl_wiki/Researchmenu-screenshot.png" alt="/keeperrl_wiki/Researchmenu-screenshot.png" width="1000" />
+basic creatures to your dungeon already.
 
 Minions
 -------
@@ -273,10 +280,7 @@ monsters into your dungeon. Some [Minions](/keeperrl_wiki/Minions "wikilink") wi
 up home with you if you just give them a dormitory to rest in. Other
 monsters would like places to train, or build things. Build a graveyard
 to keep corpses and you may be able to raise the dead. Other types of
-undead will come to practice rituals in a ritual room. Animals are
-attracted into cages, where they can sleep (You may not want too many of
-those at this stage, although cave bears are quite tough and flying
-beasts will add their superior line-of-sight to a party).
+undead will come to practice rituals in a ritual room.
 
 Direct Control of a Minion
 --------------------------
@@ -432,8 +436,7 @@ New teams are set up by clicking “New team” on the
 [Minions](/keeperrl_wiki/Minions "wikilink") tab. Then select individual creatures to
 add them to the team. Select the minion you want to lead your party and
 click command to control them. Think carefully before trying to loot a
-dragon's hoard or waking up a cyclops. Wolves naturally form their own
-teams. Some nocturnal animals will want to go out at night to hunt and
+dragon's hoard or waking up a cyclops. Some nocturnal animals will want to go out at night to hunt and
 also have good night vision.
 
 Be careful while exploring, as you may bump into an unexpected
