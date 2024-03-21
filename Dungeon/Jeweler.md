@@ -51,5 +51,4 @@ Other items in this section
 -    [Short Bow](/keeperrl_wiki/Short_Bow "wikilink")
 -    [Sword](/keeperrl_wiki/Sword "wikilink")
 -    [Tasks](/keeperrl_wiki/Tasks "wikilink")
--    [Word Of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
 -    [Workshop](/keeperrl_wiki/Workshop "wikilink")
