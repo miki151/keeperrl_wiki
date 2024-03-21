@@ -4,7 +4,7 @@ permalink: Forge/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
 -Requires [[Technologies#Iron_Working | Iron Working]] researched.
 -Produces: all metal weapons and all metal armor
@@ -19,6 +19,7 @@ between Forge tiles at different locations.
 In KeeperRL 1.0, a Magma Forge is also available.  When built adjacent to magma, it uses this powerful and steady supply of heat to allow workers to craft gear with 40% better stats than that at the baseline Forge.
 
 *Skilled Crafting*
+
 In KeeperRL 1.0, crafters require skill 50 to work on adamantine objects.  While most crafters available to starting Keepers through Immigration are not to that standard, there are several ways to develop or obtain the necessary talent.
 
   - Insanity: Insane artificers are occasionally available through Immigration.  Though they require secured living & working space to avoid fighting with and being killed by the general population, the +20 Forge they receive will let them make adamantine gear.
