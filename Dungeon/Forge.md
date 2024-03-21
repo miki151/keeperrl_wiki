@@ -16,8 +16,9 @@ before you can build them.
 As with all crafting stations, up to 8 creatures can contribute to projects at any particular Forge tile, and workers can collaborate on projects
 between Forge tiles at different locations.
 
-Skilled Crafting
-----------------
+In KeeperRL 1.0, a Magma Forge is also available.  When built adjacent to magma, it uses this powerful and steady supply of heat to allow workers to craft gear with 40% better stats than that at the baseline Forge.
+
+*Skilled Crafting*
 In KeeperRL 1.0, crafters require skill 50 to work on adamantine objects.  While most crafters available to starting Keepers through Immigration are not to that standard, there are several ways to develop or obtain the necessary talent.
 
   - Insanity: Insane artificers are occasionally available through Immigration.  Though they require secured living & working space to avoid fighting with and being killed by the general population, the +20 Forge they receive will let them make adamantine gear.
