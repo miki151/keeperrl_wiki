@@ -12,6 +12,7 @@ There are lots of things you can find underground.  Some are good, some are dang
 But they're all interesting parts of the KeeperRL world.
 
 *Resources*
+
 Most Keepers are interested in getting more iron, gold, adamantine, and on occasion stone or wood.
 - Giant Treeshrooms (whose fungal structure is very much "wood" for dungeon purposes) are very common in the first two underground levels, and there's usually some structural stone as well.
 - Iron and stone are usually available in the first two levels *up* the mountain, and otherwise fairly common from about 3 levels down to about 14-24 levels down.
@@ -20,6 +21,7 @@ Most Keepers are interested in getting more iron, gold, adamantine, and on occas
 - Exotic metals like Adoxium and Infernite might be found starting 24 levels down...
 
 *Surprises/Major Features*
+
 Not every underground level has something interesting.  But if one of these is present, it's marked on your map, so you don't miss it!
 - Small dwarven settlements are commonplace underground.  If left unchecked, they're capable of tunneling into your dungeon and making a rather Unpleasant Surprise of themselves, but generally they aren't a match for a trained and prepared security patrol.
 - Rat-people have been reported to exist.  They're not as capable diggers as are the dwarves, but they're quite capable of surprising an unexpecting mining crew or complacent Keeper.
@@ -29,6 +31,7 @@ Not every underground level has something interesting.  But if one of these is p
 - And if you dig deep enough, well, you might find someone who thinks "nah, I'll pass."
 
 *Minor Features*
+
 These typically only happen on levels with a Major Feature.  For better or worse, they're *not* marked on your map.  Some don't ever find them, and some don't realize what they do.  And some definitely want to.
 - Gnomish offshoot workshops sometimes hide out deep underground.  While it's not really a good idea to hide out in a sealed cavern, if you're a gnomish colony yourself you may be able to benefit from their work.
 - Sometimes prisons get forgotten deep underground.  And sometimes, the prisoners are **still alive**...rest assured, they're grateful to you for saving them.
