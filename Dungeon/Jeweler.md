@@ -4,7 +4,7 @@ permalink: Jeweler/
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
 Requires [[Jewellery]]
 Produces: magical rings and amulets
@@ -14,9 +14,11 @@ The Jeweler worktable allows folks with the relevant skill to craft magical jewe
 
 Relevant jewelry can make your creatures dramatically more effective, so the jeweler workstation is usually a solid mid-game priority.
 
+KeeperRL 1.0 also adds a "Magma Jeweller", where your creatures can make glyphs to upgrade weapons and armor.  Like the Magma Forge, it needs to be placed adjacent to magma, but will work perfectly well if you build stone bridges over the magma.
+
 [[Category: Rooms]]
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Unfinished](/keeperrl_wiki/Unfinished "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Dungeon](/keeperrl_wiki/Dungeon "wikilink")
 
 Other items in this section
 -    [Basic Spells](/keeperrl_wiki/Basic_Spells "wikilink")
