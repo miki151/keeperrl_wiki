@@ -70,9 +70,11 @@ Dungeon Guide
 <hr>
 -   [ Dungeon Technologies](/keeperrl_wiki/Technologies "wikilink")                                               
 -   [Resources](/keeperrl_wiki/Resources "wikilink")                                                              
+-   [Underground Features](/keeperrl_wiki/Underground_Features "wikilink")
 -   [Constructions](/keeperrl_wiki/Constructions "wikilink")                                                        
    -   [ Rooms](/keeperrl_wiki/Rooms_Guide "wikilink")                                                       
-        -   [Structures and Installations](/keeperrl_wiki/Structures_And_Installations "wikilink")                      
+        -   [Structures and Installations](/keeperrl_wiki/Structures_And_Installations "wikilink")  
+        -   [Luxury] (/keeperrl_wiki/Luxury "wikilink")
        -   [Traps](/keeperrl_wiki/Traps "wikilink")                                                                 
    -   [ Items](/keeperrl_wiki/Items_Guide "wikilink")                                                           
        -   [Weapons](/keeperrl_wiki/Weapons "wikilink")                                                                
