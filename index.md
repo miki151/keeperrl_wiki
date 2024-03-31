@@ -41,6 +41,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 -   [List of Gameplay Features](/keeperrl_wiki/Gameplay "wikilink")
 -   [Player Factions Guide](/keeperrl_wiki/Alternative_Keeper_Characters "wikilink")
 -   [Quick Start Walkthrough for New Keepers](/keeperrl_wiki/Quick_Start_Walkthrough "wikilink")
+-   [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
 -   [How to win as an adventurer](/keeperrl_wiki/How_To_Win_As_An_Adventurer "wikilink")
 -   [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
 -   [Campaign mode](/keeperrl_wiki/Campaign_Mode "wikilink")
