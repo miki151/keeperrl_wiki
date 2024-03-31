@@ -1,6 +1,14 @@
+---
+title: Raiding for Beginners
+permalink: Raiding_for_Beginners
+layout: wiki
+---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+
 Raiding For Beginners
 ----
-Hi!  From time to time, people ask for help getting started in KeeperRL.  One question that came up recently was how to get started on your first raid as a Keeper.
+Hi!  From time to time, people ask for help getting started in KeeperRL.  One question that comes up from time to time is how to get started on your first raid as a Keeper.
 
 For beginners, I'll assume you're a Knight or Wizard, and you want to go nail the local bandits, or maybe a low-level dwarf setup.  Evil/Fallen Knights are generally
 easier to play than Less-Evil or Lawful Knights, but for current purposes either will work.
