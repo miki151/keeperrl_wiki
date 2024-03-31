@@ -4,7 +4,7 @@ permalink: Raiding_for_Beginners
 layout: wiki
 ---
 
-[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Raiding For Beginners
 ----
