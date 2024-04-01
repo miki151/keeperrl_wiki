@@ -7,8 +7,7 @@ layout: wiki
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
 Here is a list of creatures extracted from the game-code in February
-2018. Some of the monsters will be impossible to actually encounter
-(yet).
+2018; their descriptions are accurate but non-spoiler-y.
 
 [Abomination](/keeperrl_wiki/Abomination "wikilink")
 <img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
@@ -114,7 +113,7 @@ Black Dragons make for fine converts, however, and their scales excel at protect
 
 [Cow](/keeperrl_wiki/Cow "wikilink")
 <img src="/keeperrl_wiki/Cow.png" title="fig:/keeperrlwiki/Cow.png" alt="/keeperrl_wiki/Cow.png" width="100" />
-''Livestock animal.  If raised on your cow pasture or purchased by a Lawful Knight, they help raise your population cap; otherwise, not useful, unless you're a Necromancer.
+''Livestock animal.  If raised on your cow pasture, they help raise your population cap; otherwise, not useful, unless you're a Necromancer or seek to (literally) beef up a minion through transferring stats to it.
 
 [Cyclops](/keeperrl_wiki/Cyclops "wikilink")
 <img src="/keeperrl_wiki/Cyclops.png" title="fig:/keeperrl_wiki/Cyclops.png" alt="/keeperrl_wiki/Cyclops.png" width="100" />
@@ -146,16 +145,16 @@ you might experience a change of fortune at the last moment...
 [Deer](/keeperrl_wiki/Deer "wikilink")
 <img src="/keeperrl_wiki/Deer.png" title="fig:/keeperrl_wiki/Deer.png" alt="/keeperrl_wiki/Deer.png" width="100" />
 '' Sometimes glimpsed running through the trees, Deer are fairly harmless to anything larger than a goblin.  Goblins themselves have been known to press captive deer
-into service as mounts, if nothing better is avialable.
+into service as mounts, if nothing better is available.
 
 [Demon Dweller](/keeperrl_wiki/Demon_Dweller "wikilink")
 <img src="/keeperrl_wiki/Demon_Dweller.png" title="fig:/keeperrl_wiki/Demon_Dweller.png" alt="/keeperrl_wiki/Demon_Dweller.png" width="100" />
-'' Soldiers of the Demonshrine; they're quite dangerous in large numbers and by surprise, but when attacking dungeons which have undertaken demon worship, they're less
+'' Soldiers of Darkshrine; they're quite dangerous in large numbers and by surprise, but when attacking dungeons which have undertaken demon worship, they're less
 dangerous than Angels.
 
 [Demon Lord](/keeperrl_wiki/Demon_Lord "wikilink")
 <img src="/keeperrl_wiki/Demon_Lord.png" title="fig:/keeperrl_wiki/Demon_Lord.png" alt="/keeperrl_wiki/Demon_Lord.png" width="100" />
-'' Major Villain and head of the Demonshrine.  Not that much more dangerous than his minions, but his gifts are dangerous to the unwary.
+'' Major Villain and head of the Darkshrine.  Not that much more dangerous than his minions, but his gifts are dangerous to the unwary.
 
 [Djinn](/keeperrl_wiki/Djinn "wikilink")
 <img src="/keeperrl_wiki/Djinn.png" title="fig:/keeperrlwiki/Djinn.png" alt="/keeperrl_wiki/Djinn.png" width="100" />
@@ -172,18 +171,18 @@ dangerous than Angels.
 [Doppleganger](/keeperrl_wiki/Doppleganger "wikilink")
 <img src="/keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki/Doppleganger.png" width="100" />
 '' Absorber of living bodies and their capabilities, the Doppelganger can be one of the scarier demons available to Evil Keepers. Conversely, they're reputed
-to never be *quite* as capable as the folks they absorb, so their true capability is in mixing the abilities of many different creatures.  Keepers have been known to wish there were some way they could gain the absorbption capabilities of a Doppleganger for themselves...
+to never be *quite* as capable as the folks they absorb, so their true capability is in mixing the abilities of many different creatures.  Keepers have been known to wish there were some way they could gain the absorption capabilities of a Doppleganger for themselves...
 
 [Dragon](/keeperrl_wiki/Dragon "wikilink")
 ''Dragons are generally Huge beasts capable of winged flight and devastating bites and breath, but vulnerable to archers.  Keepers often prize them as personal mounts. Since they're generally classified by their color, check specific colors of dragon for more information.
 
-[Driad](/keeperrl_wiki/Driad "wikilink")
+[Dryad](/keeperrl_wiki/Driad "wikilink")
 <img src="/keeperrl_wiki/Driad.png" title="fig:/keeperrl_wiki/Driad.png" alt="/keeperrl_wiki/Driad.png" width="100" />
 '' Forest dwellers who can see and shoot past trees as though the trees were not there, Driads can and will shoot any invader they can see to pieces.  If only there was a way to spot them first...
 
 [Duke](/keeperrl_wiki/Duke "wikilink")
 <img src="/keeperrl_wiki/Knightboss.png" title="fig:/keeperrl_wiki/Knightboss.png" alt="/keeperrl_wiki/Knightboss.png" width="100" />
-''Mighty human Major Villain (from Evil Keepers' perspective).  Dukes frequently fight from the back of a mighty Warhorse, using battle axes of Rage, as well as joining the battle alongside their competent and well-equipped melee troops with archer support, making their castles a formidable challenge to attackers.
+''Mighty human Major Villain (from Evil Keepers' perspective).  Dukes frequently fight from the back of a mighty Warhorse, using battle axes of Rage, as well as joining the battle alongside their competent and well-equipped melee troops with archer support, making their castles a formidable challenge to attackers.  As of late, Keepers have reported that Dukes frequently challenge them to single combat; some succeed, some perish, and some take the Duke alive.
 
 However, their personal prowess also makes them a fine choice for capture and conversion.
 
@@ -256,10 +255,7 @@ the rare and useful Archwood.
 
 [Fire Elemental](/keeperrl_wiki/Fire_Elemental "wikilink")
 <img src="/keeperrl_wiki/Fire_Elemental.png" title="fig:/keeperrl_wiki/Fire_Elemental.png" alt="/keeperrl_wiki/Fire_Elemental.png" width="100" />
-''Frequently found near lava and a threat to mining operations, but usually not a major concern to competent combat troops.
-
-[Fire Mage](/keeperrl_wiki/Fire_Mage "wikilink")
-*Not encountered in vanilla Alpha36*
+''Frequently found near lava and a threat to mining operations, but usually not a major concern to competent combat troops.  Wooden floors and construction, however, will burn like tinder!
 
 [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink")
 <img src="/keeperrl_wiki/Fire_Sphere.png" title="fig:/keeperrl_wiki/Fire_Sphere.png" alt="/keeperrl_wiki/Fire_Sphere.png" width="100" />
@@ -292,7 +288,7 @@ attempt effectively self-banishes the ghost, so they're not much of a threat to 
 ''Chief of the gnomes, but not much of a threat.
 
 [Goat](/keeperrl_wiki/Goat "wikilink")
-''Livestock animal commonly found with peasants, and occasionally with Lawful keepers; goblins could ride them, but they're not really built for battle.
+''Livestock animal commonly found with peasants; goblins could ride them, but they're not really built for battle.
 
 [Goblin](/keeperrl_wiki/Goblin "wikilink")
 <img src="/keeperrl_wiki/Goblin.png" title="fig:/keeperrl_wiki/Goblin.png" alt="/keeperrl_wiki/Goblin.png" width="100" />
@@ -360,7 +356,7 @@ as good at mining as the larger folks, and they can't handle water by themselves
 
 [Kraken](/keeperrl_wiki/Kraken "wikilink")
 <img src="/keeperrl_wiki/Krakenhead.png" title="fig:/keeperrl_wiki/Krakenhead.png" alt="/keeperrl_wiki/Krakenhead.png" width="100" /><img src="/keeperrl_wiki/Krakenland.png" title="fig:/keeperrl_wiki/Krakenland.png" alt="/keeperrl_wiki/Krakenland.png" width="100" /><img src="/keeperrl_wiki/Krakenland.png" title="fig:/keeperrl_wiki/Krakenland.png" alt="/keeperrl_wiki/Krakenland.png" width="100" />
-''Entangling water monster of myth, whose tentacles dragged countless creatures to their watery doom in eras past.  Nowadays they're believed extinct...
+''Entangling water monster of myth, whose tentacles dragged countless creatures to their watery doom in eras past.  Previously believed extinct, Krakens have resurfaced both in the occasional mountain river or underground lake, as well as perpetually spawning in the otherwise-useful Enchanted Pools.  As their tentacles excel at dragging creatures to watery graves or immobilizing Swimmers for the kraken's maw, it's always best to bring support when you see a tentacle approaching...
 
 [Lava Golem](/keeperrl_wiki/Lava_Golem "wikilink")
 <img src="/keeperrl_wiki/Lava_Golem.png" title="fig:/keeperrl_wiki/Lava_Golem.png" alt="/keeperrl_wiki/Lava_Golem.png" width="100" />
@@ -371,14 +367,14 @@ as good at mining as the larger folks, and they can't handle water by themselves
 
 [Legendary Humanoid](/keeperrl_wiki/Legendary_Humanoid "wikilink")
 ''Generally superior to Legendary Beasts due to their ability to work, train, and use equipment, Legendary Humanoids are likewise the result of fell demonic breeding
-programs, and similarly both powerful but flawed.  On occasion, larger varieties from eras gone by are found locked up in remote tower prisons known as "Sokoban", for reasons best left unknown...
+programs, and similarly both powerful but flawed.
 
 [Lizardman](/keeperrl_wiki/Lizardman "wikilink")
 <img src="/keeperrl_wiki/Lizardman.png" title="fig:/keeperrl_wiki/Lizardman.png" alt="/keeperrl_wiki/Lizardman.png" width="100" />
-''Poisonous humanoid reptile, and a dire threat to starting Adventurers.
+''Poisonous humanoid reptiles commonly found in the swamps, and a dire threat to starting Adventurers.
 
 [Lizardman Chief](/keeperrl_wiki/Lizardman_Chief "wikilink")
-''Major Villain: well-equipped and poisonous fighter, with plenty of loyal troops.
+''Major Villain: well-equipped and poisonous fighter, with plenty of loyal troops.  Desperate people in search of a means to restore lost or crippled limbs seek him out, but so far every attempt to convince him to provide the mythical "potion of limb regrowth" has ended in violence...
 
 [Lizardman Lord](/keeperrl_wiki/Lizardman_Lord "wikilink")
 
@@ -571,7 +567,7 @@ is likewise a threat, so take the necessary precautions.
 
 [White Wizard](/keeperrl_wiki/White_Wizard "wikilink")
 <img src="/keeperrl_wiki/White_Wizard.png" title="fig:/keeperrlwiki/White_Wizard.png" alt="/keeperrl_wiki/White_Wizard.png" width="100" />
-*Not encountered as such in vanilla Alpha36; neutral Wizards can be foundm but do not wear White and are not precisely engaged in Lawful activity...*
+*Not encountered as such in vanilla Alpha36; neutral Wizards can be found but do not wear White and are not precisely engaged in Lawful activity...*
 
 [Witch](/keeperrl_wiki/Witch "wikilink")
 <img src="/keeperrl_wiki/Witch.png" title="fig:/keeperrl_wiki/Witch.png" alt="/keeperrl_wiki/Witch.png" width="100" />
