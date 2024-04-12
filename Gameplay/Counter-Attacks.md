@@ -21,6 +21,15 @@ Ambush
 --
 It's unlikely, but possible, that the enemy may see you coming to their tile.  This is a function of the specific Villain, but usually a 5-10% chance (if any at all).  If they do spot you, and have the troops available, they can deploy to your arrival point, mounted up if steeds are available, ready to fight.  You will be notified via a text popup.
 
-Based on a quick code-check, there's no way to reduce your chances of being Ambushed when traveling.  However, since the Ambush team draws from the same troops that are sent to attack your site and retained to keep the Villain's site safe, counter-attacks will have fewer troops available to ambush them than there otherwise might be.
+Based on a quick code-check, there's no way to reduce your chances of being Ambushed when traveling; a solo minion (or Keeper!) is as likely to be ambushed as is a 10-creature army.  However, since the Ambush team draws from the same troops that are sent to attack your site and retained to keep the Villain's site safe, counter-attacks will have fewer troops available to ambush them than there otherwise might be.
 
 
+Other items in this section
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
+-    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
+-    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
+-    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+-    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
+-    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
