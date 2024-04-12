@@ -14,14 +14,14 @@ Roguelike gameplay is especially fun when you're controlling a party of creature
 
 In a party, know the members:
 
-Each party member can have unique abilities and strengths. Take the time to understand each character's skills, stats, and role in the party. Build a balanced party that can handle various situations, such as combat, special sight, and healing.
+Each party member can have unique abilities and strengths. Take the time to understand each character's skills, stats, and role in the party. Build a balanced party that can handle various situations, such as melee combat ("tanking"), ranged fire-support, special sight benefits such as seeing in the dark or through trees, and emergency measures such as healing, summoning backup troops, etc.
 
 
 Manage your inventory:
 
 By default, KRL allows minions to load up on any consumables they desire, making it difficult to control item distribution.  You can ban creatures by type (all goblin warriors, for example) from carrying consumables; this takes micromanagement, but it's still valuable to manage your inventory strategically.
 
-Consider forming a party led by a sturdy unit who you will control, and therefore will distribute the supplies wisely.  Limit party members from squandering healing items and buffs for personal gain on weaker enemies. To ensure your party is always prepared for the worst-case scenario, you can equip your leader with extra supplies like healing potions and scrolls.
+Consider forming a party led by a sturdy unit who you will control, and therefore will distribute the supplies wisely.  Limit party members from squandering healing items and buffs for personal gain on weaker enemies. To ensure your party is always prepared for the worst-case scenario, you can equip your leader with extra supplies like healing potions and scrolls.  (In KeeperRL 1.0, beneficial potions, such as healing, can safely be thrown at friendlies as an emergency-heal, unlike previous versions where throwing any potion was considered a hostile act, so feel free to have your leader water-balloon folks in need!)
 Provide your party with adequate weapons and armor. Folks with two-handed weapons and/or bows need better body armor than folks with shields, for example.  Remember to loot defeated enemies to improve your inventory (in particular, to restock healing potions!) as the invasion progresses.
 
 
@@ -37,7 +37,7 @@ Remember that you can't leave the map as long as the enemy can see you. Attackin
 
 When playing an adventurer without a dungeon base, you'll want to remember the nearest Ally map square, where you'll have friendly troops around and a bed to borrow and heal up on.  (Enemies won't generally follow you from one map square to another, but they may hang around near the entry/exit point on their own map square.)
 
-As a Keeper, you'll have a dungeon base, which the enemy may counter-attack after repelling your invasion...but you'll have the advantage of friendly architecture, trooops, traps, etc.  Use these advantages you've made and turn the situation around!
+As a Keeper, you'll have a dungeon base, which the enemy may counter-attack after repelling your invasion...but you'll have the advantage of friendly architecture, troops, traps, etc.  Use these advantages you've made and turn the situation around!
 
 
 Take advantage of terrain:
@@ -53,8 +53,11 @@ It's important to learn from mistakes, both yours and the enemy's.  Death may se
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
 -    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
 -    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
 -    [RTS](/keeperrl_wiki/RTS "wikilink")
 -    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
