@@ -97,10 +97,10 @@ Attacking the dwarves merits a goblin warrior or two, along with at least one he
 
 *Going In to Play*
 
-Unlike the bandits, you're going to take your team into the dwarf base and root them out.
+Unlike the bandits, you're going to take your team into the dwarf base and root them out.  Chances are, you'll need to do some hiking to reach the dwarf base; for basic point-to-point movement, simply walk there with your leader and your troops will follow.  (You may wish to order "Don't Chase" to prevent your troops from pursuing wildlife or other targets-of-opportunity they spot.)
 Your primary goal is to eliminate all their fighters (red/purple outline).  Ideally, you'll take their civilians captive, as they dig faster than imps do.
 (It's safest to right-click on capture targets and select "capture" or similar.  Left-clicking works if they're not in melee range; if they are, it'll attack them instead, possibly injuring or killing them.)
-If you attack at night, there's a good chance you can catch at least some of the dwarves sleeping.  Sleeping creatures have lower defense and won't attack, so take advantage.  (But they tend to wake up their friends once the first attack lands. Consider taking Full control of your team and maneuvering so your whole team is ready to attack before launching an actual attack.)
+If you attack at night, there's a good chance you can catch at least some of the dwarves sleeping.  Sleeping creatures have lower defense and won't attack, so take advantage.  However, launching an attack generally wakes up everyone around.  Thus, this is a good time to take Full Control of your team and maneuvering so your whole team is in position and ready to attack before actually swinging or shooting weapons or spells.
 Eventually, you'll probably have to contend with dwarves in a bottleneck or similar tight space, where fighting is one-on-one.  This is a good time to recall that you can heal yourself, as well as get healing from your healers and trade places with your fighters to let them give and take some damage.
 The important issue is to never let the dwarves group up against you.  In particular, make them come down the hallway to you, rather than trying to push into their rooms through a line of two or three dwarves.  (Whoever is trying to push will almost certainly take a flanking penalty, and thus take more damage from the dwarves.)
 
@@ -113,4 +113,13 @@ At this point, your troops should be on the home tile, headed for your dungeon a
 
 You probably saw the "pillage" option when dealing with the bandits, but you'll definitely get it now.  Pillaging instantly (zero game-time) transfers your clicked resources/gear from the enemy base you conquered to your relevant storage piles/constructions.  (If you have no place to put things, you can't pillage them; in particular, without a Grave, you can't pillage corpses.)
 
-That's the basic raid process.  Look around to know where you're sending the raid, pay attention to your troops, make sure you're doing better than theirs, watch out for bottlenecks and other tactical problems, and bring everyone and everything back home.  Go forth and rock big stone bells.
+That's the basic raid process.  Look around to know where you're sending the raid, pay attention to your troops, make sure you're doing better than theirs (and correct the situation if you are not!), watch out for bottlenecks and other tactical problems, and bring everyone and everything back home.  Go forth and rock big stone bells.
+
+Other items in this section
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
+-    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
+-    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
+-    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
+-    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
