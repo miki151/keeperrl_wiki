@@ -26,7 +26,6 @@ Based on a quick code-check, there's no way to reduce your chances of being Ambu
 
 Other items in this section
 -    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
--    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
 -    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
 -    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
