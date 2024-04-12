@@ -40,15 +40,15 @@ Making good archers:
 2.  Get the best bows
 
 Night Scouts:
-1.  Give your team the ability to see at night
-2.  Let your archers shoot at night
-3.  Use night scouts in dark caves
-4.  Spot the enemy first to suprise them or avoid them
-5.  Can use night vision mushrooms
+1.  Give your team the ability to see at night: some creatures can do this innately, whilst others can use jewelry for item-based or eat mushrooms for temporary night vision
+2.  One creature with night vision can spot for others in the same team
+3.  Let your archers shoot at night
+4.  Use night scouts in dark caves
+5.  Spot the enemy first to suprise them or avoid them
 
 Aerial Scouts:
 1.  Give you line-of-sight past trees and some other barriers
-2.  Aim arrows at full range through a forest
+2.  Aim arrows at full range through (or over) a forest
 3.  See enemies before they see you
 4.  Shoot enemies before they see you
 
@@ -59,9 +59,13 @@ Trap Disarmers:
 
 Healers:
 1.  Train in the healing school
+2.  Consider manually controlling them, to save healing until *needed* rather than until "there's some damage to heal"
 
 Shaman:
 1.  Heal spirits such as dopplegangers
+2.  Spirit escorts' stats are based on the shaman's spell damage stat
+3.  If the shaman dies, so do their spirit escorts
+4.  If an escorting spirit dies, the shaman will in time spawn another
 
 Spies:
 1.  Work out the dungeon layout you are attacking.
@@ -73,7 +77,7 @@ Looters:
 5.  Need to have infinite carry capacity
 
 Riders:
-Must have the riding skill. Match the size of your rider to an appropriate beast. For instance, imps can ride rats, bats, and ravens, while goblins have the option to ride wolves and deer. Humans have a range of options that includes horses, ents, unicorns, minotaurs, and dragons.
+Must have the riding skill. Match the size of your rider to an appropriate beast. For instance, imps (who are Smol) can ride similarly Small rats, bats, and ravens, while medium-sized cretures like goblins can ride medium-sized wolves and deer. Large creatures like Humans can ride other Large creatures as well as Huge creatures, providing a range of options that includes horses, ents, unicorns, minotaurs, and dragons.  (Huge creatures are too large to ride anyone, and must make do on their own.)
 
 Examples of riders:
 
@@ -129,9 +133,10 @@ Choosing the battlefield
 5. Fight armies in confined spaces to avoid being surrounded
 6. Protect your keeper and dungeon by taking the fight to tough enemies
 7. Secure an area promptly after invading to bring prisoners back alive.
-8. Capture enemies in battle by baiting them to attack your dungeon, making it easier to seize them when they fall.
+8. Simplify capturing enemies in battle by baiting them to attack your dungeon, making it easier to seize them when they fall.
 9. Quick torture can make defeated prisoners switch sides in a fight.
-10. Keep in mind that defeated prisoners die after 300 turns and can be shot, control your team to displace captives behind your front line
+10. Keep in mind that defeated prisoners are still "hostile" and can be shot or hit by ranged spells, control your team to displace captives behind your front line
+11. Similarly, downed enemies will die if not formally captured (via the immigration interface) in 300 turns *from the time they went down*
 
 Keeping control of the party
 ----------------------------
@@ -139,6 +144,7 @@ Keeping control of the party
 Mode 1 - Don't chase:
 1.  Stop your troops running off all over the place chasing enemies.
 2.  If you don't have this set, they will break ranks and charge at all enemies.
+3.  Conversely, in KeeperRL 1.0, your melee line will not actively attack hostile creatures with "Don't chase" set.  Release your troops to allow melee attackers license to play.
 
 Mode 2 - Stop:
 1.  Get your troops into a standing formation
@@ -238,8 +244,11 @@ Boulder/web combination trap
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+Other items in this section
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
 -    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 -    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
--    [RTS](/keeperrl_wiki/RTS "wikilink")
