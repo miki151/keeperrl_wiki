@@ -1,3 +1,11 @@
+---
+title: Counter-Attacks
+permalink: Counter-Attacks
+layout: wiki
+---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
+
 Counter-Attacks
 ----
 
