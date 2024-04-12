@@ -1,3 +1,11 @@
+---
+title: Banner Movement
+permalink: Banner_Movement
+layout: wiki
+---
+
+[MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
+
 Banner Movement
 ----
 
@@ -8,3 +16,12 @@ KeeperRL has a "go-to" function, which we'll call "Banner Movement".  You can cl
 
 
 This allows Keepers to dispatch units or response teams to handle trouble points without having to focus all their attention on the potential problem.  Especially in later stages of the game, it's quite possible to have a creature or small team capable of resolving bandit raids or mining encounters: using banner movement, Keepers can dispatch such forces and keep their attention on the dungeon as a whole.
+
+Other items in this section
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
+-    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
+-    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
+-    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
+-    [RTS](/keeperrl_wiki/RTS "wikilink")
+-    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")

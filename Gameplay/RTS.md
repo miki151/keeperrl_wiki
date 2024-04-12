@@ -19,22 +19,22 @@ Consider optimizing your dungeon layout for efficiency and effectiveness. The pl
 
 Leave orders for mining and tree cutting:
 
-Make sure you have built resource storage, and that your workers are busy in the mines if they are not needed elsewhere. Keep expanding your dungeon. Your mining efforts will get you iron, gold, stone, and even adamantium and infernite. You need these things to make furniture, installations, and to craft equipment and consumables.
+Make sure you have built resource storage, and that your workers are busy in the mines if they are not needed elsewhere. Keep expanding your dungeon. Your mining efforts will get you iron, gold, stone, and eventually exotic materials such as adamantium and infernite. You need these things to fit out your dungeon with training & crafting installations, to furnish it with luxurious quarters (which will inspire your veteran creatures to perform to their best), and to craft equipment and consumables for your creatures.
 
 
 Defend your dungeon:
 
-Your dungeon will be under attack from computer-controlled enemies. Build defensive structures such as walls, traps, and barricades to protect your dungeon.
+Your dungeon will be under attack from computer-controlled enemies, and, if you are successful and so choose, by players throughout the world. Build defensive structures such as walls, traps, and barricades to protect your dungeon.  Each type of Keeper has slightly different installations available.  For example, the Classic/Evil Keepers' Eyeball surveillance system is quite useful and a sore temptation to Castle/Lawful Keepers...whose Wall with Arrowslits can screen a host of Archers ready to pincushion Evil invaders.
 
 
 Train your creatures:
 
-Your creatures will be your primary defense against enemy attacks. Train them in combat, archery and magic and give them appropriate equipment such as weapons and armor to make them more effective.
+Your creatures will be your primary defense against enemy attacks. Train them in combat, archery and magic and give them appropriate equipment, such as shields and single-handed weapons for the melee line vs two-handed weapons & bows for the ranged support, to make them more effective.
 
 
 Manage your clock ticks:
 
-In KeeperRL, clock ticks are important for managing your dungeon. Keep an eye on the clock at the bottom of the screen and adjust the game speed as needed to make sure your creatures are busy but not in danger.
+In KeeperRL, clock ticks are important for managing your dungeon. Keep an eye on the clock at the bottom of the screen and adjust the game speed as needed to make sure you can both keep track of what's going on, and also see progress in a respectable time.
 
 
 Balance offense and defense:
@@ -44,7 +44,7 @@ While it's important to have a strong defense, you also need to be able to go on
 
 Prioritize essential technologies:
 
-To advance in research, you'll need to defeat enemy factions or survive random invasion waves, which means you may have to manage without some essential technologies for a while. It's important to identify the key technologies for each faction and prioritize researching the ones that will give you an immediate advantage. Additionally, consider your upcoming battles on the campaign map before investing in technologies that you don't need right away.
+To advance in research, you'll need to defeat enemy factions or survive random invasion waves, which means you may have to manage without some important technologies for a while. It's important to identify the key technologies for each faction and prioritize researching the ones that will give you an immediate advantage. Additionally, consider your upcoming battles on the campaign map before investing in technologies that you don't need right away.
 
 
 Dig out z-levels:
@@ -54,7 +54,7 @@ Expanding your base by digging out underground levels is a great way to increase
 
 Build outside:
 
-Consider constructing exterior structures, such as archer pillboxes, during base building to benefit your faction. Evil factions often opt for the cheaper and easier defenses of staying inside the mountain, while white knights can usually gain an advantage from expanding their base. Ultimately, the decision to build exterior structures depends on your faction and your interest in fortifying the exterior.
+Consider constructing exterior structures, such as archer pillboxes or out-of-the-way Eyeballs, to benefit your faction. Evil factions often opt for the cheaper and easier defenses of staying inside the mountain, while white knights can usually gain an advantage from expanding their base. Ultimately, the decision to build exterior structures depends on your faction and your interest in fortifying the exterior.
 
 
 Build Upwards:
@@ -64,7 +64,7 @@ Do you want to elevate your dungeon to new heights? Building upwards can unlock 
 
 Ensure the safety of your minions when they are outside:
 
-To ensure the safety of your minions when they venture outside, there are several precautions to take. Unclaiming territory can prevent your keeper and minions from wandering too far from your base, and locking the doors to the outside can keep unwanted explorers inside. In some biomes, wildlife can pose a threat to your workers, and undead units are particularly vulnerable outside. Be mindful of the sun, as it can cause undead units to crumble to dust when it rises. If your faction has balsams, use them to spread darkness and protect your undead units. Additionally, assigning workers with unlimited carry capacity to do hauling duties can reduce the number of trips they make outside. Be cautious not to drown undead units who have had their heads cut off, as they cannot see.
+To ensure the safety of your minions when they venture outside, there are several precautions to take. Unclaiming territory can prevent your keeper and minions from wandering too far from your base, and locking the doors to the outside can keep unwanted explorers inside.  (In KeeperRL 1.0, "exploring" is a creature job, which you can disable in their creture menu.) In some biomes, wildlife can pose a threat to your workers, and undead units must be mindful of the sun, as it can cause undead units to crumble to dust when it rises. If your faction has balsams, use them to spread darkness and protect your undead units. Additionally, assigning workers with unlimited carry capacity to do hauling duties can reduce the number of trips they make outside. Be cautious with undead units who have had their heads cut off, as they cannot see, so they are quite likely to wander into hazardous situations or terrain.
 
 
 Make castles and towers:
@@ -100,8 +100,11 @@ Enhance your base building skills by experimenting with various strategies that 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
 -    [Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 -    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
 -    [Team Strategy](/keeperrl_wiki/Team_Strategy "wikilink")
