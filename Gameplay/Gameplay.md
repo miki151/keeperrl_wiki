@@ -42,7 +42,11 @@ It is a strategy game with both rogue-like and RTS elements. Players will need t
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")
 
 Other items in this section
+
+-    [Banner Movement](/keeperrl_wiki/Banner_Movement "wikilink")
+-    [Counter-Attacks](/keeperrl_wiki/Counter-Attacks "wikilink")
 -    [Gameplay Guide](/keeperrl_wiki/Gameplay_Guide "wikilink")
+-    [Raiding for Beginners](/keeperrl_wiki/Raiding_for_Beginners "wikilink")
 -    [Roguelike](/keeperrl_wiki/Roguelike "wikilink")
 -    [Roguelike Realtime Strategy Concept](/keeperrl_wiki/Roguelike_Realtime_Strategy_Concept "wikilink")
 -    [RTS](/keeperrl_wiki/RTS "wikilink")
