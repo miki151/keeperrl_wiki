@@ -41,7 +41,7 @@ Restores the caster to full hit points, but does not restore damaged or destroye
 -   Supplants (basic) Healing.
 -   Cooldown: 31 base, 10 minimum.
 
-Restores the caster or an adjacent target to full hit points, but does not restore damaged or destroyed limbs.
+Restores the caster or an adjacent target to full hit points, but does not restore damaged or destroyed limbs.  Does not affect Materialization.
 
 ### Expert Healing
 
@@ -49,14 +49,14 @@ Restores the caster or an adjacent target to full hit points, but does not resto
 -   Supplants Advanced Healing.
 -   Cooldown: 31 base, 10 minimum.
 
-Restores the caster or *all* targets in a line up to 4 tiles from the caster (including hostile targets! aim carefully) to full hit points, but does not restore damaged or destroyed limbs.
+Restores the caster or *all* targets in a line up to 4 tiles from the caster (including hostile targets! aim carefully) to full hit points, but does not restore damaged or destroyed limbs.  Does not affect Materialization.
 
 ### Group Healing
 
 -   Healer school level 7.
 -   Cooldown: 51 base, 25 minimum.
 
-Restores the caster and all friendly creatures in a 2-tile radius to full hit points, but does not restore damaged or destroyed limbs.
+Restores the caster and all friendly creatures in a 2-tile radius to full hit points, but does not restore damaged or destroyed limbs. Does not affect Materialization.
 
 ### Cure Poison
 
@@ -168,14 +168,35 @@ Grants the caster +3 Defense for 40 turns.  Does not stack with Defense-boosting
 Turn invisible for 15 ticks.
 
 
-### Summon Insects
+Spiritualist
+============
 
--   Requires +2 Magic Damage training.
--   Cooldown: 30
+### Heal Spirit
 
-Summons 3 - 6 [flies](/keeperrl_wiki/Fly "wikilink") for 100 ticks.
+-   Spiritualist level 1.
+-   Cooldown: 31 base, 10 minimum.
+
+Restores the caster or an adjacent target to full Materialization.  Does not affect hit points.
+
+### Advanced Heal Spirit
+
+-   Spiritualist level 4.
+-   Supplants (basic) Heal Spirit.
+-   Cooldown: 31 base, 10 minimum.
+
+Restores the caster or *all* spirits in a line up to 4 tiles long to full Materialization.  Does not affect hit points.
+
+### Heal Spirit Group
+
+  - Spiritualist level 7.
+  - Cooldown: 51 base, 25 minimum.
+
+Restores all friendlies in radius 2 to full Materialization.  Does not affect hit points.
 
 
+Updater is Fatigued and making typos. Will continue in due course.
+These are NOT yet updated.
+vvvvvvvvvvvvvvvvvvvvvvvvvvv
 
 Advanced Spells
 ===============
@@ -193,7 +214,12 @@ bookcase.
 
 Summons 3 - 7 [Illusions](/keeperrl_wiki/Illusion "wikilink") for 5 - 10 ticks.
 
+### Summon Insects
 
+-   Requires +2 Magic Damage training.
+-   Cooldown: 30
+
+Summons 3 - 6 [flies](/keeperrl_wiki/Fly "wikilink") for 100 ticks.
 
 ### Circular Blast
 
