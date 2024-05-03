@@ -6,7 +6,21 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Gameplay](/keeperrl_wiki/Gameplay "wikilink")>>[RTS](/keeperrl_wiki/RTS "wikilink")
 
-There are heaps of videos to look at. Try a search like this:
+Several streamers have posted KeeperRL 1.0 videos.
+
+Discord member Semulin's 10 Things He Wishes He Knew has a fair amount of handy things for new players.  (But you do need to use Prison Doors on the prison, and the various torture gear, gallows, and cages don't need to be built *in* the prison.)
+
+<https://www.youtube.com/watch?v=qWrBucWIxXY>
+
+Nookrium has also done a beginner video; it's much longer, but might be time well spent if you're into watching videos to learn.
+
+<https://www.youtube.com/watch?v=qi8VzI-h2Vw>
+
+Streamer Hoosfoos McCave's runs are also instructive, with solid production values, though he gets into later-game content (so, folks who worry about spoilers might stick to earlier episodes).
+
+<https://www.youtube.com/playlist?list=PLZoXc94jRmRTzRyaORfHiPsabDHGmz9lX>
+
+You can also search and have a look round for yourself, if you'd like.  Try a search like this:
 
 <https://www.youtube.com/results?search_query=keeperrl>
 
@@ -23,4 +37,3 @@ Other items in this section
 -    [Resources](/keeperrl_wiki/Resources "wikilink")
 -    [Shortcut Keys](/keeperrl_wiki/Shortcut_Keys "wikilink")
 -    [Training](/keeperrl_wiki/Training "wikilink")
--    [Video Tutorials From Nat20](/keeperrl_wiki/Video_Tutorials_From_Nat20 "wikilink")
