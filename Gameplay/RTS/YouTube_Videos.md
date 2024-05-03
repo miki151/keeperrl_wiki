@@ -16,6 +16,10 @@ Nookrium has also done a beginner video; it's much longer, but might be time wel
 
 <https://www.youtube.com/watch?v=qi8VzI-h2Vw>
 
+Streamer Hoosfoos McCave's runs are also instructive, with solid production values, though he gets into later-game content (so, folks who worry about spoilers might stick to earlier episodes).
+
+<https://www.youtube.com/playlist?list=PLZoXc94jRmRTzRyaORfHiPsabDHGmz9lX>
+
 You can also search and have a look round for yourself, if you'd like.  Try a search like this:
 
 <https://www.youtube.com/results?search_query=keeperrl>
