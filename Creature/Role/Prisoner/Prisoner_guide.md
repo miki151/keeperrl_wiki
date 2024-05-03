@@ -1,6 +1,6 @@
 ---
 title: Prisoner Guide
-permalink: Prisoner_Guide/
+permalink: Role/Prisoner/Prisoner_Guide/
 layout: wiki
 ---
 
