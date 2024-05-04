@@ -52,17 +52,18 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <hr>
 Creature Guide
 <hr>
--   [ Partial List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
+-   [ Partial List Of Creatures](/keeperrl_wiki/Creature/Creature_Guide "wikilink")               
 -   [Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
--   [Prisoner guide](/keeperrl_wiki/Prisoner_Guide "wikilink")
+-   [Prisoner guide](/keeperrl_wiki/Creature/Prisoner_Guide "wikilink")
 -   [Tribes](/keeperrl_wiki/Tribe "wikilink")                              
 -   Creature features                                                          
     -   [Buffs And Nurfs](/keeperrl_wiki/LastingEffects "wikilink")
     -   [Skills](/keeperrl_wiki/Skills_Guide "wikilink")                                          
     -   [Traits](/keeperrl_wiki/Traits "wikilink")                                          
     -   [Characteristics](/keeperrl_wiki/Characteristics "wikilink")                        
-    -   [Spells](/keeperrl_wiki/Spells "wikilink")                                          
+    -   [Spell Overview](/keeperrl_wiki/Spells "wikilink")
+    -   [Spell List](/keeperrl_wiki/Spell_Guide "wikilink")
     -   [Attributes](/keeperrl_wiki/Attributes "wikilink")                                 
     -   [Experience](/keeperrl_wiki/Experience "wikilink")
 

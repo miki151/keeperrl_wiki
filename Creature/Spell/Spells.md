@@ -9,7 +9,7 @@ layout: wiki
 Spells are divided into spell schools. These schools are:
 
 
-Mage -Mage:
+-Mage:
 A solid all-round spell school for magical combatants, these spells focus on direct offensive and defensive abilities, as well as mobility.
 
 Early spells like directed blast knock creatures and loose Stuff away, buying time for weaker Keepers to flee or recharge their magic missile, a short-ranged but piercing magical attack.
@@ -17,23 +17,26 @@ Mid-level mages can safely cast their longer-ranged magic missiles through frien
 Top-tier casters can buff their defense, haste themselves, teleport longer distances, and even go invisible.
 
 
-Healer & Spiritualist - These schools focus on healing and curing mortal and spiritual creatures; in particular, folks trained in these schools can heal other units, protect against poison, and with proper training, patch up whole groups of injured creatures in one cast.  While these schools are totally void of offensive magic, a well-timed healing can decide battles, so recruit healers and spiritualists as your creature population warrants!
+-Healer & Spiritualist:
+These schools focus on healing and curing mortal and spiritual creatures; in particular, folks trained in these schools can heal other units, protect against poison, and with proper training, patch up whole groups of injured creatures in one cast.  While these schools are totally void of offensive magic, a well-timed healing can decide battles, so recruit healers and spiritualists as your creature population warrants!
 
 
-Fire - As the name suggests, this school includes spells that use fire-based magic, such as fire elemental, fireball, and fire trap.
+-Fire - As the name suggests, this school includes spells that use fire-based magic, such as fire elemental, fireball, and fire trap.
 
 
-Illusion - This school contains spells that manipulate perceptions and deceive enemies, such as deception, panic, invisibility, and pacify.
+-Illusion - This school contains spells that manipulate perceptions and deceive enemies, such as deception, panic, invisibility, and pacify.
 
 
-Fighter/Archer/Vampire - These schools provide some small spells and handle trained creature upgrades, such as vampire ennoblement (which may have been phased out in Alpha 36, unfortunately) and bypass-allies, allowing archers to safely shoot past friendly lines.  Fighter types such as the Knight Keepers learn some melee combat techniques, such as shove and swap positions.
+-Fighter/Archer/Vampire:
+These schools provide some small spells and handle trained creature upgrades, such as vampire ennoblement (phased out in 1.0, but the code still exists) and bypass-allies, allowing archers to safely shoot past friendly lines.  Fighter types such as the Knight Keepers learn some melee combat techniques, such as shove and swap positions.
 
 In vanilla KeeperRL, these schools are not particularly exciting...but mods can and do add substantial additional spells and techniques, so check your creatures and spell school listings in the Help section when you start a game using mods!
 
 
-Chickenmancy - This school is a speciality of goblin cultures, and even they require specialized breeding to develop goblins with the right frame of mind to learn and control the power to summon chickens from nowhere and transform, however temporarily, others into chickens.  Nevertheless, the school of Chickenmancy is a bit more strategic than might appear at first look!
+-Chickenmancy:
+This school is a speciality of goblin cultures, and even they require specialized breeding to develop goblins with the right frame of mind to learn and control the power to summon chickens from nowhere and transform, however temporarily, others into chickens.  Nevertheless, the school of Chickenmancy is a bit more strategic than might appear at first look!
 
-While summoned chickens aren't much of a fight and anyone polymorphed into a chicken is invulnerable, chicken'd enemies are *much* less effective fighters (and any buffs they may have tick down while they are in chicken form), and allies polymorphed into checkin form are invulnerable for the duration, which may save folks in precarious predicaments long enough for help to arrive.  Summoned chickens can take arrows for less-replaceable troops and bog down enemy movement.  Please do not mock the chickenmancer.
+While summoned chickens aren't much of a fight and anyone polymorphed into a chicken is invulnerable, chicken'd enemies are *much* less effective fighters (and any buffs they may have tick down while they are in chicken form), and allies polymorphed into chicken form are invulnerable for the duration, which may save folks in precarious predicaments long enough for help to arrive.  Summoned chickens can take arrows for less-replaceable troops, bog down enemy movement, and very much DO count toward flanking, allowing for impressive debuffs which could change the course of the fight.  Please do not mock the chickenmancer.
 
 
 Dwarf - This school includes defensive and offensive abilities, such as defense bonus, healing, and earth elemental.
@@ -43,18 +46,3 @@ Zombie mage - This school is specific to zombie characters and includes abilitie
 
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
-
-Other items in this section
--    [Category Spells](/keeperrl_wiki/Category_Spells "wikilink")
--    [Cure Poisoning](/keeperrl_wiki/Cure_Poisoning "wikilink")
--    [Force Bolt](/keeperrl_wiki/Force_Bolt "wikilink")
--    [Haste Self](/keeperrl_wiki/Haste_Self "wikilink")
--    [Healing](/keeperrl_wiki/Healing "wikilink")
--    [Illusion](/keeperrl_wiki/Illusion "wikilink")
--    [Magic Shield](/keeperrl_wiki/Magic_Shield "wikilink")
--    [Spell](/keeperrl_wiki/Spell "wikilink")
--    [Spell Guide](/keeperrl_wiki/Spell_Guide "wikilink")
--    [Stun Ray](/keeperrl_wiki/Stun_Ray "wikilink")
--    [Summon Insects](/keeperrl_wiki/Summon_Insects "wikilink")
--    [Summon Spirit](/keeperrl_wiki/Summon_Spirit "wikilink")
--    [Word of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
