@@ -30,14 +30,14 @@ Healer
 
 ### Healing
 
--   Keepers and Goblin Priests start with this.  Mage school level 4, Dwarf school level 2.
+-   Keepers and Goblin Priests start with this.  Mage school 4, Dwarf level 2.
 -   Cooldown: 31 base, 10 minimum.
 
 Restores the caster to full hit points, but does not restore damaged or destroyed limbs.
 
 ### Advanced Healing
 
--   Healer school level 1, Dwarf school level 4.
+-   Healer level 1, Dwarf school level 4.
 -   Supplants (basic) Healing.
 -   Cooldown: 31 base, 10 minimum.
 
@@ -53,21 +53,21 @@ Restores the caster or *all* targets in a line up to 4 tiles from the caster (in
 
 ### Group Healing
 
--   Healer school level 7.
+-   Healer level 7, Dwarf level 12.
 -   Cooldown: 51 base, 25 minimum.
 
 Restores the caster and all friendly creatures in a 2-tile radius to full hit points, but does not restore damaged or destroyed limbs. Does not affect Materialization.
 
 ### Cure Poison
 
--   Healer school level 3, Mage school level 6.
+-   Healer level 3, Mage school level 6.
 -   Cooldown: 51 base, 25 minimum.
 
 Removes the POISON status from the caster. Does not restore lost hit points or prevent re-poisoning.
 
 ### Advanced Cure Poison
 
--   Healer school level 4.
+-   Healer level 4.
 -   Supplants Cure Poison.
 -   Cooldown: 51 base, 25 minimum.
 
@@ -75,21 +75,20 @@ Removes the POISON status from the caster or an adjacent target. Does not restor
 
 ### Cure Blindness
 
--   Healer school level 5.
+-   Healer level 5.
 -   Cooldown: 51 base, 25 minimum.
 
 Removes the BLIND status from the caster or an adjacent target. Does not restore lost or damaged heads or eyes.
 
 ### Poison Resistance
 
--   Healer school level 6.
+-   Healer level 6.
 -   Cooldown: 101 base, 50 minimum.
 
 Grants the caster or an adjacent target the POISON_RESISTANT status for approximately 30 turns, removing POISON status should it be present and preventing re-poisoning for the duration.  Does not restore hit points lost to any poisoning cured, though.
 
-
 Mage
-====
+----
 
 ### Directed Blast
 
@@ -120,7 +119,7 @@ Grants SPEED_BONUS status, granting an additional movement-only action every tim
 -   Mage level 3.
 -   Cooldown: 21 base, 5 minimum.
 
-Shoots a ray causing Magic Damage (based on the caster's stat) up to 4 tiles from the caster, penetrating through all creatures in the way.  Mages with this will NOT have learned to avoid friendly fire, so shooting through friendlies may be expected to hit, hurt, and Hostile them.  (You will be warned of this fact and given the option to abort should you tell a creature to so cast.)
+Shoots a ray causing Magic Damage (based on the caster's stat) up to 4 tiles from the caster, penetrating through all creatures in the way.  Mages with this will NOT have learned to avoid friendly fire, so shooting through friendlies may be expected to hit, hurt, and Hostile them.  (You will be warned of this fact, and given the option to abort, should you tell a creature to so cast.)
 
 ### Advanced Magic Missile
 
@@ -153,7 +152,7 @@ Teleports the caster to a chosen tile up to 3 tiles away.  You don't need to hav
 
 Teleports the caster to a chosen tile up to 8 tiles away.  You don't need to have sight to the tile, but you need to know that the terrain is safe.
 
-### Defense
+### Defense Bonus
 
 -   Mage level 9, Dwarf level 1.
 -   Cooldown: 81 base, 30 minimum.
@@ -169,7 +168,7 @@ Turn invisible for 15 ticks.
 
 
 Spiritualist
-============
+------------
 
 ### Heal Spirit
 
@@ -193,115 +192,186 @@ Restores the caster or *all* spirits in a line up to 4 tiles long to full Materi
 
 Restores all friendlies in radius 2 to full Materialization.  Does not affect hit points.
 
-
-Updater is Fatigued and making typos. Will continue in due course.
-These are NOT yet updated.
-vvvvvvvvvvvvvvvvvvvvvvvvvvv
-
-Advanced Spells
-===============
-
-Unlocked by [advanced sorcery
-tech](/keeperrl_wiki/Advanced_Sorcery "wikilink") and trained at an iron
-bookcase.
-
-
+Illusion
+--------
 
 ### Deception
 
--   Requires +4 Magic Damage training.
--   Cooldown: 60
+-   Illusion level 1.
+-   Cooldown: 61 base, 30 minimum.
 
 Summons 3 - 7 [Illusions](/keeperrl_wiki/Illusion "wikilink") for 5 - 10 ticks.
 
-### Summon Insects
+### Panic
 
--   Requires +2 Magic Damage training.
--   Cooldown: 30
+-   Illusion level 2.
+-   Cooldown: 51 base, 25 minimum.
 
-Summons 3 - 6 [flies](/keeperrl_wiki/Fly "wikilink") for 100 ticks.
+Inflicts the PANIC status on a target (or line of targets) up to 5 tiles away, debuffing their attack but raising their defense.
 
-### Circular Blast
+### Fog Cloud
 
--   Requires +7 Magic Damage training.
--   Cooldown: ?
+-   Illusion level 3.
+-   Cooldown: 61 base, 30 minimum.
 
-Knocks back enemies around the caster, without damaging them. If there
-are any items on the ground, they are also thrown back and will hit any
-enemies in their path.
+Creates (temporary) fog tiles in a 4-tile radius, which block vision and ranged attacks, but not movement.
 
-Master Spells
-=============
+### Pacify
 
-Unlocked by [master sorcery
-tech](/keeperrl_wiki/Master_Sorcery "wikilink") and trained at a golden
-bookcase.
+-   Illusion level 5.
+-   Cooldown: 61 base, 20 minimum.
 
+Inflicts the Peaceful status on a single target up to 2 tiles away.  Peaceful creatures are considered "friendly" to everyone and cannot attack or cast offensive magic, but can be manually attacked (right-click menu), will freely swap places if moved into, and will not resist absorbption attempts.
 
+### Advanced Invisibility
 
-### Summon Elemental
+-   Illusion level 6.
+-   Supplants (basic) invisibility.
+-   Cooldown: 301 base, 100 minimum.
 
--   Requires +8 Magic Damage training.
--   Cooldown: ?
+Turn invisible; per code, no difference between this and (basic) invisibility.
 
-Summons a random elemental:
+### Blink
 
--   air elemental
--   earth elemental
--   fire elemental
--   water elemental
--   tree spirit
+-   Illusion level 8.
+-   Cooldown: 1.
 
-### Damage
-
--   Requires +9 Magic Damage training.
--   Cooldown: ?
-
-Buffs Melee Damage.
-
-### Fire Sphere
-
--   Requires +10 Magic Damage training.
--   Cooldown: 20
-
-Summons a [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink").
-
-### Meteor Shower
-
--   Requires +11 Magic Damage training.
--   Cooldown: 150
-
-Meteors rain from the sky around the caster. Each tick a random tile
-near the caster is hit by either a rock or a piece of iron ore, damaging
-any creature that stand there in the process. Rocks and iron ore left
-behind by this spell can then be gathered for your resource stockpile.
+Triggers the "Escape" effect similar to the spell of that name, but only looks 2 tiles away.  Given the non-cooldown, this is probably better than Escape.
 
 
+Chickenmancy
+------------
 
-Disabled Spells
-===============
+### Summon Chicken
 
-These spells are still in the game, but cannot be learned right now.
+-   Chickenmancy level 1.
+-   Cooldown: 5.
 
-### Stun Ray
+Summons a Chicken for 15 turns.
 
--   Cooldown: 60
+### Summon More Chickens
 
-Stuns target for 7 ticks.
+-   Chickenmancy level 2.
+-   Cooldown: 10 base, 3 minimum.
+
+Summons 3 to 5 Chickens, for 15 turns.
+
+### Chickenmorph
+
+-   Chickenmancy level 5.
+-   Cooldown: 101 base, 30 minimum.
+
+Polymorphs the caster into a Chicken for 10 turns, during which time the chicken is Invulnerable.
+
+### Advanced Chickenmorph
+
+-   Chickenmancy level 7.
+-   Supplants (basic) Chickenmorph.
+-   Cooldown: 101 base, 30 minimum.
+
+Polymorphs the caster, or a single target up to 5 tiles away, into a Chicken for 10 turns, during which time the chicken is Invulnerable.
+
+### Chickengeddon
+
+-   Chickenmancy level 7.
+-   Cooldown: 301 base, 150 minimum.
+
+Polymorphs *everyone* in a 20-tile radius into a chicken for 10 turns.  During this time, all such chickens are Invulnerable.
+
+Dwarf
+-----
+
+### Damage Bonus
+
+-   Dwarf level 3.
+-   Cooldown: 81 base, 30 minimum.
+
+Buffs melee damage for 40 turns.
+
+### Advanced Defense Bonus
+
+-   Dwarf level 5, Zombie Mage 2.
+-   Supplants (basic) Defense Bonus.
+-   Cooldown: 81 base, 30 minimum.
+
+Buffs the caster or an adjacent target's Defense for 40 turns.
+
+### Dig
+
+-   Dwarf level 6.
+-   Cooldown: 10.
+
+Destroys all walls in a line up to 7 tiles long.
+
+### Advanced Damage Bonus
+
+-   Dwarf level 7, Zombie Mage 3.
+-   Supplants (basic) Damage Bonus.
+-   Cooldown: 81 base, 30 minimum.
+
+Buffs the caster or an adjacent target's melee Damage for 40 turns.
+
+### Earth Elemental
+
+-   Dwarf level 8.
+-   Cooldown: 81 base, 30 minimum.
+
+Summons an earth elemental for 100 turns.
+
+### Mass Defense Bonus
+
+-   Dwarf level 9, Zombie Mage 6.
+-   Supplants Advanced Defense Bonus.
+-   Cooldown: 81 base, 30 minimum.
+
+Buffs the Defense of all friendly creatures in a 10-tile radius, for 40 turns.
+
+### Advanced Earth Elemental
+
+-   Dwarf level 10.
+-   Supplants (basic) Earth Elemental.
+-   Cooldown: 81 base, 30 minimum.
+
+Summons 2-4 earth elementals, for 100 turns.
+
+### Mass Damage Bonus
+
+-   Dwarf level 11, Zombie Mage 7.
+-   Supplants Advanced Damage Bonus.
+-   Cooldown: 81 base, 30 minimum.
+
+Buffs the melee Damage of all friendly creatures in a 10-tile radius, for 40 turns.
+
+Zombie Mage
+-----------
+
+### Summon Flies
+
+-   Zombie Mage level 1.
+-   Cooldown: 61 base, 30 minimum.
+
+Summons 3 - 7 [flies](/keeperrl_wiki/Fly "wikilink") for 100 ticks.
+
+### Animate Corpses
+
+-   Zombie Mage level 4.
+-   Cooldown: 201 base, 50 minimum.
+
+Causes 3-5 corpses to float on their own and attack hostiles, for 10-20 turns.  (This is more along the lines of telekinetically picking up the dead body and whacking folks with it, rather than creating more undead.)
+
+### Blindness
+
+-   Zombie Mage level 5.
+-   Cooldown: 21 turns base, 10 turns minimum.
+
+Inflicts the BLIND status on a line of targets, up to 5 tiles long, for 5 turns.
+
+### Advanced Animate Corpses
+
+-   Zombie Mage level 8.
+-   Supplants (basic) Animate Corpses.
+-   Cooldown: 201 base, 50 minimum.
+
+Causes 6-5 (_sic_) corpses to float on their own and attack hostiles, for 30-50 turns.  (This is more along the lines of telekinetically picking up the dead body and whacking folks with it, rather than creating more undead.)
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")>>[Spell](/keeperrl_wiki/Spell "wikilink")
-
-Other items in this section
--    [Category Spells](/keeperrl_wiki/Category_Spells "wikilink")
--    [Cure Poisoning](/keeperrl_wiki/Cure_Poisoning "wikilink")
--    [Force Bolt](/keeperrl_wiki/Force_Bolt "wikilink")
--    [Haste Self](/keeperrl_wiki/Haste_Self "wikilink")
--    [Healing](/keeperrl_wiki/Healing "wikilink")
--    [Illusion](/keeperrl_wiki/Illusion "wikilink")
--    [Magic Shield](/keeperrl_wiki/Magic_Shield "wikilink")
--    [Spell](/keeperrl_wiki/Spell "wikilink")
--    [Spells](/keeperrl_wiki/Spells "wikilink")
--    [Stun Ray](/keeperrl_wiki/Stun_Ray "wikilink")
--    [Summon Insects](/keeperrl_wiki/Summon_Insects "wikilink")
--    [Summon Spirit](/keeperrl_wiki/Summon_Spirit "wikilink")
--    [Word of Power](/keeperrl_wiki/Word_Of_Power "wikilink")
