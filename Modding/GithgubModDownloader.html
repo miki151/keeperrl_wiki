@@ -90,7 +90,24 @@
         }
         .highlight {
             font-weight: bold;
-        }		
+        }
+        #timer {
+            display: none; /* Initially hidden */
+            width: 500px;
+            height: 500px;
+            border: 5px solid #333;
+            border-radius: 50%;
+            position: relative;
+            overflow: hidden;
+        }
+        #sand {
+            background: goldenrod;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            height: 100%; /* Start with full height */
+            transition: height 0.1s linear; /* Animate the sand falling */
+        }
     </style>
 </head>
 <body>
@@ -101,204 +118,247 @@
     <label for="directorySelect">Select a published KeeperRL mod from GitHub:</label>
     <select id="directorySelect"></select>
     <button id="download-button" class="download-button">Download</button>
-
+    <div id="timer">
+        <div id="sand"></div>
+    </div>
     <div class="tabs" id="tabContainer"></div>
     <div id="contentContainer"></div>
 
-    <script>
-         // Function to check API usage
-        async function checkApiUsage() {
-            const apiLimitUrl = "https://api.github.com/rate_limit";
-            try {
-                const response = await fetch(apiLimitUrl);
-                if (!response.ok) {
-                    throw new Error(`Failed to check API usage: ${response.statusText}`);
-                }
-                const data = await response.json();
-                const remaining = data.rate.remaining;
-                const limit = data.rate.limit;
-				const resetTime = new Date(data.rate.reset * 1000).toLocaleString('en-GB', { timeZone: 'UTC' });
-
-                // If remaining requests are zero, return false to block further API calls
-                if (remaining === 0) {
-                    displayApiError(`GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.`);
-                    return false; // Prevent API calls
-                }
-
-                // If remaining requests are below a threshold (e.g., 10), show a warning
-                if (remaining <= 10) {
-                    displayApiWarning(remaining, limit);
-                }
-                return true; // Allow API calls
-            } catch (error) {
-                console.error(error); // Log any errors to the console
-                displayApiError("Error checking GitHub API. Unable to proceed.");
-                return false; // Prevent API calls on error
+<script>
+	
+    // Function to check API usage
+    async function checkApiUsage() {
+        const apiLimitUrl = "https://api.github.com/rate_limit";
+        try {
+            const response = await fetch(apiLimitUrl);
+            if (!response.ok) {
+                throw new Error(`Failed to check API usage: ${response.statusText}`);
             }
-        }
+            const data = await response.json();
+            const remaining = data.rate.remaining;
+            const limit = data.rate.limit;
+            const resetTime = new Date(data.rate.reset * 1000).toLocaleString('en-GB', { timeZone: 'UTC' });
 
-        // Function to display the API warning label
-        function displayApiWarning(remaining, limit) {
-            const errorLabel = document.getElementById('errorLabel');
-            errorLabel.innerHTML = `Warning: You are approaching the GitHub API rate limit. Remaining: ${remaining}/${limit}`;
-            errorLabel.classList.add('error-message'); // Apply red bold styling
-        }
-
-        // Function to display API limit exceeded or error message
-        function displayApiError(message) {
-            const errorLabel = document.getElementById('errorLabel');
-            errorLabel.innerHTML = message;
-            errorLabel.classList.add('error-message');
-        }
-
-        // Function to perform API actions only if usage limit is not exceeded
-        async function performApiAction(actionFunction) {
-            const canUseApi = await checkApiUsage();
-            if (!canUseApi) {
-                console.log("API usage limit reached. No API calls will be made.");
-                return;
+            // If remaining requests are zero, return false to block further API calls
+            if (remaining === 0) {
+                displayApiError(`GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.`);
+                return false; // Prevent API calls
             }
-            actionFunction(); // Call the actual action function if API usage is allowed
+
+            // If remaining requests are below a threshold (e.g., 10), show a warning
+            if (remaining <= 10) {
+                displayApiWarning(remaining, limit);
+            }
+            return true; // Allow API calls
+        } catch (error) {
+            console.error(error); // Log any errors to the console
+            displayApiError("Error checking GitHub API. Unable to proceed.");
+            return false; // Prevent API calls on error
         }
+    }
 
-        // Check API usage when the page loads
-        window.onload = async function () {
-            await performApiAction(fetchDirectories); // Replace exampleApiCall with your actual function
-        };
+    // Function to display the API warning label
+    function displayApiWarning(remaining, limit) {
+        const errorLabel = document.getElementById('errorLabel');
+        errorLabel.innerHTML = `Warning: You are approaching the GitHub API rate limit. Remaining: ${remaining}/${limit}`;
+        errorLabel.classList.add('error-message'); // Apply red bold styling
+    }
 
-        async function fetchDirectories() {
-            const url = "https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release";
-            const response = await fetch(url);
-            const directories = await response.json();
-            const directorySelect = document.getElementById('directorySelect');
+    // Function to display API limit exceeded or error message
+    function displayApiError(message) {
+        const errorLabel = document.getElementById('errorLabel');
+        errorLabel.innerHTML = message;
+        errorLabel.classList.add('error-message');
+    }
 
-            directorySelect.innerHTML = ''; // Clear existing options
+    // Function to perform API actions only if usage limit is not exceeded
+    async function performApiAction(actionFunction) {
+        const canUseApi = await checkApiUsage();
+        if (!canUseApi) {
+            console.log("API usage limit reached. No API calls will be made.");
+            return;
+        }
+        actionFunction(); // Call the actual action function if API usage is allowed
+    }
 
-            directories.forEach(dir => {
-                if (dir.type === 'dir') {
-                    const option = document.createElement('option');
-                    option.value = dir.name;
-                    option.textContent = dir.name;
-                    directorySelect.appendChild(option);
+    // Check API usage when the page loads
+    window.onload = async function () {
+        await performApiAction(fetchDirectories); // Replace exampleApiCall with your actual function
+    };
+
+    async function fetchDirectories() {
+        const url = "https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release";
+        const response = await fetch(url);
+        const directories = await response.json();
+        const directorySelect = document.getElementById('directorySelect');
+
+        directorySelect.innerHTML = ''; // Clear existing options
+
+        directories.forEach(dir => {
+            if (dir.type === 'dir') {
+                const option = document.createElement('option');
+                option.value = dir.name;
+                option.textContent = dir.name;
+                directorySelect.appendChild(option);
+            }
+        });
+    }
+    
+    async function fetchFiles(directory) {
+        const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release/${directory}`;
+        const response = await fetch(url);
+        const files = await response.json();
+        const tabContainer = document.getElementById('tabContainer');
+        const contentContainer = document.getElementById('contentContainer');
+
+        tabContainer.innerHTML = ''; // Clear existing tabs
+        contentContainer.innerHTML = ''; // Clear existing content
+
+        files.forEach(file => {
+            const tab = document.createElement('div');
+            tab.className = 'tab';
+            tab.textContent = file.name;
+            tab.setAttribute('data-file-path', file.path); // Store the file path
+            tab.onclick = () => showContent(file.name, file.path);
+            tabContainer.appendChild(tab);
+
+            const contentDiv = document.createElement('div');
+            contentDiv.className = 'content';
+            contentDiv.id = file.name.replace(/\.[^/.]+$/, ""); // Remove file extension for ID
+            contentContainer.appendChild(contentDiv);
+        });
+    }
+
+    async function fetchAndAddFiles(folder, currentPath) {
+        const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/${currentPath}`;
+        const response = await fetch(url);
+        const items = await response.json();
+
+        const fetchPromises = items.map(async (item) => {
+            if (item.type === 'file') {
+                const fileUrl = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${item.path}`;
+                const fileName = item.name;
+                
+                try {
+                    const fileResponse = await fetch(fileUrl);
+                    if (!fileResponse.ok) throw new Error(`Failed to fetch ${fileName}: ${fileResponse.statusText}`);
+                    
+                    // Check if the file is binary or text
+                    const isBinary = /\.(png|jpg|jpeg|gif|bmp|svg|ico|webp)$/.test(fileName);
+                    if (isBinary) {
+                        const blob = await fileResponse.blob();
+						updateSand();
+                        folder.file(fileName, blob);
+                    } else {
+                        const content = await fileResponse.text();
+                        if (content.trim()) {
+                            folder.file(fileName, content);
+                        }
+                    }
+                } catch (error) {
+                    console.error(error);
                 }
-            });
-        }
-
-        async function fetchFiles(directory) {
-            const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release/${directory}`;
-            const response = await fetch(url);
-            const files = await response.json();
-            const tabContainer = document.getElementById('tabContainer');
-            const contentContainer = document.getElementById('contentContainer');
-
-            tabContainer.innerHTML = ''; // Clear existing tabs
-            contentContainer.innerHTML = ''; // Clear existing content
-
-            files.forEach(file => {
-                const tab = document.createElement('div');
-                tab.className = 'tab';
-                tab.textContent = file.name;
-                tab.setAttribute('data-file-path', file.path); // Store the file path
-                tab.onclick = () => showContent(file.name, file.path);
-                tabContainer.appendChild(tab);
-
-                const contentDiv = document.createElement('div');
-                contentDiv.className = 'content';
-                contentDiv.id = file.name.replace(/\.[^/.]+$/, ""); // Remove file extension for ID
-                contentContainer.appendChild(contentDiv);
-            });
-        }
-
-        async function showContent(name, path) {
-            const contentDiv = document.getElementById(name.replace(/\.[^/.]+$/, ""));
-            const url = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${path}`;
-            const response = await fetch(url);
-            const rawData = await response.text();
-            contentDiv.innerHTML = `<pre><code class="language-clike">${rawData}</code></pre>`;
-            const codeBlock = contentDiv.querySelector('code');
-            Prism.highlightElement(codeBlock); // Highlight the specific code block
-            
-            // Update active tab
-            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
-            document.querySelectorAll('.content').forEach(content => content.classList.remove('active'));
-            const activeTab = Array.from(document.querySelectorAll('.tab')).find(tab => tab.textContent === name);
-            if (activeTab) {
-                activeTab.classList.add('active');
+            } else if (item.type === 'dir') {
+                const subFolder = folder.folder(item.name); // Create a folder in the ZIP for the subdirectory
+                await fetchAndAddFiles(subFolder, item.path); // Recursively fetch subdirectory contents
             }
-            contentDiv.classList.add('active');
-        }
-
-        document.getElementById('directorySelect').addEventListener('change', function() {
-            const selectedDirectory = this.value;
-            fetchFiles(selectedDirectory);
-			fetchUsageData();
         });
 
-        // Fetch directories on initial load
-        fetchDirectories();
+        try {
+            await Promise.all(fetchPromises);
+        } catch (error) {
+            console.error("Error fetching files:", error);
+        }
+    }
+
+    async function showContent(name, path) {
+        const contentDiv = document.getElementById(name.replace(/\.[^/.]+$/, ""));
+        const url = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${path}`;
+        const response = await fetch(url);
+        const rawData = await response.text();
+        contentDiv.innerHTML = `<pre><code class="language-clike">${rawData}</code></pre>`;
+        const codeBlock = contentDiv.querySelector('code');
+        Prism.highlightElement(codeBlock); // Highlight the specific code block
+        
+        // Update active tab
+        document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+        document.querySelectorAll('.content').forEach(content => content.classList.remove('active'));
+        const activeTab = Array.from(document.querySelectorAll('.tab')).find(tab => tab.textContent === name);
+        if (activeTab) {
+            activeTab.classList.add('active');
+        }
+        contentDiv.classList.add('active');
+    }
+
+    document.getElementById('directorySelect').addEventListener('change', function() {
+        const selectedDirectory = this.value;
+        fetchFiles(selectedDirectory);
+        fetchUsageData();
+    });
+
+    // Fetch directories on initial load
+    fetchDirectories();
+
+    function doSandTimer() {
+        // Show the sand timer
+        const timer = document.getElementById('timer');
+        const sand = document.getElementById('sand');
+        timer.style.display = 'block';
+
+        // Initial height of the sand
+        let height = 100; // Percentage
+        sand.style.height = height + '%'; // Start with full sand
+
+        let startTime = Date.now();
 		
-		document.getElementById('download-button').addEventListener('click', async function () {
-			const zip = new JSZip();
-			const modName = document.getElementById('directorySelect').value || 'TestKeeper'; // Get selected mod name
-			const sanitizedModName = modName.replace(/[<>:"/\\|?*]/g, '_');
-			const modFolder = zip.folder(sanitizedModName);
+    }
+	
+	function stopSandTimer()
+	{
+	    // Hide the sand timer
+        const timer = document.getElementById('timer');
+        timer.style.display = 'none';
+	}
+	
+	function updateSand() {
+		const elapsedTime = Date.now() - startTime;
+		const progress = elapsedTime / duration;
 
-			// Recursive function to fetch files and subdirectories
-			async function fetchAndAddFiles(folder, currentPath) {
-				const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/${currentPath}`;
-				const response = await fetch(url);
-				const items = await response.json();
+		// Exponential easing
+		height = 95 * Math.exp(-3 * progress)+5; // Exponential fall
+		sand.style.height = height + '%'; // Update sand height
+	}	
 
-				const fetchPromises = items.map(async (item) => {
-					if (item.type === 'file') {
-						const fileUrl = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${item.path}`;
-						const fileName = item.name;
-						
-						try {
-							const fileResponse = await fetch(fileUrl);
-							if (!fileResponse.ok) throw new Error(`Failed to fetch ${fileName}: ${fileResponse.statusText}`);
-							
-							// Check if the file is binary or text
-							const isBinary = /\.(png|jpg|jpeg|gif|bmp|svg|ico|webp)$/.test(fileName);
-							if (isBinary) {
-								const blob = await fileResponse.blob();
-								folder.file(fileName, blob);
-							} else {
-								const content = await fileResponse.text();
-								if (content.trim()) {
-									folder.file(fileName, content);
-								}
-							}
-						} catch (error) {
-							console.error(error);
-						}
-					} else if (item.type === 'dir') {
-						const subFolder = folder.folder(item.name); // Create a folder in the ZIP for the subdirectory
-						await fetchAndAddFiles(subFolder, item.path); // Recursively fetch subdirectory contents
-					}
-				});
+    document.getElementById('download-button').addEventListener('click', async function () {
+        doSandTimer();
+        const zip = new JSZip();
+        const modName = document.getElementById('directorySelect').value || 'TestKeeper'; // Get selected mod name
+        const sanitizedModName = modName.replace(/[<>:"/\\|?*]/g, '_');
+        const modFolder = zip.folder(sanitizedModName);
 
-				await Promise.all(fetchPromises);
-			}
+        // Fetch files from the selected directory
+        const selectedDirectory = document.getElementById('directorySelect').value;
+        if (selectedDirectory) {
+            await fetchAndAddFiles(modFolder, `Mods/10Release/${selectedDirectory}`);
+        }
 
-			// Fetch files from the selected directory
-			const selectedDirectory = document.getElementById('directorySelect').value;
-			if (selectedDirectory) {
-				await fetchAndAddFiles(modFolder, `Mods/10Release/${selectedDirectory}`);
-			}
+        // Create the install batch file
+        addInstallBatchFile(modFolder);
 
-			// Create the install batch file
-			addInstallBatchFile(modFolder);
+        // Generate the ZIP and trigger download
+        zip.generateAsync({ type: "blob" }).then(function (content) {
+            saveAs(content, `${sanitizedModName}.zip`);
+        });
 
-			// Generate the ZIP and trigger download
-			zip.generateAsync({ type: "blob" }).then(function (content) {
-				saveAs(content, `${sanitizedModName}.zip`);
-			});
+        fetchUsageData();
+		stopSandTimer();
+        const canUseApi = await checkApiUsage();
+        if (!canUseApi) {
+			displayApiError(`Oh no! We ran out of GitHub API uses! I think the download might be broken!`);
+		}
 
-			fetchUsageData();
+    });
 
-		});
-		
 	// Function to add installer file to the ZIP archive
 	function addInstallBatchFile(modFolder) {
 		const installBatContent = `
