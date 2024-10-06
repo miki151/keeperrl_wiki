@@ -49,6 +49,34 @@
             font-weight: bold;
             margin: 10px 0;
         }		
+		    body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        .footer {
+            background-color: #f1f1f1;
+            text-align: center;
+            padding: 20px 10px; /* Increased padding to move the label lower */
+            position: relative;
+            bottom: 0;
+            width: 100%;
+            border-top: 1px solid #ccc;
+        }
+        .usage-info {
+            margin-top: 20px; /* More margin to separate from the top */
+            font-size: 0.8em; /* Smaller font size */
+            color: #555;
+            line-height: 1.5; /* Increased line height for better readability */
+        }
+        .highlight {
+            color: #ff4500; /* Highlight color for emphasis */
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
@@ -159,6 +187,58 @@
         }
 
         fetchFiles();
-    </script>
+
+        // Function to fetch GitHub API usage data
+        async function fetchUsageData() {
+            try {
+                const response = await fetch('https://api.github.com/rate_limit');
+                const data = await response.json();
+
+                const limit = data.rate.limit;
+                const remaining = data.rate.remaining;
+                const resetTime = new Date(data.rate.reset * 1000).toLocaleString('en-GB', { timeZone: 'UTC' });
+                
+                const usageInfo = `
+                    It will use your GitHub API allowance which is <span class="highlight">${limit}</span> per hour for unidentified IP addresses and <span class="highlight">5000</span> for authorized GitHub token holders. 
+                    <br>
+                    You have <span class="highlight">${remaining}</span> requests remaining. 
+                    <br>
+                    Next Reset Time (UTC): <span class="highlight">${resetTime}</span>
+                    <br>
+                    It designed to prevent you spamming past your limit.
+                    <br>
+                    👾 Soft Monster 👾<span id="currentTime"></span>
+                    <br>
+                    If you don't know what GitHub API usage is, it is unlikely you need extra in the next hour.
+                `;
+                
+                document.getElementById('usageInfo').innerHTML = usageInfo;
+            } catch (error) {
+                document.getElementById('usageInfo').innerHTML = 'Error fetching GitHub API usage data. Please try again later.';
+                console.error('Error:', error);
+            }
+        }
+
+        // Function to update the current time
+        function updateCurrentTime() {
+            const now = new Date();
+            const options = { hour: '2-digit', minute: '2-digit', hour12: false };
+            document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-GB', options);
+        }
+
+        // Fetch the usage data on page load
+        fetchUsageData();
+
+        // Update the time every minute
+        updateCurrentTime();
+        setInterval(updateCurrentTime, 60000);
+	</script>
+
+	<div class="footer">
+        <div class="usage-info" id="usageInfo">
+            Checking GitHub API usage...
+        </div>
+    </div>
+
 </body>
 </html>
