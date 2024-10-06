@@ -79,7 +79,7 @@
     <div id="contentContainer"></div>
 
     <script>
-        // Function to check API usage
+         // Function to check API usage
         async function checkApiUsage() {
             const apiLimitUrl = "https://api.github.com/rate_limit";
             try {
@@ -91,15 +91,21 @@
                 const remaining = data.rate.remaining;
                 const limit = data.rate.limit;
 
-                // If remaining requests are below a threshold (e.g., 10 requests), show a warning
+                // If remaining requests are zero, return false to block further API calls
+                if (remaining === 0) {
+                    displayApiError("GitHub API rate limit exceeded. Please wait and try again later.");
+                    return false; // Prevent API calls
+                }
+
+                // If remaining requests are below a threshold (e.g., 10), show a warning
                 if (remaining <= 10) {
                     displayApiWarning(remaining, limit);
-                    return true;
                 }
-                return false;
+                return true; // Allow API calls
             } catch (error) {
                 console.error(error); // Log any errors to the console
-                return true; // Assume API is unavailable or rate-limited on error
+                displayApiError("Error checking GitHub API. Unable to proceed.");
+                return false; // Prevent API calls on error
             }
         }
 
@@ -110,12 +116,26 @@
             errorLabel.classList.add('error-message'); // Apply red bold styling
         }
 
-        // Call checkApiUsage when the page loads
-        window.onload = async function () {
-            const isApiLimited = await checkApiUsage();
-            if (isApiLimited) {
-                console.log("API usage is limited or unavailable.");
+        // Function to display API limit exceeded or error message
+        function displayApiError(message) {
+            const errorLabel = document.getElementById('errorLabel');
+            errorLabel.innerHTML = message;
+            errorLabel.classList.add('error-message');
+        }
+
+        // Function to perform API actions only if usage limit is not exceeded
+        async function performApiAction(actionFunction) {
+            const canUseApi = await checkApiUsage();
+            if (!canUseApi) {
+                console.log("API usage limit reached. No API calls will be made.");
+                return;
             }
+            actionFunction(); // Call the actual action function if API usage is allowed
+        }
+
+        // Check API usage when the page loads
+        window.onload = async function () {
+            await performApiAction(fetchDirectories); // Replace exampleApiCall with your actual function
         };
 
         async function fetchDirectories() {

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KeeperRL Vanilla Config Files as commited to Github on last page refresh</title>
+    <title>KeeperRL Vanilla Config Files as committed to GitHub on last page refresh</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.js"></script>
     <style>
@@ -43,14 +43,80 @@
             padding: 10px;
             border: 1px solid #ccc;
         }
+        /* Add the red bold error message styling */
+        .error-message {
+            color: red;
+            font-weight: bold;
+            margin: 10px 0;
+        }		
     </style>
 </head>
 <body>
-    <h1>KeeperRL Vanilla Config Files as commited to Github on last page refresh</h1>
+    <h1>KeeperRL Vanilla Config Files as committed to GitHub on last page refresh</h1>
+	<div id="errorLabel"></div> <!-- The error message will appear here -->
     <div class="tabs" id="tabContainer"></div>
     <div id="contentContainer"></div>
 
     <script>
+        // Function to check API usage
+        async function checkApiUsage() {
+            const apiLimitUrl = "https://api.github.com/rate_limit";
+            try {
+                const response = await fetch(apiLimitUrl);
+                if (!response.ok) {
+                    throw new Error(`Failed to check API usage: ${response.statusText}`);
+                }
+                const data = await response.json();
+                const remaining = data.rate.remaining;
+                const limit = data.rate.limit;
+
+                // If remaining requests are zero, return false to block further API calls
+                if (remaining === 0) {
+                    displayApiError("GitHub API rate limit exceeded. Please wait and try again later.");
+                    return false; // Prevent API calls
+                }
+
+                // If remaining requests are below a threshold (e.g., 10), show a warning
+                if (remaining <= 10) {
+                    displayApiWarning(remaining, limit);
+                }
+                return true; // Allow API calls
+            } catch (error) {
+                console.error(error); // Log any errors to the console
+                displayApiError("Error checking GitHub API. Unable to proceed.");
+                return false; // Prevent API calls on error
+            }
+        }
+
+        // Function to display the API warning label
+        function displayApiWarning(remaining, limit) {
+            const errorLabel = document.getElementById('errorLabel');
+            errorLabel.innerHTML = `Warning: You are approaching the GitHub API rate limit. Remaining: ${remaining}/${limit}`;
+            errorLabel.classList.add('error-message'); // Apply red bold styling
+        }
+
+        // Function to display API limit exceeded or error message
+        function displayApiError(message) {
+            const errorLabel = document.getElementById('errorLabel');
+            errorLabel.innerHTML = message;
+            errorLabel.classList.add('error-message');
+        }
+
+        // Function to perform API actions only if usage limit is not exceeded
+        async function performApiAction(actionFunction) {
+            const canUseApi = await checkApiUsage();
+            if (!canUseApi) {
+                console.log("API usage limit reached. No API calls will be made.");
+                return;
+            }
+            actionFunction(); // Call the actual action function if API usage is allowed
+        }
+
+        // Check API usage when the page loads
+        window.onload = async function () {
+            await performApiAction(fetchFiles); // Replace exampleApiCall with your actual function
+        };
+
         async function fetchFiles() {
             const url = "https://api.github.com/repos/miki151/keeperrl/contents/data_free/game_config";
             const response = await fetch(url);
