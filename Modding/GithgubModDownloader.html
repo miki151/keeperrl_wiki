@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KeeperRL Community Resources - Mods</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.js"></script>	
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script> 	
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .tabs {
+            display: flex;
+            flex-wrap: wrap;
+            border-bottom: 1px solid #ccc;
+        }
+        .tab {
+            padding: 10px;
+            cursor: pointer;
+            background: #f4f4f4;
+            border: 1px solid #ccc;
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+        .tab.active {
+            background: #fff;
+            border-bottom: none;
+        }
+        .content {
+            display: none;
+            margin-top: 10px;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        .content.active {
+            display: block;
+        }
+        pre {
+            margin: 0;
+            background: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+        .download-button {
+            margin-left: 10px;
+            padding: 10px 15px;
+            font-size: 16px;
+            cursor: pointer;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+        .download-button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+    <h1>KeeperRL Community Resources - Mods</h1>
+
+    <label for="directorySelect">Select a published KeeperRL mod from GitHub:</label>
+    <select id="directorySelect"></select>
+    <button id="download-button" class="download-button">Download</button>
+
+    <div class="tabs" id="tabContainer"></div>
+    <div id="contentContainer"></div>
+
+    <script>
+        async function fetchDirectories() {
+            const url = "https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release";
+            const response = await fetch(url);
+            const directories = await response.json();
+            const directorySelect = document.getElementById('directorySelect');
+
+            directorySelect.innerHTML = ''; // Clear existing options
+
+            directories.forEach(dir => {
+                if (dir.type === 'dir') {
+                    const option = document.createElement('option');
+                    option.value = dir.name;
+                    option.textContent = dir.name;
+                    directorySelect.appendChild(option);
+                }
+            });
+        }
+
+        async function fetchFiles(directory) {
+            const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release/${directory}`;
+            const response = await fetch(url);
+            const files = await response.json();
+            const tabContainer = document.getElementById('tabContainer');
+            const contentContainer = document.getElementById('contentContainer');
+
+            tabContainer.innerHTML = ''; // Clear existing tabs
+            contentContainer.innerHTML = ''; // Clear existing content
+
+            files.forEach(file => {
+                const tab = document.createElement('div');
+                tab.className = 'tab';
+                tab.textContent = file.name;
+                tab.setAttribute('data-file-path', file.path); // Store the file path
+                tab.onclick = () => showContent(file.name, file.path);
+                tabContainer.appendChild(tab);
+
+                const contentDiv = document.createElement('div');
+                contentDiv.className = 'content';
+                contentDiv.id = file.name.replace(/\.[^/.]+$/, ""); // Remove file extension for ID
+                contentContainer.appendChild(contentDiv);
+            });
+        }
+
+        async function showContent(name, path) {
+            const contentDiv = document.getElementById(name.replace(/\.[^/.]+$/, ""));
+            const url = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${path}`;
+            const response = await fetch(url);
+            const rawData = await response.text();
+            contentDiv.innerHTML = `<pre><code class="language-clike">${rawData}</code></pre>`;
+            const codeBlock = contentDiv.querySelector('code');
+            Prism.highlightElement(codeBlock); // Highlight the specific code block
+            
+            // Update active tab
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            document.querySelectorAll('.content').forEach(content => content.classList.remove('active'));
+            const activeTab = Array.from(document.querySelectorAll('.tab')).find(tab => tab.textContent === name);
+            if (activeTab) {
+                activeTab.classList.add('active');
+            }
+            contentDiv.classList.add('active');
+        }
+
+        document.getElementById('directorySelect').addEventListener('change', function() {
+            const selectedDirectory = this.value;
+            fetchFiles(selectedDirectory);
+        });
+
+        // Fetch directories on initial load
+        fetchDirectories();
+		
+		document.getElementById('download-button').addEventListener('click', async function () {
+			const zip = new JSZip();
+			const modName = document.getElementById('directorySelect').value || 'TestKeeper'; // Get selected mod name
+			const sanitizedModName = modName.replace(/[<>:"/\\|?*]/g, '_');
+			const modFolder = zip.folder(sanitizedModName);
+
+			// Recursive function to fetch files and subdirectories
+			async function fetchAndAddFiles(folder, currentPath) {
+				const url = `https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/${currentPath}`;
+				const response = await fetch(url);
+				const items = await response.json();
+
+				const fetchPromises = items.map(async (item) => {
+					if (item.type === 'file') {
+						const fileUrl = `https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/${item.path}`;
+						const fileName = item.name;
+						
+						try {
+							const fileResponse = await fetch(fileUrl);
+							if (!fileResponse.ok) throw new Error(`Failed to fetch ${fileName}: ${fileResponse.statusText}`);
+							
+							// Check if the file is binary or text
+							const isBinary = /\.(png|jpg|jpeg|gif|bmp|svg|ico|webp)$/.test(fileName);
+							if (isBinary) {
+								const blob = await fileResponse.blob();
+								folder.file(fileName, blob);
+							} else {
+								const content = await fileResponse.text();
+								if (content.trim()) {
+									folder.file(fileName, content);
+								}
+							}
+						} catch (error) {
+							console.error(error);
+						}
+					} else if (item.type === 'dir') {
+						const subFolder = folder.folder(item.name); // Create a folder in the ZIP for the subdirectory
+						await fetchAndAddFiles(subFolder, item.path); // Recursively fetch subdirectory contents
+					}
+				});
+
+				await Promise.all(fetchPromises);
+			}
+
+			// Fetch files from the selected directory
+			const selectedDirectory = document.getElementById('directorySelect').value;
+			if (selectedDirectory) {
+				await fetchAndAddFiles(modFolder, `Mods/10Release/${selectedDirectory}`);
+			}
+
+			// Create the install batch file
+			addInstallBatchFile(modFolder);
+
+			// Generate the ZIP and trigger download
+			zip.generateAsync({ type: "blob" }).then(function (content) {
+				saveAs(content, `${sanitizedModName}.zip`);
+			});
+		});
+		
+	// Function to add installer file to the ZIP archive
+	function addInstallBatchFile(modFolder) {
+		const installBatContent = `
+@echo off
+setlocal enabledelayedexpansion
+
+:: Get the full path of the current batch file
+set "currentFilePath=%~dp0"
+
+:: Get the name of the folder containing the batch file
+for %%F in ("%currentFilePath%.") do set "currentDirName=%%~nxF"
+
+:: Display the folder name
+echo The folder name containing the batch file is: %currentDirName%
+
+:: Initialize variables
+set "steamDir="
+set "steamAppsDir="
+
+:: Define common Steam installation paths as an array-like structure
+set "commonPaths1=C:\\Program Files (x86)\\Steam\\steamapps\\common\\KeeperRL"
+set "commonPaths2=C:\\Program Files\\Steam\\steamapps\\common\\KeeperRL"
+set "commonPaths3=D:\\Steam\\steamapps\\common\\KeeperRL"
+set "commonPaths4=C:\\KeeperRL"
+set "commonPaths5=C:\\Program Files (x86)\\KeeperRL"
+set "commonPaths6=C:\\Program Files\\KeeperRL"
+
+:: Check common paths
+for %%P in ("%commonPaths1%" "%commonPaths2%" "%commonPaths3%" "%commonPaths4%" "%commonPaths5%" "%commonPaths6%") do (
+    echo Looking for KeeperRL... %%~P\\keeper.exe?
+    if exist "%%~P\\keeper.exe" (
+        set "KeeperRLDir=%%~P"
+        set "targetDir=%%~P\\mods\\%currentDirName%\\"
+        goto :found
+    )
+)
+
+:: If KeeperRL is not found, print an error message and exit with error
+echo Error: KeeperRL installation not found in common paths.
+pause
+exit /b 1
+
+:found
+echo KeeperRL directory = %KeeperRLDir%
+echo Mod Target directory = %targetDir%
+
+:: Create the new folder or handle overwrite
+if exist "%targetDir%" (
+    echo Mod directory already exists. Do you want to overwrite the files in the existing mod folder?
+    set /p choice=Do you want to overwrite existing mod files? [Y/N]:
+
+    if /i !choice!==N (
+        echo Exiting...
+        pause
+        exit /b 0
+    )
+
+    echo Overwriting mod files...
+
+) else (
+    mkdir "%targetDir%"
+    if errorlevel 1 (
+        echo Error: Failed to create directory %targetDir%.
+        pause
+        exit /b 1
+    )
+    echo %targetDir% created.
+)
+
+echo Installing mod from %currentFilePath%
+echo Installing mod to %targetDir%
+
+:: Ensure the source is not the same as the target
+if /i "%currentFilePath%"=="%targetDir%" (
+    echo Error: Source and target directories are the same. Aborting to prevent cyclic copy.
+    pause
+    exit /b 1
+)
+
+:: Exclude the target directory from the copy
+xcopy "%currentFilePath%*" "%targetDir%\\" /E /I /Y /F || (
+    echo Error: Failed to copy files to %targetDir%.
+    pause
+    exit /b 1
+)
+
+echo Files successfully copied to %targetDir%.
+echo Mod installed to %targetDir%.
+
+:: Ask if the user wants to run KeeperRL now
+set /p choice=Do you want to run Keeper RL right now? (Y/N): 
+
+if /i %choice%==Y (
+    echo Starting Keeper RL...
+    
+    :: Save the current directory but switch to KeeperRL directory
+    pushd "%KeeperRLDir%"
+    
+    start "" "%KeeperRLDir%\\keeper.exe" || (
+        echo Error: Failed to start Keeper RL.
+        popd
+        pause
+        exit /b 1
+    )
+
+    :: Return to the original directory
+    popd
+) else (
+    echo Keeper RL will not be started.
+    pause
+)
+
+exit /b 0
+`;
+
+		modFolder.file("Windows Installer.bat", installBatContent);
+	}
+
+		
+
+    </script>
+</body>
+</html>
