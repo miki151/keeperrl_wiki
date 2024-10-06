@@ -231,6 +231,7 @@
         document.getElementById('directorySelect').addEventListener('change', function() {
             const selectedDirectory = this.value;
             fetchFiles(selectedDirectory);
+			fetchUsageData();
         });
 
         // Fetch directories on initial load
@@ -293,6 +294,9 @@
 			zip.generateAsync({ type: "blob" }).then(function (content) {
 				saveAs(content, `${sanitizedModName}.zip`);
 			});
+
+			fetchUsageData();
+
 		});
 		
 	// Function to add installer file to the ZIP archive
@@ -447,29 +451,27 @@ exit /b 0
 					👾 Soft Monster 👾 <span id="currentTime"></span>
 					<br>
 					If you don't know what GitHub API usage is, it is unlikely you need extra in the next hour.
+					<p>
+						You can learn about GitHub API usage from the official documentation:
+						<a href="https://docs.github.com/en/rest" target="_blank">GitHub REST API Documentation</a>
+					</p>					
 				`;
 				
 				document.getElementById('usageInfo').innerHTML = usageInfo;
+				
+                // If remaining requests are zero display warning.
+                if (remaining === 0) {
+                    displayApiError(`GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.`);
+                }				
 			} catch (error) {
 				document.getElementById('usageInfo').innerHTML = 'Error fetching GitHub API usage data. Please try again later.';
 				console.error('Error:', error);
 			}
 		}
 
-
-        // Function to update the current time
-        function updateCurrentTime() {
-            const now = new Date();
-            const options = { hour: '2-digit', minute: '2-digit', hour12: false };
-            document.getElementById('currentTime').textContent = now.toLocaleTimeString('en-GB', options);
-        }
-
-        // Fetch the usage data on page load
-        fetchUsageData();
-
         // Update the time every minute
-        updateCurrentTime();
-        setInterval(updateCurrentTime, 60000);
+        fetchUsageData();
+        setInterval(fetchUsageData, 60000);
 	</script>
 	<div class="footer">
         <div class="usage-info" id="usageInfo">
@@ -479,3 +481,5 @@ exit /b 0
 
 </body>
 </html>
+
+
