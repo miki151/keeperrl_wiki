@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>How to Install Notepad++ and Snippets Plugin</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            color: #333;
+        }
+        ol {
+            margin: 10px 0;
+        }
+        li {
+            margin-bottom: 10px;
+        }
+        code {
+            background-color: #f4f4f4;
+            padding: 2px 6px;
+            border-radius: 3px;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        img {
+            width: 500px; /* Set width of the image */
+            height: 500px; /* Set height of the image */
+        }		
+    </style>
+    <!-- Include JSZip and FileSaver.js for zipping and saving files -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
+</head>
+<body>
+    <h1>How to Install Notepad++ and Snippets Plugin</h1>
+    
+    <h2>Step 1: Install Notepad++</h2>
+    <ol>
+        <li>Go to the official Notepad++ website: <a href="https://notepad-plus-plus.org/downloads/" target="_blank">https://notepad-plus-plus.org/downloads/</a>.</li>
+        <li>Download the latest version of Notepad++ by clicking the <strong>Download</strong> button for the version that matches your system (32-bit or 64-bit).</li>
+        <li>Once the download is complete, open the installer file and follow the on-screen instructions to install Notepad++.</li>
+        <li>After installation, launch Notepad++.</li>
+    </ol>
+    
+    <h2>Step 2: Install the Snippets Plugin</h2>
+    <ol>
+        <li>Open <strong>Notepad++</strong>.</li>
+        <li>Go to <code>Plugins &gt; Plugins Admin</code>.</li>
+        <li>In the <strong>Plugins Admin</strong> window, search for "<strong>Snippets</strong>".</li>
+        <li>Check the box next to <strong>Snippets</strong> and click <strong>Install</strong>.</li>
+        <li>Notepad++ may restart to complete the plugin installation.</li>
+    </ol>
+    
+    <h2>Step 3: Access the Snippets Plugin</h2>
+    <ol>
+        <li>Once the plugin is installed, open <strong>Notepad++</strong>.</li>
+        <li>Go to <code>Plugins &gt; Snippets &gt; Show Snippets Panel</code>.</li>
+    </ol>
+
+    <h2>Step 4: Download and Import Snippets</h2>
+    <ol>
+        <li>Click the button below to download a zip file containing pre-made snippets:</li>
+        <button id="downloadButton">Download Snippets</button>
+        <li>After downloading, extract the zip file to a sensible location on your computer (e.g., <code>C:\Users\YourName\Notepad++Snippets\</code>).</li>
+        <li>In Notepad++, look at the list of snippet libraries on the right in a combo box</li>
+        <li>Right click on the combo box and select 'import library'</li>
+		
+    <img src="data:image/bmp;base64,iVBORw0KGgoAAAANSUhEUgAAARAAAADICAYAAAAgEL7jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABlrSURBVHhe7Z1bj9w2mobrH+Uidtz9X2zAGHcbyJ/Y2M6sM4nb3YP8ggCTzI2DhdvrNnK6CjAdYC8cTOJD7CSLBYL4fMjBjnOww+VL8ZM+UpRKVSV1l6T3Ax6XDpRUzSIfk6yiNDEMBoMxZ0y++eYbQwgh8zD54YcfTN955513CCH7wGAEktpOCOkWCoQQMjcUCCFkbqYK5P33318qUu8xEMi5o2YymXiOmnMqXZLLp83ByUFz+nJiHyGklkYCSW2fhbrKPwtTBeJkoKRh10+fK9LtPefMUcqJDJhGAnn8+PFCiEBS+2ZhqkDQ+jh42lyO9u8fFAgZNo0E8ujRo4UQgaT2zcJUgbgKOzEHT18O9ucV+XTRvSnS6Erul8+hJVORLrnP4lo/uuuUvRe53uToOZvusjl9sNh2dF9bR4QsTiOBPHz4cCFEIKl9szBdIKCopEUF9ZXZVWK77sZJpKsTC8Smk1ZMMD4ybZ8sW+z5M7mUt+fvgZAB0EggDx48WAgRSGrfLDQTiMe3CDKJRBU5WK9azjh3tOocal/Q+vA4UUTH+HTlFhIh/aSRQO7fv18LKkxquyACSe0D044XZhKI5fLpg+mKXCmNOF3WmkkLRO1zYkh94xMfk+Hel/2bs/MS0l8aCeTevXuVyP+4qX2CCCS1DzQ5B5gqkHOnSxU82ZWolAaWVQshEMMM+3L0uUMgEbZESN9pJJC7d+8mkYoPUvsFEUhqH5jlPKn3GA+i5ufLxxviiqzXy8tHj2YtBFC0Eur2WeJujL82ujn5+qy/USFkyVlIIEAqRGqf0FQgqX2a6QJZlFg0TfcRMk4WFghoQyCp7TEUCCHLRSsCmcY0gTSFAiFkuWgkkDt37iyECCS1bxa6FwghZBYaCeT27dsLIQJJ7ZuFOoEQQvaeQQiEELI/NBLIrVu3FkIEkto3CxQIIctFI4F8//33CyECSe2bhSqBQC5XrlwxX3zxBSFkD2kkkGUi9R4hj6dPn5oXL14QQvaQqQLpAzBh6o8jhHQLBUIImZvePZnu1VdfpUAIWRIm3333nekL+N6ZAiFkeZjEPwxZVhB4XXaBPH/+nJBekSrHTZmgQi47aH3MIpDV1S1zU62/uLllt62b9VWZSh+yur5uVrG8vhOcZ2fdbsO53PHROXNums2q827eSH5ghCwr5fJdz56MgcQVflbaEYjallyHYFbN1k29bTVLlxBIKvOf39i06TbNV3/8Yf4gZMlJlmGFlPU6KBC1vrNlhbF1021D62N9y6eL0qcy+9dffzUP/u8zc/36/yZ/BEfIMoJJqrjfMMpvqly7+lHDMAWS6E64roikqRTKjlmfrJsdWY9fbdo4g2FyZD7m6uDO8U+ePDG//fYbIb0A5RXlFuUX5TjVMtF1K4YtkGjdjXtY4azvqO3+9YbKVN0UhMHxIaQ+IEL6AMovyrGUaS0QIa9PCgokXscyWiF6u3vdzAWi5fH77787e7PlQfoMyi+6MyjPunxTIKBOGKn1aPsNPzgKgWhxAGQ++pLxB0JI35ByLGW7iUQokNR6sN2KAwIJxlTWzH97eaDfSIGQIYByjPKMZS2R0QmkTXTm6dYHMhmZ/ezZMwqEDAKUY5RnLZFprRAKZAo64ygQMmQokA7QGUeBkCFDgXSAzrj+CWTbrGHMZm07sX3FbFzT2xZFnfPahlnJz9/FtUgXjFYgXd6RTGdcPwWyYlZWJmZtu7y9M4E02k6WjdEKBPdE/fTTT80nn3zSOh9//HGJjz76yHz44Yfmgw8+cCy7QDa2bYtgZcNci7dTIESBcixlGuUb5TxV/nX9GIRAuuTx48c5jx49csiv9u7fv2/u3bu3/AKxlXd7bWJWNq6Vtrt11+UovqLettuQvmi1JNLXdosSy5CYv0b8PtbWVoLr5l+X59fQ6RItqu01MwkESeYB5RjlGeVafl0tZV7XA10/KJAp6Izrs0CaLVtsZXQVHJVSKjC2rdiK6yv+tY1iuaDu/FYGUsFL4yNaKJryOfJ0+r1ZQtmReaFAOkBnXL8FYskrntoetD7U//zY7iv9tv2fv+gGXTMbVib5OZPXqlrOKCp8eZ97j/l7qToH1rMWi1tm66MVKJAO0BnXe4G4yo/Kq7Y7gUhl1IgopIJi3aZTYgnT62tVLQN5D4l9wXvRoorPUbSC0q0hMg+jFQj+KPzBXYDMFJC54O7du27iESbRYQC3PwKx5C0OXTnT3QhXOaOuy9qa7+JEacNrxcvq/IEkoveH1ofIyaVLnc/jRLZm1oLWUN17iI4nJVCOUZ5RrlG+Uc6lzOt6oOvHIAQCU+Irpz///LN19FdW+utc/VVurwRigQgKgVhyqXhkfCGoxIn1gPrKmw2AZuevHJz1rROXLpBD+u9wA65qLGTae4iPJyEox/FXuKmvbnX9GIRAYEL8MV2EziwtEi2R5RXIsOHgabtIOdbySElDBwUyJXTGUSBLhOvCcPC0TSiQDkJnHAWyDEg3h12StqFAOgidcRQIGTIUSAehM44CIUOGAukgdMZRIGTIUCAdhM44CoQMGQqkg9AZR4GQIUOBdBA64ygQMmQokA5CZxwFQoYMBdJB6IyjQMiQoUA6CJ1xFAgZMhRIByGZViWP5Z5MR0hzUI5Tk+nqJEKBTAnJsH4KBLNQ/ezW0kzYOJ3/aXjtjFtN1TGc+dpXKJAOQjKsvwKZUQaNttfto0D6CgXSQUiGUSBN91EgfYUC6SAkwwYnENftyLo1KxsbKp0cg1fV/Qlu3KPTVSzzLuy9gwLpICTD+isQVUGDWwkWlTK8Q5kXQGk5pipddm7ehb1/UCAdhGRYfwWSEEDpZjxx5U0txzQ/hndh7wdzC+SI/XdyxK13EnGFn5UmAvn222+DP7AttDhS8ujDoy2DCgv2VCC8C3tfQDlOPdpSyr7UBS2TvAVyZAaBvPmSMS+96VcaRFzhZ2WaQHDb+bffftu8/vrrrXPq1KmAkydPOk6cOOF47bXX+icQt73bLkxeyQNJROfjXdiXCpRjlGcp21LW4zoApH6g5WjevFIWiGuVCAm5nLfbsO+8X6+LuMLPyjSBdIk8C6PqmTC49f1yC0S6BxnBuEK+LTWImp0jH+SccRCVd2HvHyjH8igHeXzDtGfDWAWUuzCQA6QiccW2NpJdHJvmpQrB6NAVch4oEAI4eNotcwvEiUBJIGh9CLbbopwShBOMTXOkojmiK+Q8UCCkPG5D2qY9gdTIIo7K1okKXSHngQIZM7wL+14xt0DceIaSAKRQ1ZrIo2H3BaEr5DxME8ipN/7eGSdPbwWc+M9Nx2t/Pev4j9c3KBAyCFCOUZ6lbEtZj+sAkPqB8Sv3jUo8DoJvWqq6MLKvyQAqIq7ws9JEIF1F6uvc/vwOhJDmoBzP9TuQriOu8LNCgRDSPRRIB0GBkLFAgbQZX2+Z1dUtc5MCISOBAgnia7O1OjETK4Gv/ZaZggIhI4MC0eEEcNwcX101W/MYhAIhI4MCUfH11qpZtea4dHziXv1GJ4Utu01+Zn38UrbLmEvmuN/mtm9laTdV2vUdL5Cvzub3uphMjlEgZBBQIHmg++JbHpeOF90YCARyEGnk+7LuTiETG5J2x7dAdtZt2k3z1fOLxk1Eu5C1QK6eOUSBkEFAgUj4lkbW7kDLwssk2G5D1uPtCL8t78Lc2LTrViBofaycNdelC3P1DAVCBgEF4gPdF+l2CK4bMzqBYFZqmA/N7qXR1WxWdd5p0/fJnkOBuEh0R6SrUiWQ1DFVAulVFyaumF4opan5MU0q9DyVvuqYec5F2oYCQaRaE9KNuVQlEL+s/qeWQdSyQPo0iJqomMENfqqgQMYIBdJBSIZJJiJDkbHIYGQ0MrxXAgluMWhxQhEZVtw5rJQG+2XdIi2a5Lk0+ryJZd7JfV+hQDqIYQsk2m8rWVZx9fYmaerSyf44TbxsZVB5e8OqsZvyOfJ0EIbqqvFmRNOhQDqIYQrEbwtaDPp/dHVckzQ4b2U6v98RV/jUckZR4cv7nBzy61SdA+uqRcXWx1QokA5icAJxFd1XLL0coI5rkgbrlek0+piqZVDTSgquo2RYOgfv5D4rFEibEX8LMwiBYF035bP16V2NaWnq0mni81ZcI5BEdB20Pngn906gQILgZLqsUkhTXzf3Fa4SqjRNuie+a5IPZkpXpSJdQX3l5Z3c9xcKRIcTACfTjR0OnjaHAlHByXQk68Jw8LQpFEgenEw3bqSbM+4uyaxQIBK+pZG1OziZjpAmUCA+OJmOkNmhQFxwMh0h80CBIFKtidFOpiOkORRIByEZJpmIDEXGIoOR0chwCoQMAQqkg6BAyFigQDoICoSMBQqkg6BAyFigQOoiObg6Jdwxm24gdVGBXL9+nZB9JVUuNRQIIvo2xX2jgq9n91kghCw7FAgiFoWsUyCE1EKBIGJR4EdkaILo7VjOWyjHTfH7sdSEOi8QzIWZrJqzX1EgZJhQIIhADiCeB5NJQn516n72nvVxKn6NagVyc9Oec93ssAVCBgwFgtAtDYSsx69+t9uPVki83cafThyQ0PFcHiIQZDIy+wp/yk4GAsrxs2fPXLnWAhGJjFMgrsWhBDGrQGwLZGfTtlLWd5ICQYZTIGQIUCCIWASliXTNuzAiEIyB7KxPzMrZrygQMlgoEIRrUegxED9IqsUSpFGDqNGxxzcLgbx4sWPW7TZIhAIhQ4QCaTl0hiEDJTMpEDJEKJCWQ2cYBUKGDgXScugM66dA+KgC0hwKpOXQGUaBkKFDgdSFHkRtGPpbGAqEDB0KBFH6FsZ/NUuBBORPlQP5k9t8+o3i4dXBoyrVk+dWNjbUuePrhOvpa1kqzxfumwTPwpVtfGBU21AgiFgUsk6BVKDTYNlWTqnk7in4+hm1RaXFA6vrn4yfum75Wo3OZ9+HExneT+lxmaQtKBBELIpFJtPp34G4yXQr+WQ6ZHivBeLkIH9rRcXV66WnvOm0NcdVXavufEHrwwNx+O31D/Am80KBIAI5gPkn0+UtELxO1s1Fn5m9F4iriLpbIGlqRDCvQKquVXe+4JgyWWuFXZi2oUAQcQtE1uNXvzsTTs1cGCehvk6miyu2By0CqbyuskqaGhG45aouRzY2kVdo1+Lw+2qvVdeFqW9pIH22P36PqWXSBAoEURLBmCfTZRWxaI1JpVSDkStrZq1JCwTrqitSGvTU3ZQ1e858X9W1ppzPycYfB9CF0dcIxmbkuKpl0gQKBBGLgJPpumFKN2Nm2j4fmRkKBOFaFOp/Lhkk1WIJ0qhB1OhYTqarxn01G4xhLEbb5yOzQ4G0HDrDkIGSmeMUiOqKOBZtLbR9PrIoFEjLoTOMAiFDhwJpOXSGUSBk6FAgLYfOMAqEDB0KpC70IGrD6P9P2QlpDgWCKH0L47+apUAIqYUCQcSikHUKhJBaKBBELIpRT6YjpDkUCCKQAxjzZDpCmkOBIOIWiKzHr353JpyauTBOQotPprt+/Toh+0qqXGooEERJBGOeTEdIcygQRCwCTqYjpBEUCMK1KPQYiB8k1WIJ0qhB1OhYTqYjY4ICaTl0hiEDJTMpEDJEKJCWQ2cYBUKGDgXScugMo0DI0KFAWg6dYRQIGToUSF3oQdSGwZ+ykzFBgSBK38L4r2YpEEJqoUAQsShknQIhpBYKBBGLYvRPplvWe42qxy7UPpuG7BUUCCKQAxj7k+n2UyB1MqjaR4HsFxQIIm6ByHr86ndnwqmZC+Mk1Ocn01EgpBkUCKIkgjFPptMC8RVzu3jiGx4rKc+ZBcWjJMtpg8dMRk+NK55Rmx23tlacM6f0VH0tisRy8tr6/Nnf5Z4nU7qGTrdiVvRjN4F+3CbJoUAQsQhGPZkOFUkLxFYyqTj+MZF55XTrFWlLYxSqQib2lUSUbE3offFy/bUDmVWeL/rblMAgnUAoxEGBIFyLwv+P5PCDpFosQRo1iBod2//JdKhIUQskr8x16/E+VelchZZzRvumXkNTdb2aa6fOFzwvt+ocWFf5wNZHEgqk5dAZhgyUzByfQNTT9/dcIOra8b7gvSBd1TmKp/kXT/Uv9pEMCqTl0Bk2PoGoLkBQUbN9WYVO7au7hia+XtNrq/PpsQyXLnU+D/avrNnWh95e9x6i40cABdJy6AwbYwtED4bmwgCussbdhuI4XfHQOnHpZhxETV87Pr96vm4gh/L7AO69BO+j/j3Exw8dCqTl0BnWT4HMyzArUNHVIikokLrQg6gNY7w/ZR+gQFwXhoOndVAgiNK3MP6r2QUEcsNmnggEmYrMFXn88ssvFMhSI92c8XVJZgXlGOUZ5RrrWiIo/1oiEsMUiBaFrFMghNRCgSBiUbQwmc4JJJ9MR4GQYUKBIAI5gMUn0924YV/9ZDq2QMhQoUAQcQtE1uNXvzsTTs1cGCeh9XwyXSyQL99a5sl0hDSHAkGURNDuZDq2QMhQoUAQsQhamEyHMRCZTEeBkKFCgSBci0KPgfhBUi2WII0aRI2ODQZR1WQ6CoQMEQqk5ZDMksxjF4YMGQqk5aBAyJigQFoOCoSMCQqk5ei/QPCT9GJMB+z/ZDL1M/lpU/DJnkKB1IUeRG0Y/f8p+35VyrrrVu2jQPYbCgRR+hbGfzVLgewhFEgfoUAQsShknQLxZLNTgxsO59PcfXrejX2UUCCIWBSjnkyHClX8PeFd17Esr1H6ytsEqgqZ2BdX+FBcgt4XL9dfO5BZ5fkiOfJu7I2hQBCBHMCYJ9PpyhXh72YeVqhy+rzSuQqtZaMrZHxczXWDfVXLGdXnt/j3n1F1DqwrabL1UQsFgohbILIev/rdmXBq5sK4AtrXyXSJiic0Eoi6I/qeC0RdO94XvBekqzoH78Y+CxQIoiSCMU+mK1eoYjsqoLzq7aoLEFTUbF8unNI+fZ14XaP3xct111bn02MZLl3qfB7s593YG0GBIGIRjHoyHSqENPMzVja2g0FU92jLvGmfVSDejV3SjQsKBOFaFL5wOfwgqRZLkEYNokbHjm8y3TArUNHVInVQIC2HZJZkXv+6MLMyQIG4LgwHT5tAgbQcFEifkW7OeLsks0KBtBzjEwgZMxRIy1ElEGQuBILMfvr0KQVCBgHKMcozyjXKN7aJQEQiUidEIuMRiB5EbRAuk9S3MLr1gYyFpZHZT548oUDIIEA5RnlGua5qhQxfIKVvYfxXsy0KRLc+fv75Z3Pr1i2X8fEHQkhfQPlFOUZ51q2QcQpEi0LWWxIIMlsEgkz/6aefzN27d83Dhw9LHwohfQHlF+UY5RnlOtWNGadAWppM9/xiNpkOI/qxQB49euSaf/gQ2BIhfQLlFeVWyi8FEsgBzDeZzmWStEBubJqVybq5EI1/oLn3448/msePH5sHDx6Y27dvuw+CkL6AbgvKLcovyjHKM8o1BCLjIOzCYD1+9bsz4ZTnwuQCcRLKZuLKAKpugXz+xiu5rA7+9X9cMxAfyK3dk+bll0+aXfsB4UMqeNccnhw278b7q9bx6s9fUHF8It0//nXCpjth/iWFJl6fuu0f9v36cyX3q21kborysXfcuXPHldf79++71ocIRFogFIiL+SbT5QKxLZBsMt3FyjEQZDw+AHwQ+EDwwdy+/Z6teC+bk7vRB6fF0FQgenu8P1hPVOiFBSLbIpHssUCCv50sDP6TmyYQjoEg5pxMpwWCMZCLfjJdSiB4DxgHQTPw3r17XiC3ze6pA2Zy4JTZtctYz6QyMQdO7Zrbu6fMgdK+A+bUbrZeHJsdc/g9SedJHm/TvRsXFrR4CpHtnnzZTGIhpSSlBHb45K7fvmtOvuzPhf1oCeljyNwEn+0eAXmgvKLcovyiHHMMxLUodDPeD5JqsQRp1CBqdGwwiPr8osmmm1/PBRKPg0grBB+KtEQ+gwjUOY/8847bfuezTACfYVn455E83YEjR4r9SKvOAbF8ljjeSSVK5wTz3uF824HDhyPxWOLjrBjeywWViSk/HvLzx713uLytK/I8Iq0g8ohbH/I1LrovKOfj+xq3pdAZhYxDBiIjZRxEBlJTrRAtEUKWEZFH3PrQAkE5p0AWCC0QLRHdjYlbIfgwYHQRCSHLCMonyinKq259xN0XCATlPhaIBAVSE1UC0a0QGQsRieD9aJEQsoyIOFBeY3lUtT4okBlDMkskIibWrRDdlcGHgGagFgkhywjKJ8qpdFtQfvXYR0oguj5IjEcgehC1abhjNs1NLxCRiG6FiESkO6NFstegQMzN52+YV155w3ye2kcGB8oLymnc8qiSx3gEEn2TArJvaRcTCDKtqUScSL540xwK3sdfzH/ZDwofVldIgZiLf//NCuRv5t+pfUtA6u8liyFldV55IIYpEC0KWW9BICIRZGwskVgkv3z5ljl06C3zJZbB+b+YiV5fNuL3SwYPymosDi0PEUiVPBDDF8gik+m2smOcQHbseSarZvNG0QoRiaRE8uvVM7ZCnjFXsezYNscmx8y2Xb565lB+jcnkkDlztUh/5hi21aSTc+fbLbhOdPx5WzCuxMdfsQXmCtIdM8cOyfaJOXZetsvxarsvZKRbsjKy90iZFXHE8hinQHwFyJj/yXT5Me6cx82Oz0TJ2CqROJlEN/MNH5+guIDHL17IH5mwdiHaH6f77YL7QVueTq7T9HiXTt0nFNsna+ZCfDy282bEg0bKqsgjFgeok4cxxvw/VNppSYcZoooAAAAASUVORK5CYII=" 
+    alt="Red Dot">		
+		
+        <li>Select the extracted snippets file and click <strong>Open</strong>.</li>
+        <li>Your snippets will now be available in the Snippets Panel under the corresponding language category.</li>
+    </ol>
+    
+    <h2>Step 5: Use the Snippets</h2>
+    <ol>
+        <li>Open a file or create a new one in Notepad++.</li>
+        <li>To insert a snippet, select the language first.</li>
+        <li>Double-click the snippet name in the <strong>Snippets Panel</strong>, and it will be inserted into your current file.</li>
+    </ol>
+
+    <script>
+        document.getElementById('downloadButton').addEventListener('click', async function () {
+            const zip = new JSZip();
+            const modName = 'Notepad++Snippets'; // Static folder name for now
+            const sanitizedModName = modName.replace(/[<>:"/\\|?*]/g, '_');
+            const modFolder = zip.folder(sanitizedModName);
+
+            // Array of GitHub raw content URLs for the snippet files
+            const snippetFiles = [
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20Effect%20Predicates.sqlite',
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20Effects.sqlite',
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20Tribe%20IDs.sqlite',
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20UMG%20Generators.sqlite',
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20UMG%20Predicates.sqlite',
+			'https://raw.githubusercontent.com/miki151/KeeperRLCommunityResources/master/Notepad%20Snippets/KeeperRL%20Vanilla%20Buff%20IDs.sqlite'
+			
+                // Add more URLs as needed
+            ];
+
+            // Fetch and add each snippet file to the ZIP
+            const fetchPromises = snippetFiles.map(async (url) => {
+                const fileName = url.split('/').pop(); // Get file name from URL
+                try {
+                    const response = await fetch(url);
+                    if (!response.ok) throw new Error(`Failed to fetch ${fileName}: ${response.statusText}`);
+                    
+                    const content = await response.text();
+                    if (content.trim()) {
+                        modFolder.file(decodeURIComponent(fileName), content);
+                    }
+                } catch (error) {
+                    console.error(error); // Log the error for debugging
+                }
+            });
+
+            // Wait for all fetch promises to resolve
+            await Promise.all(fetchPromises);
+
+            // Generate the ZIP and trigger download
+            zip.generateAsync({ type: 'blob' }).then(function (content) {
+                saveAs(content, `${sanitizedModName}.zip`);
+            });
+        });
+    </script>
+</body>
+</html>
