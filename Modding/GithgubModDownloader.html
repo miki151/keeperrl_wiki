@@ -90,10 +90,11 @@
                 const data = await response.json();
                 const remaining = data.rate.remaining;
                 const limit = data.rate.limit;
+				const resetTime = new Date(data.rate.reset * 1000).toLocaleString('en-GB', { timeZone: 'UTC' });
 
                 // If remaining requests are zero, return false to block further API calls
                 if (remaining === 0) {
-                    displayApiError("GitHub API rate limit exceeded. Please wait and try again later.");
+                    displayApiError("GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.");
                     return false; // Prevent API calls
                 }
 
