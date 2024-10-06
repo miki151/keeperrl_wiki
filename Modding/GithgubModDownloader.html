@@ -58,10 +58,18 @@
         .download-button:hover {
             background-color: #45a049;
         }
+        /* Add the red bold error message styling */
+        .error-message {
+            color: red;
+            font-weight: bold;
+            margin: 10px 0;
+        }
     </style>
 </head>
 <body>
     <h1>KeeperRL Community Resources - Mods</h1>
+	
+	<div id="errorLabel"></div> <!-- The error message will appear here -->
 
     <label for="directorySelect">Select a published KeeperRL mod from GitHub:</label>
     <select id="directorySelect"></select>
@@ -71,6 +79,45 @@
     <div id="contentContainer"></div>
 
     <script>
+        // Function to check API usage
+        async function checkApiUsage() {
+            const apiLimitUrl = "https://api.github.com/rate_limit";
+            try {
+                const response = await fetch(apiLimitUrl);
+                if (!response.ok) {
+                    throw new Error(`Failed to check API usage: ${response.statusText}`);
+                }
+                const data = await response.json();
+                const remaining = data.rate.remaining;
+                const limit = data.rate.limit;
+
+                // If remaining requests are below a threshold (e.g., 10 requests), show a warning
+                if (remaining <= 10) {
+                    displayApiWarning(remaining, limit);
+                    return true;
+                }
+                return false;
+            } catch (error) {
+                console.error(error); // Log any errors to the console
+                return true; // Assume API is unavailable or rate-limited on error
+            }
+        }
+
+        // Function to display the API warning label
+        function displayApiWarning(remaining, limit) {
+            const errorLabel = document.getElementById('errorLabel');
+            errorLabel.innerHTML = `Warning: You are approaching the GitHub API rate limit. Remaining: ${remaining}/${limit}`;
+            errorLabel.classList.add('error-message'); // Apply red bold styling
+        }
+
+        // Call checkApiUsage when the page loads
+        window.onload = async function () {
+            const isApiLimited = await checkApiUsage();
+            if (isApiLimited) {
+                console.log("API usage is limited or unavailable.");
+            }
+        };
+
         async function fetchDirectories() {
             const url = "https://api.github.com/repos/miki151/KeeperRLCommunityResources/contents/Mods/10Release";
             const response = await fetch(url);
