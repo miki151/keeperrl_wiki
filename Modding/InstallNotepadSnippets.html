@@ -113,20 +113,24 @@
             ];
 
             // Fetch and add each snippet file to the ZIP
-            const fetchPromises = snippetFiles.map(async (url) => {
-                const fileName = url.split('/').pop(); // Get file name from URL
-                try {
-                    const response = await fetch(url);
-                    if (!response.ok) throw new Error(`Failed to fetch ${fileName}: ${response.statusText}`);
-                    
-                    const content = await response.text();
-                    if (content.trim()) {
-                        modFolder.file(decodeURIComponent(fileName), content);
-                    }
-                } catch (error) {
-                    console.error(error); // Log the error for debugging
-                }
-            });
+			const fetchPromises = snippetFiles.map(async (url) => {
+				const fileName = url.split('/').pop(); // Get file name from URL
+				try {
+					const response = await fetch(url);
+					if (!response.ok) throw new Error(`Failed to fetch ${fileName}: ${response.statusText}`);
+					let content;
+
+					const arrayBuffer = await response.arrayBuffer();
+					content = new Uint8Array(arrayBuffer);  // Convert to Uint8Array for binary data
+
+					if (content) {
+						modFolder.file(decodeURIComponent(fileName), content);
+					}
+				} catch (error) {
+					console.error(error); // Log the error for debugging
+				}
+			});
+
 
             // Wait for all fetch promises to resolve
             await Promise.all(fetchPromises);
