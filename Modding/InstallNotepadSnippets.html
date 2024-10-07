@@ -3,27 +3,83 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <p><a href="https://miki151.github.io/keeperrl_wiki/" title="wikilink">Main Page</a></p>
     <title>How to Install Notepad++ and Snippets Plugin</title>
+    <title>KeeperRL Wiki & Notepad++ Installation</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
+            background-color: black;
+            color: white; /* Default text color for contrast */
+            font-family: Arial, sans-serif; /* Default font */
+            margin: 0;
+            padding: 20px; /* Add padding around the body */
+            display: flex; /* Use flexbox for centering */
+            flex-direction: column; /* Stack sections vertically */
+            align-items: center; /* Center content horizontally */
+            text-align: center; /* Center text */
         }
+
+        section {
+            max-width: 800px; /* Limit the width of the content */
+            padding: 20px; /* Padding inside the section */
+            background-color: rgba(0, 0, 0, 0.8); /* Slightly transparent background for readability */
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.2); /* Subtle shadow for depth */
+            margin-bottom: 20px; /* Space between sections */
+        }
+
         h1 {
-            color: #333;
+            margin: 20px 0; /* Space around headings */
+            color: #FFF; /* White color for main headings */
         }
+
+        h2 {
+            color: #FFF; /* White color for subheadings */
+        }
+
+        p {
+            margin: 10px 0; /* Space around paragraphs */
+        }
+
+        a {
+            color: yellow; /* Link color */
+            text-decoration: underline; /* Underline links */
+        }
+
+        a:hover {
+            color: lightyellow; /* Change link color on hover */
+        }
+
+        ul {
+            list-style-type: none; /* Remove bullet points */
+            padding: 0; /* Remove padding */
+        }
+
+        li {
+            margin: 5px 0; /* Space between list items */
+        }
+
+        .credits {
+            font-size: 0.9em; /* Smaller font size for credits */
+        }
+
         ol {
             margin: 10px 0;
+            text-align: left; /* Align ordered list text to the left */
         }
+
         li {
             margin-bottom: 10px;
         }
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 6px;
-            border-radius: 3px;
-        }
+		
+		code {
+			background-color: #333; /* Dark background for code blocks */
+			color: #FFF; /* White text for contrast */
+			padding: 2px 6px;
+			border-radius: 3px;
+			font-family: 'Courier New', Courier, monospace; /* Monospace font for code */
+		}
+		
         button {
             padding: 10px 20px;
             font-size: 16px;
@@ -32,20 +88,27 @@
             border: none;
             border-radius: 5px;
             cursor: pointer;
+            margin: 10px 0; /* Margin around the button */
         }
+
         button:hover {
             background-color: #45a049;
         }
+
         img {
             width: 500px; /* Set width of the image */
             height: 500px; /* Set height of the image */
-        }		
-    </style>
-    <!-- Include JSZip and FileSaver.js for zipping and saving files -->
+        }
+    </style>    <!-- Include JSZip and FileSaver.js for zipping and saving files -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.7.1/jszip.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js"></script>
 </head>
 <body>
+	<div id="title">
+		<h1>KeeperRL Wiki</h1>
+		<hr>
+		<span class="credits">KeeperRL Project maintained by <a href="https://github.com/miki151">miki151</a></span>
+	</div>
     <h1>How to Install Notepad++ and Snippets Plugin</h1>
     
     <h2>Step 1: Install Notepad++</h2>
@@ -141,5 +204,25 @@
             });
         });
     </script>
+	<section>
+        <p><a href="https://miki151.github.io/keeperrl_wiki/" title="wikilink">Main Page</a></p>
+		
+		<!--
+		
+        <h2>Other items in this section</h2>
+        <ul>
+		
+            <li><a href="https://miki151.github.io/keeperrl_wiki/Gaining_Familiarity_With_Mods_On_KeeperRL" title="wikilink">Gaining familiarity with mods on KeeperRL</a></li>
+			
+            <li><a href="https://miki151.github.io/keeperrl_wiki/Modding" title="wikilink">Modding</a></li>
+
+			<li><a href="https://miki151.github.io/keeperrl_wiki/Understanding_The_File_Formats_For_KeeperRL" title="wikilink">Understanding the file formats for KeeperRL</a></li>
+
+        </ul>
+		
+		-->
+		
+    </section>
+	
 </body>
 </html>
