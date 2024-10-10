@@ -120,7 +120,4 @@ Written by Michał Brzozowski, a very open-minded indie developer. He will proba
 
 [MainPage](/keeperrl_wiki/ "wikilink")
 
-
-
-
-(<a href="https://github.com/miki151/keeperrl_wiki" class="uri">Wiki source</a>
+(<a href="https://github.com/miki151/keeperrl_wiki" class="uri">Wiki source</a>)
