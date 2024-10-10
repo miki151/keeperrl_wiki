@@ -36,3 +36,7 @@ A mixture between a Real Time Strategy game, where you manage a dungeon and a ro
 <a href="https://twitter.com/keeperRL" class="uri">KeeperRL gossip on Twitter</a><br/>
 <a href="http://www.roguebasin.com/index.php?title=KeeperRL" class="uri">KeeperRL RogueBasin Home</a>
 </h3>
+
+This Wiki is published here:
+
+https://miki151.github.io/keeperrl_wiki/
