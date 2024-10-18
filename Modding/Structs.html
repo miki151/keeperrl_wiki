@@ -40,9 +40,12 @@
 <body>
     <h1>C++ Struct Extractor from GitHub</h1>
 	<h3 style="text-align: center;">
-		In C++, a struct is a custom data type that lets you group different kinds of variables together under one name, even if they have different types. It's used to organize related data into one unit. We care about structs when modding KeeperRL because they are often populated by the mod files we write. This web
-		page accesses GitHub and tries to analyse how the structs in Michal's KeeperRL source code might be
-		populated should they require population when writing the mod files.
+		In C++, a <strong>struct</strong> is a custom data type that groups different variables under one name, allowing for mixed types. It helps organize related data into a single unit. Structs are important for modding <em>KeeperRL</em> because they are often filled with data from our mod files. This webpage connects to <a href="https://github.com">GitHub</a> to analyze how the structs in Michal's <em>KeeperRL</em> source code could be populated when writing mod files. 
+		<br><br>
+		For example, in the modded <strong>attributes.txt</strong>, we populate <code>AttrInfo</code> with the following fields: <code>{bodyPartInjury}</code>, <code>name</code>, <code>{viewId}</code>, <code>adjective</code>, <code>absorptionCap</code>, <code>modifierVariation</code>, <code>wishedItemIncrease</code>, <code>isAttackAttr</code>, <code>{meleeFX}</code>, <code>{help}</code>, and <code>{onAttackedEffect}</code>. 
+		<br><br>
+		From the Vanilla <strong>attributes.txt</strong>: 
+		<code>"DAMAGE" { name = "damage" viewId = { "damage_icon" } adjective = "dangerous" absorptionCap = 25 isAttackAttr = true help = "Base damage value of melee attacks." }</code>
 	</h3>
 	<div class="usage-info" id="usageInfo">
 		Checking GitHub API usage...
