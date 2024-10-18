@@ -156,7 +156,8 @@ function extractAndDisplayStructs(sourceCode, fileName, rawUrl) {
             const structNameMatch = struct.match(/^\s*(\w+)/);
             if (structNameMatch) {
                 let structName = structNameMatch[1].trim();
-		if (structName == "LakeInfo") { structName = "BiomeInfo" } //Always gets this wrong.
+			if (structName == "LakeInfo") { structName = "BiomeInfo" } //Always gets this wrong.
+			if (structName == "ShopInfo") { structName = "SettlementInfo" } //Always gets this wrong.
                 const membersOutput = [];
                 let serializeLine = '';
 
