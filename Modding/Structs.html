@@ -95,18 +95,18 @@
                 }
 
                 const files = await response.json();
-                const sourceFiles = files.filter(file => file.type === 'file' && (file.name.endsWith('.h') || file.name.endsWith('.cpp')));
+                const sourceFiles = files.filter(file => file.type === 'file' && (file.name.endsWith('.h')));
                 const totalFiles = sourceFiles.length;
 
                 if (totalFiles === 0) {
-                    resultDiv.innerHTML = 'No .h or .cpp files found in the repository.';
+                    resultDiv.innerHTML = 'No .h files found.';
                     statusLabel.innerHTML = 'No files found.';
                     return;
                 }
 
                 let fileIndex = 0;
 
-                // Iterate over each source file and process .h or .cpp files
+                // Iterate over each source file and process .h
                 for (const file of sourceFiles) {
                     // Update the file iteration progress bar
                     fileIndex++;
@@ -147,52 +147,95 @@ function extractAndDisplayStructs(sourceCode, fileName) {
     // Iterate through each struct definition
     structs.forEach(struct => {
         if (struct.trim()) { // Check if not empty
-			// Replace specified keywords in the struct
-            const structNameMatch = struct.match(/^\s*(\w+)/); // Match the first word // Match struct name
+            // Match the first word (struct name)
+            const structNameMatch = struct.match(/^\s*(\w+)/);
             if (structNameMatch) {
-
-
                 const structName = structNameMatch[1].trim();
                 const membersOutput = [];
                 let serializeLine = '';
 
                 // Split the struct body into lines for easier processing
                 const lines = struct.split(';');
-                lines.forEach(line => {
+                lines.forEach((line, index) => {
                     const trimmedLine = line.trim();
                     if (trimmedLine.startsWith('SERIALIZE_ALL')) {
                         serializeLine = trimmedLine; // Capture the SERIALIZE_ALL line
-                    } else if (trimmedLine.includes('SERIAL')) {
-                        membersOutput.push(trimmedLine); // Collect member definitions
+                    } else {
+                        // Collect member definitions
+                        if (index === 0) {
+                            // Remove the first word (type) and any opening '{'
+                            const cleanedLine = trimmedLine.replace(/^\s*\w+\s*\{?/, '').trim();
+                            membersOutput.push(cleanedLine); // Add the cleaned member definition
+                        } else {
+                            membersOutput.push(trimmedLine); // For subsequent lines, push the line as is
+                        }
                     }
                 });
 
                 // If no members or SERIALIZE_ALL line, skip this struct
                 if (serializeLine || membersOutput.length > 0) {
                     // Create the usage section based on the SERIALIZE_ALL line
-                    let usageSection = serializeLine.replace('SERIALIZE_ALL(', `<b>${structName}</b> `); // Replace SERIALIZE_ALL with structName
+                    let usageSection = serializeLine.replace('SERIALIZE_ALL(', `<b>${structName}</b> `);
                     usageSection = usageSection
                         .replace(/\s+/g, ' ') // Remove any whitespace
                         .replace(/,/g, ' ') // Replace commas with spaces
                         .replace(/\);/g, '') // Remove any ); occurrences
-                        .replace(/NAMED\(/g, '{') // Replace NAMED( with {
-                        .replace(/OPTION\(/g, '{') // Replace OPTION( with {
-                        .replace(/SKIP\(/g, '{') // Replace SKIP( with {
-                        .replace(/\)/g, '}') // Replace ) with }
-                        .replace('} ITEM_TYPE_INTERF', '') // Remove unwanted parts
-						.replace('SUBCLASS(Summon}','{summon}')
-						.replace('SUBCLASS(GenericModifierEffect}','{effect}')
+                        .replace(/NAMED\(/g, '') // Replace NAMED( with {
+                        .replace(/OPTION\(/g, '') // Replace OPTION( with {
+                        .replace(/SKIP\(/g, '') // Replace SKIP( with {
+                        .replace(/\)/g, '') // Replace ) with }
                         .replace('  ', ' ') // Replace double spaces
-                        .slice(0, -3); // Remove the last 3 characters
+                        .slice(0, -2); // Remove the last 2 characters
 
-					if (usageSection.trim()) {
-						// Format output with expandable details
-						output += `${usageSection.trim()}<details>File: ${fileName.trim()}
+                    // Store member names and types for later usage
+                    const memberNamesAndTypes = membersOutput.map(member => {
+                        const parts = member.replace('SERIAL(', '').replace(')', '').split(/\s+/);
+                        return {
+                            name: parts[1],
+                            type: parts[0]
+                        };
+                    });
+
+                    // Process each member and update the usageSection string if the member name is found in the usageSection
+                    memberNamesAndTypes.forEach(({ name, type }) => {
+                        // List of basic types that don't need enclosing
+                        const basicTypes = ['bool', 'int', 'string', 'double'];
+
+                        // Check if the type doesn't contain any of the basic types
+                        if (!basicTypes.some(typeCheck => type.includes(typeCheck))) {
+                            // If member name is found in the usageSection, enclose it in {}
+                            if (usageSection.includes(name)) {
+                                usageSection = usageSection.split(name).join(`{${name}}`); // Enclose name in {}
+                            }
+                        }
+                    });
+
+                    // Create a copy of the usageSection with member names replaced by their types
+                    let typeReplacedUsageSection = usageSection;
+
+                    memberNamesAndTypes.forEach(({ name, type }) => {
+                        // Replace member name in the type-replaced usage section without regex
+                        if (typeReplacedUsageSection.includes(name)) {
+                            typeReplacedUsageSection = typeReplacedUsageSection.split(name).join(type);
+                        }
+                    });
+
+                    usageSection = usageSection
+                        .replace('SUBCLASS({Summon}', 'summon')
+                        .replace('SUBCLASS({GenericModifierEffect}', 'effect')
+						.replace('ITEM_TYPE_INTERFA', '')
+						.replace('withRoundBracket', '')						
+						.replace('roundBracket', '');
+
+                    // Append a new line with the modified typeReplacedUsageSection to the output
+                    if (usageSection.trim()) {
+                        output += `${usageSection.trim()}\n<details>File: ${fileName.trim()}
 Struct Name: ${structName.trim()}
+Syntax showing data types: ${typeReplacedUsageSection.trim()}
 ${membersOutput.join('\n')}
 ${serializeLine.trim()}
 </details><br/>`;
-					}
+                    }
                 }
             }
         }
@@ -200,6 +243,8 @@ ${serializeLine.trim()}
 
     resultDiv.innerHTML += output; // Append to result div
 }
+
+
 
 		// Function to fetch GitHub API usage data
 		async function fetchUsageData() {
