@@ -35,6 +35,9 @@
 </head>
 <body>
     <h1>C++ Struct Extractor from GitHub</h1>
+	<div class="usage-info" id="usageInfo">
+		Checking GitHub API usage...
+	</div>	
     <p>Enter a GitHub repository URL (e.g., https://github.com/username/repo):</p>
     <input type="text" id="repoInput" value="https://github.com/miki151/keeperrl" size="50">
     <button onclick="extractStructsFromRepo()">Extract Structs</button>
@@ -153,7 +156,7 @@ function extractAndDisplayStructs(sourceCode, fileName) {
                 });
 
 				// Create the usage section based on the SERIALIZE_ALL line
-				let usageSection = serializeLine.replace('SERIALIZE_ALL(', `${structName} `); // Replace SERIALIZE_ALL with structName
+				let usageSection = serializeLine.replace('SERIALIZE_ALL(', `<b>${structName}</b> `); // Replace SERIALIZE_ALL with structName
 				usageSection = usageSection
 					.replace(/\s+/g, ' ') // Remove any whitespace
 					.replace(/,/g, ' ') // Replace commas with spaces
@@ -162,7 +165,14 @@ function extractAndDisplayStructs(sourceCode, fileName) {
 					.replace(/OPTION\(/g, '{') // Replace OPTION( with {
 					.replace(/SKIP\(/g, '{') // Replace SKIP( with {
 					.replace(/\)/g, '}') // Replace ) with }
+					.replace('SUBCLASS(GenericModifierEffect}','effect')
+					.replace('} ITEM_TYPE_INTERF','')
 					.slice(0, -3); // Remove the last 3 characters
+					
+                if (output.includes('roundBracket{)')) {
+                    output = output.replace(/withRoundBracket\{\)/g, '('); // Replace roundBracket{ with (
+                    output += ')'; // Ensure the output ends with )
+                }
 
                 // Only add if it's not just whitespace
                 const formattedUsage = usageSection.trim();
@@ -177,25 +187,61 @@ function extractAndDisplayStructs(sourceCode, fileName) {
 }
 
 
+		// Function to fetch GitHub API usage data
+		async function fetchUsageData() {
+			try {
+				const response = await fetch('https://api.github.com/rate_limit');
+				const data = await response.json();
 
+				const limit = data.rate.limit;
+				const remaining = data.rate.remaining;
+				const resetTime = new Date(data.rate.reset * 1000); // Keep as Date object
 
+				// Format reset time for local time zone
+				const resetTimeFormatted = new Intl.DateTimeFormat(navigator.language, {
+					dateStyle: 'medium',
+					timeStyle: 'medium',
+				}).format(resetTime);
+				
+				// Calculate time left in seconds
+				const now = new Date();
+				const timeLeft = Math.floor((resetTime - now) / 1000); // Difference in seconds
+				
+				const usageInfo = `
+					It will use your GitHub API allowance which is <span class="highlight">${limit}</span> per hour for unidentified IP addresses and <span class="highlight">5000</span> for authorized GitHub token holders. 
+					<br>
+					You have <span class="highlight">${remaining}</span> requests remaining. 
+					<br>
+					Next Reset Time (UTC): <span class="highlight">${resetTime.toLocaleString('en-GB', { timeZone: 'UTC' })}</span>
+					<br>
+					Next Github API allowance: <span class="highlight">${timeLeft > 0 ? timeLeft : 0}</span> seconds from ${now}
+					<br>
+					It is designed to prevent you spamming past your limit.
+					<br>
+					👾 Soft Monster 👾 <span id="currentTime"></span>
+					<br>
+					If you don't know what GitHub API usage is, it is unlikely you need extra in the next hour.
+					<p>
+						You can learn about GitHub API usage from the official documentation:
+						<a href="https://docs.github.com/en/rest" target="_blank">GitHub REST API Documentation</a>
+					</p>					
+				`;
+				
+				document.getElementById('usageInfo').innerHTML = usageInfo;
+				
+                // If remaining requests are zero display warning.
+                if (remaining === 0) {
+                    displayApiError(`GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.`);
+                }				
+			} catch (error) {
+				document.getElementById('usageInfo').innerHTML = 'Error fetching GitHub API usage data. Please try again later.';
+				console.error('Error:', error);
+			}
+		}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+        // Fetch the usage data on page load
+        fetchUsageData();
+        setInterval(fetchUsageData, 60000);
     </script>
 </body>
 </html>
