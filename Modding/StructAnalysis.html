@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KeeperRL Struct Extractor from GitHub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        #result {
+            white-space: pre-wrap;
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ddd;
+            margin-top: 10px;
+            height: 300px;
+            overflow-y: scroll;
+        }
+        .progress-container {
+            margin-top: 10px;
+        }
+        .progress-bar {
+            width: 100%;
+            background-color: #f3f3f3;
+        }
+        .progress {
+            width: 0;
+            height: 20px;
+            background-color: #4caf50;
+            text-align: center;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>C++ Struct Extractor from GitHub</h1>
+    <p>Enter a GitHub repository URL (e.g., https://github.com/username/repo):</p>
+    <input type="text" id="repoInput" value="https://github.com/miki151/keeperrl" size="50">
+    <button onclick="extractStructsFromRepo()">Extract Structs</button>
+
+    <h2>Current Process:</h2>
+    <p id="statusLabel">Waiting for input...</p>
+
+    <h2>File Iteration Progress:</h2>
+    <div class="progress-container">
+        <div class="progress-bar">
+            <div id="fileProgress" class="progress"></div>
+        </div>
+    </div>
+
+    <h2>Extracted Structs:</h2>
+    <div id="result"></div>
+
+    <script>
+        async function extractStructsFromRepo() {
+            const repoUrl = document.getElementById('repoInput').value;
+            const resultDiv = document.getElementById('result');
+            const fileProgress = document.getElementById('fileProgress');
+            const statusLabel = document.getElementById('statusLabel');
+            
+            resultDiv.innerHTML = 'Fetching files from repository...';
+            fileProgress.style.width = '0%';
+            statusLabel.innerHTML = 'Fetching repository contents...';
+
+            try {
+                // Extract owner and repo name from GitHub URL
+                const repoParts = repoUrl.match(/github\.com\/([^/]+)\/([^/]+)/);
+                if (!repoParts) {
+                    throw new Error('Invalid GitHub repository URL');
+                }
+
+                const owner = repoParts[1];
+                const repo = repoParts[2];
+
+                // GitHub API URL for repository content (root directory, master branch)
+                const apiUrl = `https://api.github.com/repos/${owner}/${repo}/contents/`;
+
+                // Fetch the repository contents from GitHub
+                const response = await fetch(apiUrl);
+                if (!response.ok) {
+                    throw new Error('Error fetching repository contents from GitHub');
+                }
+
+                const files = await response.json();
+                const sourceFiles = files.filter(file => file.type === 'file' && (file.name.endsWith('.h') || file.name.endsWith('.cpp')));
+                const totalFiles = sourceFiles.length;
+
+                if (totalFiles === 0) {
+                    resultDiv.innerHTML = 'No .h or .cpp files found in the repository.';
+                    statusLabel.innerHTML = 'No files found.';
+                    return;
+                }
+
+                let fileIndex = 0;
+
+                // Iterate over each source file and process .h or .cpp files
+                for (const file of sourceFiles) {
+                    // Update the file iteration progress bar
+                    fileIndex++;
+                    const fileProgressPercent = (fileIndex / totalFiles) * 100;
+                    fileProgress.style.width = `${fileProgressPercent}%`;
+                    fileProgress.innerText = `${Math.round(fileProgressPercent)}%`;
+
+                    statusLabel.innerHTML = `Processing file: ${file.name} (${fileIndex}/${totalFiles})`;
+
+                    const rawUrl = file.download_url;
+                    const fileResponse = await fetch(rawUrl);
+                    const fileContent = await fileResponse.text();
+
+                    // Remove comments from the file content
+                    let cleanedContent = fileContent.replace(/\/\/.*|\/\*[^]*?\*\//g, '');
+
+                    // Normalize the file content by replacing all whitespace with a single space
+                    const normalizedContent = cleanedContent.replace(/\s+/g, ' ');
+
+                    // Extract structs from each file and update the output
+                    extractAndDisplayStructs(normalizedContent, file.name);
+                }
+
+                statusLabel.innerHTML = 'Processing complete.';
+                fileProgress.style.width = '100%';
+                fileProgress.innerText = '100%';
+            } catch (error) {
+                resultDiv.innerHTML = `Error: ${error.message}`;
+                statusLabel.innerHTML = 'Error occurred.';
+            }
+        }
+
+function extractAndDisplayStructs(sourceCode, fileName) {
+    const resultDiv = document.getElementById('result');
+    const structs = sourceCode.split('struct'); // Split the source into structs
+    let output = '';
+
+    // Iterate through each struct definition
+    structs.forEach(struct => {
+        if (struct.trim()) { // Check if not empty
+            const structNameMatch = struct.match(/(\w+)\s*\{/); // Match struct name
+            if (structNameMatch) {
+                const structName = structNameMatch[1].trim();
+                const membersOutput = [];
+                let serializeLine = '';
+
+                // Split the struct body into lines for easier processing
+                const lines = struct.split(';');
+                lines.forEach(line => {
+                    const trimmedLine = line.trim();
+                    if (trimmedLine.startsWith('SERIALIZE_ALL')) {
+                        serializeLine = trimmedLine; // Capture the SERIALIZE_ALL line
+                    } else if (trimmedLine.includes('SERIAL')) {
+                        membersOutput.push(trimmedLine); // Collect member definitions
+                    }
+                });
+
+				// Create the usage section based on the SERIALIZE_ALL line
+				let usageSection = serializeLine.replace('SERIALIZE_ALL(', `${structName} `); // Replace SERIALIZE_ALL with structName
+				usageSection = usageSection
+					.replace(/\s+/g, ' ') // Remove any whitespace
+					.replace(/,/g, ' ') // Replace commas with spaces
+					.replace(/\);/g, '') // Remove any ); occurrences
+					.replace(/NAMED\(/g, '{') // Replace NAMED( with {
+					.replace(/OPTION\(/g, '{') // Replace OPTION( with {
+					.replace(/SKIP\(/g, '{') // Replace SKIP( with {
+					.replace(/\)/g, '}') // Replace ) with }
+					.slice(0, -3); // Remove the last 3 characters
+
+                // Only add if it's not just whitespace
+                const formattedUsage = usageSection.trim();
+                if (formattedUsage) {
+                    output += `File: ${fileName}\nStruct Name: ${structName}\nMembers:\n${membersOutput.join('\n')}\n${serializeLine}\n\nMod File Usage:\n${formattedUsage}\n\n`;
+                }
+            }
+        }
+    });
+
+    resultDiv.innerHTML += output; // Append to result div
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </script>
+</body>
+</html>
