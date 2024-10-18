@@ -132,7 +132,7 @@
                     const normalizedContent = cleanedContent.replace(/\s+/g, ' ');
 
                     // Extract structs from each file and update the output
-                    extractAndDisplayStructs(normalizedContent, file.name);
+                    extractAndDisplayStructs(normalizedContent, file.name, rawUrl);
                 }
 
                 statusLabel.innerHTML = 'Processing complete.';
@@ -144,7 +144,7 @@
             }
         }
 
-function extractAndDisplayStructs(sourceCode, fileName) {
+function extractAndDisplayStructs(sourceCode, fileName, rawUrl) {
     const resultDiv = document.getElementById('result');
     const structs = sourceCode.split('struct'); // Split the source into structs
     let output = '';
@@ -235,7 +235,7 @@ function extractAndDisplayStructs(sourceCode, fileName) {
 
                     // Append a new line with the modified typeReplacedUsageSection to the output
                     if (usageSection.trim()) {
-                        output += `${usageSection.trim()}\n<details>File: ${fileName.trim()}
+                        output += `${usageSection.trim()}\n<details>File: <a target="_blank" href=${rawUrl}>${fileName.trim()}</a>
 Struct Name: ${structName.trim()}
 Syntax showing data types: ${typeReplacedUsageSection.trim()}
 ${membersOutput.join('\n')}
