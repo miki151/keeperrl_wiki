@@ -7,15 +7,19 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
         }		
+        h1, p, h2 {
+            margin: 0.5em 0;
+        }
         #result {
             white-space: pre-wrap;
             background-color: #f4f4f4;
-            padding: 10px;
             border: 1px solid #ddd;
             margin-top: 10px;
             height: 300px;
-            overflow-y: scroll;
+            overflow-y: auto;
         }
         .progress-container {
             margin-top: 10px;
@@ -37,9 +41,8 @@
     <h1>C++ Struct Extractor from GitHub</h1>
 	<h3 style="text-align: center;">
 		In C++, a struct is a custom data type that lets you group different kinds of variables together under one name, even if they have different types. It's used to organize related data into one unit. We care about structs when modding KeeperRL because they are often populated by the mod files we write. This web
-		page accesses github and tries to analyse how the structs in Michal's KeeperRL source code might be
-		populated should they require population when writing the mod files. It is sort of half successful as
-		a project and has clearly gone wrong in places, but it may help you understand better how to mod Keeper.
+		page accesses GitHub and tries to analyse how the structs in Michal's KeeperRL source code might be
+		populated should they require population when writing the mod files.
 	</h3>
 	<div class="usage-info" id="usageInfo">
 		Checking GitHub API usage...
@@ -68,7 +71,7 @@
             const fileProgress = document.getElementById('fileProgress');
             const statusLabel = document.getElementById('statusLabel');
             
-            resultDiv.innerHTML = 'Fetching files from repository...';
+            resultDiv.innerHTML = '';
             fileProgress.style.width = '0%';
             statusLabel.innerHTML = 'Fetching repository contents...';
 
@@ -144,8 +147,11 @@ function extractAndDisplayStructs(sourceCode, fileName) {
     // Iterate through each struct definition
     structs.forEach(struct => {
         if (struct.trim()) { // Check if not empty
-            const structNameMatch = struct.match(/(\w+)\s*\{/); // Match struct name
+			// Replace specified keywords in the struct
+            const structNameMatch = struct.match(/^\s*(\w+)/); // Match the first word // Match struct name
             if (structNameMatch) {
+
+
                 const structName = structNameMatch[1].trim();
                 const membersOutput = [];
                 let serializeLine = '';
@@ -161,29 +167,32 @@ function extractAndDisplayStructs(sourceCode, fileName) {
                     }
                 });
 
-				// Create the usage section based on the SERIALIZE_ALL line
-				let usageSection = serializeLine.replace('SERIALIZE_ALL(', `<b>${structName}</b> `); // Replace SERIALIZE_ALL with structName
-				usageSection = usageSection
-					.replace(/\s+/g, ' ') // Remove any whitespace
-					.replace(/,/g, ' ') // Replace commas with spaces
-					.replace(/\);/g, '') // Remove any ); occurrences
-					.replace(/NAMED\(/g, '{') // Replace NAMED( with {
-					.replace(/OPTION\(/g, '{') // Replace OPTION( with {
-					.replace(/SKIP\(/g, '{') // Replace SKIP( with {
-					.replace(/\)/g, '}') // Replace ) with }
-					.replace('SUBCLASS(GenericModifierEffect}','effect')
-					.replace('} ITEM_TYPE_INTERF','')
-					.slice(0, -3); // Remove the last 3 characters
-					
-                if (output.includes('roundBracket{)')) {
-                    output = output.replace(/withRoundBracket\{\)/g, '('); // Replace roundBracket{ with (
-                    output += ')'; // Ensure the output ends with )
-                }
+                // If no members or SERIALIZE_ALL line, skip this struct
+                if (serializeLine || membersOutput.length > 0) {
+                    // Create the usage section based on the SERIALIZE_ALL line
+                    let usageSection = serializeLine.replace('SERIALIZE_ALL(', `<b>${structName}</b> `); // Replace SERIALIZE_ALL with structName
+                    usageSection = usageSection
+                        .replace(/\s+/g, ' ') // Remove any whitespace
+                        .replace(/,/g, ' ') // Replace commas with spaces
+                        .replace(/\);/g, '') // Remove any ); occurrences
+                        .replace(/NAMED\(/g, '{') // Replace NAMED( with {
+                        .replace(/OPTION\(/g, '{') // Replace OPTION( with {
+                        .replace(/SKIP\(/g, '{') // Replace SKIP( with {
+                        .replace(/\)/g, '}') // Replace ) with }
+                        .replace('} ITEM_TYPE_INTERF', '') // Remove unwanted parts
+						.replace('SUBCLASS(Summon}','{summon}')
+						.replace('SUBCLASS(GenericModifierEffect}','{effect}')
+                        .replace('  ', ' ') // Replace double spaces
+                        .slice(0, -3); // Remove the last 3 characters
 
-                // Only add if it's not just whitespace
-                const formattedUsage = usageSection.trim();
-                if (formattedUsage) {
-                    output += `File: ${fileName}\nStruct Name: ${structName}\nMembers:\n${membersOutput.join('\n')}\n${serializeLine}\n\nMod File Usage:\n${formattedUsage}\n\n`;
+					if (usageSection.trim()) {
+						// Format output with expandable details
+						output += `${usageSection.trim()}<details>File: ${fileName.trim()}
+Struct Name: ${structName.trim()}
+${membersOutput.join('\n')}
+${serializeLine.trim()}
+</details><br/>`;
+					}
                 }
             }
         }
@@ -192,62 +201,38 @@ function extractAndDisplayStructs(sourceCode, fileName) {
     resultDiv.innerHTML += output; // Append to result div
 }
 
-
 		// Function to fetch GitHub API usage data
 		async function fetchUsageData() {
 			try {
 				const response = await fetch('https://api.github.com/rate_limit');
 				const data = await response.json();
-
 				const limit = data.rate.limit;
 				const remaining = data.rate.remaining;
-				const resetTime = new Date(data.rate.reset * 1000); // Keep as Date object
-
-				// Format reset time for local time zone
-				const resetTimeFormatted = new Intl.DateTimeFormat(navigator.language, {
-					dateStyle: 'medium',
-					timeStyle: 'medium',
-				}).format(resetTime);
+				const resetTime = new Date(data.rate.reset * 1000);
 				
 				// Calculate time left in seconds
 				const now = new Date();
 				const timeLeft = Math.floor((resetTime - now) / 1000); // Difference in seconds
 				
-				const usageInfo = `
-					It will use your GitHub API allowance which is <span class="highlight">${limit}</span> per hour for unidentified IP addresses and <span class="highlight">5000</span> for authorized GitHub token holders. 
-					<br>
-					You have <span class="highlight">${remaining}</span> requests remaining. 
-					<br>
-					Next Reset Time (UTC): <span class="highlight">${resetTime.toLocaleString('en-GB', { timeZone: 'UTC' })}</span>
-					<br>
-					Next Github API allowance: <span class="highlight">${timeLeft > 0 ? timeLeft : 0}</span> seconds from ${now}
-					<br>
-					It is designed to prevent you spamming past your limit.
-					<br>
-					👾 Soft Monster 👾 <span id="currentTime"></span>
-					<br>
-					If you don't know what GitHub API usage is, it is unlikely you need extra in the next hour.
-					<p>
-						You can learn about GitHub API usage from the official documentation:
-						<a href="https://docs.github.com/en/rest" target="_blank">GitHub REST API Documentation</a>
-					</p>					
-				`;
-				
-				document.getElementById('usageInfo').innerHTML = usageInfo;
-				
-                // If remaining requests are zero display warning.
-                if (remaining === 0) {
-                    displayApiError(`GitHub API rate limit exceeded. Please wait and try again after <strong>Next Reset Time (UTC):</strong> ${resetTime}.`);
-                }				
+					// Only show usage information if relevant
+				if (remaining < limit) {
+					const usageInfo = `
+						You have <span class="highlight">${remaining}</span> requests remaining from <span class="highlight">${limit}</span>.
+						<br>Next Reset Time (UTC): <span class="highlight">${resetTime.toLocaleString('en-GB', { timeZone: 'UTC' })}</span>
+					`;
+					document.getElementById('usageInfo').innerHTML = usageInfo;
+				} else {
+					document.getElementById('usageInfo').innerHTML = '';
+				}
 			} catch (error) {
-				document.getElementById('usageInfo').innerHTML = 'Error fetching GitHub API usage data. Please try again later.';
+				document.getElementById('usageInfo').innerHTML = 'Error fetching GitHub API usage data.';
 				console.error('Error:', error);
 			}
 		}
 
-        // Fetch the usage data on page load
-        fetchUsageData();
-        setInterval(fetchUsageData, 60000);
+		// Fetch the usage data on page load
+		fetchUsageData();
+		setInterval(fetchUsageData, 60000);
     </script>
 </body>
 </html>
