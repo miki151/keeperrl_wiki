@@ -1,5 +1,5 @@
 ---
-title: Modding_Using_Chat_GPT
+title: Modding Using Chat GPT
 permalink: Modding_Using_Chat_GPT/
 layout: wiki
 ---
@@ -43,5 +43,7 @@ Conclsuion:
 
 Hasn't quite got the hang of writing spell effects yet
 
+[MainPage](/keeperrl_wiki/ "wikilink")
 
 [MainPage](/keeperrl_wiki/ "wikilink")
+
