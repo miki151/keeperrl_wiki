@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Modder Profile</title>
   <style>
     body {
@@ -16,7 +16,7 @@
       background-color: #fff;
       padding: 20px;
       border-radius: 8px;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     }
     .btn {
       background-color: #24292e;
@@ -30,9 +30,7 @@
     .btn:hover {
       background-color: #444;
     }
-    .hidden {
-      display: none;
-    }
+    .hidden { display: none; }
     .profile-picture {
       width: 150px;
       height: 150px;
@@ -44,118 +42,111 @@
 <body>
   <div class="container">
     <h1>Modder Profile</h1>
+
     <div id="userInputSection">
       <label for="githubUsername">Enter your GitHub Username:</label>
       <input type="text" id="githubUsername" placeholder="e.g., softmonster">
       <br><br>
-      <button class="btn" onclick="generateModderProfile()">Generate Profile</button>
+      <button class="btn" id="generateProfileBtn" onclick="generateModderProfile()">Generate Profile</button>
     </div>
+
     <div id="modderProfileSection" class="hidden">
       <h2>Welcome, <span id="username">user</span>!</h2>
       <img id="profilePic" class="profile-picture" src="" alt="Profile Picture">
-      <p id="bio">Check later</p>
+      <p id="bio"></p>
 
       <h3>KeeperRL Community Activity</h3>
-      <ul>
-        <li>
-          <span id="repo1Name">keeperrl_wiki</span> - <span id="repo1Desc">Check later</span>
-          <br>
-          <a href="#" target="_blank" id="keeperrlWikiCommits">Commits</a> (<span id="wikiCommitCount">Check later</span>) |
-          <a href="#" target="_blank" id="keeperrlWikiIssues">Issues</a> (<span id="wikiIssueCount">Check later</span>) |
-          <a href="#" target="_blank" id="keeperrlWikiPRs">PRs</a> (<span id="wikiPRCount">Check later</span>)
-        </li>
-        <li>
-          <span id="repo2Name">keeperrl</span> - <span id="repo2Desc">Check later</span>
-          <br>
-          <a href="#" target="_blank" id="keeperrlCommits">Commits</a> (<span id="keeperrlCommitCount">Check later</span>) |
-          <a href="#" target="_blank" id="keeperrlIssues">Issues</a> (<span id="keeperrlIssueCount">Check later</span>) |
-          <a href="#" target="_blank" id="keeperrlPRs">PRs</a> (<span id="keeperrlPRCount">Check later</span>)
-        </li>
-        <li>
-          <span id="repo3Name">KeeperRLCommunityResources</span> - <span id="repo3Desc">Check later</span>
-          <br>
-          <a href="#" target="_blank" id="communityResourcesCommits">Commits</a> (<span id="resourcesCommitCount">Check later</span>) |
-          <a href="#" target="_blank" id="communityResourcesIssues">Issues</a> (<span id="resourcesIssueCount">Check later</span>) |
-          <a href="#" target="_blank" id="communityResourcesPRs">PRs</a> (<span id="resourcesPRCount">Check later</span>)
-        </li>
+      <ul id="activityList">
+        <li><a href="" target="_blank" id="keeperrlWikiCommits">keeperrl_wiki commits</a> (<span id="keeperrlWikiCommitsCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="keeperrlCommits">keeperrl commits</a> (<span id="keeperrlCommitsCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="communityResourcesCommits">Community Resources commits</a> (<span id="communityResourcesCommitsCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="keeperrlWikiIssues">keeperrl_wiki issues</a> (<span id="keeperrlWikiIssuesCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="keeperrlIssues">keeperrl issues</a> (<span id="keeperrlIssuesCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="communityResourcesIssues">Community Resources issues</a> (<span id="communityResourcesIssuesCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="keeperrlWikiPRs">keeperrl_wiki PRs</a> (<span id="keeperrlWikiPRsCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="keeperrlPRs">keeperrl PRs</a> (<span id="keeperrlPRsCount">Check later</span>)</li>
+        <li><a href="" target="_blank" id="communityResourcesPRs">Community Resources PRs</a> (<span id="communityResourcesPRsCount">Check later</span>)</li>
       </ul>
 
       <h3>Other Public Projects</h3>
       <div id="repos">
-        <p>Loading repositories...</p>
+        <p>Check later</p>
       </div>
 
       <button class="btn" onclick="downloadProfile()">Download Profile as HTML</button>
     </div>
   </div>
+
   <script>
     async function generateModderProfile() {
-      const username = document.getElementById("githubUsername").value;
+      const username = document.getElementById('githubUsername').value.trim();
       if (!username) return alert("Please enter a valid GitHub username.");
 
-      document.getElementById("userInputSection").classList.add("hidden");
-      document.getElementById("modderProfileSection").classList.remove("hidden");
-      document.getElementById("username").textContent = username;
+      const defaultMessage = 'Check later';
+      const repoMap = {
+        'keeperrl_wiki': 'keeperrlWiki',
+        'keeperrl': 'keeperrl',
+        'KeeperRLCommunityResources': 'communityResources'
+      };
 
-      const repoData = [
-        {
-          name: "keeperrl_wiki",
-          id: "Wiki"
-        },
-        {
-          name: "keeperrl",
-          id: "Keeperrl"
-        },
-        {
-          name: "KeeperRLCommunityResources",
-          id: "Resources"
-        }
-      ];
+      document.getElementById('userInputSection').classList.add('hidden');
+      document.getElementById('modderProfileSection').classList.remove('hidden');
+      document.getElementById('username').textContent = username;
 
       try {
-        const profileRes = await fetch(`https://api.github.com/users/${username}`);
-        const profile = await profileRes.json();
-        if (profile.message === "Not Found") return alert("User not found");
-        document.getElementById("profilePic").src = profile.avatar_url;
-        document.getElementById("bio").textContent = profile.bio || "No bio available.";
-      } catch (err) {
-        document.getElementById("bio").textContent = "Check later";
+        const userRes = await fetch(`https://api.github.com/users/${username}`);
+        if (!userRes.ok) throw new Error();
+        const userData = await userRes.json();
+        document.getElementById('profilePic').src = userData.avatar_url || '';
+        document.getElementById('bio').textContent = userData.bio || defaultMessage;
+      } catch {
+        document.getElementById('profilePic').src = '';
+        document.getElementById('bio').textContent = defaultMessage;
       }
 
-      for (let { name, id } of repoData) {
-        try {
-          const repoRes = await fetch(`https://api.github.com/repos/miki151/${name}`);
-          const repo = await repoRes.json();
-          document.getElementById(`repo${repoData.indexOf(repoData.find(r => r.name === name)) + 1}Name`).textContent = repo.name;
-          document.getElementById(`repo${repoData.indexOf(repoData.find(r => r.name === name)) + 1}Desc`).textContent = repo.description || 'No description.';
-        } catch (e) {
-          document.getElementById(`repo${repoData.indexOf(repoData.find(r => r.name === name)) + 1}Desc`).textContent = 'Check later';
-        }
+      for (const [repo, idPrefix] of Object.entries(repoMap)) {
+        const commitsUrl = `https://github.com/miki151/${repo}/commits?author=${username}`;
+        const issuesUrl = `https://github.com/miki151/${repo}/issues?q=author:${username}`;
+        const prsUrl = `https://github.com/miki151/${repo}/pulls?q=author:${username}`;
 
-        const base = `https://github.com/miki151/${name}`;
-        document.getElementById(`${name.replace(/_/g, '')}Commits`).href = `${base}/commits?author=${username}`;
-        document.getElementById(`${name.replace(/_/g, '')}Issues`).href = `https://github.com/miki151/${name}/issues?q=author:${username}`;
-        document.getElementById(`${name.replace(/_/g, '')}PRs`).href = `https://github.com/miki151/${name}/pulls?q=author:${username}`;
+        document.getElementById(`${idPrefix}Commits`).href = commitsUrl;
+        document.getElementById(`${idPrefix}Issues`).href = issuesUrl;
+        document.getElementById(`${idPrefix}PRs`).href = prsUrl;
+
+        try {
+          const commits = await fetch(`https://api.github.com/repos/miki151/${repo}/commits?author=${username}`);
+          const commitsData = await commits.json();
+          document.getElementById(`${idPrefix}CommitsCount`).textContent = Array.isArray(commitsData) ? commitsData.length : defaultMessage;
+        } catch { document.getElementById(`${idPrefix}CommitsCount`).textContent = defaultMessage; }
+
+        try {
+          const issues = await fetch(`https://api.github.com/repos/miki151/${repo}/issues?creator=${username}`);
+          const issuesData = await issues.json();
+          document.getElementById(`${idPrefix}IssuesCount`).textContent = Array.isArray(issuesData) ? issuesData.length : defaultMessage;
+        } catch { document.getElementById(`${idPrefix}IssuesCount`).textContent = defaultMessage; }
+
+        try {
+          const prs = await fetch(`https://api.github.com/repos/miki151/${repo}/pulls?creator=${username}`);
+          const prsData = await prs.json();
+          document.getElementById(`${idPrefix}PRsCount`).textContent = Array.isArray(prsData) ? prsData.length : defaultMessage;
+        } catch { document.getElementById(`${idPrefix}PRsCount`).textContent = defaultMessage; }
       }
 
       try {
         const reposRes = await fetch(`https://api.github.com/users/${username}/repos`);
-        const repos = await reposRes.json();
-        if (Array.isArray(repos)) {
-          const repoList = repos.map(repo => `<li><a href="${repo.html_url}" target="_blank">${repo.name}</a> - ${repo.description || "No description"}</li>`).join('');
-          document.getElementById("repos").innerHTML = `<ul>${repoList}</ul>`;
-        } else {
-          document.getElementById("repos").innerHTML = `<p>Check later</p>`;
+        const reposData = await reposRes.json();
+        if (Array.isArray(reposData) && reposData.length > 0) {
+          document.getElementById('repos').innerHTML = `<ul>${reposData.map(r => `<li><a href="${r.html_url}" target="_blank">${r.name}</a> - ${r.description || 'No description'}</li>`).join('')}</ul>`;
         }
       } catch {
-        document.getElementById("repos").innerHTML = `<p>Check later</p>`;
+        document.getElementById('repos').innerHTML = '<p>Check later</p>';
       }
     }
 
     function downloadProfile() {
       const username = document.getElementById('githubUsername').value || 'modder';
-      const htmlContent = document.documentElement.outerHTML;
-      const blob = new Blob([htmlContent], { type: 'text/html' });
+      const html = document.documentElement.outerHTML;
+      const blob = new Blob([html], { type: 'text/html' });
       const a = document.createElement('a');
       a.href = URL.createObjectURL(blob);
       a.download = `${username}_modder_profile.html`;
