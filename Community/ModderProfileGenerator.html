@@ -161,13 +161,13 @@
       updateLink('keeperrlCommits', 'keeperrl', 'commits');
       updateLink('communityResourcesCommits', 'community', 'commits');
 
-      updateLink('keeperrlWikiIssues', 'keeperrl_wiki', 'issues?q=author');
-      updateLink('keeperrlIssues', 'keeperrl', 'issues?q=author');
-      updateLink('communityResourcesIssues', 'community', 'issues?q=author');
+      updateLink('keeperrlWikiIssues', 'keeperrl_wiki', 'issues');
+      updateLink('keeperrlIssues', 'keeperrl', 'issues');
+      updateLink('communityResourcesIssues', 'community', 'issues');
 
-      updateLink('keeperrlWikiPRs', 'keeperrl_wiki', 'pulls?q=author');
-      updateLink('keeperrlPRs', 'keeperrl', 'pulls?q=author');
-      updateLink('communityResourcesPRs', 'community', 'pulls?q=author');
+      updateLink('keeperrlWikiPRs', 'keeperrl_wiki', 'pulls');
+      updateLink('keeperrlPRs', 'keeperrl', 'pulls');
+      updateLink('communityResourcesPRs', 'community', 'pulls');
 
       fetch(`https://api.github.com/users/${username}`)
         .then(res => res.ok ? res.json() : Promise.reject())
