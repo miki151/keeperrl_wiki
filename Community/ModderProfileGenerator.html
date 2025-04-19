@@ -119,11 +119,7 @@
 
       <div id="activitySection">
         <h3 class="section-header">KeeperRL Community Activity</h3>
-        <ul id="activityList">
-          <li><a href="" target="_blank" id="keeperrlWikiCommits">keeperrl_wiki commits</a></li>
-          <li><a href="" target="_blank" id="keeperrlCommits">keeperrl commits</a></li>
-          <li><a href="" target="_blank" id="communityResourcesCommits">Community Resources commits</a></li>
-        </ul>
+        <ul id="activityList"></ul>
         <label><input type="checkbox" id="toggleActivity" checked> Include Activity</label>
       </div>
 
@@ -149,12 +145,6 @@
       if (!username) return alert("Please enter a valid GitHub username.");
 
       const defaultMessage = 'Check later';
-      const repoMap = {
-        'keeperrl_wiki': 'keeperrlWiki',
-        'keeperrl': 'keeperrl',
-        'KeeperRLCommunityResources': 'communityResources'
-      };
-
       document.getElementById('userInputSection').classList.add('hidden');
       document.getElementById('modderProfileSection').classList.remove('hidden');
       document.getElementById('username').textContent = username;
@@ -163,7 +153,21 @@
       const githubReposLink = `https://github.com/${username}?tab=repositories`;
       document.getElementById('githubReposLink').href = githubReposLink;
 
-      // Fetch basic user data (Avatar, Bio)
+      // Update KeeperRL Activity Links
+      const activityList = document.getElementById('activityList');
+      activityList.innerHTML = `
+        <li><a href="https://github.com/miki151/keeperrl_wiki/commits?author=${username}" target="_blank">keeperrl_wiki commits</a></li>
+        <li><a href="https://github.com/miki151/keeperrl/commits?author=${username}" target="_blank">keeperrl commits</a></li>
+        <li><a href="https://github.com/miki151/KeeperRLCommunityResources/commits?author=${username}" target="_blank">Community Resources commits</a></li>
+        <li><a href="https://github.com/miki151/keeperrl_wiki/issues?q=author:${username}" target="_blank">keeperrl_wiki issues</a></li>
+        <li><a href="https://github.com/miki151/keeperrl/issues?q=author:${username}" target="_blank">keeperrl issues</a></li>
+        <li><a href="https://github.com/miki151/KeeperRLCommunityResources/issues?q=author:${username}" target="_blank">Community Resources issues</a></li>
+        <li><a href="https://github.com/miki151/keeperrl_wiki/pulls?q=author:${username}" target="_blank">keeperrl_wiki PRs</a></li>
+        <li><a href="https://github.com/miki151/keeperrl/pulls?q=author:${username}" target="_blank">keeperrl PRs</a></li>
+        <li><a href="https://github.com/miki151/KeeperRLCommunityResources/pulls?q=author:${username}" target="_blank">Community Resources PRs</a></li>
+      `;
+
+      // Fetch user data (avatar + bio)
       try {
         const userRes = await fetch(`https://api.github.com/users/${username}`);
         if (!userRes.ok) throw new Error();
@@ -173,17 +177,6 @@
       } catch {
         document.getElementById('profilePic').src = '';
         document.getElementById('bio').textContent = defaultMessage;
-      }
-
-      // Fetch user repos (public repositories)
-      try {
-        const reposRes = await fetch(`https://api.github.com/users/${username}/repos`);
-        const reposData = await reposRes.json();
-        if (Array.isArray(reposData) && reposData.length > 0) {
-          document.getElementById('repos').innerHTML = `<ul>${reposData.map(r => `<li><a href="${r.html_url}" target="_blank">${r.name}</a> - ${r.description || 'No description'}</li>`).join('')}</ul>`;
-        }
-      } catch {
-        document.getElementById('repos').innerHTML = '<p>Check later</p>';
       }
     }
 
@@ -196,19 +189,16 @@
 
     function editBio() {
       const newBio = document.getElementById('editBio').value;
-      document.getElementById('bio').innerHTML = newBio || 'Default bio text from GitHub.';  // Allow HTML content
+      document.getElementById('bio').innerHTML = newBio || 'Default bio text from GitHub.';
     }
 
-    // Function to remove checkboxes, textboxes, buttons, labels starting with "Include", dropdown lists, and the specific label to remove
     function cleanHtmlForDownload() {
-      // Remove checkboxes, textboxes, and buttons
       const elementsToRemove = ['input[type="checkbox"]', 'input[type="text"]', 'textarea', 'button', 'select'];
       elementsToRemove.forEach(selector => {
         const elements = document.querySelectorAll(selector);
         elements.forEach(el => el.remove());
       });
 
-      // Remove labels that start with "Include"
       const labels = document.querySelectorAll('label');
       labels.forEach(label => {
         if (label.textContent.trim().startsWith('Include')) {
@@ -216,50 +206,75 @@
         }
       });
 
-      // Remove the label "Select Profile Background Color"
       const backgroundLabel = document.querySelector('label[for="backgroundColorSelect"]');
       if (backgroundLabel) backgroundLabel.remove();
     }
 
-    function downloadProfile() {
-      const username = document.getElementById('githubUsername').value || 'modder';
+function downloadProfile() {
+  const username = document.getElementById('githubUsername').value || 'modder';
 
-      // Clean HTML content by removing unwanted elements before download
-      cleanHtmlForDownload();
+  // Clone the full document
+  const docClone = document.documentElement.cloneNode(true);
 
-      let profileHtml = document.documentElement.outerHTML;
+  // Clean cloned DOM instead of live DOM
+  const cleanClone = (cloneRoot) => {
+    const selectorsToRemove = [
+      'input[type="checkbox"]',
+      'input[type="text"]',
+      'textarea',
+      'button',
+      'select'
+    ];
+    selectorsToRemove.forEach(selector => {
+      cloneRoot.querySelectorAll(selector).forEach(el => el.remove());
+    });
 
-      // Handle inclusion of each section based on user input
-      const sectionsToInclude = {
-        profilePic: document.getElementById('toggleProfilePic').checked,
-        bio: document.getElementById('toggleBio').checked,
-        activity: document.getElementById('toggleActivity').checked,
-        githubRepos: document.getElementById('toggleGithubRepos').checked
-      };
-
-      // Remove sections if not selected
-      if (!sectionsToInclude.profilePic) {
-        profileHtml = profileHtml.replace('<div id="profilePicSection">', '<div id="profilePicSection" class="hidden">');
+    cloneRoot.querySelectorAll('label').forEach(label => {
+      if (label.textContent.trim().startsWith('Include') ||
+          label.htmlFor === 'backgroundColorSelect') {
+        label.remove();
       }
+    });
 
-      if (!sectionsToInclude.bio) {
-        profileHtml = profileHtml.replace('<div id="bioSection">', '<div id="bioSection" class="hidden">');
-      }
+    const sectionRules = {
+      profilePic: document.getElementById('toggleProfilePic').checked,
+      bio: document.getElementById('toggleBio').checked,
+      activity: document.getElementById('toggleActivity').checked,
+      githubRepos: document.getElementById('toggleGithubRepos').checked
+    };
 
-      if (!sectionsToInclude.activity) {
-        profileHtml = profileHtml.replace('<div id="activitySection">', '<div id="activitySection" class="hidden">');
-      }
-
-      if (!sectionsToInclude.githubRepos) {
-        profileHtml = profileHtml.replace('<div id="githubReposSection">', '<div id="githubReposSection" class="hidden">');
-      }
-
-      const blob = new Blob([profileHtml], { type: 'text/html' });
-      const a = document.createElement('a');
-      a.href = URL.createObjectURL(blob);
-      a.download = `${username}_modder_profile.html`;
-      a.click();
+    if (!sectionRules.profilePic) {
+      const el = cloneRoot.querySelector('#profilePicSection');
+      if (el) el.remove();
     }
+    if (!sectionRules.bio) {
+      const el = cloneRoot.querySelector('#bioSection');
+      if (el) el.remove();
+    }
+    if (!sectionRules.activity) {
+      const el = cloneRoot.querySelector('#activitySection');
+      if (el) el.remove();
+    }
+    if (!sectionRules.githubRepos) {
+      const el = cloneRoot.querySelector('#githubReposSection');
+      if (el) el.remove();
+    }
+  };
+
+  cleanClone(docClone);
+
+  const docType = '<!DOCTYPE html>';
+  const fullHtml = docType + '\n' + docClone.outerHTML;
+
+  const blob = new Blob([fullHtml], { type: 'text/html' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = `${username}_modder_profile.html`;
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+}
+
   </script>
 </body>
 </html>
