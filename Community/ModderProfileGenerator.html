@@ -7,9 +7,10 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
       padding: 20px;
+      transition: background-color 0.3s, color 0.3s;
     }
+
     .container {
       max-width: 1000px;
       margin: 0 auto;
@@ -18,6 +19,7 @@
       border-radius: 8px;
       box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     }
+
     .btn {
       background-color: #24292e;
       color: white;
@@ -27,21 +29,67 @@
       display: inline-block;
       cursor: pointer;
     }
+
     .btn:hover {
       background-color: #444;
     }
+
     .hidden { display: none; }
+
     .profile-picture {
       width: 150px;
       height: 150px;
       border-radius: 50%;
       object-fit: cover;
     }
+
+    .section-header {
+      margin-top: 20px;
+      font-weight: bold;
+    }
+
+    .editable-input {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+
+    .edit-btn {
+      background-color: #00c853;
+      color: white;
+      border-radius: 5px;
+      padding: 5px 10px;
+      margin-top: 10px;
+    }
+
+    .edit-btn:hover {
+      background-color: #009624;
+    }
+
+    #backgroundColorSelect {
+      margin: 10px 0;
+    }
+
+    #bio {
+      white-space: pre-wrap;
+    }
   </style>
 </head>
 <body>
   <div class="container">
     <h1>Modder Profile</h1>
+
+    <label for="backgroundColorSelect">Select Profile Background Color:</label>
+    <select id="backgroundColorSelect" onchange="changeBackgroundColor()">
+      <option value="white">White</option>
+      <option value="lightgray">Light Gray</option>
+      <option value="darkgray">Dark Gray</option>
+      <option value="lightblue">Light Blue</option>
+      <option value="lightgreen">Light Green</option>
+      <option value="lightcoral">Light Coral</option>
+    </select>
 
     <div id="userInputSection">
       <label for="githubUsername">Enter your GitHub Username:</label>
@@ -52,25 +100,37 @@
 
     <div id="modderProfileSection" class="hidden">
       <h2>Welcome, <span id="username">user</span>!</h2>
-      <img id="profilePic" class="profile-picture" src="" alt="Profile Picture">
-      <p id="bio"></p>
 
-      <h3>KeeperRL Community Activity</h3>
-      <ul id="activityList">
-        <li><a href="" target="_blank" id="keeperrlWikiCommits">keeperrl_wiki commits</a> (<span id="keeperrlWikiCommitsCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="keeperrlCommits">keeperrl commits</a> (<span id="keeperrlCommitsCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="communityResourcesCommits">Community Resources commits</a> (<span id="communityResourcesCommitsCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="keeperrlWikiIssues">keeperrl_wiki issues</a> (<span id="keeperrlWikiIssuesCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="keeperrlIssues">keeperrl issues</a> (<span id="keeperrlIssuesCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="communityResourcesIssues">Community Resources issues</a> (<span id="communityResourcesIssuesCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="keeperrlWikiPRs">keeperrl_wiki PRs</a> (<span id="keeperrlWikiPRsCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="keeperrlPRs">keeperrl PRs</a> (<span id="keeperrlPRsCount">Check later</span>)</li>
-        <li><a href="" target="_blank" id="communityResourcesPRs">Community Resources PRs</a> (<span id="communityResourcesPRsCount">Check later</span>)</li>
-      </ul>
+      <div id="profilePicSection">
+        <h3 class="section-header">Profile Image</h3>
+        <img id="profilePic" class="profile-picture" src="" alt="Profile Picture">
+        <input id="editProfilePic" type="text" class="editable-input" placeholder="Edit Image URL">
+        <button class="edit-btn" onclick="editProfilePic()">Update Image</button>
+        <label><input type="checkbox" id="toggleProfilePic" checked> Include Profile Picture</label>
+      </div>
 
-      <h3>Other Public Projects</h3>
-      <div id="repos">
-        <p>Check later</p>
+      <div id="bioSection">
+        <h3 class="section-header">Bio</h3>
+        <p id="bio">Default bio text from GitHub.</p>
+        <textarea id="editBio" class="editable-input" placeholder="Edit Bio (you can add links like: &lt;a href='http://example.com'&gt;My Website&lt;/a&gt;)"></textarea>
+        <button class="edit-btn" onclick="editBio()">Update Bio</button>
+        <label><input type="checkbox" id="toggleBio" checked> Include Bio</label>
+      </div>
+
+      <div id="activitySection">
+        <h3 class="section-header">KeeperRL Community Activity</h3>
+        <ul id="activityList">
+          <li><a href="" target="_blank" id="keeperrlWikiCommits">keeperrl_wiki commits</a></li>
+          <li><a href="" target="_blank" id="keeperrlCommits">keeperrl commits</a></li>
+          <li><a href="" target="_blank" id="communityResourcesCommits">Community Resources commits</a></li>
+        </ul>
+        <label><input type="checkbox" id="toggleActivity" checked> Include Activity</label>
+      </div>
+
+      <div id="githubReposSection">
+        <h3 class="section-header">GitHub Repositories</h3>
+        <p>Visit my <a id="githubReposLink" href="#" target="_blank">public repositories</a> on GitHub.</p>
+        <label><input type="checkbox" id="toggleGithubRepos" checked> Include GitHub Repositories Link</label>
       </div>
 
       <button class="btn" onclick="downloadProfile()">Download Profile as HTML</button>
@@ -78,6 +138,12 @@
   </div>
 
   <script>
+    function changeBackgroundColor() {
+      const selectedColor = document.getElementById('backgroundColorSelect').value;
+      document.body.style.backgroundColor = selectedColor;
+      document.querySelector('.container').style.backgroundColor = selectedColor;
+    }
+
     async function generateModderProfile() {
       const username = document.getElementById('githubUsername').value.trim();
       if (!username) return alert("Please enter a valid GitHub username.");
@@ -93,6 +159,11 @@
       document.getElementById('modderProfileSection').classList.remove('hidden');
       document.getElementById('username').textContent = username;
 
+      // Update GitHub Repositories Link
+      const githubReposLink = `https://github.com/${username}?tab=repositories`;
+      document.getElementById('githubReposLink').href = githubReposLink;
+
+      // Fetch basic user data (Avatar, Bio)
       try {
         const userRes = await fetch(`https://api.github.com/users/${username}`);
         if (!userRes.ok) throw new Error();
@@ -104,34 +175,7 @@
         document.getElementById('bio').textContent = defaultMessage;
       }
 
-      for (const [repo, idPrefix] of Object.entries(repoMap)) {
-        const commitsUrl = `https://github.com/miki151/${repo}/commits?author=${username}`;
-        const issuesUrl = `https://github.com/miki151/${repo}/issues?q=author:${username}`;
-        const prsUrl = `https://github.com/miki151/${repo}/pulls?q=author:${username}`;
-
-        document.getElementById(`${idPrefix}Commits`).href = commitsUrl;
-        document.getElementById(`${idPrefix}Issues`).href = issuesUrl;
-        document.getElementById(`${idPrefix}PRs`).href = prsUrl;
-
-        try {
-          const commits = await fetch(`https://api.github.com/repos/miki151/${repo}/commits?author=${username}`);
-          const commitsData = await commits.json();
-          document.getElementById(`${idPrefix}CommitsCount`).textContent = Array.isArray(commitsData) ? commitsData.length : defaultMessage;
-        } catch { document.getElementById(`${idPrefix}CommitsCount`).textContent = defaultMessage; }
-
-        try {
-          const issues = await fetch(`https://api.github.com/repos/miki151/${repo}/issues?creator=${username}`);
-          const issuesData = await issues.json();
-          document.getElementById(`${idPrefix}IssuesCount`).textContent = Array.isArray(issuesData) ? issuesData.length : defaultMessage;
-        } catch { document.getElementById(`${idPrefix}IssuesCount`).textContent = defaultMessage; }
-
-        try {
-          const prs = await fetch(`https://api.github.com/repos/miki151/${repo}/pulls?creator=${username}`);
-          const prsData = await prs.json();
-          document.getElementById(`${idPrefix}PRsCount`).textContent = Array.isArray(prsData) ? prsData.length : defaultMessage;
-        } catch { document.getElementById(`${idPrefix}PRsCount`).textContent = defaultMessage; }
-      }
-
+      // Fetch user repos (public repositories)
       try {
         const reposRes = await fetch(`https://api.github.com/users/${username}/repos`);
         const reposData = await reposRes.json();
@@ -143,10 +187,74 @@
       }
     }
 
+    function editProfilePic() {
+      const newUrl = document.getElementById('editProfilePic').value;
+      if (newUrl) {
+        document.getElementById('profilePic').src = newUrl;
+      }
+    }
+
+    function editBio() {
+      const newBio = document.getElementById('editBio').value;
+      document.getElementById('bio').innerHTML = newBio || 'Default bio text from GitHub.';  // Allow HTML content
+    }
+
+    // Function to remove checkboxes, textboxes, buttons, labels starting with "Include", dropdown lists, and the specific label to remove
+    function cleanHtmlForDownload() {
+      // Remove checkboxes, textboxes, and buttons
+      const elementsToRemove = ['input[type="checkbox"]', 'input[type="text"]', 'textarea', 'button', 'select'];
+      elementsToRemove.forEach(selector => {
+        const elements = document.querySelectorAll(selector);
+        elements.forEach(el => el.remove());
+      });
+
+      // Remove labels that start with "Include"
+      const labels = document.querySelectorAll('label');
+      labels.forEach(label => {
+        if (label.textContent.trim().startsWith('Include')) {
+          label.remove();
+        }
+      });
+
+      // Remove the label "Select Profile Background Color"
+      const backgroundLabel = document.querySelector('label[for="backgroundColorSelect"]');
+      if (backgroundLabel) backgroundLabel.remove();
+    }
+
     function downloadProfile() {
       const username = document.getElementById('githubUsername').value || 'modder';
-      const html = document.documentElement.outerHTML;
-      const blob = new Blob([html], { type: 'text/html' });
+
+      // Clean HTML content by removing unwanted elements before download
+      cleanHtmlForDownload();
+
+      let profileHtml = document.documentElement.outerHTML;
+
+      // Handle inclusion of each section based on user input
+      const sectionsToInclude = {
+        profilePic: document.getElementById('toggleProfilePic').checked,
+        bio: document.getElementById('toggleBio').checked,
+        activity: document.getElementById('toggleActivity').checked,
+        githubRepos: document.getElementById('toggleGithubRepos').checked
+      };
+
+      // Remove sections if not selected
+      if (!sectionsToInclude.profilePic) {
+        profileHtml = profileHtml.replace('<div id="profilePicSection">', '<div id="profilePicSection" class="hidden">');
+      }
+
+      if (!sectionsToInclude.bio) {
+        profileHtml = profileHtml.replace('<div id="bioSection">', '<div id="bioSection" class="hidden">');
+      }
+
+      if (!sectionsToInclude.activity) {
+        profileHtml = profileHtml.replace('<div id="activitySection">', '<div id="activitySection" class="hidden">');
+      }
+
+      if (!sectionsToInclude.githubRepos) {
+        profileHtml = profileHtml.replace('<div id="githubReposSection">', '<div id="githubReposSection" class="hidden">');
+      }
+
+      const blob = new Blob([profileHtml], { type: 'text/html' });
       const a = document.createElement('a');
       a.href = URL.createObjectURL(blob);
       a.download = `${username}_modder_profile.html`;
