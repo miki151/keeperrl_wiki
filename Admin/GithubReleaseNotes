@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GitHub Release Notes Formatter</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-r from-gray-900 via-purple-900 to-gray-900 text-white min-h-screen flex items-center justify-center px-4 py-12">
+
+  <div class="bg-gray-800 p-8 rounded-2xl shadow-2xl w-full max-w-3xl space-y-6">
+    <h1 class="text-3xl font-bold text-center text-purple-300">GitHub Release Notes 📝</h1>
+    <p class="text-gray-400 text-center">Generate release notes from GitHub commit messages</p>
+
+    <div class="space-y-4">
+      <input
+        id="repoInput"
+        type="text"
+        value="miki151/keeperRL"
+        class="w-full p-3 rounded-lg bg-gray-700 placeholder-gray-500 text-white"
+      />
+      <input
+        id="dateInput"
+        type="date"
+        value="2025-01-01"
+        class="w-full p-3 rounded-lg bg-gray-700 text-white"
+      />
+      <button onclick="fetchNotes()" class="w-full bg-purple-600 hover:bg-purple-700 p-3 rounded-lg font-semibold">
+        Fetch Release Notes 🚀
+      </button>
+    </div>
+
+    <div>
+      <textarea id="output" rows="20" readonly class="w-full p-4 rounded-lg bg-gray-900 text-white font-mono resize-y"></textarea>
+    </div>
+  </div>
+
+  <script>
+    async function fetchNotes() {
+      const repo = document.getElementById("repoInput").value.trim();
+      const since = new Date(document.getElementById("dateInput").value);
+      const output = document.getElementById("output");
+      output.value = "Fetching commit messages...";
+
+      if (!repo || isNaN(since.getTime())) {
+        output.value = "❗ Please enter a valid repository and date.";
+        return;
+      }
+
+      const sinceISO = since.toISOString();
+      const untilISO = new Date().toISOString();
+
+      try {
+        const commits = await fetchAllCommits(repo, sinceISO, untilISO);
+
+        if (commits.length === 0) {
+          output.value = "ℹ️ No commits found after the specified date.";
+          return;
+        }
+
+        let notes = `📦 Release Notes for ${repo}\n📅 Since: ${sinceISO.split("T")[0]}\n\n`;
+
+        for (const commit of commits) {
+          const msg = commit.commit.message.split("\n")[0];
+          const emoji = getEmojiForLine(msg);
+          notes += `${emoji} ${msg}\n`;
+        }
+
+        output.value = notes;
+
+      } catch (err) {
+        output.value = `❌ Error: ${err.message}`;
+      }
+    }
+
+    async function fetchAllCommits(repo, since, until) {
+      let page = 1;
+      let allCommits = [];
+      const perPage = 100;
+
+      while (true) {
+        const response = await fetch(`https://api.github.com/repos/${repo}/commits?since=${since}&until=${until}&per_page=${perPage}&page=${page}`);
+        if (!response.ok) throw new Error("GitHub API error (check rate limits or repo name)");
+        const commits = await response.json();
+        allCommits.push(...commits);
+        if (commits.length < perPage) break;
+        page++;
+      }
+
+      return allCommits;
+    }
+
+    function getEmojiForLine(line) {
+      const lower = line.toLowerCase();
+      if (lower.startsWith("feat") || lower.includes("add")) return "✨";
+      if (lower.startsWith("fix") || lower.includes("bug")) return "🐞";
+      if (lower.startsWith("refactor")) return "🛠";
+      if (lower.includes("remove") || lower.includes("delete")) return "❌";
+      if (lower.includes("security")) return "🔐";
+      if (lower.includes("doc") || lower.includes("readme")) return "📚";
+      return "🔸";
+    }
+  </script>
+</body>
+</html>
