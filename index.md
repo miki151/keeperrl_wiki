@@ -35,7 +35,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <iframe
   width="560"
   height="315"
-  src="https://www.youtube.com/embed/-HNtEdsPw7U"
+  src="https://www.youtube.com/watch?v=J-BfFLGzGAo"
   frameborder="0"
   allowfullscreen
 ></iframe>
