@@ -30,7 +30,7 @@ Watch Nookrium speed run the lone cyclops in under 2 and a half hours
 <div style="max-width: 560px; margin: 0 auto;">
   <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe 
-      src="https://www.youtube.com/embed/J-BfFLGzGAo" 
+      src="https://www.youtube.com/embed/uRJXQE9C93w" 
       title="YouTube video player" 
       frameborder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
