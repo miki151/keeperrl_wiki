@@ -31,6 +31,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <hr>
 <br/>
 <img src="Keeper_east.png" title="fig:\Keeper_east.png" alt="Keeper_east.png" width="100" />
+<img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
 <iframe
   width="560"
   height="315"
@@ -38,6 +39,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
   frameborder="0"
   allowfullscreen
 ></iframe>
+<img src="Keeper_east.png" title="fig:\Keeper_east.png" alt="Keeper_east.png" width="100" />
 <img src="Keeper_knight_female_west.png" title="fig:\Keeper_knight_female_west.png" align="right" alt="Keeper_knight_female_west.png" width="100" />
 <br/>
 <hr>
