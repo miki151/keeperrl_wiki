@@ -35,7 +35,7 @@ An indie RPG, giving you the role of a dark lord or dwarves, a feudal knight, go
 <br/>
 <hr>
 
-In a land tormented by siege, rally an army of champions, undead, or monsters. Build the dimly lit halls of a majestic dwarven mine. Be a lone hero rising from the ashes of ruin or reclaim the land with your knightly lineage. Capture beautiful or terrifying pets. Survive your rivals' minions. Gather loot, rings of power, magic potions, and strange mushrooms. Display the dark realities of warfare and survival. Face peril and fate's cruelty. Die a forgotten martyr or monster, or emerge as the conqueror of a starved kingdom, defying the dark god himself.
+In a land tormented by evil, rally an army of champions, undead, or monsters. Build the dimly lit halls of a majestic dwarven mine. Be a lone hero rising from the ashes of ruin or reclaim the land with your knightly lineage. Capture beautiful or terrifying pets. Survive your rivals' minions. Gather loot, rings of power, magic potions, and strange mushrooms. Display the dark realities of warfare and death. Face peril and fate's cruelty. Die a forgotten martyr or monster, or emerge as the conqueror of a desperate kingdom, defying the dark god himself.
 
 -   [The story so far...](/keeperrl_wiki/Historical_Mythos "wikilink")
 <hr>
