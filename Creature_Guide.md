@@ -6,8 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
-Here is a list of creatures extracted from the game-code in February
-2018; their descriptions are accurate but non-spoiler-y.
+Here is a list of creatures extracted from the game-code in February 2018; their descriptions are accurate but non-spoiler-y.
 
 [Abomination](/keeperrl_wiki/Abomination "wikilink")
 <img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
