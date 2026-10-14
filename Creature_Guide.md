@@ -6,7 +6,7 @@ layout: wiki
 
 [MainPage](/keeperrl_wiki/ "wikilink")>>[Creature](/keeperrl_wiki/Creature "wikilink")
 
-Here is a list of creatures extracted from the game-code in February 2018; their descriptions are accurate but non-spoiler-y.
+Here is a list of creatures extracted from the game-code in February 2018, and briefly rechecked in October 2026; their descriptions are accurate but, hopefully, non-spoiler-y.
 
 [Abomination](/keeperrl_wiki/Abomination "wikilink")
 <img src="/keeperrl_wiki/Abomination.png" title="fig:/keeperrlwiki/Abomination.png" alt="/keeperrl_wiki/Abomination.png" width="100" />
@@ -39,7 +39,7 @@ defeat them, are just that much more adamantine.
 ''They face the world alone and the glory is theirs alone.  But there's nothing wrong with checking up with friendly factions along the road to glory.
 
 [Air Elemental](/keeperrl_wiki/Air_Elemental "wikilink")
-<img src="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" title="fig:/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" alt="/keeperrl_wiki/Air_Elem/keeperrl_wiki/Ent.png" width="100" />
+<img src="/keeperrl_wiki/Air_Element.png" title="fig:/keeperrl_wiki/Air_Element/.png" alt="/keeperrl_wiki/Air_Element.png" width="100" />
 ''A deadly vortex of turbulent wind, commonly supporting Elementalists and occasionally found in dungeons.
 
 [Angel](/keeperrl_wiki/Angel "wikilink")
@@ -125,15 +125,15 @@ That said, cyclopes are not only fine candidates for conversion, but their brain
 '' Citizens of the dark elf caves found in the mountains.
 
 [Dark Elf Child](/keeperrl_wiki/Dark_Elf_Child "wikilink")
-<img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Kid.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Kid.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Kid.png" width="100" />
+<img src="/keeperrl_wiki/Dark_Elf_Kid.png" title="fig:/keeperrl_wiki/Dark_Elf_Kid.png" alt="/keeperrl_wiki/Dark_Elf_Kid.png" width="100" />
 '' The dark elves love their children too.
 
 [Dark Elf Lord](/keeperrl_wiki/Dark_Elf_Lord "wikilink")
-<img src="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" title="fig:/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" alt="/keeperrl_wiki/Dark_/keeperrl_wiki/Elf_Lord.png" width="100" />
+<img src="/keeperrl_wiki/Dark_Elf_Lord.png" title="fig:/keeperrl_wiki/Dark_Elf_Lord.png" alt="/keeperrl_wiki/Dark_Elf_Lord.png" width="100" />
 '' Lord of his caves; his elfbow and faster magic can pose a nasty surprise to Lawful keepers attacking the Dark Elves.
 
 [Dark Elf Warrior](/keeperrl_wiki/Dark_Elf_Warrior "wikilink")
-<img src="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" title="fig:/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" alt="/keeperrl_wiki/Dark_Elf_/keeperrl_wiki/Warrior.png" width="100" />
+<img src="/keeperrl_wiki/Dark_Elf_Warrior.png" title="fig:/keeperrl_wiki/Dark_Elf_Warrior.png" alt="/keeperrl_wiki/Dark_Elf_Warrior.png" width="100" />
 '' Defender of the dark elves.  Evil keepers may be able to recruit some for a price, but they don't seem to really excel in any particualr dungeon employment.
 
 [Death](/keeperrl_wiki/Death "wikilink")
@@ -164,8 +164,8 @@ dangerous than Angels.
 ''Woofums! Dogs are beloved of Lawful Keepers as well as the KeeperRL developer.  They can help out in melee combat, but should not be mistaken for high-end combat troops.
 
 [Donkey](/keeperrl_wiki/Donkey "wikilink")
-<img src="/keeperrl_wiki/Don/keeperrl_wiki/Key.png" title="fig:/keeperrl_wiki/Don/keeperrl_wiki/Key.png" alt="/keeperrl_wiki/Don/keeperrl_wiki/Key.png" width="100" />
-'' Farm animal and mount for Peasants; you could capture one if you can't find other steeds.
+<img src="/keeperrl_wiki/Donkey.png" title="fig:/keeperrl_wiki/Donkey.png" alt="/keeperrl_wiki/Donkey.png" width="100" />
+'' Farm animal and mount for Peasants; you could capture one if you can't find other steeds, though donkeys of themselves aren't known for their combat abilities.
 
 [Doppleganger](/keeperrl_wiki/Doppleganger "wikilink")
 <img src="/keeperrl_wiki/Doppleganger.png" title="fig:/keeperrl_wiki/Doppleganger.png" alt="/keeperrl_wiki/Doppleganger.png" width="100" />
@@ -215,7 +215,7 @@ When attacking dungeons, Elementalists have been known to stay well away from th
 ''Elven archers head up outlying elf settlements, and can be dangerous if found outdoors, as they're similarly good shots to the Driads.  However, they're generally the only combatant, so can be chased down.
 
 [Elf Child](/keeperrl_wiki/Elf_Child "wikilink")
-<img src="elf_/keeperrl_wiki/Child.png" title="fig:elf_/keeperrl_wiki/Child.png" alt="elf_/keeperrl_wiki/Child.png" width="100" />
+<img src="elf_Child.png" title="fig:elf_Child.png" alt="elf_Child.png" width="100" />
 ''Surface elves have children too!
 
 [Elf Lord](/keeperrl_wiki/Elf_Lord "wikilink")
@@ -223,19 +223,17 @@ When attacking dungeons, Elementalists have been known to stay well away from th
 ''Lord of the forest, and pairs high-powered elfbow with faster-magic staff.  With archer support, can be far more dangerous than the Dark Elf Lord.
 
 [Elven Archer](/keeperrl_wiki/Elven_Archer "wikilink")
-<img src="elf_/keeperrl_wiki/Archer.png" title="fig:elf_/keeperrl_wiki/Archer.png" alt="elf_/keeperrl_wiki/Archer.png" width="100" />
+<img src="elf_Archer.png" title="fig:elf_Archer.png" alt="elf_Archer.png" width="100" />
 ''Elven archers head up outlying elf settlements, and can be dangerous if found outdoors, as they're similarly good shots to the Driads.  However, they're generally the only combatant, so can be chased down.
 
 [Ent](/keeperrl_wiki/Ent "wikilink")
 
 *Phased out in favor of "tree spirits"*
 
-''These tree spirits can deal greivous damage if they make it to melee range.  However, they're slow, so even their arrow-resistance doesn't help too much; from time to
-time they'll let folks ride them, but sadly (for them) elven archers typically don't.  They're worth a considerable amount of lumber when felled, as well as
-the rare and useful Archwood.
+''These tree spirits can deal greivous damage if they make it to melee range.  However, they're slow, so even their arrow-resistance doesn't help too much; from time to time they'll let folks ride them, but sadly (for them) elven archers typically don't.  They're worth a considerable amount of lumber when felled, and the elder Ents may contain the rare and useful Archwood.
 
 [Eskimo](/keeperrl_wiki/Eskimo "wikilink")
-<img src="/keeperrl_wiki/&quot;eskimo&quot;.png" title="fig:/keeperrlwiki/&quot;eskimo&quot;.png" alt="/keeperrl_wiki/&quot;eskimo&quot;.png" width="100" />
+<img src="/keeperrl_wiki/eskimo.png" title="fig:/keeperrlwiki/eskimo.png" alt="/keeperrl_wiki/eskimo.png" width="100" />
 ''Some humans opt to live in the snowy biomes.  These are essentially peasants.
 
 [Eskimo Child](/keeperrl_wiki/Eskimo_Child "wikilink")
@@ -254,12 +252,11 @@ the rare and useful Archwood.
 
 [Fire Elemental](/keeperrl_wiki/Fire_Elemental "wikilink")
 <img src="/keeperrl_wiki/Fire_Elemental.png" title="fig:/keeperrl_wiki/Fire_Elemental.png" alt="/keeperrl_wiki/Fire_Elemental.png" width="100" />
-''Frequently found near lava and a threat to mining operations, but usually not a major concern to competent combat troops.  Wooden floors and construction, however, will burn like tinder!
+''Frequently found near lava and a threat to mining operations, but usually not a major concern to competent combat troops (provided they have not been armed wwith Infernite weaponry...).  Wooden floors and construction, however, will burn like tinder!
 
 [Fire Sphere](/keeperrl_wiki/Fire_Sphere "wikilink")
 <img src="/keeperrl_wiki/Fire_Sphere.png" title="fig:/keeperrl_wiki/Fire_Sphere.png" alt="/keeperrl_wiki/Fire_Sphere.png" width="100" />
 *Not encountered, as such, in vanilla Alpha36*
-''From magic spells
 
 [Fly](/keeperrl_wiki/Fly "wikilink")
 <img src="/keeperrl_wiki/Fly.png" title="fig:/keeperrl_wiki/Fly.png" alt="/keeperrl_wiki/Fly.png" width="100" />
@@ -300,7 +297,7 @@ tribal gatherings.
 
 [Halloween Kid](/keeperrl_wiki/Halloween_Kid "wikilink")
 <img src="/keeperrl_wiki/Halloween_Kid1.png" title="fig:/keeperrl_wiki/Halloween_Kid1.png" alt="/keeperrl_wiki/Halloween_Kid1.png" width="100" />
-*Halloween Kids are a seasonal encounter at best, and possibly dummied out altogether currently*
+*Halloween Kids are a seasonal encounter at best, and currently dummied out altogether*
 ''Trick or Treat?
 
 [Harpy](/keeperrl_wiki/Harpy "wikilink")
@@ -359,7 +356,7 @@ as good at mining as the larger folks, and they can't handle water by themselves
 
 [Lava Golem](/keeperrl_wiki/Lava_Golem "wikilink")
 <img src="/keeperrl_wiki/Lava_Golem.png" title="fig:/keeperrl_wiki/Lava_Golem.png" alt="/keeperrl_wiki/Lava_Golem.png" width="100" />
-''Fiery stone monster; much like the other golems, is so much salvage once killed.
+''Fiery stone monster; unlike the other golems, Lava Golems don't seem to leave much of use when destroyed.
 
 [Legendary Beast](/keeperrl_wiki/Legendary_Beast "wikilink")
 ''These fell creatures, typically bred as Steeds, are the result of debased demonic breeding programs.  They can be quite powerful, but usually have weaknesses as well.  Each individual is unique, so folks encountering them are best advised to study their opponent and fight accordingly.
@@ -379,8 +376,7 @@ programs, and similarly both powerful but flawed.
 
 [Lost Soul](/keeperrl_wiki/Lost_Soul "wikilink")
 <img src="/keeperrl_wiki/Ghost.png" title="fig:/keeperrl_wiki/Ghost.png" alt="/keeperrl_wiki/Ghost.png" width="100" />
-*Not encountered in vanilla Alpha36*
-''Woo!
+*Not encountered in vanilla Alpha36; see Ghost*
 
 [Minotaur](/keeperrl_wiki/Minotaur "wikilink")
 <img src="/keeperrl_wiki/Minotaur.png" title="fig:/keeperrl_wiki/Minotaur.png" alt="/keeperrl_wiki/Minotaur.png" width="100" />
@@ -389,11 +385,10 @@ Minotaurs are large enough that trained humans can ride on, and fight from, thei
 
 [Mummy](/keeperrl_wiki/Mummy "wikilink")
 <img src="/keeperrl_wiki/Mummy.png" title="fig:/keeperrl_wiki/Mummy.png" alt="/keeperrl_wiki/Mummy.png" width="100" />
-''Slow-moving, smelly, and top student of combat, being able to train for 50 levels.  Conversely, mummies are undead and share the common vulnerabilities of undead,
-in particular being unable to recover from injury.  One lucky shot is all it takes to cripple, if not outright destroy, them...
+''Slow-moving, smelly, and top student of combat, being able to train for 50 levels.  Conversely, mummies are undead and share the common vulnerabilities of undead.  One lucky shot is all it takes to cripple, if not outright destroy, them...but if granted a coffin befitting their status, they may well be able to rest and recuperate.
 
 [Nomad](/keeperrl_wiki/Nomad "wikilink")
-<img src="/keeperrl_wiki/&quot;nomad&quot;.png" title="fig:/keeperrlwiki/&quot;nomad&quot;.png" alt="/keeperrl_wiki/&quot;nomad&quot;.png" width="100" />
+<img src="/keeperrl_wiki/nomad.png" title="fig:/keeperrlwiki/nomad.png" alt="/keeperrl_wiki/nomad.png" width="100" />
 ''Those humans spread everywhere! Nomads are desert-dwelling humans.
 
 [Nomad Child](/keeperrl_wiki/Nomad_Child "wikilink")
@@ -408,19 +403,17 @@ in particular being unable to recover from injury.  One lucky shot is all it tak
 [Orc](/keeperrl_wiki/Orc "wikilink")
 <img src="/keeperrl_wiki/Orc.png" title="fig:/keeperrl_wiki/Orc.png" alt="/keeperrl_wiki/Orc.png" width="100" />
 *Phased out of vanilla Alpha36, in favor of expanded goblin troops*
-''Standard warrior minion
 
 [Orc Shaman](/keeperrl_wiki/Orc_Shaman "wikilink")
 <img src="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" title="fig:/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" alt="/keeperrl_wiki/Orc/keeperrl_wiki/Shaman.png" width="100" />
 *Phased out of vanilla Alpha36, in favor of expanded goblin troops*
-''Standard healer minion
 
 [Peasant](/keeperrl_wiki/Peasant "wikilink")
 *The alternate/mis-spelled "Peseant" is the correct unit in code terms*
 
 [Peseant](/keeperrl_wiki/Peseant "wikilink")
 <img src="/keeperrl_wiki/Peasant.png" title="fig:/keeperrl_wiki/Peasant.png" alt="/keeperrl_wiki/Peasant.png" width="100" />
-''Humans making an honest living farming the land.  There's no need to fight them, and any decently-equipped creature should be more than a match for these poor folks.
+''Humans making an honest living farming the land.  There's no need to fight them, and any decently-equipped creature should be more than a match for these poor folks. Castle Keepers routinely press them into service as workers, but being human, they can only carry so much, and must rest from time to time.
 
 [Pig](/keeperrl_wiki/Pig "wikilink")
 <img src="/keeperrl_wiki/Pig.png" title="fig:/keeperrl_wiki/Pig.png" alt="/keeperrl_wiki/Pig.png" width="100" />
@@ -492,7 +485,7 @@ is likewise a threat, so take the necessary precautions.
 
 [Soft Monster](/keeperrl_wiki/Soft_Monster "wikilink")
 <img src="/keeperrl_wiki/Softmonster.png" title="fig:/keeperrl_wiki/Softmonster.png" alt="/keeperrl_wiki/Softmonster.png" width="100" />
-''Rare “thing” that lives in dungeons.  Please treat as kindly as possible!
+''Rare beefy and lovable plush creature that lives in dungeons.  Please treat as kindly as possible!
 
 [Soldier Ant](/keeperrl_wiki/Soldier_Ant "wikilink")
 <img src="/keeperrl_wiki/Antw.png" title="fig:/keeperrl_wiki/Antw.png" alt="/keeperrl_wiki/Antw.png" width="100" />
@@ -519,7 +512,7 @@ is likewise a threat, so take the necessary precautions.
 ''An excellent melee fighter, but generally only encountered by Lawful Keepers...to whom he's a valuable ally.
 
 [The Duke](/keeperrl_wiki/The_Duke "wikilink")
-*Covered earlier as "Duke"
+*Covered earlier as "Duke"*
 
 [Thief](/keeperrl_wiki/Thief "wikilink")
 <img src="/keeperrl_wiki/Thief.png" title="fig:/keeperrlwiki/Thief.png" alt="/keeperrl_wiki/Thief.png" width="100" />
@@ -541,7 +534,6 @@ is likewise a threat, so take the necessary precautions.
 ''Undead minion, sun-vulnerable but able to regrow damaged limbs via its bite attack.
 
 [Vampire Lord](/keeperrl_wiki/Vampire_Lord "wikilink")
-<img src="vampirelord.png" title="fig:vampirelord.png" alt="vampirelord.png" width="100" />
 ''High-powered vampires with magical protection against sunlight.  Unfortunately, they require Keepers with particular focus on Necromancy to raise them.
 
 [Vulture](/keeperrl_wiki/Vulture "wikilink")
@@ -553,7 +545,7 @@ is likewise a threat, so take the necessary precautions.
 ''Tribal warriors who fight for their Shaman.  They have been known to channel the power of Cave Bears...
 
 [Water Elemental](/keeperrl_wiki/Water_Elemental "wikilink")
-<img src="waterelem/keeperrl_wiki/Ent.png" title="fig:waterelem/keeperrl_wiki/Ent.png" alt="waterelem/keeperrl_wiki/Ent.png" width="100" />
+<img src="waterelement.png" title="fig:waterelement.png" alt="waterelement.png" width="100" />
 ''Summoned near water, and a fair threat to mid-campaign Keepers.
 
 [Werewolf](/keeperrl_wiki/Werewolf "wikilink")
