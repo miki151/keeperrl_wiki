@@ -55,7 +55,7 @@ In a land tormented by evil, rally an army of champions, undead, or monsters. Bu
 <hr>
 Creature Guide
 <hr>
--   [ Partial List Of Creatures](/keeperrl_wiki/Creature/Creature_Guide "wikilink")               
+-   [ Partial List Of Creatures](/keeperrl_wiki/Creature_Guide "wikilink")               
 -   [Keepers](/keeperrl_wiki/Keeper "wikilink")                                          
 -   [Adventurers](/keeperrl_wiki/Adventurer "wikilink")                                  
 -   [Prisoner guide](/keeperrl_wiki/Creature/Prisoner_Guide "wikilink")
