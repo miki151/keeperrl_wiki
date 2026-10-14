@@ -1,6 +1,6 @@
 ---
-title: Creature Guide
-permalink: Creature_Guide/
+title: Creatures Guide
+permalink: Creatures_Guide/
 layout: wiki
 ---
 
